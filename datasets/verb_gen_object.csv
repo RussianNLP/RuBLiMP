@@ -1,0 +1,1001 @@
+id,source_sentence,target_sentence,source_word,target_word,level,phenomenon,PID,subtype,domain,tree_depth
+115579,Почему ты не вызвал солдат?,Почему ты не вызвал солдатами?,солдат,солдатами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+99902,А меня почему не взял?,А мной почему не взял?,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+63403,А колеса – даже не представляю.,А колесом – даже не представляю.,колеса,колесом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138838,Все ясно они ждут ночи.,Все ясно они ждут ночью.,ночи,ночью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+134484,Лусинда достаточно времени прожила в бедности.,Лусинда достаточно временем прожила в бедности.,времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+68221,Почему же Манон не замечала ее?,Почему же Манон не замечала ней?,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+90658,Мелис не отрывала глаз от поверхности.,Мелис не отрывала глазами от поверхности.,глаз,глазами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123313,И школа не подсказала им этого.,И школа не подсказала им этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+81360,Эсмонд и Лейле налил немного вина.,Эсмонд и Лейле налил немного вином.,вина,вином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+132655,И пожар его не возьмет.,И пожар им не возьмет.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+120244,"Ты ничего, головы не потерял?","Ты ничего, головой не потерял?",головы,головой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+116518,Глэдни уже не скрывал смеха.,Глэдни уже не скрывал смехом.,смеха,смехом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+126738,Здесь герцог ее не достанет.,Здесь герцог ней не достанет.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+85049,Ноги ее не чувствовали пола.,Ноги ее не чувствовали полом.,пола,полом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+126547,Не получил его я и сейчас.,Не получил им я и сейчас.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+98373,Хеден ожидает от нас именно этого.,Хеден ожидает от нас именно этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+117422,"А туда же, любви захотел!","А туда же, любовью захотел!",любви,любовью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+117859,"Я не видел души, Игрен...","Я не видел душой, Игрен...",души,душой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+97115,Опасений я не знал бы!,Опасениями я не знал бы!,Опасений,Опасениями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+80398,Разве вся земля Филдинга этого стоит?,Разве вся земля Филдинга этим стоит?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+118476,Но мы ее не допустим.,Но мы ней не допустим.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+106343,Вон их сколько сейчас стоит.,Вон ими сколько сейчас стоит.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+134693,Брэнд не дал Верене времени ответить.,Брэнд не дал Верене временем ответить.,времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+106830,Бо больше ее не слышал.,Бо больше ней не слышал.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+126259,Поэтому скала не приняла тебя.,Поэтому скала не приняла тобой.,тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+120689,И не признавал больше отца.,И не признавал больше отцом.,отца,отцом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+61859,Накса вытащила кляпы и ждала реакции.,Накса вытащила кляпы и ждала реакцией.,реакции,реакцией,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+126142,Даже ты не видел удара.,Даже ты не видел ударом.,удара,ударом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+71628,"Правда, пока этого не знает.","Правда, пока этим не знает.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+102067,А слов я не знаю.,А словами я не знаю.,слов,словами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+131306,Уорик не сделает ей предложения.,Уорик не сделает ей предложением.,предложения,предложением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+60045,Актер Менглет не гонял сам мяча.,Актер Менглет не гонял сам мячом.,мяча,мячом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+132083,Число потомков Хуннула достигало теперь сотни.,Число потомков Хуннула достигало теперь сотней.,сотни,сотней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+67304,Но настоящее не отпускало ее.,Но настоящее не отпускало ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+99042,Но доктор и этого не услышал.,Но доктор и этим не услышал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82008,Коль настоящей не возьмешь воды.,Коль настоящей не возьмешь водой.,воды,водой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123273,"Жилы тянул, кости рук отсекал.","Жилы тянул, кости руками отсекал.",рук,руками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+133958,Не только меня не понимают?,Не только мной не понимают?,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+92664,Сколько из них избежало кола?,Сколько из них избежало колом?,кола,колом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+109012,Весь сам он жаждет любви.,Весь сам он жаждет любовью.,любви,любовью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82595,Отведи этого обратно в камеру!,Отведи этим обратно в камеру!,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+135530,Лучше бы Бет этого не говорила.,Лучше бы Бет этим не говорила.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+80389,Джед тоже этого не любил.,Джед тоже этим не любил.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+104150,Ты всегда слишком много его требовала.,Ты всегда слишком много им требовала.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+64089,Или ждала инициативы от меня?,Или ждала инициативой от меня?,инициативы,инициативой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+119629,Фултон не обратил внимания на Ленаганов.,Фултон не обратил вниманием на Ленаганов.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+102946,Алек желал этого не меньше.,Алек желал этим не меньше.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+72078,И явно не забывал их.,И явно не забывал ими.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+124806,Да и вообще неба не видят.,Да и вообще небом не видят.,неба,небом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+131682,Но ведь Кефсе этого не понимал?,Но ведь Кефсе этим не понимал?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+66021,Никогда себе этого не прошу.,Никогда себе этим не прошу.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74421,Честно: она этого не видела!,Честно: она этим не видела!,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+96627,Онория достигла тени под нависающими скалами.,Онория достигла тенью под нависающими скалами.,тени,тенью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+110943,Этот кредит не стеснит нас.,Этот кредит не стеснит нами.,нас,нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81903,Вскоре Чжу Ба-цзе достиг воды.,Вскоре Чжу Ба-цзе достиг водой.,воды,водой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+83696,Она совершенно не чувствует дороги.,Она совершенно не чувствует дорогой.,дороги,дорогой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+100923,И не простит этого тебе.,И не простит этим тебе.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+69603,Тогда уж воли не увидишь.,Тогда уж волей не увидишь.,воли,волей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+103841,Если уже не продал его.,Если уже не продал им.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+136525,Роберт склонил голову и ждал вопроса.,Роберт склонил голову и ждал вопросом.,вопроса,вопросом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+75726,Джек не понял ни слова.,Джек не понял ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+62966,Ваш отец сам искал помощи.,Ваш отец сам искал помощью.,помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+138238,Но сын уже этого не слышал.,Но сын уже этим не слышал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+131305,И никогда не сделает ей предложения.,И никогда не сделает ей предложением.,предложения,предложением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+117811,"Мак Канн, заранее прошу прощения.","Мак Канн, заранее прошу прощением.",прощения,прощением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111429,Александр тоже не причинил ей зла.,Александр тоже не причинил ей злом.,зла,злом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+137694,А этого они не найдут долго.,А этим они не найдут долго.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+137141,Но я не смогу этого одна.,Но я не смогу этим одна.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+71496,Я только крови много потерял.,Я только кровью много потерял.,крови,кровью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+66775,Шект не испытывал его на людях?,Шект не испытывал им на людях?,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+110614,Он не вынес пути до Мэдисона.,Он не вынес путем до Мэдисона.,пути,путем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+118880,Больше я не видел записки.,Больше я не видел запиской.,записки,запиской,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+133563,Она просто меры не знает.,Она просто мерой не знает.,меры,мерой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+87888,Я не принес миру пользы.,Я не принес миру пользой.,пользы,пользой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+130642,Рис никогда ее не поймет.,Рис никогда ней не поймет.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+110715,Скай так и не решила этого.,Скай так и не решила этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+121570,Ро не сказал больше ни слова.,Ро не сказал больше ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+96038,Но почему не понимает этого хан?,Но почему не понимает этим хан?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+93628,Но вы тоже творили жестокости!,Но вы тоже творили жестокостью!,жестокости,жестокостью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+70809,Иначе Макс не выпускал ее.,Иначе Макс не выпускал ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+73604,А похоть не требует брака.,А похоть не требует браком.,брака,браком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+122244,Я сегодня новостей еще не смотрел.,Я сегодня новостями еще не смотрел.,новостей,новостями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+102883,Коннор никогда не играл ее прежде.,Коннор никогда не играл ней прежде.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+14235,Ведь лотка птица не признает.,Ведь лотком птица не признает.,лотка,лотком,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+4843,Этого ждут от нас жители.,Этим ждут от нас жители.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+15413,КОХ: Я этого не говорил.,КОХ: Я этим не говорил.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+2945,А Канга этого не делает.,А Канга этим не делает.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+46,А Морарь его даже не видела.,А Морарь им даже не видела.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+5913,Однако им слова не дали.,Однако им словом не дали.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+12495,По отлетам данных не имеем.,По отлетам данными не имеем.,данных,данными,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+12209,"Вообще, карты много жизней унесли.","Вообще, карты много жизнями унесли.",жизней,жизнями,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+10724,"Честное слово, не видел игрока.","Честное слово, не видел игроком.",игрока,игроком,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+4638,Радимов: лимит не давал эффекта.,Радимов: лимит не давал эффектом.,эффекта,эффектом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+2405,И даже не забили голов.,И даже не забили голами.,голов,голами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+14857,А так хоть налогов соберут.,А так хоть налогами соберут.,налогов,налогами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+11900,Пиняев еще не набрал физики.,Пиняев еще не набрал физикой.,физики,физикой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+20248,Разве не дал бы весточки?,Разве не дал бы весточкой?,весточки,весточкой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+7908,То есть грубо не соблюдают ее.,То есть грубо не соблюдают ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+4271,Мага подтирает комментарии и избегает боя.,Мага подтирает комментарии и избегает боем.,боя,боем,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+9218,И тут Семенов дал стране угля.,И тут Семенов дал стране углем.,угля,углем,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+23121,Однако ранее никто гроба не видел.,Однако ранее никто гробом не видел.,гроба,гробом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+8036,К Оюбу Титиеву не пускают адвокатов.,К Оюбу Титиеву не пускают адвокатами.,адвокатов,адвокатами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+18366,Родители сейчас ждут от школы волшебства.,Родители сейчас ждут от школы волшебством.,волшебства,волшебством,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+23115,Самому Лауберу эти встречи стоили должности.,Самому Лауберу эти встречи стоили должностью.,должности,должностью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+15040,Ведь сам жест не решит проблемы.,Ведь сам жест не решит проблемой.,проблемы,проблемой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+1199,Долго ждут от нее побед.,Долго ждут от нее победами.,побед,победами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+22785,Пока они результатов не дали.,Пока они результатами не дали.,результатов,результатами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+23112,Лев тоже ее не подготовил?,Лев тоже ней не подготовил?,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+5559,Я не видел там жизни.,Я не видел там жизнью.,жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+14215,Но вы ее ничем не обнаружили.,Но вы ней ничем не обнаружили.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+20650,Ответа от Вепхвадзе он не услышал.,Ответом от Вепхвадзе он не услышал.,Ответа,Ответом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+13581,Никто их не считал просто.,Никто ими не считал просто.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+14889,Но никто пока этого не обобщил.,Но никто пока этим не обобщил.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+14227,Он на этом получает немало плюсов.,Он на этом получает немало плюсами.,плюсов,плюсами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+21998,Нас генерал не просил о таком.,Нами генерал не просил о таком.,Нас,Нами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+8047,Ты достиг вершины путем обмана.,Ты достиг вершиной путем обмана.,вершины,вершиной,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+10109,Назначала работы и судья Гейгер.,Назначала работой и судья Гейгер.,работы,работой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+13230,Что меня просто не хотят.,Что мной просто не хотят.,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+18324,Теперь Бильжо ждет от коммунистов объяснений.,Теперь Бильжо ждет от коммунистов объяснениями.,объяснений,объяснениями,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+15882,Родина победительницы не играет значения.,Родина победительницы не играет значением.,значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+13284,Так что брака мы много лепили!,Так что браком мы много лепили!,брака,браком,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+4441,Данный инцидент не добавил ему вистов.,Данный инцидент не добавил ему вистами.,вистов,вистами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+17731,Подал документы и ждешь дома результатов.,Подал документы и ждешь дома результатами.,результатов,результатами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+2302,Однако права у Иераха не отобрали.,Однако правом у Иераха не отобрали.,права,правом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+16149,Одако стороны пока не достигли соглашения.,Одако стороны пока не достигли соглашением.,соглашения,соглашением,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+9289,Да власть ее даже не замечает.,Да власть ней даже не замечает.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,1
+26765,Эти последние не поняли маневра.,Эти последние не поняли маневром.,маневра,маневром,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+41350,Сам Турно едва избежал пленения.,Сам Турно едва избежал пленением.,пленения,пленением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+39329,Относительно Канар Рим не принял решения.,Относительно Канар Рим не принял решением.,решения,решением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+46558,Успех Марч не принес ей состояния.,Успех Марч не принес ей состоянием.,состояния,состоянием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+34393,В общем Пахиподиумы имеют немного ветвей.,В общем Пахиподиумы имеют немного ветвями.,ветвей,ветвями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+37363,Однако Кабила не оправдал надежд.,Однако Кабила не оправдал надеждами.,надежд,надеждами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+45608,Заключения избежал только Пак Ду Ик.,Заключением избежал только Пак Ду Ик.,Заключения,Заключением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+54021,Аддо в турнире участия не принял.,Аддо в турнире участием не принял.,участия,участием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+36052,Образа написал художник Мина Колокольников.,Образом написал художник Мина Колокольников.,Образа,Образом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+59414,Там нас никто не знал.,Там нами никто не знал.,нас,нами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+56246,Сам Терборх не дал картине названия.,Сам Терборх не дал картине названием.,названия,названием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+52237,Не получили мест ПСТ и СДПР.,Не получили местами ПСТ и СДПР.,мест,местами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+58824,И смерть испытывает человека на жизнь.,И смерть испытывает человеком на жизнь.,человека,человеком,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+34113,Мангонели и баллисты изменений не претерпели.,Мангонели и баллисты изменениями не претерпели.,изменений,изменениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+39482,Последние два года картин не писал.,Последние два года картинами не писал.,картин,картинами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+23574,Командир Хантавади едва избежал бойни.,Командир Хантавади едва избежал бойней.,бойни,бойней,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+49338,Номеров книги серии не имели.,Номерами книги серии не имели.,Номеров,Номерами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+33595,После этого Илальди попросил помощи Давуда.,После этого Илальди попросил помощью Давуда.,помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+26874,Петр только и ждал этого.,Петр только и ждал этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+47309,Пули будто не брали его.,Пули будто не брали им.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+40582,А те в Дно ожидали отправки.,А те в Дно ожидали отправкой.,отправки,отправкой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+34228,Ее мировые сборы составили долларов.,Ее мировые сборы составили долларами.,долларов,долларами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+45319,Пол художницы не занимал критиков.,Пол художницы не занимал критиками.,критиков,критиками,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+28708,Часто он их не датировал.,Часто он ими не датировал.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+38311,Но поиски последнего результатов не дали.,Но поиски последнего результатами не дали.,результатов,результатами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+56913,После историки не вели записей.,После историки не вели записями.,записей,записями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+35896,Портрет вызвал у Маркс много вопросов.,Портрет вызвал у Маркс много вопросами.,вопросов,вопросами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+49479,Однако Аретино не нашел последователей.,Однако Аретино не нашел последователями.,последователей,последователями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+38708,Задний край пропленр не имеет выемки.,Задний край пропленр не имеет выемкой.,выемки,выемкой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+59427,Печеви не восхваляет шаха напрямую.,Печеви не восхваляет шахом напрямую.,шаха,шахом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+43203,Александр же хочет только покоя.,Александр же хочет только покоем.,покоя,покоем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+34540,Врачи не придавали внимания творчеству Редлера.,Врачи не придавали вниманием творчеству Редлера.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+27745,Но автор этого не дает.,Но автор этим не дает.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+51868,Гэммайтя содержит очень мало кофеина.,Гэммайтя содержит очень мало кофеином.,кофеина,кофеином,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+32014,Кавагоэ же не писал песен.,Кавагоэ же не писал песнями.,песен,песнями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+29101,Однако большинства движение не получило.,Однако большинством движение не получило.,большинства,большинством,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+52481,Столба я ловил бы без вопросов.,Столбом я ловил бы без вопросов.,Столба,Столбом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+26354,Есида снова попросил помощи у Черни.,Есида снова попросил помощью у Черни.,помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+32463,Это вызвало в партии брожения.,Это вызвало в партии брожением.,брожения,брожением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+53451,Френология по Галлю не получила развития.,Френология по Галлю не получила развитием.,развития,развитием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+26016,Однако не оказал Дюмануару поддержки.,Однако не оказал Дюмануару поддержкой.,поддержки,поддержкой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+27208,Ваю тоже не находит ответа.,Ваю тоже не находит ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+56178,Бюджет фильма составлял примерно долларов.,Бюджет фильма составлял примерно долларами.,долларов,долларами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+35683,Кунин а я желаю Вам счастья.,Кунин а я желаю Вам счастьем.,счастья,счастьем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+43651,Шленский тоже не принял бы меня.,Шленский тоже не принял бы мной.,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+53666,Однако информации он не получил.,Однако информацией он не получил.,информации,информацией,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+24925,Но осенним листопадом Зашуршали лета дни.,Но осенним листопадом Зашуршали летом дни.,лета,летом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+44844,"Сжег деревню, трое достигают пещеры.","Сжег деревню, трое достигают пещерой.",пещеры,пещерой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+55618,Но цифр он не приводит.,Но цифрами он не приводит.,цифр,цифрами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+39707,Эго ищет поддержки в себе.,Эго ищет поддержкой в себе.,поддержки,поддержкой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+46508,Однако проект развития не получил.,Однако проект развитием не получил.,развития,развитием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+23748,Гарбуз и Годяк жалоб не подавали.,Гарбуз и Годяк жалобами не подавали.,жалоб,жалобами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+39387,Но никогда их не берег.,Но никогда ими не берег.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,1
+67848,Веб опять не сказал ему ни слова.,Веб опять не сказал ему ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+120135,"Хайонвата, казалось, не слышал меня.","Хайонвата, казалось, не слышал мной.",меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+107685,"Тем более, брак добавит ему преимуществ.","Тем более, брак добавит ему преимуществами.",преимуществ,преимуществами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+83627,"Но маски не снимает, удар держит.","Но маской не снимает, удар держит.",маски,маской,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+59820,"Один ждал наград, другой – повышения.","Один ждал наградами, другой – повышения.",наград,наградами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+104850,А вы и полка больше не касаемы?,А вы и полком больше не касаемы?,полка,полком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95864,"Конечно, Алекс ее еще не ждет.","Конечно, Алекс ней еще не ждет.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+128123,"Унаги, конечно, этого не увидел.","Унаги, конечно, этим не увидел.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+127445,"Ах, как Кладрон их не любил!","Ах, как Кладрон ими не любил!",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+63026,Но как раз этого Тим не мог.,Но как раз этим Тим не мог.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+98533,Луз никогда в жизни не получала писем.,Луз никогда в жизни не получала письмами.,писем,письмами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+109193,"Мой Карлос, я не знала вас!","Мой Карлос, я не знала вами!",вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+108672,Ниакар не обратил на грубость друга внимания.,Ниакар не обратил на грубость друга вниманием.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+136471,Торольд Рендал не отводил от нее глаз.,Торольд Рендал не отводил от нее глазами.,глаз,глазами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+124771,"Таргитай слез, как всегда, последним.","Таргитай слезами, как всегда, последним.",слез,слезами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+78210,"Коли стекла вышибет, потопнем как котята!","Коли стеклом вышибет, потопнем как котята!",стекла,стеклом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+112301,Учеба Геро вызывала немало толков в семье.,Учеба Геро вызывала немало толками в семье.,толков,толками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+75035,"Взор повело, похоже, передышала кислорода.","Взор повело, похоже, передышала кислородом.",кислорода,кислородом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+76692,И всей опасности его себе не представляете.,И всей опасности им себе не представляете.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+74362,Ринорук даже не обратил на это внимания.,Ринорук даже не обратил на это вниманием.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82382,На которую Бекас не обратил никого внимания.,На которую Бекас не обратил никого вниманием.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+88928,Неужели это Дери и его лишили рук?,Неужели это Дери и его лишили руками?,рук,руками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+59955,Но Мэмон и Рехницер не теряли надежды.,Но Мэмон и Рехницер не теряли надеждой.,надежды,надеждой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+80776,"Не потому, что тот этого ждет.","Не потому, что тот этим ждет.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+68620,"Казалось, Эйкен совершенно этого не замечал.","Казалось, Эйкен совершенно этим не замечал.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+71228,На сей раз слова Алекс достигли цели.,На сей раз слова Алекс достигли целью.,цели,целью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+83193,"Кто красавицы жаждет, не считает калыма.","Кто красавицей жаждет, не считает калыма.",красавицы,красавицей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+99687,И за возраст здания скидок не делаем.,И за возраст здания скидками не делаем.,скидок,скидками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+120416,"Может, жизнь вообще не меняет направления.","Может, жизнь вообще не меняет направлением.",направления,направлением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+91006,Мы ждем друг от друга не бесед.,Мы ждем друг от друга не беседами.,бесед,беседами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+108779,Почему же он не может этого здесь?,Почему же он не может этим здесь?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+105634,"Ферз лежал, не издавая ни звука.","Ферз лежал, не издавая ни звуком.",звука,звуком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+69941,Или что их смерть этого Рема отрезвила.,Или что их смерть этим Рема отрезвила.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+77854,"Ах, ты этого. не поймешь.","Ах, ты этим. не поймешь.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+99462,"Макенна молча ждал продолжения, стиснув зубы.","Макенна молча ждал продолжением, стиснув зубы.",продолжения,продолжением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+90477,Этого интересует только золото и Джейн Макгуайр.,Этим интересует только золото и Джейн Макгуайр.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+123092,"Нет, Париж более не узнает голода.","Нет, Париж более не узнает голодом.",голода,голодом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+116139,Сам ты еще даже запонки не снял.,Сам ты еще даже запонкой не снял.,запонки,запонкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+61886,Накса ожидала неприятностей и с этой стороны.,Накса ожидала неприятностями и с этой стороны.,неприятностей,неприятностями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+127989,Ведь ты еще совсем не видела города.,Ведь ты еще совсем не видела городом.,города,городом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123938,Однако ничто сейчас и не таило зла.,Однако ничто сейчас и не таило злом.,зла,злом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+137532,Ответ прост: судья этого не делал.,Ответ прост: судья этим не делал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+101317,Концепция пола или стены не подразумевает количества.,Концепция пола или стены не подразумевает количеством.,количества,количеством,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+115286,Но Дирдре далеко и не слышит ее.,Но Дирдре далеко и не слышит ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+124232,Разве я тебе никогда градусника не ставил?,Разве я тебе никогда градусником не ставил?,градусника,градусником,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+127576,На этот раз Дэл не ждал ответа.,На этот раз Дэл не ждал ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+116906,Только не знаешь этого про самого себя.,Только не знаешь этим про самого себя.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+68964,Поселить Эйси на ранчо проблемы не составляло.,Поселить Эйси на ранчо проблемой не составляло.,проблемы,проблемой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+124429,Починка рубашки Тини ничем не выдаст ее.,Починка рубашки Тини ничем не выдаст ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+133538,А против Юстинки Кароль ничего не имел.,А против Юстинки Кароль ничем не имел.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+94747,А как начет рубинов или Ван Гога?,А как начет рубинами или Ван Гога?,рубинов,рубинами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+82019,"Не зная милости, забыв о снисхожденье?","Не зная милостью, забыв о снисхожденье?",милости,милостью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+79974,Но Мэв никогда ему этого не простит.,Но Мэв никогда ему этим не простит.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+112292,"Ища поддержки, Геро взглянула на Дамиана.","Ища поддержкой, Геро взглянула на Дамиана.",поддержки,поддержкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+99440,Дерри уже много месяцев не пробоала молока.,Дерри уже много месяцев не пробоала молоком.,молока,молоком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+72676,Но смотреть остальные просто не имело смысла.,Но смотреть остальные просто не имело смыслом.,смысла,смыслом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+115214,"А этого я не знаю, Мортилия.","А этим я не знаю, Мортилия.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+129767,Он ничего не знал и о Брикотис.,Он ничем не знал и о Брикотис.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+134471,Накануне вечером Джек не представил ее слугам.,Накануне вечером Джек не представил ней слугам.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+115779,"Авги Тернбул поднял руки, требуя внимания.","Авги Тернбул поднял руки, требуя вниманием.",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+118435,А информации шло море со всего мира.,А информацией шло море со всего мира.,информации,информацией,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81511,"Кстати, Ян еще не потерял нас?","Кстати, Ян еще не потерял нами?",нас,нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+110408,Рис даже не оторвал взгляда от бумаг.,Рис даже не оторвал взглядом от бумаг.,взгляда,взглядом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+136429,Тори ему ни когда этого не позволят.,Тори ему ни когда этим не позволят.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+112812,Сидни в жизни не встречала человека опаснее.,Сидни в жизни не встречала человеком опаснее.,человека,человеком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+93200,"Хэнок отыскал того, кто подкупил пиктов.","Хэнок отыскал того, кто подкупил пиктами.",пиктов,пиктами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+102511,"Видишь на воде рябины, вон там?","Видишь на воде рябиной, вон там?",рябины,рябиной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+129391,Машин на верхней дороге Гвин не увидела.,Машинами на верхней дороге Гвин не увидела.,Машин,Машинами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+126219,"Вегги, так и не достиг цели.","Вегги, так и не достиг целью.",цели,целью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138139,Но черновика автор так и не перебелил.,Но черновиком автор так и не перебелил.,черновика,черновиком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+85978,Еще старание – и он достиг окна!,Еще старание – и он достиг окном!,окна,окном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+121822,Гребут механически — я их не чувствую.,Гребут механически — я ими не чувствую.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82508,Сгорел прямо лекарь: правда глаз колет.,Сгорел прямо лекарь: правда глазами колет.,глаз,глазами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+60048,Жорик на Гафины прыжки не обращал внимания.,Жорик на Гафины прыжки не обращал вниманием.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+75449,"Где чувства светит свет, смирением взлелеян.","Где чувством светит свет, смирением взлелеян.",чувства,чувством,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+125449,Нэнси больше ничего не спросила про Яна.,Нэнси больше ничем не спросила про Яна.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67671,Веб опять не сказал ей ни слова.,Веб опять не сказал ей ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+136928,"Ту ее часть, которая грозы жаждет.","Ту ее часть, которая грозой жаждет.",грозы,грозой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+138578,Осташа никогда не видал скал без реки.,Осташа никогда не видал скалами без реки.,скал,скалами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+69192,Носи их оба: оба ведь твои.,Носи ими оба: оба ведь твои.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+95155,"Не пойдешь добром, сейчас кликнем стражников.","Не пойдешь добром, сейчас кликнем стражниками.",стражников,стражниками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+105240,"Джада обняла ее, не скрывала слез.","Джада обняла ее, не скрывала слезами.",слез,слезами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+74022,"Уже ночь, масла нигде не купишь.","Уже ночь, маслом нигде не купишь.",масла,маслом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+9945,Не стоит вопроса и интеграции в состав.,Не стоит вопросом и интеграции в состав.,вопроса,вопросом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+21215,"Они что, - не видят рисков?","Они что, - не видят рисками?",рисков,рисками,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+23238,Вот на Сахарова я этого не поняла...,Вот на Сахарова я этим не поняла...,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+21040,Борьба Андраде для Валентины опасности не представляет.,Борьба Андраде для Валентины опасностью не представляет.,опасности,опасностью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+13042,Перечислить всех птиц не хватит и газеты.,Перечислить всех птиц не хватит и газетой.,газеты,газетой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+2375,В землянке девочек уже ждал его отец.,В землянке девочками уже ждал его отец.,девочек,девочками,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+4799,"Кстати, долга ему пока не отдал.","Кстати, долгом ему пока не отдал.",долга,долгом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+19552,"Датаева, напротив, вины не признала.","Датаева, напротив, виной не признала.",вины,виной,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+17026,Дом Мурузи — Я проблемы не вижу.,Дом Мурузи — Я проблемой не вижу.,проблемы,проблемой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+3712,Рапорта в обоих городах писали при задержанном.,Рапортом в обоих городах писали при задержанном.,Рапорта,Рапортом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+19411,Только наш Як-9 имел их больше десяти.,Только наш Як-9 имел ими больше десяти.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+16727,Ее не могли закончилось почти четыре года.,Ней не могли закончилось почти четыре года.,Ее,Ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+34011,Помимо обычных рубрик журнал не использовал подписи.,Помимо обычных рубрик журнал не использовал подписью.,подписи,подписью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+51745,При этом ранг человека не имел значения.,При этом ранг человека не имел значением.,значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+47553,"Нарастив достаточно власти, Амон стал действовать.","Нарастив достаточно властью, Амон стал действовать.",власти,властью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+39894,О претуре Марка источники ничего не сообщают.,О претуре Марка источники ничем не сообщают.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+44169,По сообщениям СМИ земли Керимову продал Рубинер.,По сообщениям СМИ землей Керимову продал Рубинер.,земли,землей,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+32529,"Однако, они не дали определения группе.","Однако, они не дали определением группе.",определения,определением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+33259,Частей солдат Оси совершили самоубийства из отчаяния.,Частей солдат Оси совершили самоубийством из отчаяния.,самоубийства,самоубийством,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+30048,Третий — Христо Матов случайно избежал смерти.,Третий — Христо Матов случайно избежал смертью.,смерти,смертью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+25101,Всего за годы войны Степанищев совершил вылета.,Всего за годы войны Степанищев совершил вылетом.,вылета,вылетом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+37512,"Сора — единственная, кто видела Духа.","Сора — единственная, кто видела Духом.",Духа,Духом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+43898,Но такое поведение не удовлетворяло более сената.,Но такое поведение не удовлетворяло более сенатом.,сената,сенатом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+55534,Правительство делах школы участия практически не принимает.,Правительство делах школы участием практически не принимает.,участия,участием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+56793,По существу эти песни тактов не знают.,По существу эти песни тактами не знают.,тактов,тактами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+47564,Друк Деси безуспешно просил помощи у Чэнгуана.,Друк Деси безуспешно просил помощью у Чэнгуана.,помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+32511,Окрас же другого родителя не имеет значения.,Окрас же другого родителя не имеет значением.,значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+45969,Ли ничего не ответил на это письмо.,Ли ничем не ответил на это письмо.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+49160,Хуана даже попросила разрешения удалится в Аверсу.,Хуана даже попросила разрешением удалится в Аверсу.,разрешения,разрешением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+30789,Серебро — Я тебя не отдам 5.,Серебро — Я тобой не отдам 5.,тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+53852,"Это ""я"" не принимает жизни.","Это ""я"" не принимает жизнью.",жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+44964,"Однако, поведение иний этого не подтверждает.","Однако, поведение иний этим не подтверждает.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+28727,"Шрикантадатта Водеяр скончался, не отставив наследника.","Шрикантадатта Водеяр скончался, не отставив наследником.",наследника,наследником,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+41561,Матагу так и не находит себе подруги.,Матагу так и не находит себе подругой.,подруги,подругой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+48710,Прием НПВП и габапентина не показывают эффективности.,Прием НПВП и габапентина не показывают эффективностью.,эффективности,эффективностью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+30793,Шары бочче сферичны и не имеют отверстий.,Шары бочче сферичны и не имеют отверстиями.,отверстий,отверстиями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+51559,Бекен Жамакаев оставил после себя немного песен.,Бекен Жамакаев оставил после себя немного песнями.,песен,песнями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+53453,Перед этим последние четыре выпуска гонки выигрывала.,Перед этим последние четыре выпуска гонкой выигрывала.,гонки,гонкой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+83584,У Мелии хватило ума не упоминать Дороти Хилмэн.,У Мелии хватило умом не упоминать Дороти Хилмэн.,ума,умом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+123991,Оно не издавало ни звука Но все кони точно взбесились.,Оно не издавало ни звуком Но все кони точно взбесились.,звука,звуком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+132054,Только Кьерла да Мать Вилла не выразили удивления.,Только Кьерла да Мать Вилла не выразили удивлением.,удивления,удивлением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+131700,"Ведь он тоже считал, что желает добра Олаву.","Ведь он тоже считал, что желает добром Олаву.",добра,добром,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67315,Кейт – вся внимание – не пропустила ни слова.,Кейт – вся внимание – не пропустила ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+130256,"Хотя, верно, и не понимал этого.","Хотя, верно, и не понимал этим.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+136281,"Ее отслужит наш новый друг, отец Каррамадино.","Ней отслужит наш новый друг, отец Каррамадино.",Ее,Ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+70777,"Патрик греб как шальной, не говоря ни слова.","Патрик греб как шальной, не говоря ни словом.",слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+63228,Австриец флага не сшиб и честно привез серебро.,Австриец флагом не сшиб и честно привез серебро.,флага,флагом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+139017,И теперь вот уже пятый месяц ждал суда в Орде.,И теперь вот уже пятый месяц ждал судом в Орде.,суда,судом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+109043,Даже упоминание об Этель Питерс не испортило Танзи настроения.,Даже упоминание об Этель Питерс не испортило Танзи настроением.,настроения,настроением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+127098,"Алан понятия не имеет, какой привлекательной может быть Эдива.","Алан понятием не имеет, какой привлекательной может быть Эдива.",понятия,понятием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+70554,"Она принесла воска, и скоро душа Худосокова был запечатана.","Она принесла воском, и скоро душа Худосокова был запечатана.",воска,воском,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+95174,"А когда он вернулся, – не замесил мальчик теста.","А когда он вернулся, – не замесил мальчик тестом.",теста,тестом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+125737,"Я знала только, что желаю Шуаселю провала.","Я знала только, что желаю Шуаселю провалом.",провала,провалом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+134095,"А сама даже понятия не имею, что ей надо.","А сама даже понятием не имею, что ей надо.",понятия,понятием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+74432,Эти (создания) уже более не почитают нас!,Эти (создания) уже более не почитают нами!,нас,нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+60061,Олег бананов не попробовал и больше у Вали не появлялся!,Олег бананами не попробовал и больше у Вали не появлялся!,бананов,бананами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+131625,В Скаре дело обсудили серьезно и попросили совета у ярла.,В Скаре дело обсудили серьезно и попросили советом у ярла.,совета,советом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+95135,И тогда я уже не узнаю Ответа но новый Вопрос!,И тогда я уже не узнаю Ответом но новый Вопрос!,Ответа,Ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+76740,Там ждет отправки эшелон: отборная венгерская часть.,Там ждет отправкой эшелон: отборная венгерская часть.,отправки,отправкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+122452,Ты даже для Генки и Назира редко исключения делаешь.,Ты даже для Генки и Назира редко исключением делаешь.,исключения,исключением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+122297,"Андрей молча ел, невзгоды не убили аппетита.","Андрей молча ел, невзгоды не убили аппетитом.",аппетита,аппетитом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81047,Поэтому в доме Харгейтов письмо не вызвало паники.,Поэтому в доме Харгейтов письмо не вызвало паникой.,паники,паникой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+108962,Сам я ни за что бы тебе не написал их.,Сам я ни за что бы тебе не написал ими.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+90079,"Поверь мне, Марк, Хитер тебя не стоила.","Поверь мне, Марк, Хитер тобой не стоила.",тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+108881,Его Ферн при всей доброте Саманте не отдаст.,Им Ферн при всей доброте Саманте не отдаст.,Его,Им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+86731,"Смотри, Темный, ибо ты этого хотел.","Смотри, Темный, ибо ты этим хотел.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+122310,Хотя среди живых Генка труса никогда не праздновал.,Хотя среди живых Генка трусом никогда не праздновал.,труса,трусом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+93542,А попробуй не полей хотя бы день при нашей жаре!,А попробуй не полями хотя бы день при нашей жаре!,полей,полями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+61902,"Красивый ""торнадо"" добера не достиг цели.","Красивый ""торнадо"" добера не достиг целью.",цели,целью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+93061,Дэймон ждал именно этого – Соланж разделяет его желание...,Дэймон ждал именно этим – Соланж разделяет его желание...,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+134170,А вообще Капильский на нее внимания не обращал.,А вообще Капильский на нее вниманием не обращал.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123795,"Кеплиан, конечно, в ее занятиях участия не принимали.","Кеплиан, конечно, в ее занятиях участием не принимали.",участия,участием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+75162,Мирский расхохотался – Нас друг другу не представили.,Мирский расхохотался – Нами друг другу не представили.,Нас,Нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+69634,На это я проста — копейки не возьму.,На это я проста — копейкой не возьму.,копейки,копейкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+130483,Он не закончил фразы и странно обмяк под руками Риго.,Он не закончил фразой и странно обмяк под руками Риго.,фразы,фразой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+75885,"И сластей не получишь, – сказала Джордж.","И сластями не получишь, – сказала Джордж.",сластей,сластями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+103789,"Артур не сделал ничего, чтобы спровоцировать вызов Ридеалша.","Артур не сделал ничем, чтобы спровоцировать вызов Ридеалша.",ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+78094,"Кто конкретно явится, Филип не имел понятия.","Кто конкретно явится, Филип не имел понятием.",понятия,понятием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+66964,"Казалось даже, что Бабел вообще не имеет будущего.","Казалось даже, что Бабел вообще не имеет будущем.",будущего,будущем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+133160,Но Кап и не ждал от него ответа.,Но Кап и не ждал от него ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+118570,Зачем Москва там много тратит электричества на освещение?,Зачем Москва там много тратит электричеством на освещение?,электричества,электричеством,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+89234,Я уже сказал тебе: Лемань не знает пощады.,Я уже сказал тебе: Лемань не знает пощадой.,пощады,пощадой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111381,"Степени Здаргу не присудили, но работу начать удалось.","Степенью Здаргу не присудили, но работу начать удалось.",Степени,Степенью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+77899,"Пиры позабыл он, не ждет он гостей...","Пиры позабыл он, не ждет он гостями...",гостей,гостями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+64906,Уже через три шага ее уровень достиг ему пояса.,Уже через три шага ее уровень достиг ему поясом.,пояса,поясом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+89394,"Удар достиг мозга, и Перш мгновенно умер.","Удар достиг мозгом, и Перш мгновенно умер.",мозга,мозгом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123105,Разве не брал он города с единого приступа?,Разве не брал он городом с единого приступа?,города,городом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67497,Вообще ничего не сказал? — спросил Конни.,Вообще ничем не сказал? — спросил Конни.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+69653,"Один побежишь искать, тогда вовсе ее больше не увидишь.","Один побежишь искать, тогда вовсе ней больше не увидишь.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+104340,Но вдруг Мэлгвин не обратил внимания на ее письмо?,Но вдруг Мэлгвин не обратил вниманием на ее письмо?,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+125337,"Земли возьму чуток: куда мне больше, старику?","Землей возьму чуток: куда мне больше, старику?",Земли,Землей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+124774,"Таргитай хлопал глазами, ответа все еще не видел.","Таргитай хлопал глазами, ответом все еще не видел.",ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+59694,Даже механик – и тот зуба не держит.,Даже механик – и тот зубом не держит.,зуба,зубом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+100376,Мистер Буомен ответ меня туда и доставил назад.,Мистер Буомен ответ мной туда и доставил назад.,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+78842,"Ну надо же, это она отняла мною времени!","Ну надо же, это она отняла мною временем!",времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+93571,Покойник папа последние годы ее и не брал.,Покойник папа последние годы ней и не брал.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+65548,"Я не обращаю внимания, когда немного волос видно!","Я не обращаю вниманием, когда немного волос видно!",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+117720,Все ожидающие процедур дамы испепеляли Кар-ли ревнивыми взглядами.,Все ожидающие процедурами дамы испепеляли Кар-ли ревнивыми взглядами.,процедур,процедурами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+81866,Все они там идут и горя не знают.,Все они там идут и горем не знают.,горя,горем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+115133,Этого я уже окончательно не понимал: ген.,Этим я уже окончательно не понимал: ген.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+110269,Он взял руку Рэй и положил себе вниз живота.,Он взял руку Рэй и положил себе вниз животом.,живота,животом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+126076,То вы леса настоящего не видели! – отвечаю.,То вы лесом настоящего не видели! – отвечаю.,леса,лесом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+124837,Таргитаю еще проще: по дурости страха не ведает.,Таргитаю еще проще: по дурости страхом не ведает.,страха,страхом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+136565,"Правда, иным я бы его не потерпела рядом.","Правда, иным я бы им не потерпела рядом.",его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+119565,"Он не менее тебя жаждет уехать, Фултон.","Он не менее тобой жаждет уехать, Фултон.",тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+123320,Пол Валя метет добросовестно – соринки не оставит.,Пол Валя метет добросовестно – соринкой не оставит.,соринки,соринкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+65837,"Деларме смотрела поверх Нови, словно вообще не замечая ее.","Деларме смотрела поверх Нови, словно вообще не замечая ней.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138556,Ведь сами у меня за батю доказательств требуете!,Ведь сами у меня за батю доказательствами требуете!,доказательств,доказательствами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+84176,Керли абсолютно прав – вы сами этого хотели.,Керли абсолютно прав – вы сами этим хотели.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+99354,"О, красот в Килронане сп хоть отбавляй.","О, красотами в Килронане сп хоть отбавляй.",красот,красотами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+123858,"Руки Кериса впились в перила, боли он не заметил.","Руки Кериса впились в перила, болью он не заметил.",боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+69582,"Вишь, хлеба поставили да еще с питьем!","Вишь, хлебом поставили да еще с питьем!",хлеба,хлебом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+131513,"Когда Паль ярл потребовал тишины, его даже не услышали.","Когда Паль ярл потребовал тишиной, его даже не услышали.",тишины,тишиной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+94991,"Голос его жены, она всегда немного фальши вила.","Голос его жены, она всегда немного фальшью вила.",фальши,фальшью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+75767,Так что мистер Гун не понял ни слова.,Так что мистер Гун не понял ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+95371,"Многому из рукопашки у него набралась, многого переиняла.","Многому из рукопашки у него набралась, многим переиняла.",многого,многим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+87233,И что Принни не обратил на это никого внимания?,И что Принни не обратил на это никого вниманием?,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+120636,"Она хотела будущего, а он – только ее тело.","Она хотела будущем, а он – только ее тело.",будущего,будущем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138420,"Боже мой, да она не прошла ее.","Боже мой, да она не прошла ней.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+96948,Я так давно не видел тебя и Саладена!,Я так давно не видел тобой и Саладена!,тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+105315,Аза очень этого хотел и достал два приглашения.,Аза очень этим хотел и достал два приглашения.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+19951,"Да вы шутите!""- добавил огня Лавров"".","Да вы шутите!""- добавил огнем Лавров"".",огня,огнем,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+18456,В боксе есть культура спорта – их никто не нарушит.,В боксе есть культура спорта – ими никто не нарушит.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+12661,"Только Дмитрий Горелов клички не имеет, утверждает журнал.","Только Дмитрий Горелов кличкой не имеет, утверждает журнал.",клички,кличкой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+3119,Как-то придержать шайбу — но взаимопонимания особо не нашел.,Как-то придержать шайбу — но взаимопониманием особо не нашел.,взаимопонимания,взаимопониманием,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+9421,Но одновременно мы ждали после такой игры золота.,Но одновременно мы ждали после такой игры золотом.,золота,золотом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+20485,"Но вот проблема, тот не ведет дела с холостяками.","Но вот проблема, тот не ведет делом с холостяками.",дела,делом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+21558,"Правда, наш по цене чемпион – этого не отнимешь!","Правда, наш по цене чемпион – этим не отнимешь!",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+745,Нет конечно - мы ж ее никогда не слушаем.,Нет конечно - мы ж ней никогда не слушаем.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+8996,"Может быть, и на дороги досок найдут.","Может быть, и на дороги досками найдут.",досок,досками,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+6697,"Но Бетрозова хочет не денег, она хочет справедливости.","Но Бетрозова хочет не денег, она хочет справедливостью.",справедливости,справедливостью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+8050,"Глушаков очень много атак тормозил, голова постоянно внизу.","Глушаков очень много атаками тормозил, голова постоянно внизу.",атак,атаками,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+1267,"Потом сказал, что вроде все хорошо, боли отпустили.","Потом сказал, что вроде все хорошо, болью отпустили.",боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+14900,"Мы сознания не потеряли, поэтому вышли сами.","Мы сознанием не потеряли, поэтому вышли сами.",сознания,сознанием,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+15257,"Посмотри, небольшой огонь как много вещества зажигает!","Посмотри, небольшой огонь как много веществом зажигает!",вещества,веществом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,5
+48,Меня жители Касимова может никуда еще и не выберут.,Мной жители Касимова может никуда еще и не выберут.,Меня,Мной,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+2060,Конор играет вами всеми как фокусник дергает за нитки марионеток.,Конор играет вами всеми как фокусник дергает за нитки марионетками.,марионеток,марионетками,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+1659,Но даже их в период Игр-2016 Алоян не принимал.,Но даже ими в период Игр-2016 Алоян не принимал.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+8201,Однако и их дачи постигла та же беда? пожар.,Однако и ими дачи постигла та же беда? пожар.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,5
+11657,А у англичан цели достиг удар Мэта Рони.,А у англичан целью достиг удар Мэта Рони.,цели,целью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+11571,Этот рефери как раз и не имеет постоянности.,Этот рефери как раз и не имеет постоянностью.,постоянности,постоянностью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+9879,При этом развивающим проект основателям ее не платили.,При этом развивающим проект основателям ней не платили.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+11630,Тогда в государстве Бенилюкса зрители голов не увидели.,Тогда в государстве Бенилюкса зрители головами не увидели.,голов,головами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,2
+3390,Более всего голосов набрал фряновский полицейский Николай Балмочных.,Более всего голосами набрал фряновский полицейский Николай Балмочных.,голосов,голосами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,5
+15666,Мы все уже ждем этого праздник мировой фортепианной школы.,Мы все уже ждем этим праздник мировой фортепианной школы.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+36373,"Фил Колсон допрашивает Тора, однако информации он не получает.","Фил Колсон допрашивает Тора, однако информацией он не получает.",информации,информацией,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+46335,ЗАНУ Роберта Мугабе и ЗАПУ Джошуа Нкомо не признали договоренностей.,ЗАНУ Роберта Мугабе и ЗАПУ Джошуа Нкомо не признали договоренностями.,договоренностей,договоренностями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+55274,"Какой там сахар Серова, лишь бы горчицы не подложил!","Какой там сахар Серова, лишь бы горчицей не подложил!",горчицы,горчицей,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+41543,"Однако удары Штилике, Ферстера и Бригеля не принесли результатов.","Однако удары Штилике, Ферстера и Бригеля не принесли результатами.",результатов,результатами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+32965,"Вали Алеппо, Таштимур, спешно попросил у Каира помощи.","Вали Алеппо, Таштимур, спешно попросил у Каира помощью.",помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+47452,"Айгор не желал этого, но Ворт все-таки устраивает пожар.","Айгор не желал этим, но Ворт все-таки устраивает пожар.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+38254,"Пьесы уже ставились, когда Кордер ожидал суда.","Пьесы уже ставились, когда Кордер ожидал судом.",суда,судом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+37661,Сунь Буэр была уверена что муж умрет не выдержав голодания.,Сунь Буэр была уверена что муж умрет не выдержав голоданием.,голодания,голоданием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+31081,"Заслуживают внимания свидетельства о баня Багеша, Вана и Амида.","Заслуживают вниманием свидетельства о баня Багеша, Вана и Амида.",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+38806,"Это стоит жизни братьям и подруге Олена, известной модели.","Это стоит жизнью братьям и подруге Олена, известной модели.",жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+34671,"По словам Хатты, народ не хотел независимости без Сукарно.","По словам Хатты, народ не хотел независимостью без Сукарно.",независимости,независимостью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+29707,"Этого требовали пристани Вийрелайд, Виртсу и Кихну.","Этим требовали пристани Вийрелайд, Виртсу и Кихну.",Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+33718,"Ян Бредис и Карл Ильмер погибли, не выдержав пыток.","Ян Бредис и Карл Ильмер погибли, не выдержав пытками.",пыток,пытками,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+51607,"Диалект коммуны Лиерне не имеет палатализации, аналогично шведскому емтску.","Диалект коммуны Лиерне не имеет палатализацией, аналогично шведскому емтску.",палатализации,палатализацией,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+57319,Избежавший гибели Мбоньюмутва был объявлен первым председателем переходного правительства.,Избежавший гибелью Мбоньюмутва был объявлен первым председателем переходного правительства.,гибели,гибелью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+35459,"Не получив их, Раммару делает собственные выводы.","Не получив ими, Раммару делает собственные выводы.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+52090,"Его порядок не имеет цели, поэтому лишен развития.","Его порядок не имеет целью, поэтому лишен развития.",цели,целью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+29378,Блокада одной из ножек пучка Гиса лечения не требуют.,Блокада одной из ножек пучка Гиса лечением не требуют.,лечения,лечением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+44434,"Не выдержав боли, Файнс отпилил их дома.","Не выдержав болью, Файнс отпилил их дома.",боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+50082,Википедии на языке канури очень мала и составляет лишь пунктов.,Википедии на языке канури очень мала и составляет лишь пунктами.,пунктов,пунктами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+30754,С этого момента Ами больше отца не ждет.,С этого момента Ами больше отцом не ждет.,отца,отцом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+42401,Противник на ее фронте ждал результатов на других направлениях.,Противник на ее фронте ждал результатами на других направлениях.,результатов,результатами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+50548,Он достиг фронта прямо перед битвой у Паадеберга.,Он достиг фронтом прямо перед битвой у Паадеберга.,фронта,фронтом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+50369,Рамманохар Лохия никогда не был женат и не имел семьи.,Рамманохар Лохия никогда не был женат и не имел семьей.,семьи,семьей,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+38090,Ради нее прошу и беру Крещения в огненной страсти.,Ради нее прошу и беру Крещением в огненной страсти.,Крещения,Крещением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+36675,Всего картина собрала долларов в США и — за рубежом.,Всего картина собрала долларами в США и — за рубежом.,долларов,долларами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+49704,"Многие дети учат уитотский язык, но не используют его.","Многие дети учат уитотский язык, но не используют им.",его,им,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+40022,У-ди месяц находился в трауре и только ел мало риса.,У-ди месяц находился в трауре и только ел мало рисом.,риса,рисом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+33755,"Возможно, Садака не оставил ему достаточно людей.","Возможно, Садака не оставил ему достаточно людьми.",людей,людьми,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+29091,Изображений Дьайык не делали и жертв ей не приносили.,Изображениями Дьайык не делали и жертв ей не приносили.,Изображений,Изображениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+51254,При правильном второй взгляд редко не вызывает смеха.,При правильном второй взгляд редко не вызывает смехом.,смеха,смехом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+50127,А вот не понимал этого как раз Билардо.,А вот не понимал этим как раз Билардо.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+52663,Но и быстрота лошадей не спасла наместника от жиховцев.,Но и быстрота лошадей не спасла наместником от жиховцев.,наместника,наместником,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+30622,Вот где именно только и не достает автомобилей.,Вот где именно только и не достает автомобилями.,автомобилей,автомобилями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+44872,"Вислер же, зная об этом, не раскрывает драматурга.","Вислер же, зная об этом, не раскрывает драматургом.",драматурга,драматургом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+26951,После заключения брака Катиша просит милости у Микадо.,После заключения брака Катиша просит милостью у Микадо.,милости,милостью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+55835,"Три, четыре, пять минут Им проезда не дают.","Три, четыре, пять минут Им проездом не дают.",проезда,проездом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+28762,"Думаю, он составил бы проблем очень многим тяжеловесам.","Думаю, он составил бы проблемами очень многим тяжеловесам.",проблем,проблемами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+29521,"Но не Санчиров, ни они, не чувствовали боли.","Но не Санчиров, ни они, не чувствовали болью.",боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+57007,"Не вызывает сомнений, что ее пятиглавое завершение изначально.","Не вызывает сомнениями, что ее пятиглавое завершение изначально.",сомнений,сомнениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+32144,В истории формирования культуры это время соответствует мезолита.,В истории формирования культуры это время соответствует мезолитом.,мезолита,мезолитом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+24051,Но и тут про работы Эрдманна нет находим ни слова.,Но и тут про работы Эрдманна нет находим ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+38112,Хотя в училище этого программа и не требует.,Хотя в училище этим программа и не требует.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,2
+59199,"Когда мы туда прилетели, добра немало обнаружили.","Когда мы туда прилетели, добром немало обнаружили.",добра,добром,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+38569,Сын никогда не соблюдал поста и даже вида не делал.,Сын никогда не соблюдал постом и даже вида не делал.,поста,постом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+31238,"Не дает их и кофе, что на столе.","Не дает ими и кофе, что на столе.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+38988,"Светилав Бркий - веселый банкир, желающий другим только добра.","Светилав Бркий - веселый банкир, желающий другим только добром.",добра,добром,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+23620,В горячке Рафтопулло не обратил на это внимания.,В горячке Рафтопулло не обратил на это вниманием.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+46767,Князь Гвиддно Гаранхир просит защиты у Гвина и получает ее.,Князь Гвиддно Гаранхир просит защитой у Гвина и получает ее.,защиты,защитой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+24085,"Не имеет провала в зеленой области, как пинавердол.","Не имеет провалом в зеленой области, как пинавердол.",провала,провалом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+55713,Иненю повторил тезис о слабости Турции и просил вооружений.,Иненю повторил тезис о слабости Турции и просил вооружениями.,вооружений,вооружениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+47412,"Ни Оланик, ни Кинлоу не имели отношения к городу.","Ни Оланик, ни Кинлоу не имели отношением к городу.",отношения,отношением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+31044,Предан Джиму Рейнору и желает смерти Арктуру Менгску.,Предан Джиму Рейнору и желает смертью Арктуру Менгску.,смерти,смертью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+34960,Для человека эти болезни рыб опасности не представляют.,Для человека эти болезни рыб опасностью не представляют.,опасности,опасностью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+69605,"Место, видишь, плотик да камень, следов оно не держит.","Место, видишь, плотик да камень, следами оно не держит.",следов,следами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+119817,"И они расходились, кстати, слова не сказав друг другу, после игры были вежливые.","И они расходились, кстати, словом не сказав друг другу, после игры были вежливые.",слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+133491,"Ноги наружу, а сама останется внутри машины, там темно, лица агент не разглядит.","Ноги наружу, а сама останется внутри машины, там темно, лицом агент не разглядит.",лица,лицом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+71657,"Генри не знал, как долго молчал, сколько пропою времени.","Генри не знал, как долго молчал, сколько пропою временем.",времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+124616,"Маккафин портрет они только потрогали, – он был мертв и не представлял интереса, а вот тело Валлента их заинтересовало.","Маккафин портрет они только потрогали, – он был мертв и не представлял интересом, а вот тело Валлента их заинтересовало.",интереса,интересом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+118791,"Трестка играл пенсне, не спуская глаз с бедного личика панны Шелижанской.","Трестка играл пенсне, не спуская глазами с бедного личика панны Шелижанской.",глаз,глазами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+103215,"Бэрк кивнул, но монах стоял наклонившись и не заметил ответа.","Бэрк кивнул, но монах стоял наклонившись и не заметил ответом.",ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+101769,"Ты давно забыл счет женщинам, наверняка не помнишь и имен!","Ты давно забыл счет женщинам, наверняка не помнишь и именами!",имен,именами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138610,"Но кому чужое добро глаза не колет, особенно если вдруг все можно стало?","Но кому чужое добро глазом не колет, особенно если вдруг все можно стало?",глаза,глазом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+95383,"Одела брони, они сидели на ней как влитые — хорошо Сигмонд снял мерку.","Одела броней, они сидели на ней как влитые — хорошо Сигмонд снял мерку.",брони,броней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+74883,"Ту Игорь князь выседе из седла злата, а в седло кощиево.","Ту Игорь князь выседе из седла златом, а в седло кощиево.",злата,златом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+122259,"Робел до смеха, точно никогда с женщинами дела не имел.","Робел до смеха, точно никогда с женщинами делом не имел.",дела,делом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+126037,"А здесь парень первый сорт, не снимая лыж, лосиху облюбит!","А здесь парень первый сорт, не снимая лыжами, лосиху облюбит!",лыж,лыжами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+113257,"Однако их не представил и друг другу, – ответил брат.","Однако ими не представил и друг другу, – ответил брат.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+92462,"И Каро достигла цели, ибо он ясно видел задачи ""хранителей"".","И Каро достигла целью, ибо он ясно видел задачи ""хранителей"".",цели,целью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+123056,"Эд затем повесил оного благочестивца, однако жизни Сулейману это не вернуло.","Эд затем повесил оного благочестивца, однако жизнью Сулейману это не вернуло.",жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+130900,"Но Ги так долго жаждал ее, что был не способен внимать словам.","Но Ги так долго жаждал ней, что был не способен внимать словам.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+117015,"Не заменили – нас тут не любят, хотя и стараются не показать.","Не заменили – нами тут не любят, хотя и стараются не показать.",нас,нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+61603,"А я, выходит, шанса этого их лишаю и жизни заодно.","А я, выходит, шанса этого их лишаю и жизнью заодно.",жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+126190,"Не оставил нам Дух Закона времени, сила колдовская из нас прет наружу, выхода ищет.","Не оставил нам Дух Закона времени, сила колдовская из нас прет наружу, выходом ищет.",выхода,выходом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+107755,"Сейчас ей хотелось именно такой тост, какие всегда делала бабушка, не признававшая диет.","Сейчас ей хотелось именно такой тост, какие всегда делала бабушка, не признававшая диетами.",диет,диетами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+93564,"А нынче – уже месяц июнь, Городские носа не кажут.","А нынче – уже месяц июнь, Городские носом не кажут.",носа,носом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+98078,"Я не — получил разноса и не знаю, что и думать.","Я не — получил разносом и не знаю, что и думать.",разноса,разносом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+138635,"Чум Шакулы нашли легко: кто гостей привечает, тот не держит собак.","Чум Шакулы нашли легко: кто гостей привечает, тот не держит собаками.",собак,собаками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+89789,"Возможно, де Рочевиль хочет слишком многого, я слышал, Михонис — большой охотник пошутить.","Возможно, де Рочевиль хочет слишком многим, я слышал, Михонис — большой охотник пошутить.",многого,многим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+69578,"С другого рудника брали, а он вовсе работы не стоил.","С другого рудника брали, а он вовсе работой не стоил.",работы,работой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+116994,"Полку вообще не сделает чести, если офицер его и будет уметь сберечь собственности солдатской.","Полку вообще не сделает честью, если офицер его и будет уметь сберечь собственности солдатской.",чести,честью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+138237,Что звонка не слышал? — это была Тамара Валентиновна и как всегда не вовремя.,Что звонком не слышал? — это была Тамара Валентиновна и как всегда не вовремя.,звонка,звонком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+93001,"От метила про себя, что рука эта не знала битв.","От метила про себя, что рука эта не знала битвами.",битв,битвами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+138668,"Даст бог удачи, в Левшиной рубли полторы еще сверху положу.","Даст бог удачей, в Левшиной рубли полторы еще сверху положу.",удачи,удачей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+133176,"Ларго не хватает людей, поэтому Чи не должен задерживать нарочного пустой болтовней.","Ларго не хватает людьми, поэтому Чи не должен задерживать нарочного пустой болтовней.",людей,людьми,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+103646,"Пусть она, однако, все же говорит, раз желает этого Сисимитр.","Пусть она, однако, все же говорит, раз желает этим Сисимитр.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+124898,Мрэкр рванулся в последнем диком усилии и едва не потерял сознания.,Мрэкр рванулся в последнем диком усилии и едва не потерял сознанием.,сознания,сознанием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+138718,"Как же доброе имя сплавщика, не убивающего барок на бойцах?","Как же доброе имя сплавщика, не убивающего барками на бойцах?",барок,барками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+86324,"Как отдельные рабочие ""узнают"", что они достигли границы на плане местности?","Как отдельные рабочие ""узнают"", что они достигли границей на плане местности?",границы,границей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+119087,"Если объем полости мал, то и крови сердце засосет немного.","Если объем полости мал, то и кровью сердце засосет немного.",крови,кровью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+135010,"Ривс ответил не сразу, сверля хозяина внимательным взгля-ом голубых глаз.","Ривс ответил не сразу, сверля хозяином внимательным взгля-ом голубых глаз.",хозяина,хозяином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+107394,"Эти дети не накопили зла, не бойся их, Савл.","Эти дети не накопили злом, не бойся их, Савл.",зла,злом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+134142,"Она, эта Феля, конкуренток не любит, хотя велит тут себя Басей звать.","Она, эта Феля, конкурентками не любит, хотя велит тут себя Басей звать.",конкуренток,конкурентками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+85823,"Кардстон будет первым, потому что уже второй раз видел ее и жаждал ее.","Кардстон будет первым, потому что уже второй раз видел ее и жаждал ней.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+131578,"Ингигерд болтала, не закрывая рта, оказалось, Скули тоже ее друг.","Ингигерд болтала, не закрывая ртом, оказалось, Скули тоже ее друг.",рта,ртом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+126127,"Толку ли, что мне сам владыка Виталий грехи отпустил? что разрешение дал ученика взять и употреблять силу мажью по мере надобности на благо церкви и государства?","Толку ли, что мне сам владыка Виталий грехи отпустил? что разрешение дал учеником взять и употреблять силу мажью по мере надобности на благо церкви и государства?",ученика,учеником,Syntax,Government,verb_gen_object,verb_gen_object,librusec,13
+95397,"Завывают Ингрендсоны, бьют мечами вдогон, никому не дают пощады.","Завывают Ингрендсоны, бьют мечами вдогон, никому не дают пощадой.",пощады,пощадой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+117405,"И по сему слову, я дивлюсь. что давно тебя не взяли.","И по сему слову, я дивлюсь. что давно тобой не взяли.",тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138569,И по ней не узнаешь главного: с чего Галаня решил летать научиться?,И по ней не узнаешь главном: с чего Галаня решил летать научиться?,главного,главном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+138666,На всякую мелочь вроде кыновлян или койвинцев никто и внимания не обращал.,На всякую мелочь вроде кыновлян или койвинцев никто и вниманием не обращал.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+130953,"Не говоря ни слова, он поднял с посадил в воду.","Не говоря ни словом, он поднял с посадил в воду.",слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+70191,"Не самое плохое — если учесть, что враг тоже почти ни шиша в дьму не видит.","Не самое плохое — если учесть, что враг тоже почти ни шишом в дьму не видит.",шиша,шишом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+63399,"Если председатель людей не найдет, я один по линии пойду обрыв искать.","Если председатель людьми не найдет, я один по линии пойду обрыв искать.",людей,людьми,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+66642,"И кролик тоже стал трашем - так бизеры жмыхов называют, но ты этого наверняка не знаешь.","И кролик тоже стал трашем - так бизеры жмыхов называют, но ты этим наверняка не знаешь.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+108737,"Но тебе всякий скажет, что Хэн никогда не застрелил никого, кто не крал наших коров и не причинял вреда кому-то в нашей, семье.","Но тебе всякий скажет, что Хэн никогда не застрелил никого, кто не крал наших коров и не причинял вредом кому-то в нашей, семье.",вреда,вредом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,9
+126147,Сейчас же творилась околесица: тебе не дали времени! совсем! снег на голову!,Сейчас же творилась околесица: тебе не дали временем! совсем! снег на голову!,времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+75930,"Гай еще говорил, что оно не представляет интереса – просто древний склад?","Гай еще говорил, что оно не представляет интересом – просто древний склад?",интереса,интересом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+120407,"Наша Фло, считай, жизни не видела — разве это переделки?","Наша Фло, считай, жизнью не видела — разве это переделки?",жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+138611,"Луша теперь их не ждала, и батя нанялся с грузом до Казани.","Луша теперь ими не ждала, и батя нанялся с грузом до Казани.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+110741,Пошли в дом — Теперь он уже не предложил Скай руки.,Пошли в дом — Теперь он уже не предложил Скай рукой.,руки,рукой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+70496,Однако Вик ничего не сказал Гору и фермерам о сыне Главного Пхана и складе с оружием прошлых.,Однако Вик ничем не сказал Гору и фермерам о сыне Главного Пхана и складе с оружием прошлых.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+88870,"Когда в замке Коумб не ожидали гостей, приезд Телора вызывал большой интерес.","Когда в замке Коумб не ожидали гостями, приезд Телора вызывал большой интерес.",гостей,гостями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+121871,"Если в местности этой не знает осин ни пастух, ни собачник, ни сын.","Если в местности этой не знает осинами ни пастух, ни собачник, ни сын.",осин,осинами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+127380,"Того же ожидал Гордон, но Равелстон уже был тут и уже уплатил.","Том же ожидал Гордон, но Равелстон уже был тут и уже уплатил.",Того,Том,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+125544,"Так неужели не имело смысла попробовать впереди одновременно Метревели, Иванова и Стрельцова?","Так неужели не имело смыслом попробовать впереди одновременно Метревели, Иванова и Стрельцова?",смысла,смыслом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+78604,"То ли он был еще в дороге, то ли избегал се звонков.","То ли он был еще в дороге, то ли избегал се звонками.",звонков,звонками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+76832,"Я ведь даже ноты твердо не знал, не то что там четверти и восьмые!","Я ведь даже нотой твердо не знал, не то что там четверти и восьмые!",ноты,нотой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+83348,"Паколет, словно только и ждал разрешения, кинулся за ближайшее дерево.","Паколет, словно только и ждал разрешением, кинулся за ближайшее дерево.",разрешения,разрешением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+104856,"И как же полковник князю соврать будто боится, а тут придумал превратно представить, будто ты собственности ищешь.","И как же полковник князю соврать будто боится, а тут придумал превратно представить, будто ты собственностью ищешь.",собственности,собственностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+76358,"Бономм хотел рома, он требовал его, изрытая проклятия на языках полудюжины стран, где ему приходилось бывать.","Бономм хотел ромом, он требовал его, изрытая проклятия на языках полудюжины стран, где ему приходилось бывать.",рома,ромом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,8
+116800,"Как ты правильно заметил, я чечако и не провел здесь еще и зимы.","Как ты правильно заметил, я чечако и не провел здесь еще и зимой.",зимы,зимой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+100172,"Но не обнаружили его и отправились в Совет восьми, размахивая договором.","Но не обнаружили им и отправились в Совет восьми, размахивая договором.",его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+78886,"Сначала заместитель ее не заметил, он подбирал с пола бумаги.","Сначала заместитель ней не заметил, он подбирал с пола бумаги.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+78263,"Здесь не ждал я удара, а должен был ждать его везде.","Здесь не ждал я ударом, а должен был ждать его везде.",удара,ударом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138622,"Не виси он в ошейнике, не признал был я его.","Не виси он в ошейнике, не признал был я им.",его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+83430,"Ну, а уж коли от тебя вином несет, так никакой выручке не поверит, этого не любит.","Ну, а уж коли от тебя вином несет, так никакой выручке не поверит, этим не любит.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+63391,"Да плевать, что вам приказывал министр напрямую, – а личные отношения уже ни хрена не стоят?","Да плевать, что вам приказывал министр напрямую, – а личные отношения уже ни хреном не стоят?",хрена,хреном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+121872,"Я плыву в меду как пловец лихой, зачерпну беду, отведу рукой, соберу с лица ряски кисею и растаяв, м°д слижет мысль мою.","Я плыву в меду как пловец лихой, зачерпну беду, отведу рукой, соберу с лица ряской кисею и растаяв, м°д слижет мысль мою.",ряски,ряской,Syntax,Government,verb_gen_object,verb_gen_object,librusec,10
+96631,"Ради Бота, Джеймс, возможно, мы долго не увидим ее.","Ради Бота, Джеймс, возможно, мы долго не увидим ней.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+92743,"А именно об этом мечтает ее сестра, хоть Макс этого и не стоит.","А именно об этом мечтает ее сестра, хоть Макс этим и не стоит.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+124053,"Затем вдруг раздался клич, Трусла не поняла слов, но салкарам его смысл, очевидно, был внятен.","Затем вдруг раздался клич, Трусла не поняла словами, но салкарам его смысл, очевидно, был внятен.",слов,словами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+101820,"Вообще не сказал больше ни слова, жестоко ее этим разочаровав.","Вообще не сказал больше ни словом, жестоко ее этим разочаровав.",слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+82459,"Субон выдерживал, он ничем не выдал напряжения, только обычно розовый шрам побагровел.","Субон выдерживал, он ничем не выдал напряжением, только обычно розовый шрам побагровел.",напряжения,напряжением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+100897,"Она собрала их много за утро, а теперь придется снова все начинать!","Она собрала ими много за утро, а теперь придется снова все начинать!",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+105642,"Ведь неизвестно, был с ним Хилери или нет: девушка и сама покамест не знала подробностей.","Ведь неизвестно, был с ним Хилери или нет: девушка и сама покамест не знала подробностями.",подробностей,подробностями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+69544,"Что ему, коли он все нутро горы вызнал и сама Хозяйка ему пособляла.","Что ему, коли он все нутро горой вызнал и сама Хозяйка ему пособляла.",горы,горой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+121864,"Масляным глазом кося В мои пределы, Ты уходил, унося Профиль горелый И вереницей неслись Следом собаки, Буквы рядками плелись, Тлели бумаги.","Масляным глазом кося В мои пределы, Ты уходил, унося Профиль горелый И вереницей неслись Следом собаки, Буквы рядками плелись, Тлели бумагой.",бумаги,бумагой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,9
+13791,И никто им бы слова не сказал: полиция же затянула.,И никто им бы словом не сказал: полиция же затянула.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+21063,"Тогда отец Горзенго, не снимая рясы, прыгнул в море.","Тогда отец Горзенго, не снимая рясой, прыгнул в море.",рясы,рясой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+13954,Об этом в ходе мероприятия заявил выставки губернатор провинции Мухамад Реза Салеи.,Об этом в ходе мероприятия заявил выставкой губернатор провинции Мухамад Реза Салеи.,выставки,выставкой,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,6
+1258,Однако блогеру Владиславу Синице срок за твит о снафф-видео с детьми силовиков не увеличили.,Однако блогеру Владиславу Синице срок за твит о снафф-видео с детьми силовиками не увеличили.,силовиков,силовиками,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,7
+4065,Знак не уходила пока ей председательствующий Михаил Федотов не дал ей слова.,Знак не уходила пока ей председательствующий Михаил Федотов не дал ей словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,3
+7,"Меня оично аак раз этот разговор интересует крайне редко, и именно потому, что он - чистый выплеск энергии.","Мной оично аак раз этот разговор интересует крайне редко, и именно потому, что он - чистый выплеск энергии.",Меня,Мной,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,6
+9442,"Да и по сути Суареса надо использовать со стилем, который максимально добавим ему скорости.","Да и по сути Суареса надо использовать со стилем, который максимально добавим ему скоростью.",скорости,скоростью,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,6
+513,"И не читайте до обеда газет – только мою тележеньку, а после обеда уже игра!","И не читайте до обеда газетами – только мою тележеньку, а после обеда уже игра!",газет,газетами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,6
+9230,"Плюс пришел тренер, который только узнал команду и не готовил ее.","Плюс пришел тренер, который только узнал команду и не готовил ней.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,4
+17750,"Пока собственник не предпринимал шагов к реконструкции — вокруг лишь установлен забор, не учтенный ГАТИ.","Пока собственник не предпринимал шагами к реконструкции — вокруг лишь установлен забор, не учтенный ГАТИ.",шагов,шагами,Syntax,Government,verb_gen_object,verb_gen_object,wikinews,5
+34246,"Большая часть одежды Лайта в Тетрадь смерти ""приталена"", и Обата избегал джинсов.","Большая часть одежды Лайта в Тетрадь смерти ""приталена"", и Обата избегал джинсами.",джинсов,джинсами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+54168,Ифиною же ждала печальна судьба: она не перенесла пути и умерла.,Ифиною же ждала печальна судьба: она не перенесла путем и умерла.,пути,путем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+27476,"Износ таовалы не считается зазорным, а наоборот добавляет уважения носящему.","Износ таовалы не считается зазорным, а наоборот добавляет уважением носящему.",уважения,уважением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+24334,"Обвинительный акт содержит преступлений, общий ущерб от причиненных действий группы составляет долларов США.","Обвинительный акт содержит преступлениями, общий ущерб от причиненных действий группы составляет долларов США.",преступлений,преступлениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+43504,Тогда Белал Мухаммад шел на серии из пяти побед под ряд и не имел поражений.,Тогда Белал Мухаммад шел на серии из пяти побед под ряд и не имел поражениями.,поражений,поражениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+33183,"Относительно пушек, которых имеется изрядное количество выразился так: """"а ядра у них живут мало не в стояча человека ядро.","Относительно пушек, которых имеется изрядное количество выразился так: """"а ядра у них живут мало не в стояча человеком ядро.",человека,человеком,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,8
+28967,"Поэтому катер Балкели РТ-41 первым достиг причала, Макартур стоял на носу.","Поэтому катер Балкели РТ-41 первым достиг причалом, Макартур стоял на носу.",причала,причалом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+24763,"Больше он не создал ничего, так как без Юно все это не имело смысла.","Больше он не создал ничем, так как без Юно все это не имело смысла.",ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+31867,"Старик польщен, но требует доказательств и Траколен дает ему письмо Коралины.","Старик польщен, но требует доказательствами и Траколен дает ему письмо Коралины.",доказательств,доказательствами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+34321,"Но на его указания очень часто полезные, адмирал мало обращал внимания.","Но на его указания очень часто полезные, адмирал мало обращал вниманием.",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+23683,"Однако армия возвращалась за Сакарью, не достигнув объективных целей и просила пополнений.","Однако армия возвращалась за Сакарью, не достигнув объективных целей и просила пополнениями.",пополнений,пополнениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+28696,"Вскоре Макринос сообщил Михаилу, что ""приобрел треть Мореи не обнажая меча"".","Вскоре Макринос сообщил Михаилу, что ""приобрел треть Мореи не обнажая мечом"".",меча,мечом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+55421,"Он не знает, где находился, однако """"место, где ты решил принять бой значения никогда не имело.","Он не знает, где находился, однако """"место, где ты решил принять бой значением никогда не имело.",значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+29154,"Луати Бейран сказал ему: Господин Данило, передай отцу: мы не хотим его больше!","Луати Бейран сказал ему: Господин Данило, передай отцу: мы не хотим им больше!",его,им,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+42828,"Марк, его жена Би и теща не видят игроков, тех видят только Рэй, Энни и Карин.","Марк, его жена Би и теща не видят игроками, тех видят только Рэй, Энни и Карин.",игроков,игроками,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,8
+32664,"Насиреддин Артук Арслан прибыл из Мардина в Хлат, не ожидая противодействия.","Насиреддин Артук Арслан прибыл из Мардина в Хлат, не ожидая противодействием.",противодействия,противодействием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+47324,"Свита повелителя Бумбы онемела, а Джангар спросил совета у Алтан Цеджи.","Свита повелителя Бумбы онемела, а Джангар спросил советом у Алтан Цеджи.",совета,советом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+32544,"Он изменил направил нападений, начав рейды на территории государства Кади Бурханеддина.","Он изменил направил нападениями, начав рейды на территории государства Кади Бурханеддина.",нападений,нападениями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,7
+52216,"Но после блага жду я бед, Ведь благо — это призрак дальний.","Но после блага жду я бедами, Ведь благо — это призрак дальний.",бед,бедами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+43182,"Зато пехлевийские источники ничего не говорят о Снавидке, Даштаяни, Нивике, Варэшаве и Арэзошамане.","Зато пехлевийские источники ничем не говорят о Снавидке, Даштаяни, Нивике, Варэшаве и Арэзошамане.",ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,7
+43487,Это состояние не вызывает у меня уважения и рекорд Денсимо тоже.,Это состояние не вызывает у меня уважением и рекорд Денсимо тоже.,уважения,уважением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+26284,"Когда Еловицкий хотел вступить во владение добрами, ему надаными, Аксак, владея Рожнами (державца), не допустил его, и начались судебные тяжбы.","Когда Еловицкий хотел вступить во владение добрами, ему надаными, Аксак, владея Рожнами (державца), не допустил им, и начались судебные тяжбы.",его,им,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,11
+48909,"Он женился на Браустуде верх Глоуд, двоюродной сестре не оставившего наследников правителя Биэллта Фернвайла ап Теудура, с которой у него было два сына: Рис и Мейриг.","Он женился на Браустуде верх Глоуд, двоюродной сестре не оставившего наследниками правителя Биэллта Фернвайла ап Теудура, с которой у него было два сына: Рис и Мейриг.",наследников,наследниками,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,13
+39587,"Однажды, все-таки не выдержав жажды, Лестат превращает и Никола.","Однажды, все-таки не выдержав жаждой, Лестат превращает и Никола.",жажды,жаждой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+54921,"Там же Нурия и Ольмо узнают друг друга, однако не подают вида.","Там же Нурия и Ольмо узнают друг друга, однако не подают видом.",вида,видом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+39717,Также для скрытия следов пыток стопы после фалаки могут погружать в лед.,Также для скрытия следов пыток стопой после фалаки могут погружать в лед.,стопы,стопой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+44195,"Он достиг реализации, практикуя в качестве йидама Карма Пакши, а также защитников Махакалу и Шинг Кьонг (один из главных защитников монастыря Бенчен).","Он достиг реализацией, практикуя в качестве йидама Карма Пакши, а также защитников Махакалу и Шинг Кьонг (один из главных защитников монастыря Бенчен).",реализации,реализацией,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,12
+51957,"Тропический Сторм Берил достиг берега на Нантакете, но оставил мало воздействия.","Тропический Сторм Берил достиг берега на Нантакете, но оставил мало воздействием.",воздействия,воздействием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+30376,"Как и Синди Шерман, Рондиноне не дал названия работам в серии.","Как и Синди Шерман, Рондиноне не дал названием работам в серии.",названия,названием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+42195,"Насиреддин Артук Арслан, прибыл в Хлат, не ожидая противодействия.","Насиреддин Артук Арслан, прибыл в Хлат, не ожидая противодействием.",противодействия,противодействием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+59336,"По словам Уолкиера, Искария оставил группу даже не объяснив причины.","По словам Уолкиера, Искария оставил группу даже не объяснив причиной.",причины,причиной,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+23741,"Впрочем, вулнетари в ходе этих боев потеряли достаточно много человек убитыми.","Впрочем, вулнетари в ходе этих боев потеряли достаточно много людьми убитыми.",человек,людьми,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+35376,"В регионе Синно леди Платинум Берлиц достигает совершеннолетия и должна отправиться на гору Коронет, чтобы добыть материалы для ее собственного талисмана со знаком ее рода.","В регионе Синно леди Платинум Берлиц достигает совершеннолетием и должна отправиться на гору Коронет, чтобы добыть материалы для ее собственного талисмана со знаком ее рода.",совершеннолетия,совершеннолетием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,12
+29599,"Франгу не дал разрешения, что по мнению историка Я, Капсиса обрекло группу Трикуписа.","Франгу не дал разрешением, что по мнению историка Я, Капсиса обрекло группу Трикуписа.",разрешения,разрешением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+44160,"Схинбьюшин не получил поддержки, но Наундоджи простил младшего брата по заступничеству королевы-матери.","Схинбьюшин не получил поддержкой, но Наундоджи простил младшего брата по заступничеству королевы-матери.",поддержки,поддержкой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+56397,"В частности, Садако — это тип юрэй, более известный как онре, духа жаждущего мести.","В частности, Садако — это тип юрэй, более известный как онре, духа жаждущего местью.",мести,местью,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,7
+53413,"Бофиль ответил, что сам Абрахантес ввязался в большие проблемы и не знает этого.","Бофиль ответил, что сам Абрахантес ввязался в большие проблемы и не знает этим.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+46186,"Еще не достигнув города, Анк уже переполнен наносами с равнин Сто.","Еще не достигнув городом, Анк уже переполнен наносами с равнин Сто.",города,городом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+29294,"После пробуждения Ах ’ Лен приносит ему воды (у ксилирианцев она лишь в замороженном виде, льде).","После пробуждения Ах ’ Лен приносит ему водой (у ксилирианцев она лишь в замороженном виде, льде).",воды,водой,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+58603,"Всего более сходства эти недостатки имеют с теми, какие обличаются в книги Неемии.","Всего более сходством эти недостатки имеют с теми, какие обличаются в книги Неемии.",сходства,сходством,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,7
+34348,"Правый фланг маратхов под командованием и также должен был атаковать, но не сделал этого, несмотря на приказ Садашривао Брао Голкару.","Правый фланг маратхов под командованием и также должен был атаковать, но не сделал этим, несмотря на приказ Садашривао Брао Голкару.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,8
+45776,Скапус усика двух каст солдат относительно размеров всей головы короткий и не достает затылка.,Скапус усика двух каст солдат относительно размеров всей головы короткий и не достает затылком.,затылка,затылком,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+53632,"В этом отношении особенно заслуживает внимания луговой батлачик, наиранее цветущая весной трава.","В этом отношении особенно заслуживает вниманием луговой батлачик, наиранее цветущая весной трава.",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+57461,Не получив информации Старскрим отправился вместе с автоботами и энергоном к Шоквейву.,Не получив информацией Старскрим отправился вместе с автоботами и энергоном к Шоквейву.,информации,информацией,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+52530,Всего Смирдин издал книг на больше чем на три миллиона рублей.,Всего Смирдин издал книгами на больше чем на три миллиона рублей.,книг,книгами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+58395,"Старания Мартина Старра и Джея Би Смува, играющих учителей, потрачены впустую.","Старания Мартина Старра и Джея Би Смува, играющих учителями, потрачены впустую.",учителей,учителями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+54866,После этого Альбази почти год находился в простое и не получал боев.,После этого Альбази почти год находился в простое и не получал боями.,боев,боями,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+58030,"При источнике состоит Хранительница — жрица Темпус Спатиум, не выбравшая пола.","При источнике состоит Хранительница — жрица Темпус Спатиум, не выбравшая полом.",пола,полом,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+54194,"Ничего не подозревающая Оива наносит крем, который моментально увечит ее.","Ничем не подозревающая Оива наносит крем, который моментально увечит ее.",Ничего,Ничем,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+39990,"Если бы они производились на протяжении всего года, сборы станции Харлу составили бы марок.","Если бы они производились на протяжении всего года, сборы станции Харлу составили бы марками.",марок,марками,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+36738,Арганфона предчувствовала смерть Реса под Троей и не отпускала его на войну.,Арганфона предчувствовала смерть Реса под Троей и не отпускала им на войну.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,5
+53787,"После того как Кин уходит, Сол требует ответов от Джавади.","После того как Кин уходит, Сол требует ответами от Джавади.",ответов,ответами,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,4
+40780,"Однако этот титул был связан с его, растением церцидифиллюм, и, следовательно, не имеет отношения к титулу синнокэ.","Однако этот титул был связан с его, растением церцидифиллюм, и, следовательно, не имеет отношением к титулу синнокэ.",отношения,отношением,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,6
+24490,"Атанарих по этому поводу заявил протест, но Валент не выдал пленных.","Атанарих по этому поводу заявил протест, но Валент не выдал пленными.",пленных,пленными,Syntax,Government,verb_gen_object,verb_gen_object,wikipedia,3
+64651,Почему ты не скинул бревна?,Почему ты не скинул бревном?,бревна,бревном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+114226,Сэр Джек этого не позволит.,Сэр Джек этим не позволит.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67429,Только вот Дебби этого не хотел.,Только вот Дебби этим не хотел.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+66841,Этого Арвардан уже не вынес.,Этим Арвардан уже не вынес.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+83198,Острым мечом этой ночью превратности отражу.,Острым мечом этой ночью превратностью отражу.,превратности,превратностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+75588,Но птиц Джек не увидел.,Но птицами Джек не увидел.,птиц,птицами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+131873,Вот этого Би точно не одобрит.,Вот этим Би точно не одобрит.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+69591,До веку ее не забудешь.,До веку ней не забудешь.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+84400,Но Бен этого не понял.,Но Бен этим не понял.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+70385,Алекс сам не ожидал этого.,Алекс сам не ожидал этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+124751,Не стоит жизни строй менять.,Не стоит жизнью строй менять.,жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+137111,Этого желают многие внутри страны.,Этим желают многие внутри страны.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81924,Приму его образ и обману их.,Приму его образ и обману ими.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+110685,Этого Скай пока не знала.,Этим Скай пока не знала.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+80235,Ни хрена мне Лу не помогла.,Ни хреном мне Лу не помогла.,хрена,хреном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+109442,Этот мужчина не стоил ее.,Этот мужчина не стоил ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+129547,И не понимал ни слова.,И не понимал ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+114603,Но Филип не знал жалости.,Но Филип не знал жалостью.,жалости,жалостью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+87608,И одновременно придала ей храбрости.,И одновременно придала ей храбростью.,храбрости,храбростью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+95574,Разве она больше не знает их?,Разве она больше не знает ими?,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+88242,Их он пока сделал три.,Ими он пока сделал три.,Их,Ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+106618,Но жизни там не обнаружили.,Но жизнью там не обнаружили.,жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+97772,Пальца и то не сломал!,Пальцем и то не сломал!,Пальца,Пальцем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95420,Разве гранат парочку в карман засунул.,Разве гранатами парочку в карман засунул.,гранат,гранатами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+83663,А вот лица не помню.,А вот лицом не помню.,лица,лицом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+65225,Здесь никто их не видит!,Здесь никто ими не видит!,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+71165,Он не с делает этого.,Он не с делает этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+75516,Однако пилотов и след простыл.,Однако пилотами и след простыл.,пилотов,пилотами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+135676,"Право, не получили ни строчки.","Право, не получили ни строчкой.",строчки,строчкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+103780,Граф больше не открыл глаза.,Граф больше не открыл глазом.,глаза,глазом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+69661,Эрни ничего этого не замечал.,Эрни ничего этим не замечал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+73641,Карри убил немало людей на дуэли.,Карри убил немало людьми на дуэли.,людей,людьми,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+109309,Да и не узнал ее.,Да и не узнал ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+127055,Этого Бревриен ей никогда не простит.,Этим Бревриен ей никогда не простит.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+138330,Дым для него означал прибыли.,Дым для него означал прибылью.,прибыли,прибылью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+96125,У нее отняли так много радости.,У нее отняли так много радостью.,радости,радостью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+111322,Но этого запомнил по особенному разговору.,Но этим запомнил по особенному разговору.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+108924,И еще я не люблю приказов.,И еще я не люблю приказами.,приказов,приказами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+96452,"Казалось, Ардмор ее не слышал.","Казалось, Ардмор ней не слышал.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+70523,Вик ничего не ответил Ярославу.,Вик ничем не ответил Ярославу.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+124951,Ведь счастливые часов не наблюдают?,Ведь счастливые часами не наблюдают?,часов,часами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+123719,Однако маг не заметил и этого.,Однако маг не заметил и этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+135585,Муж этого от нее ждал?,Муж этим от нее ждал?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+68845,Только Артур ее развлечений не разделяет.,Только Артур ней развлечений не разделяет.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+63535,Нас директор ждет не дождется.,Нами директор ждет не дождется.,Нас,Нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+122893,Он достиг успеха прежде меня!,Он достиг успехом прежде меня!,успеха,успехом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+109402,В жизни я ищу исключительно чувства.,В жизни я ищу исключительно чувством.,чувства,чувством,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+117389,Алексей почти не слышал слов.,Алексей почти не слышал словами.,слов,словами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+99759,Я уж деталей не спрашивал.,Я уж деталями не спрашивал.,деталей,деталями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+62628,Их Вадим раньше не видел.,Ими Вадим раньше не видел.,Их,Ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+136645,Как мало он понимал женщин!,Как мало он понимал женщинами!,женщин,женщинами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+127415,Я правда сам их не видел.,Я правда сам ими не видел.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+108213,Она больше не дала руки Лайаму.,Она больше не дала рукой Лайаму.,руки,рукой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+69587,Чуть ноги Сочню не отдавило.,Чуть ногой Сочню не отдавило.,ноги,ногой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+83574,Извинений Мелия от Эрвина не ожидала.,Извинениями Мелия от Эрвина не ожидала.,Извинений,Извинениями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+87724,Лусиус сначала ее не заметил.,Лусиус сначала ней не заметил.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+93206,Брайс привел пиктов на наши земли.,Брайс привел пиктами на наши земли.,пиктов,пиктами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+126084,Воды выпила из высокого стакана.,Водой выпила из высокого стакана.,Воды,Водой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+124194,И память Айяра не дала ответа.,И память Айяра не дала ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123730,Больше валарианцы не могли ничего.,Больше валарианцы не могли ничем.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+103563,Но жениха ты не знала.,Но женихом ты не знала.,жениха,женихом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74203,Он же вас совершенно не знает?,Он же вами совершенно не знает?,вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+137021,Пелеев сын не щадил врагов.,Пелеев сын не щадил врагами.,врагов,врагами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+86917,В море памятников не ставят.,В море памятниками не ставят.,памятников,памятниками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+108257,Она сама на услышала ни шороха.,Она сама на услышала ни шорохом.,шороха,шорохом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+62011,Этого Мартина уже не видела.,Этим Мартина уже не видела.,Этого,Этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+82566,Ведь мы не видели тела.,Ведь мы не видели телом.,тела,телом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+107064,Фулку он вина не предложил.,Фулку он вином не предложил.,вина,вином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+66286,Их не оставили на Солярии?,Ими не оставили на Солярии?,Их,Ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+137712,Да и вообще его не носил.,Да и вообще им не носил.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82185,Марк даже этого не делал.,Марк даже этим не делал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+125191,Норихаза не спускал глаз с Уилла.,Норихаза не спускал глазами с Уилла.,глаз,глазами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+74426,Мик не выдержал пытки голодом первым.,Мик не выдержал пыткой голодом первым.,пытки,пыткой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+61304,Национальные территории разом захотели самостоятельности.,Национальные территории разом захотели самостоятельностью.,самостоятельности,самостоятельностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+69029,Ты не переменишь вдруг решения?,Ты не переменишь вдруг решением?,решения,решением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+91136,"Впрочем, Сэнтин этого не заметил.","Впрочем, Сэнтин этим не заметил.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+85392,"Нет, этого Майкл не допускал.","Нет, этим Майкл не допускал.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+65581,"Не имею возможности, господин Даван.","Не имею возможностью, господин Даван.",возможности,возможностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+77795,Карт мирно покатил по дорожке.,Картами мирно покатил по дорожке.,Карт,Картами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+76741,Нас сам пан Хидик ожидает.,Нами сам пан Хидик ожидает.,Нас,Нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+70480,А серые патронов не жалели.,А серые патронами не жалели.,патронов,патронами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+61094,По Сарнакам выпустили не менее сотни.,По Сарнакам выпустили не менее сотней.,сотни,сотней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+67416,"Одна девушка задремала, присеву дерева.","Одна девушка задремала, присеву деревом.",дерева,деревом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+114174,Ни один не носил переводчиков.,Ни один не носил переводчиками.,переводчиков,переводчиками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+103325,Но Кристи не хотел спешки.,Но Кристи не хотел спешкой.,спешки,спешкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+101473,Джон Пол с интересом ждал ответа.,Джон Пол с интересом ждал ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+82417,Однако Крохин этого не сказал.,Однако Крохин этим не сказал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+75234,Каждый день стоит жизни многим.,Каждый день стоит жизнью многим.,жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+62998,Хотя желает мне только добра.,Хотя желает мне только добром.,добра,добром,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+79240,Она еще надавала ему указаний.,Она еще надавала ему указаниями.,указаний,указаниями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+110002,Больше Рэнд не произнес ни слова.,Больше Рэнд не произнес ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95752,Эти птицы никогда не ведали клетки.,Эти птицы никогда не ведали клеткой.,клетки,клеткой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+74726,И он решил игры исход.,И он решил игрой исход.,игры,игрой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+90762,Это Джейк не дает мне шанса.,Это Джейк не дает мне шансом.,шанса,шансом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+76162,Но заслуживал ли Райан Байяр доверия?,Но заслуживал ли Райан Байяр доверием?,доверия,доверием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+60999,"Ждали груза, пока была надежда.","Ждали грузом, пока была надежда.",груза,грузом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+137576,Сегодня Сара не надела лифчика.,Сегодня Сара не надела лифчиком.,лифчика,лифчиком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+137118,Поэтому не остаюсь и жду ответа.,Поэтому не остаюсь и жду ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67012,"Наш мир не знает услуг, Дэрайес.","Наш мир не знает услугами, Дэрайес.",услуг,услугами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+106226,И тает звезд не по ранжиру рать.,И тает звездами не по ранжиру рать.,звезд,звездами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+116488,Однако и Сталл не терял времени даром.,Однако и Сталл не терял временем даром.,времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+137371,На эти деньги Мартин потом купил еды.,На эти деньги Мартин потом купил едой.,еды,едой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111168,Боб: Но вы этого не сделаете?,Боб: Но вы этим не сделаете?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+100362,Другой ночью мистер Боумен принес немного рыбы.,Другой ночью мистер Боумен принес немного рыбой.,рыбы,рыбой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+106294,И что простые женщины меня не поймут.,И что простые женщины мной не поймут.,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+121832,Но дед Варава даже головы не поднял.,Но дед Варава даже головой не поднял.,головы,головой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+111638,Далькой не проявил интереса к ее словам.,Далькой не проявил интересом к ее словам.,интереса,интересом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+100449,Значит Смит все еще не включает ее?..,Значит Смит все еще не включает ней?..,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+128030,Или как бы ее опять не узнали?,Или как бы ней опять не узнали?,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+133580,"Представь, даже скандала ей не устроил.","Представь, даже скандалом ей не устроил.",скандала,скандалом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+126118,Чтоб не срывал крыши у господ облав-юнкеров.,Чтоб не срывал крышей у господ облав-юнкеров.,крыши,крышей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+69601,"Так и видно, не разогнешь их.","Так и видно, не разогнешь ими.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+86089,"Конечно, он давно не имел женщины.","Конечно, он давно не имел женщиной.",женщины,женщиной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81479,Но я ведь теперь хлеба много ем!,Но я ведь теперь хлебом много ем!,хлеба,хлебом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+89313,Фактически же Осберт вообще не искал ее.,Фактически же Осберт вообще не искал ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+80277,Главное теперь — не проболтаться раньте времени.,Главное теперь — не проболтаться раньте временем.,времени,временем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+75800,Так мама ее назад и не получила!,Так мама ней назад и не получила!,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+62049,Однако Ники уже никому не причинит вреда.,Однако Ники уже никому не причинит вредом.,вреда,вредом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+62969,Но Тим и повода ей не давал.,Но Тим и поводом ей не давал.,повода,поводом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+104722,Сегодня Анна не вызывала их к себе.,Сегодня Анна не вызывала ими к себе.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+119841,Игорь Нетто никогда себе этого не позволял.,Игорь Нетто никогда себе этим не позволял.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+136594,Ты почти достиг короны через милости Елизаветы.,Ты почти достиг короной через милости Елизаветы.,короны,короной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+84394,И сейчас хотела от него совсем немногого.,И сейчас хотела от него совсем немногим.,немногого,немногим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+76924,Не этого хотела больше всего на свете?,Не этим хотела больше всего на свете?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+90660,В других религиях я влияния не имею.,В других религиях я влиянием не имею.,влияния,влиянием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+92197,Но лорд Баклуорт и не ожидал ответа.,Но лорд Баклуорт и не ожидал ответом.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+124193,Неужели она так и не примет изменения?,Неужели она так и не примет изменением?,изменения,изменением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+136965,"Петр не спросил, кто этого хочет.","Петр не спросил, кто этим хочет.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+86219,Никто их них не пожал руки другому.,Никто их них не пожал рукой другому.,руки,рукой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+72068,Дай Бог здоровья Психее за этот рай!,Дай Бог здоровьем Психее за этот рай!,здоровья,здоровьем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95020,Бинк с надеждой набрал в грудь воздуха...,Бинк с надеждой набрал в грудь воздухом...,воздуха,воздухом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+126444,И ведь больше некому ее не скажешь!,И ведь больше некому ней не скажешь!,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+69616,"Зато языком Вавило, как говорится, города брал.","Зато языком Вавило, как говорится, городом брал.",города,городом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+68829,"Может, Дашка права, и приличия требовали букета?","Может, Дашка права, и приличия требовали букетом?",букета,букетом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+110986,"Мы жили, не зная нужды, потом Безил умер.","Мы жили, не зная нуждой, потом Безил умер.",нужды,нуждой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+76767,Она обживалась с новой легендой и ждала команды.,Она обживалась с новой легендой и ждала командой.,команды,командой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+73447,"Она ждет новостей, а он здесь болтает с Аффемом!","Она ждет новостями, а он здесь болтает с Аффемом!",новостей,новостями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+68767,"Молодой мужской организм сына требовал еды, и много.","Молодой мужской организм сына требовал едой, и много.",еды,едой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+106866,"А теперь Бо говорит, будто хочет покоя.","А теперь Бо говорит, будто хочет покоем.",покоя,покоем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+105064,"Все было ей велико, но это значения не имело.","Все было ей велико, но это значением не имело.",значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+59767,Со дня зачисления он не посетил службы еще ни разу!,Со дня зачисления он не посетил службой еще ни разу!,службы,службой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+117437,"Но, когда кончил, Петр ждал еще главного.","Но, когда кончил, Петр ждал еще главном.",главного,главном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+75434,"Наверное, мужчина – они ведь их не носят.","Наверное, мужчина – они ведь ими не носят.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+78970,Только бы этот здоровенный бык водитель его не обнаружил!,Только бы этот здоровенный бык водитель им не обнаружил!,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+62622,"Закон на их стороне, лиц никто не увидит.","Закон на их стороне, лицами никто не увидит.",лиц,лицами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+115201,"Не произошло потому, что Колчак их не хотел...","Не произошло потому, что Колчак ими не хотел...",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+93594,"А чаканом перекладали, чтоб землей глаза не засыпало.","А чаканом перекладали, чтоб землей глазом не засыпало.",глаза,глазом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+100050,Лена Травкина улетела невозможное горе раньше я этого не знал.,Лена Травкина улетела невозможное горе раньше я этим не знал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+135763,Эйстейн Девчушка не понял этого и потому пал.,Эйстейн Девчушка не понял этим и потому пал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+127062,Уж не попросил ли Жобер священника шпионить за ней?,Уж не попросил ли Жобер священником шпионить за ней?,священника,священником,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+95182,"Знай ты руны побед, коль разума жаждешь.","Знай ты руны побед, коль разумом жаждешь.",разума,разумом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+64274,"Иди, говорит, купи акций, так все делают.","Иди, говорит, купи акциями, так все делают.",акций,акциями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+95353,Да у самого на такое строительство рук не доставало.,Да у самого на такое строительство руками не доставало.,рук,руками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+104884,"Всем укором, что убитый Не сыскал еще защиты.","Всем укором, что убитый Не сыскал еще защитой.",защиты,защитой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+119778,"Видел, как просквозил, – даже головы не повернул?","Видел, как просквозил, – даже головой не повернул?",головы,головой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+126044,Странно! – в комнату купец гостей сразу не повел.,Странно! – в комнату купец гостями сразу не повел.,гостей,гостями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+125352,"Кестрель заметила, что один так и не открыл лица.","Кестрель заметила, что один так и не открыл лицом.",лица,лицом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+66464,Но главное – этого хотели Танаяма и Коропатский.,Но главное – этим хотели Танаяма и Коропатский.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+69414,"Вот, например, Анна ее и не слышала.","Вот, например, Анна ней и не слышала.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+65624,"Но наше государство не содержит вас, доктор Пиренн.","Но наше государство не содержит вами, доктор Пиренн.",вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+124917,"Возможно, беседовали, хотя фемарг слов не слышал.","Возможно, беседовали, хотя фемарг словами не слышал.",слов,словами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+124887,Но почему не видели в Таргитае бога раньше?,Но почему не видели в Таргитае богом раньше?,бога,богом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+87194,"А где живут Айверсли, Кристабель понятия не имела.","А где живут Айверсли, Кристабель понятием не имела.",понятия,понятием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+138524,"Пес его знает, где медведь ножа отведал.","Пес его знает, где медведь ножом отведал.",ножа,ножом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67172,Но он его не получит: законный наследник близко!,Но он им не получит: законный наследник близко!,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+62967,"И вы ведь главного не знаете, Тим.","И вы ведь главном не знаете, Тим.",главного,главном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67754,"Веб хотя и открыл лицо, но взгляда ее избегал.","Веб хотя и открыл лицо, но взглядом ее избегал.",взгляда,взглядом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+88052,"Как жаль, что Дарби не сделает ей предложения!","Как жаль, что Дарби не сделает ей предложением!",предложения,предложением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+86988,"Жонглер не слушал ее, он хотел видеть Хелоизу.","Жонглер не слушал ней, он хотел видеть Хелоизу.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+123679,Однако до сих пор Сулерна почти не покидала дома.,Однако до сих пор Сулерна почти не покидала домом.,дома,домом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+129818,"Если да, Джос никогда не узнает причины.","Если да, Джос никогда не узнает причиной.",причины,причиной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+87556,"Жаль только, лорд Несфилд этого не понял.","Жаль только, лорд Несфилд этим не понял.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+106228,"Она не хочет битв, она закрыта гордо.","Она не хочет битвами, она закрыта гордо.",битв,битвами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+107385,"Никогда женщины не целовали ног ему, Иакову!","Никогда женщины не целовали ногами ему, Иакову!",ног,ногами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+93597,"Там по месяцу, по два семьи не видишь.","Там по месяцу, по два семьей не видишь.",семьи,семьей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+129765,"Пусть теперь посоветует тебе, где еще нас не найдут.","Пусть теперь посоветует тебе, где еще нами не найдут.",нас,нами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+109714,Но захваченные борьбой Нушрок и Абаж не слышали ее.,Но захваченные борьбой Нушрок и Абаж не слышали ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+89067,Но не имеет значения – проверка это или нет.,Но не имеет значением – проверка это или нет.,значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+122694,Бидо ле Бурк больше не добавил ни слова.,Бидо ле Бурк больше не добавил ни словом.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+80048,"Тиарнан не знал отца, но герцога Хоэла он любил.","Тиарнан не знал отцом, но герцога Хоэла он любил.",отца,отцом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+105500,Все равно без него мы лыж не получим.,Все равно без него мы лыжами не получим.,лыж,лыжами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+87200,Обычно Стокли не селит гостей в семейное крыло.,Обычно Стокли не селит гостями в семейное крыло.,гостей,гостями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+93240,Уж не ищет ли он ей мужа между нашими учеными?,Уж не ищет ли он ей мужем между нашими учеными?,мужа,мужем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123735,Но о существовании пути Элири не знала ничего.,Но о существовании пути Элири не знала ничем.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+107971,"Мунн оторвал один листочек, натер им ладони.","Мунн оторвал один листочек, натер им ладонью.",ладони,ладонью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+88570,Неужели же кучер до сих пор не видит ее?,Неужели же кучер до сих пор не видит ней?,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138651,Девка-то это и поняла — нитки вот тебе дала.,Девка-то это и поняла — ниткой вот тебе дала.,нитки,ниткой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+99181,"Но, ах! они во мне любви не уменьшили.","Но, ах! они во мне любовью не уменьшили.",любви,любовью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+98623,Но он не обнаружил ни ее ни Кабби.,Но он не обнаружил ни ней ни Кабби.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138658,"Осташа просто сидел и молчал, не чуя холода.","Осташа просто сидел и молчал, не чуя холодом.",холода,холодом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+133357,И вдруг сообразила — адреса не знает тоже.,И вдруг сообразила — адресом не знает тоже.,адреса,адресом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+125339,"Все отдыхали, и лишь Сирей не находила себе места.","Все отдыхали, и лишь Сирей не находила себе местом.",места,местом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+89305,"Осберт слышал это, но не подал и вида.","Осберт слышал это, но не подал и видом.",вида,видом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+95605,Она не спрашивала карты об успехе кампании в Данкерне.,Она не спрашивала картой об успехе кампании в Данкерне.,карты,картой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+77986,От меда Маня отказалась: она его не знала.,От меда Маня отказалась: она им не знала.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+94616,Она не шутила: Сэм Джеллико терпеть не могла адвокатов.,Она не шутила: Сэм Джеллико терпеть не могла адвокатами.,адвокатов,адвокатами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+114384,Криста совсем не чувствовала страха — только удовольствие.,Криста совсем не чувствовала страхом — только удовольствие.,страха,страхом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+130858,"Понятия не имею, кто бы это мот быть.","Понятием не имею, кто бы это мот быть.",Понятия,Понятием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82676,Афия была права: он совершенно ее не знал.,Афия была права: он совершенно ней не знал.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+117834,"Теперь я знал, что и Дахут не делала этого.","Теперь я знал, что и Дахут не делала этим.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+73247,Рик знал этот тон: теперь жди беды.,Рик знал этот тон: теперь жди бедой.,беды,бедой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+63416,Особенно по вторникам – че тока сюда не несет.,Особенно по вторникам – че током сюда не несет.,тока,током,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+133919,"Не имеют права, ведь связь я выдумала сама!","Не имеют правом, ведь связь я выдумала сама!",права,правом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+68850,"Счастье еще, что Марлинский ее не видит!","Счастье еще, что Марлинский ней не видит!",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95412,"Виденное в Шурваловальской крепости, не обещало ему победы.","Виденное в Шурваловальской крепости, не обещало ему победой.",победы,победой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+93167,"Выходит, Кинкар-дины не получат от нее помощи.","Выходит, Кинкар-дины не получат от нее помощью.",помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+123769,"Серые не носили одежды и не применяли, оружия.","Серые не носили одеждой и не применяли, оружия.",одежды,одеждой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+61827,"И девушка проспала слишком долго, однако не видела снов.","И девушка проспала слишком долго, однако не видела снами.",снов,снами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+77943,Я получил для просмотра дела запрошенных мною людей.,Я получил для просмотра делом запрошенных мною людей.,дела,делом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+99446,"Я думаю, даже Сериз не знала этого.","Я думаю, даже Сериз не знала этим.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+125240,Но все напрасно – Едогими отделяло от них настолько этажей.,Но все напрасно – Едогими отделяло от них настолько этажами.,этажей,этажами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+129769,"Именно этого он от тебя и хотел, Тир?","Именно этим он от тебя и хотел, Тир?",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+127064,"Такой человек, как Бревриен, вас не стоит.","Такой человек, как Бревриен, вами не стоит.",вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+81702,Когда два пункта твоих неуязвимы – не разрывай их.,Когда два пункта твоих неуязвимы – не разрывай ими.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+64206,Если не найду письма – будет много вони.,Если не найду письмом – будет много вони.,письма,письмом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+93430,"Значит, порядок, Бенни никого больше не нанимал.","Значит, порядок, Бенни никем больше не нанимал.",никого,никем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+112582,"Финли малый не глупый, однако не узнал меня.","Финли малый не глупый, однако не узнал мной.",меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+101727,"Ах, Боже, надеюсь, там не натворили дел!","Ах, Боже, надеюсь, там не натворили делами!",дел,делами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+132250,Также ничего не знал он о жизни Джона и Леттис...,Также ничем не знал он о жизни Джона и Леттис...,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+99031,"Отведав пирога, ой восхищенно посмотрел на Ли.","Отведав пирогом, ой восхищенно посмотрел на Ли.",пирога,пирогом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+77670,"Однако стало ясно, что Седжуик ничего не просит.","Однако стало ясно, что Седжуик ничем не просит.",ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+65442,"Если имени не знают, то – ""командир"".","Если именем не знают, то – ""командир"".",имени,именем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+70892,"Мистер Рейншор не ждал вас сегодня, мне кажется.","Мистер Рейншор не ждал вами сегодня, мне кажется.",вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+96305,"Деймиен его не знал, но тот явно был нвенгаром.","Деймиен им не знал, но тот явно был нвенгаром.",его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+69569,"Катя сном дела не знала, что за ней подглядывают.","Катя сном делом не знала, что за ней подглядывают.",дела,делом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+83207,"Но там, явив терпенье, смиренно часа ждал.","Но там, явив терпенье, смиренно часом ждал.",часа,часом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+111227,"Зак: Мама, я не несу ответственности.","Зак: Мама, я не несу ответственностью.",ответственности,ответственностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+69597,"Столько узнала, и даже весточки не донесет!","Столько узнала, и даже весточкой не донесет!",весточки,весточкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+110373,"Достигнув ягодиц, Рис сел и поднял с собой Кенну.","Достигнув ягодицами, Рис сел и поднял с собой Кенну.",ягодиц,ягодицами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+138608,И Филипа у нечистой силы оборота на извод искал.,И Филипа у нечистой силы оборотом на извод искал.,оборота,оборотом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+62066,"Тодт больше не видел их, включая немых водителей -""артишоков"".","Тодт больше не видел ими, включая немых водителей -""артишоков"".",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+83434,"Вот у нас ину пору, например, номерной староста кого вздумает прижимать, коли из чести не даешь ему полтинника за выправку нумера: так чем ему взять?","Вот у нас ину пору, например, номерной староста кого вздумает прижимать, коли из чести не даешь ему полтинником за выправку нумера: так чем ему взять?",полтинника,полтинником,Syntax,Government,verb_gen_object,verb_gen_object,librusec,10
+126658,Дабы знали враги нынешние и будущие - Ежерд обид не прощает!,Дабы знали враги нынешние и будущие - Ежерд обидами не прощает!,обид,обидами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+74331,"Ринорук не любил шума, хотя сам нередко выл и громко кричал.","Ринорук не любил шумом, хотя сам нередко выл и громко кричал.",шума,шумом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+125331,"Сирей не отрывала глаз от шитья, разговор зачах, и Бомен снова отошел.","Сирей не отрывала глазами от шитья, разговор зачах, и Бомен снова отошел.",глаз,глазами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+92124,"Алси этого не знала, но багаж явно был для лошади помехой.","Алси этим не знала, но багаж явно был для лошади помехой.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+89780,"Роджер не застонал, потому что этого де Рочевиль не понял бы.","Роджер не застонал, потому что этим де Рочевиль не понял бы.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+94970,"И было страшно думать о том, как хотела она этого поце луя.","И было страшно думать о том, как хотела она этим поце луя.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+138783,"Так как он часто добирался до дома таким образом, это не вы зовет подозрений.","Так как он часто добирался до дома таким образом, это не вы зовет подозрениями.",подозрений,подозрениями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+111296,"След пятерни остался, а холода не почувствовал, теплая была стена.","След пятерни остался, а холодом не почувствовал, теплая была стена.",холода,холодом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+124838,Олег почувствовал страх: Мрак никогда ни у кого не просил помощи.,Олег почувствовал страх: Мрак никогда ни у кого не просил помощью.,помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+121842,"И тетрадь оставляя пятно на паркете порастает лишайником, мхами А пространства - куда не заглянешь - утонешь.","И тетрадь оставляя пятно на паркете порастает лишайником, мхами А пространством - куда не заглянешь - утонешь.",пространства,пространством,Syntax,Government,verb_gen_object,verb_gen_object,librusec,9
+83579,"Еще несколько минут назад Мелии казалось, что и часа больше не выдержит рядом с Эр вином.","Еще несколько минут назад Мелии казалось, что и часом больше не выдержит рядом с Эр вином.",часа,часом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+62220,"А чаще, не выдержав муки, позорно удирает сам демон.","А чаще, не выдержав мукой, позорно удирает сам демон.",муки,мукой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+78284,"У меня не раз доставало силы одолеть молитвою его слуг, более мелких бесов.","У меня не раз доставало силой одолеть молитвою его слуг, более мелких бесов.",силы,силой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+65852,"Начальник, носивший сейшелское имя Намарат Годисавата, был занят выданными компьютером данными и, не поднял головы.","Начальник, носивший сейшелское имя Намарат Годисавата, был занят выданными компьютером данными и, не поднял головой.",головы,головой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,8
+99865,"Не мог потому, что и сам Али — Селям не знал этого.","Не мог потому, что и сам Али — Селям не знал этим.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+124050,"Никаких Торовых болот больше не было и в помине, и никакая Мафра не ждала помощи.","Никаких Торовых болот больше не было и в помине, и никакая Мафра не ждала помощью.",помощи,помощью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+82155,"Может многие его способности не востребованы, и он ждет от вас поддержки.","Может многие его способности не востребованы, и он ждет от вас поддержкой.",поддержки,поддержкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+71364,"Алекс жестоко подбрасывало на ходу, но она не замечала боли.","Алекс жестоко подбрасывало на ходу, но она не замечала болью.",боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+95184,"Соколы твои поникли головой и с ними конь тот Грани, и мы не знаем утехи.","Соколы твои поникли головой и с ними конь тот Грани, и мы не знаем утехой.",утехи,утехой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+67329,"Но в портфеле лежали груды бумаг, которые ждали се внимания.","Но в портфеле лежали груды бумаг, которые ждали се вниманием.",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+78364,"Слова молитв знакомы, но сама она, выходит, их не скажет без подсказки.","Слова молитв знакомы, но сама она, выходит, ими не скажет без подсказки.",их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+78307,"Пустяк, а немного жаль — плечи ее по сю пору хороши, подбородок немного полный, но сие не портит линии.","Пустяк, а немного жаль — плечи ее по сю пору хороши, подбородок немного полный, но сие не портит линией.",линии,линией,Syntax,Government,verb_gen_object,verb_gen_object,librusec,7
+92100,"Даже во дворе не поздно было отказаться, но Алси этого вовремя не сообразила.","Даже во дворе не поздно было отказаться, но Алси этим вовремя не сообразила.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138667,"Новая толпа с пишками обступила корму Осташиной барки, глядя на Кафтаныча и ожидая команды.","Новая толпа с пишками обступила корму Осташиной барки, глядя на Кафтаныча и ожидая командой.",команды,командой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,8
+128734,Появившийся неожиданно Сирил Арпел встал подле Дани и уже не покидал ее.,Появившийся неожиданно Сирил Арпел встал подле Дани и уже не покидал ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+61146,"По его личности ни Мойка, ни Марсель возражений не кинут...","По его личности ни Мойка, ни Марсель возражениями не кинут...",возражений,возражениями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+117365,"Больше ответа не услышишь, кроме сего: суевер, ханжа, пустосвят негодный.","Больше ответом не услышишь, кроме сего: суевер, ханжа, пустосвят негодный.",ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+89963,"Они не знали, предупредил или нет Моджер стражников, чтобы тс не выпускали его жену и Элис.","Они не знали, предупредил или нет Моджер стражниками, чтобы тс не выпускали его жену и Элис.",стражников,стражниками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+98775,"Эллен описание Леофрун показалось слишком уж поэтичным, но она ничего не сказала.","Эллен описание Леофрун показалось слишком уж поэтичным, но она ничем не сказала.",ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+85763,"Миэр принял ее за Сару, а она не сказала ему правды и поэтому вынуждена ехать.","Миэр принял ее за Сару, а она не сказала ему правдой и поэтому вынуждена ехать.",правды,правдой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+138681,"Из жердин и веток Корнила и Никешка связали носилки, навалили лапника и уложили Бакира, сверху закинули армяками.","Из жердин и веток Корнила и Никешка связали носилки, навалили лапником и уложили Бакира, сверху закинули армяками.",лапника,лапником,Syntax,Government,verb_gen_object,verb_gen_object,librusec,8
+68652,"Эйкен не произнес ни слова, однако вернулся и стоял теперь, разглядывая ее руку.","Эйкен не произнес ни словом, однако вернулся и стоял теперь, разглядывая ее руку.",слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+81633,"Но теперь вы говорите мне, Саре имени никогда не меняли.","Но теперь вы говорите мне, Саре именем никогда не меняли.",имени,именем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+125574,"Директор не сгущал красок — Игорь на строгий телефонный звонок ответил, что отец ""влет"".","Директор не сгущал красками — Игорь на строгий телефонный звонок ответил, что отец ""влет"".",красок,красками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+69644,"Воевода хоть лютовал, а семейных у Василья сперва не задевал.","Воевода хоть лютовал, а семейными у Василья сперва не задевал.",семейных,семейными,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+113978,"Рейд Эгана на земли команчей стоил жизни многим, в том числе семье Тоховаи.","Рейд Эгана на земли команчей стоил жизнью многим, в том числе семье Тоховаи.",жизни,жизнью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+107095,"Когда же Алуетт пыталась поговорить с Инноценцией, та словно не слышала ее.","Когда же Алуетт пыталась поговорить с Инноценцией, та словно не слышала ней.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+78254,"Ты да парень твой, да он мне денежки не дал.","Ты да парень твой, да он мне денежкой не дал.",денежки,денежкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+96880,"Правда, я-то сам ее не видел, но вот правосудие было предупреждено, – заявил художник Барюк по прозвищу Дикобраз.","Правда, я-то сам ней не видел, но вот правосудие было предупреждено, – заявил художник Барюк по прозвищу Дикобраз.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,8
+65662,"Еще не было случая, чтобы Лиммар Пониетс не выполнил нормы.","Еще не было случая, чтобы Лиммар Пониетс не выполнил нормой.",нормы,нормой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+117448,"Покуда чарки не выпил, так его и хоть бы и век не было.","Покуда чаркой не выпил, так его и хоть бы и век не было.",чарки,чаркой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+116200,"Ответа он так и на нашел, что предполагать, не знал.","Ответом он так и на нашел, что предполагать, не знал.",Ответа,Ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+133534,"И следует заметить, что на Юстинку этот Петр как раз не обращал внимания.","И следует заметить, что на Юстинку этот Петр как раз не обращал вниманием.",внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+120186,"К тому времени как Гвальхмай достиг берега, бой уже почти завершился.","К тому времени как Гвальхмай достиг берегом, бой уже почти завершился.",берега,берегом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+97765,"Я не видела людей с того времени, как войско Родри захватило Ллисвен.","Я не видела людьми с того времени, как войско Родри захватило Ллисвен.",людей,людьми,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+118699,"Да предложи мне Барская миллион, а тетушка лиши наследства — я и тогда не соглашусь.","Да предложи мне Барская миллион, а тетушка лиши наследством — я и тогда не соглашусь.",наследства,наследством,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+116158,"В казино Кара оказалась впервые, и Доминик купил ей фишек.","В казино Кара оказалась впервые, и Доминик купил ей фишками.",фишек,фишками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+79569,"Филип искоса посмотрел на портрет, но ни сказал ни слова.","Филип искоса посмотрел на портрет, но ни сказал ни словом.",слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+84340,"Лидия не хот тела, чтобы этот человек видел ее боль и унижение.","Лидия не хот телом, чтобы этот человек видел ее боль и унижение.",тела,телом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+107920,"Но Творюн в тот момент не понимал этого, его мысли сковал страх.","Но Творюн в тот момент не понимал этим, его мысли сковал страх.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+95086,"Правда, Бинк никогда раньше не видел городов – только на рисунках.","Правда, Бинк никогда раньше не видел городами – только на рисунках.",городов,городами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+104852,"Я с похорон не бывал, а крестов, верно, немало наставили.","Я с похорон не бывал, а крестами, верно, немало наставили.",крестов,крестами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+117367,"Против речного-де стремления, говорят отцы, нельзя плавать, плетью обуха не перешибешь.","Против речного-де стремления, говорят отцы, нельзя плавать, плетью обухом не перешибешь.",обуха,обухом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+103634,"Ороондат бегом, не переводя дыхания, сразу повел войско к Элефантине.","Ороондат бегом, не переводя дыханием, сразу повел войско к Элефантине.",дыхания,дыханием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+100654,"А еще оставил деньги Майку, чтобы и тот дал Хомеру конфет.","А еще оставил деньги Майку, чтобы и тот дал Хомеру конфетами.",конфет,конфетами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+138609,"Еще про подмененышей замечено, что они воды не любят и никакого человеческого заделья перенять не могут.","Еще про подмененышей замечено, что они водой не любят и никакого человеческого заделья перенять не могут.",воды,водой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,6
+59561,"Кроме кого, они не ведают жалости и разят не разбирая.","Кроме кого, они не ведают жалостью и разят не разбирая.",жалости,жалостью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,4
+70149,Одалживать кислород у госпожи Даккары смысла не имело: все равно не даст.,Одалживать кислород у госпожи Даккары смыслом не имело: все равно не даст.,смысла,смыслом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,5
+91980,"Джек понимал, что Кочис не просит совета — он уже принял решение.","Джек понимал, что Кочис не просит советом — он уже принял решение.",совета,советом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+73801,Дженива налила чаю и добавила молока.,Дженива налила чаю и добавила молоком.,молока,молоком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+129425,"Но не делай этого, Ши.","Но не делай этим, Ши.",этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+60901,"Мы не темные, кое-чего понимам-с!","Мы не темные, кое-чем понимам-с!",кое-чего,кое-чем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+77297,Сегодня поддержки от него не жди.,Сегодня поддержкой от него не жди.,поддержки,поддержкой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+113204,Вскоре противник Морвана жестом попросил пощады.,Вскоре противник Морвана жестом попросил пощадой.,пощады,пощадой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81706,Где меня вы не видали.,Где мной вы не видали.,меня,мной,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+126215,Но траверсер этого тоже не знал.,Но траверсер этим тоже не знал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+114320,Да и не хотел спасения.,Да и не хотел спасением.,спасения,спасением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+122842,Граф Дерби выпил еще вина.,Граф Дерби выпил еще вином.,вина,вином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+75916,Тим тебя в обиду не даст.,Тим тобой в обиду не даст.,тебя,тобой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+67677,Веб не читал газет несколько дней.,Веб не читал газетами несколько дней.,газет,газетами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+92537,Там Хьюард ее точно не найдет.,Там Хьюард ней точно не найдет.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+96005,И тогда Карачин-багатур запросил мира.,И тогда Карачин-багатур запросил миром.,мира,миром,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+79406,Он явно избегал их сегодня.,Он явно избегал ими сегодня.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+123059,Азарика и сама этого не понимала.,Азарика и сама этим не понимала.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123692,Лесные люди не считали года.,Лесные люди не считали годом.,года,годом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+104470,Бальбо никогда не правил корректуры.,Бальбо никогда не правил корректурой.,корректуры,корректурой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+81071,Нэнкарроу не сделает для нее исключения.,Нэнкарроу не сделает для нее исключением.,исключения,исключением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+89203,Однако словам ее не поверили.,Однако словам ней не поверили.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+69590,А камней я тебе дам.,А камнями я тебе дам.,камней,камнями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+68018,Но Пакита ничего не ответила.,Но Пакита ничем не ответила.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74376,"Доди шла, чуть опережая спутника.","Доди шла, чуть опережая спутником.",спутника,спутником,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111754,И Гобби никому не хотел зла.,И Гобби никому не хотел злом.,зла,злом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+87562,Но вы только добавили вопросов.,Но вы только добавили вопросами.,вопросов,вопросами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+99022,Рик не обращал на сына внимания.,Рик не обращал на сына вниманием.,внимания,вниманием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+83830,Медина говорил не переводя дыхания.,Медина говорил не переводя дыханием.,дыхания,дыханием,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+94474,Но Бальзамо уже ее не слышал.,Но Бальзамо уже ней не слышал.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+111326,Некоторые вообще не любят супов.,Некоторые вообще не любят супами.,супов,супами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+92135,Алсионе вообще рук не связывали.,Алсионе вообще руками не связывали.,рук,руками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74815,Разве это одно не стоит благодарности?,Разве это одно не стоит благодарностью?,благодарности,благодарностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+131361,"Казалось, Гай ее не услышал.","Казалось, Гай ней не услышал.",ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+103818,Адам снова налил себе вина.,Адам снова налил себе вином.,вина,вином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+84201,Руби уже принес достаточно дров.,Руби уже принес достаточно дровами.,дров,дровами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+70555,Но капитан не сделал этого.,Но капитан не сделал этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+99203,Он и утром не захотел ее.,Он и утром не захотел ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+123003,Но только не подослал отравителей.,Но только не подослал отравителями.,отравителей,отравителями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+90440,С этим Венаблом каши не сваришь.,С этим Венаблом кашей не сваришь.,каши,кашей,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+75778,Гун же не имеет права!,Гун же не имеет правом!,права,правом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+82061,К нам не питает гнева.,К нам не питает гневом.,гнева,гневом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111186,Эйприл: Я ничего не завершила.,Эйприл: Я ничем не завершила.,ничего,ничем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+87219,А этого Кристабель никогда не любила.,А этим Кристабель никогда не любила.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+76491,Но Бэзил Пич не знал покоя.,Но Бэзил Пич не знал покоем.,покоя,покоем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+117665,Он ведь так этого не оставил!,Он ведь так этим не оставил!,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74336,Палец Ринорука только этого и ждал.,Палец Ринорука только этим и ждал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+100071,"Адрес записали, я вас жду!","Адрес записали, я вами жду!",вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+103677,Не знал покоя и Съем Все.,Не знал покоем и Съем Все.,покоя,покоем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+98555,Нил ведь совсем не знал местности.,Нил ведь совсем не знал местностью.,местности,местностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+121624,Пара дней значения не имеет.,Пара дней значением не имеет.,значения,значением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+128853,А дороги здесь – сама видишь!,А дорогой здесь – сама видишь!,дороги,дорогой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+61607,Но я споров и не затевала.,Но я спорами и не затевала.,споров,спорами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+63182,А там месяц ждала грузовика.,А там месяц ждала грузовиком.,грузовика,грузовиком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+130218,Не знал этого и Алекс.,Не знал этим и Алекс.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+107871,Его выстрелы осечек не знают.,Его выстрелы осечками не знают.,осечек,осечками,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+93164,Авалон почти не видела замка.,Авалон почти не видела замком.,замка,замком,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+73553,Ты же ее не знал.,Ты же ней не знал.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+101520,Джон Пол достиг его первым.,Джон Пол достиг им первым.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+85371,Ты ушей им не терзай!,Ты ушами им не терзай!,ушей,ушами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74260,Эйприл уже почти не испытывала его.,Эйприл уже почти не испытывала им.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95438,"Поправила Диамант подарок, вина пригубила.","Поправила Диамант подарок, вином пригубила.",вина,вином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+120149,Мантия сия не принесет тебе вреда.,Мантия сия не принесет тебе вредом.,вреда,вредом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+61324,Я у Вас прошу не милости.,Я у Вас прошу не милостью.,милости,милостью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,3
+68492,И Рид не хотел изменений.,И Рид не хотел изменениями.,изменений,изменениями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+63202,Никак вы ее не нарушите.,Никак вы ней не нарушите.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+136931,Но Владислав этого не заметил.,Но Владислав этим не заметил.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+136495,Но она им ответа не даст.,Но она им ответом не даст.,ответа,ответом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+125388,Не послушала отца только Пинто.,Не послушала отцом только Пинто.,отца,отцом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+92348,Найл не причинил ей боли.,Найл не причинил ей болью.,боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+69935,И уже эти дети школы позаканчивали.,И уже эти дети школой позаканчивали.,школы,школой,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+81246,Именно этого Исмал и ожидал.,Именно этим Исмал и ожидал.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+96290,Разве я не понимаю приличий?,Разве я не понимаю приличиями?,приличий,приличиями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+86673,Или мы его не взяли?,Или мы им не взяли?,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+78880,Но утро не принесло решения.,Но утро не принесло решением.,решения,решением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+95057,Ведь Хамфри не говорит комплиментов зря.,Ведь Хамфри не говорит комплиментами зря.,комплиментов,комплиментами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+106098,А для производства технологов наймет.,А для производства технологами наймет.,технологов,технологами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+98538,Кэт всем сердцем желала Луз счастья.,Кэт всем сердцем желала Луз счастьем.,счастья,счастьем,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+63072,А Урманин не любил перемен.,А Урманин не любил переменами.,перемен,переменами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+74292,Биль слов на ветер не бросает.,Биль словами на ветер не бросает.,слов,словами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+95115,Бинк тоже не знал этого.,Бинк тоже не знал этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+83261,Хотя и не повторяют их.,Хотя и не повторяют ими.,их,ими,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+64783,Вже правильно слова не скажет.,Вже правильно словом не скажет.,слова,словом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+127573,Фредди же не умела этого.,Фредди же не умела этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+112941,Но тетя Хен этого хотела.,Но тетя Хен этим хотела.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+100414,Сэнт никогда не имел сына.,Сэнт никогда не имел сыном.,сына,сыном,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+63689,Даже голосом не выдает волнения.,Даже голосом не выдает волнением.,волнения,волнением,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+60246,Никто нам лета не вернет...,Никто нам летом не вернет...,лета,летом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+128820,Ты не принесла ему боли.,Ты не принесла ему болью.,боли,болью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+64682,Гера не отрывал взгляда от кафе.,Гера не отрывал взглядом от кафе.,взгляда,взглядом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+77968,Комполка насторожился: не имею права.,Комполка насторожился: не имею правом.,права,правом,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+92296,Найл неторопливо отпил вина из бокала.,Найл неторопливо отпил вином из бокала.,вина,вином,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+131245,Тяжести тут не делали большой.,Тяжестью тут не делали большой.,Тяжести,Тяжестью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+127090,Но Эдива его не предавала.,Но Эдива им не предавала.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+122775,Но Абдул Феда не сделал этого.,Но Абдул Феда не сделал этим.,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111451,Я не хочу ее вообще.,Я не хочу ней вообще.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+109016,Разве не этого Танзи хотела?,Разве не этим Танзи хотела?,этого,этим,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+128216,Теперь слова Таната не вызывали сомнений.,Теперь слова Таната не вызывали сомнениями.,сомнений,сомнениями,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+119995,И они не платили ее.,И они не платили ней.,ее,ней,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+62474,Угроза начальника добавила лейтенанту энергии.,Угроза начальника добавила лейтенанту энергией.,энергии,энергией,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+90572,Ты же Джоку тоже добра желаешь.,Ты же Джоку тоже добром желаешь.,добра,добром,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+111261,Больше его никто мехов не сдает.,Больше им никто мехов не сдает.,его,им,Syntax,Government,verb_gen_object,verb_gen_object,librusec,1
+100755,Сообщение это придало Саммер уверенности.,Сообщение это придало Саммер уверенностью.,уверенности,уверенностью,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2
+107883,Я совершенно не узнал вас.,Я совершенно не узнал вами.,вас,вами,Syntax,Government,verb_gen_object,verb_gen_object,librusec,2

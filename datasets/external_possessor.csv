@@ -1,0 +1,1001 @@
+id,source_sentence,target_sentence,source_word,target_word,level,phenomenon,PID,subtype,domain,tree_depth
+141527,Но ведь у брата будет жена.,Но ведь у себя будет жена.,брата,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+163537,Там у Сонни Хокори есть казино.,Там у себя Хокори есть казино.,Сонни,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+144475,У Клер Ройленд была такая же.,У себя Ройленд была такая же.,Клер,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+172325,У Талли была душа змеи.,У себя была душа змеи.,Талли,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+180592,А у вас еще планы были.,А у себя еще планы были.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+178151,У Сары тоже были странности.,У себя тоже были странности.,Сары,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+170704,Но у Фосеттов проблемы не было.,Но у себя проблемы не было.,Фосеттов,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+137748,"У тебя была сестра, Лис.","У себя была сестра, Лис.",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+184802,У меня будет общество Ларисы.,У себя будет общество Ларисы.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+154533,У Валерика будут такие же волосы...,У себя будут такие же волосы...,Валерика,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+142257,У Мириел было множество секретов.,У себя было множество секретов.,Мириел,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+127579,У нее есть изображение жрецов!,У себя есть изображение жрецов!,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+177436,Но у Алла вы все-таки были?,Но у себя вы все-таки были?,Алла,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+169061,У Коли Ручкина была такая температура.,У себя Ручкина была такая температура.,Коли,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+163698,У тебя есть блезнь раздвоение личмости.,У себя есть блезнь раздвоение личмости.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+153360,У вас ведь есть ранихины.,У себя ведь есть ранихины.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+153456,У меня внизу есть помощник...,У себя внизу есть помощник...,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+162635,У меня есть масло яка.,У себя есть масло яка.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+195280,У Оакситля были острые глаза.,У себя были острые глаза.,Оакситля,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+191484,"Итак, у Виктоши был муж.","Итак, у себя был муж.",Виктоши,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+175134,У них было спецвидение от Самого?,У себя было спецвидение от Самого?,них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+139526,У меня была тетка Мильред.,У себя была тетка Мильред.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+138473,У вас есть еще такое пиво.,У себя есть еще такое пиво.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+189690,У покойников ить семьи есть.,У себя ить семьи есть.,покойников,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+147431,У Латиповой будет пять любовников.,У себя будет пять любовников.,Латиповой,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+157665,Ведь у ей все есть.,Ведь у себя все есть.,ей,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+171210,У вас там точно еще есть?,У себя там точно еще есть?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+189576,У Ингы будет очень естественная реакция.,У себя будет очень естественная реакция.,Ингы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+190608,У квартиры был запасной выход.,У себя был запасной выход.,квартиры,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+131277,У них есть напиток абентори.,У себя есть напиток абентори.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+195776,Это у нее их не будет.,Это у себя их не будет.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+165431,И у меня есть Камень Иллеарт.,И у себя есть Камень Иллеарт.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+194018,У ней тоже тама однушка была!,У себя тоже тама однушка была!,ней,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+183294,И у него будет тоже.,И у себя будет тоже.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+137583,Но у него была Мирина.,Но у себя была Мирина.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+157379,У вас двадцать выходов есть...,У себя двадцать выходов есть...,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+160072,Так пусть у нас потро-алькальды будут.,Так пусть у себя потро-алькальды будут.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+174290,У меня тоже понятия есть.,У себя тоже понятия есть.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+195188,Ведь у вас будет оружие?,Ведь у себя будет оружие?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+158165,У биотозы есть одна особенность.,У себя есть одна особенность.,биотозы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+152495,У нас была более богатая основа.,У себя была более богатая основа.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+193796,У него не было существования.,У себя не было существования.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+150645,У нее теперь есть договор.,У себя теперь есть договор.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+139319,У нее там будет столько развлечений!,У себя там будет столько развлечений!,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+190276,У Глариена есть новая конституция.,У себя есть новая конституция.,Глариена,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+154220,У Уддалаки был сын Начикета.,У себя был сын Начикета.,Уддалаки,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+149892,У нас была стычка с Йобами.,У себя была стычка с Йобами.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+161742,Зато теперь у Эйе был трон.,Зато теперь у себя был трон.,Эйе,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+177697,У Кемпа наверняка есть нож.,У себя наверняка есть нож.,Кемпа,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+169715,У тебя ж есть ее телефон.,У себя ж есть ее телефон.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+159201,У вас в Марграде есть телефон?,У себя в Марграде есть телефон?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+152582,У вас будет один опыт.,У себя будет один опыт.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+133527,У аппарата была секретарша нашего подразделения.,У себя была секретарша нашего подразделения.,аппарата,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+143139,У тебя был целый Кедровый край!,У себя был целый Кедровый край!,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+183226,Только у Магды был порядок.,Только у себя был порядок.,Магды,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+177494,У них всегда броня есть.,У себя всегда броня есть.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+128997,У него есть даже цвет.,У себя есть даже цвет.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+181346,У меня вчера Граф был!,У себя вчера Граф был!,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+188649,Он сказал у меня есть мати-вацыя.,Он сказал у себя есть мати-вацыя.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+126850,И у меня есть Азби.,И у себя есть Азби.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+139620,"У меня есть деньги, Робер.","У себя есть деньги, Робер.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+179403,У дочери есть от нее ключи?,У себя есть от нее ключи?,дочери,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+148680,У Джейн тоже ребят не было.,У себя тоже ребят не было.,Джейн,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+145892,"У нее была сестра, Кей.","У себя была сестра, Кей.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+192337,У человека наверняка был нож.,У себя наверняка был нож.,человека,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+130998,Дома у Бушуевых были гости.,Дома у себя были гости.,Бушуевых,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+8402,Пока у меня есть контракт.,Пока у себя есть контракт.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+6231,У женщин также были конфликты.,У себя также были конфликты.,женщин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+14798,Поэтому много у нас есть провалов.,Поэтому много у себя есть провалов.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+29211,У нас есть и горе.,У себя есть и горе.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+48513,У Ароняна будут черные фигуры.,У себя будут черные фигуры.,Ароняна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+39720,У Боранбаева есть земля в Москве.,У себя есть земля в Москве.,Боранбаева,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+20626,У нас тут есть губернатор.,У себя тут есть губернатор.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+48934,У них есть Адамов молодой.,У себя есть Адамов молодой.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+21671,У него уже определенная школа есть.,У себя уже определенная школа есть.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+44489,У него было соглашение на руках.,У себя было соглашение на руках.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+29070,У тебя просто есть предел веса.,У себя просто есть предел веса.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+26718,У них есть только гимн государства.,У себя есть только гимн государства.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+36608,У них есть яркий очень лидер.,У себя есть яркий очень лидер.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+28033,У Усика были травмы и простои.,У себя были травмы и простои.,Усика,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+13362,У Дэйны должны быть инструкции.,У себя должны быть инструкции.,Дэйны,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+37336,У нее есть необходимые заслуги.,У себя есть необходимые заслуги.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+10553,У нас тоже многих не будет.,У себя тоже многих не будет.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+44798,Но теперь у Израиля есть партнер.,Но теперь у себя есть партнер.,Израиля,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+26661,А сегодня у Вас есть машина?,А сегодня у себя есть машина?,Вас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+23216,У рабочих есть и другая проблема.,У себя есть и другая проблема.,рабочих,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+43003,У Ламджарреда есть многомиллионная устойчивая аудитория.,У себя есть многомиллионная устойчивая аудитория.,Ламджарреда,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+44805,У нас была крепкая община.,У себя была крепкая община.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+9127,У Давида будет непосредственный руководитель.,У себя будет непосредственный руководитель.,Давида,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+40008,У Мазманяна была опухоль в печени.,У себя была опухоль в печени.,Мазманяна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+30000,У Гэтжи тоже есть достоинство.,У себя тоже есть достоинство.,Гэтжи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+9906,У всех есть шанс играть.,У себя есть шанс играть.,всех,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+27806,У курса было много путешествий.,У себя было много путешествий.,курса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+6516,У меня и у клуба есть.,У себя и у клуба есть.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+35933,Но у меня же есть руководство.,Но у себя же есть руководство.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+45002,У нее всегда карточка есть.,У себя всегда карточка есть.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+3188,У нас не будет СРО.,У себя не будет СРО.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+24596,У них здесь не будет практики.,У себя здесь не будет практики.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+49592,У Брайана Орсера результаты есть.,У себя Орсера результаты есть.,Брайана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+57649,У митинга были два повода.,У себя были два повода.,митинга,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+50156,У меня есть все основания перейти.,У себя есть все основания перейти.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+59202,У нас есть голос и силы.,У себя есть голос и силы.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+25205,Но у проекта есть и критики.,Но у себя есть и критики.,проекта,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+41837,Чтобы у него была радость!,Чтобы у себя была радость!,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+24860,У вас просто есть книга.,У себя просто есть книга.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+46632,У парижан есть игра в запасе.,У себя есть игра в запасе.,парижан,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+8615,У премьера будет трудный разговор.,У себя будет трудный разговор.,премьера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+40775,У государства будет два решения.,У себя будет два решения.,государства,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+30938,Разве у Юрловой есть стабильность?,Разве у себя есть стабильность?,Юрловой,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+49464,У нас и паспорт породы есть.,У себя и паспорт породы есть.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+49479,У Турции будет четыре балла.,У себя будет четыре балла.,Турции,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+18592,У Рыжанова такого доступа не было.,У себя такого доступа не было.,Рыжанова,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+29630,Теперь у них есть Чалов.,Теперь у себя есть Чалов.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+38170,И у Экстралиги больные есть.,И у себя больные есть.,Экстралиги,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+43343,Но у всех были силы.,Но у себя были силы.,всех,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+49212,У Григоряна сержанта Был особенный зуб.,У себя сержанта Был особенный зуб.,Григоряна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+41512,У нас есть бюро заказов?,У себя есть бюро заказов?,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+30980,А у Церкви такие участки есть.,А у себя такие участки есть.,Церкви,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+9311,У Остона есть все данные.,У себя есть все данные.,Остона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+35703,У нас все же Ягр был.,У себя все же Ягр был.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+2766,У меня есть все на видео.,У себя есть все на видео.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+34541,У вас есть места силы?,У себя есть места силы?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+58830,Но и у Гэтжи есть шансы.,Но и у себя есть шансы.,Гэтжи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+34913,У Тактарова был пояс победителя турнира...,У себя был пояс победителя турнира...,Тактарова,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+16885,У нас был замечательный сезон отчетностей.,У себя был замечательный сезон отчетностей.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+54567,У Жени был другой командир.,У себя был другой командир.,Жени,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+84346,У Брогана есть коллега Хамид Барахери.,У себя есть коллега Хамид Барахери.,Брогана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+105409,У него есть младшая сестра Джомкван.,У себя есть младшая сестра Джомкван.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+71974,У Евритиона был пес Орф.,У себя был пес Орф.,Евритиона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+114235,У них есть сын Хало.,У себя есть сын Хало.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+89905,У Козака был Театр Пушкина.,У себя был Театр Пушкина.,Козака,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+124178,У Сибель есть брат Сунай.,У себя есть брат Сунай.,Сибель,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+120636,У него был портрет Павла.,У себя был портрет Павла.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+103937,У Питфея есть дочь Эфра.,У себя есть дочь Эфра.,Питфея,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+122686,У Доплера было немного друзей.,У себя было немного друзей.,Доплера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+90597,У нее есть сестра Али Амер.,У себя есть сестра Али Амер.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+91720,У Кайму есть сестра по-имени Альти.,У себя есть сестра по-имени Альти.,Кайму,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+73014,Также у Кунаворе был хороший удар.,Также у себя был хороший удар.,Кунаворе,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+99614,У Адевале есть четыре сестры.,У себя есть четыре сестры.,Адевале,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+82097,У них есть работник — Никита.,У себя есть работник — Никита.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+92265,У многих было по 2 бани.,У себя было по 2 бани.,многих,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+95539,У якутов есть племя мааджар.,У себя есть племя мааджар.,якутов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+61508,У Усириса был сын Петис.,У себя был сын Петис.,Усириса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+103738,У него есть сестра Кара.,У себя есть сестра Кара.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+107127,У четы есть сын Ронин.,У себя есть сын Ронин.,четы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+125219,У Тогарма было десять сыновей.,У себя было десять сыновей.,Тогарма,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+74929,У футболиста есть сестра Тристен.,У себя есть сестра Тристен.,футболиста,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+114732,У Дмитрия Верхюльста была трудняя юность.,У себя Верхюльста была трудняя юность.,Дмитрия,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+88858,У нее есть старшая сестра Отум.,У себя есть старшая сестра Отум.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+114878,У Остона Мэттюся есть две сестры.,У себя Мэттюся есть две сестры.,Остона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+120924,У Кен Арока было восемь детей.,У себя Арока было восемь детей.,Кен,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+101732,У каунакеса был целый ряд продолжений.,У себя был целый ряд продолжений.,каунакеса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+122315,У тосиери есть система рангов.,У себя есть система рангов.,тосиери,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+100534,У футболиста еще есть брат Николай.,У себя еще есть брат Николай.,футболиста,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+109705,У Чбоски есть сестра Стейси.,У себя есть сестра Стейси.,Чбоски,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+90390,У семьи был сын Николай.,У себя был сын Николай.,семьи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+85849,У Вики есть старший брат Константин.,У себя есть старший брат Константин.,Вики,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+67080,У авторов есть определенные роли.,У себя есть определенные роли.,авторов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+99472,У Макс также есть старший брат.,У себя также есть старший брат.,Макс,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+111107,У нее есть брат Илир.,У себя есть брат Илир.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+79580,У Джордже есть сестра Ясна.,У себя есть сестра Ясна.,Джордже,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+98282,У нали есть диалект окро.,У себя есть диалект окро.,нали,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+86081,У Дженоа Кеауэ было двенадцать детей.,У себя Кеауэ было двенадцать детей.,Дженоа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+68098,У него был сын Зарбадаст-хан.,У себя был сын Зарбадаст-хан.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+64210,У Ержана Жилкибаева есть жена Молдир.,У себя Жилкибаева есть жена Молдир.,Ержана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+89758,У Сивона есть младшая сестра Чживон.,У себя есть младшая сестра Чживон.,Сивона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+63991,У Марко Антонио было много женщин.,У себя Антонио было много женщин.,Марко,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+82527,У него есть сестра Шанна Хан.,У себя есть сестра Шанна Хан.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+69233,У Путистина был сын — Владлен.,У себя был сын — Владлен.,Путистина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+121018,У издания была сеть женщин-селькоров.,У себя была сеть женщин-селькоров.,издания,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+119427,У Пасенади был генерал Бандхула.,У себя был генерал Бандхула.,Пасенади,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+90521,У языка также была разновидность ноттовей-мехеррин.,У себя также была разновидность ноттовей-мехеррин.,языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+82132,У нее есть парень Кайсенати.,У себя есть парень Кайсенати.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+122586,У Парвин было четыре брата.,У себя было четыре брата.,Парвин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+113717,У Азры есть младшая сестра Дорук.,У себя есть младшая сестра Дорук.,Азры,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+113737,У Бирте была младшая сестра.,У себя была младшая сестра.,Бирте,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+112018,"У них есть дочь, Кайа.","У себя есть дочь, Кайа.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+73927,У этого есть ядро гонана.,У себя есть ядро гонана.,этого,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+59847,У пары есть пес Фарго.,У себя есть пес Фарго.,пары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+75322,У мананга есть один диалект —писанг.,У себя есть один диалект —писанг.,мананга,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+60178,У Табу есть брат Яшуа.,У себя есть брат Яшуа.,Табу,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+82164,У него есть номер песни.,У себя есть номер песни.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+87307,В Ярвенпа у них есть мечеть.,В Ярвенпа у себя есть мечеть.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+92821,Также у Куна была дистрофия.,Также у себя была дистрофия.,Куна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,2
+115172,У меня есть куар код.,У себя есть куар код.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+118811,"У Лавертеццо есть площадь, площадью.","У себя есть площадь, площадью.",Лавертеццо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+93436,У Сэгоэ никогда не было учителя.,У себя никогда не было учителя.,Сэгоэ,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,2
+121821,У них был сын Николас Хэй.,У себя был сын Николас Хэй.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+68033,У нее есть брат Нуну.,У себя есть брат Нуну.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+120688,У Хависы Омальской было двое детей.,У себя Омальской было двое детей.,Хависы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+111203,У Текле Хаварията было 8 детей.,У себя Хаварията было 8 детей.,Текле,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+81377,У Анне Севитски есть американские корни.,У себя Севитски есть американские корни.,Анне,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+163632,Теперь у Драве был только один салон.,Теперь у себя был только один салон.,Драве,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+134014,"У тебя, ани, была жена?","У себя, ани, была жена?",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+129613,У нас больше вообще не было ножа.,У себя больше вообще не было ножа.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+187350,"У меня не было пропаж, Веум.","У себя не было пропаж, Веум.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+147873,У Каркази тоже была к нему просьба.,У себя тоже была к нему просьба.,Каркази,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+182756,Такие вот у Бушелье были двойные стандарты.,Такие вот у себя были двойные стандарты.,Бушелье,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+171466,У него есть мотоцикл – это раз.,У себя есть мотоцикл – это раз.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+183248,У Элпью уже не было сил смотреть.,У себя уже не было сил смотреть.,Элпью,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+134505,Во-первых: у тебя уже есть тумен.,Во-первых: у себя уже есть тумен.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+176030,И у нас в Рином будет ребенок?,И у себя в Рином будет ребенок?,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+163002,Первый – могли у вас быть ключи?,Первый – могли у себя быть ключи?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+136524,После Аринки у вас не было детей.,После Аринки у себя не было детей.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+183627,У Рамануйяны была лишь одна старая книга.,У себя была лишь одна старая книга.,Рамануйяны,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+131827,"Ладно Берк, у него причина есть.","Ладно Берк, у себя причина есть.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+140154,"У вас есть вопросы, шеф Венн?","У себя есть вопросы, шеф Венн?",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+187878,"Значит, у Друля еще было время.","Значит, у себя еще было время.",Друля,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+190305,У него были ее члены в парламенте.,У себя были ее члены в парламенте.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+136759,Поэтому у меня были никакие не газыри!,Поэтому у себя были никакие не газыри!,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+186606,"У него не было врагов, Декер.","У себя не было врагов, Декер.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+155722,У тебя давно было по шестой категории?,У себя давно было по шестой категории?,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+128501,У меня есть еще силы говорить много.,У себя есть еще силы говорить много.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+152679,У народа Рути тоже были космические корабли.,У себя Рути тоже были космические корабли.,народа,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+189712,У даллы же были немного другие цели.,У себя же были немного другие цели.,даллы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+191961,Больше у Брэя совершенно ничего не было.,Больше у себя совершенно ничего не было.,Брэя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+148479,У него были часы в одном лицее.,У себя были часы в одном лицее.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+137418,Если только у кровернов вообще есть аристократы!,Если только у себя вообще есть аристократы!,кровернов,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+146319,Но у него не было подготовленного кадзе.,Но у себя не было подготовленного кадзе.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+168977,У Хорзы было три десятых аоишского кредита.,У себя было три десятых аоишского кредита.,Хорзы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+141386,Не забудьте: у нас есть энерган.,Не забудьте: у себя есть энерган.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+179220,У халиан никогда не было больших кораблей.,У себя никогда не было больших кораблей.,халиан,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+157218,У Пусиси вообще был совершенно растерзанный вид.,У себя вообще был совершенно растерзанный вид.,Пусиси,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+129191,У дня же вообще не было конца.,У себя же вообще не было конца.,дня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+149903,Разве у чудовища в земле есть мать?,Разве у себя в земле есть мать?,чудовища,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+182856,У одного пророка долго не было детей.,У одного себя долго не было детей.,пророка,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+179893,У него даже не будет записи Ли.,У себя даже не будет записи Ли.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+175161,У Нэфа тоже не было небесных корней.,У себя тоже не было небесных корней.,Нэфа,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+188301,У них была примерка - осмотр корабля.,У себя была примерка - осмотр корабля.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+185305,"И потом, у него есть Гет.","И потом, у себя есть Гет.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+149791,У него же было название без предмета.,У себя же было название без предмета.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+137900,А у меня к Галю – есть!,А у себя к Галю – есть!,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+183372,У Дронго и Сусловой были такие же.,У себя и Сусловой были такие же.,Дронго,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+136485,Но у кострищ родов их не было...,Но у себя родов их не было...,кострищ,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+139137,Мы спасемся – у меня таблетки есть.,Мы спасемся – у себя таблетки есть.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+183407,Однако у них не было статности Майры.,Однако у себя не было статности Майры.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+159903,"У нее же есть деньги, Крим?","У себя же есть деньги, Крим?",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+159703,У проблемы было имя – Кланси Морган.,У себя было имя – Кланси Морган.,проблемы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+173267,А далее у нас такой есть вывод.,А далее у себя такой есть вывод.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+173916,У меня тоже есть знакомства в Мальфорне.,У себя тоже есть знакомства в Мальфорне.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+189391,У термина бино фаата тоже есть значение?,У себя бино фаата тоже есть значение?,термина,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+157203,У меня есть та – акая идея!,У себя есть та – акая идея!,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+172388,У Кларис не было повода убивать Керка.,У себя не было повода убивать Керка.,Кларис,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+162764,А уж у него точно будет Леня.,А уж у себя точно будет Леня.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+161128,У меня есть Солли и пятьдесят других.,У себя есть Солли и пятьдесят других.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+184124,"У вас была семья, господин Толли?","У себя была семья, господин Толли?",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+173351,У Нины было к Государю почти личное.,У себя было к Государю почти личное.,Нины,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+154555,У царя был музыкант по имени Сагга.,У себя был музыкант по имени Сагга.,царя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+136724,У ней та любовь с майеором была.,У себя та любовь с майеором была.,ней,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+157730,По крайней мере у Бет была Алана.,По крайней мере у себя была Алана.,Бет,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+129196,Но сегодня – у Ломоносова были лекции.,Но сегодня – у себя были лекции.,Ломоносова,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+183879,А к флякам у меня есть пиво.,А к флякам у себя есть пиво.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+168974,У Сник было минимальное пространство для маневра.,У себя было минимальное пространство для маневра.,Сник,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+144974,У Хагена немало врагов меж ними есть.,У себя немало врагов меж ними есть.,Хагена,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+190523,У секретаря была прекрасная память на голоса.,У себя была прекрасная память на голоса.,секретаря,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+165220,Со временем у Дорна будет отличный дом!,Со временем у себя будет отличный дом!,Дорна,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+179538,У нас есть запасное здесь в сундуке.,У себя есть запасное здесь в сундуке.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+171140,У нас есть цель — родовое имя.,У себя есть цель — родовое имя.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+35939,"У девочек есть тренеры, данные богом.","У себя есть тренеры, данные богом.",девочек,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+1304,У страны уже есть кредит от РФ.,У себя уже есть кредит от РФ.,страны,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+13046,У Пекки Оюэ уже была пара переломов.,У себя Оюэ уже была пара переломов.,Пекки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+33474,"Но у них есть режим, занятия.","Но у себя есть режим, занятия.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+43675,У нас на клуб есть три машины.,У себя на клуб есть три машины.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+54187,В семье у Вас еще были музыканты?,В семье у себя еще были музыканты?,Вас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+21456,У Англии моментов после этого не было.,У себя моментов после этого не было.,Англии,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+21430,Но у вас все-таки были роли мечты.,Но у себя все-таки были роли мечты.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+5010,"Может, у кого есть второй танк.","Может, у себя есть второй танк.",кого,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+16814,У них есть примерно такого же уровня.,У себя есть примерно такого же уровня.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+16937,У Стипе будет финальный забег за поясом?,У себя будет финальный забег за поясом?,Стипе,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+7827,У щенка уже есть имя Спот.,У себя уже есть имя Спот.,щенка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+5577,У Витории есть победы с тремя клубами.,У себя есть победы с тремя клубами.,Витории,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+15582,"У них были хорошие герои, метовые.","У себя были хорошие герои, метовые.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+24631,"Надеюсь, у ЦСКА еще будут приобретения.","Надеюсь, у себя еще будут приобретения.",ЦСКА,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+15554,У нас зимой была встреча с воопиковцами.,У себя зимой была встреча с воопиковцами.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+32961,"У ""ФК Лайт"" будет выходной.","У ""себя Лайт"" будет выходной.",ФК,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,2
+112735,У нее была сестра — Газал Бадии.,У себя была сестра — Газал Бадии.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+79095,У Ягоша также есть брат Дэвид Мэриенн.,У себя также есть брат Дэвид Мэриенн.,Ягоша,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+88722,У Холтона была череда отношений 70-е годы.,У себя была череда отношений 70-е годы.,Холтона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+103532,У Леротоли Давида есть две старшие сестры.,У себя Давида есть две старшие сестры.,Леротоли,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+87332,"У меня есть олени, сыт буду.","У себя есть олени, сыт буду.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+68831,У института есть мацугасацкий кампус в Саке-ку.,У себя есть мацугасацкий кампус в Саке-ку.,института,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+72445,У нее есть брат — Эли Гиддиш.,У себя есть брат — Эли Гиддиш.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+104327,И что у нас и самолет есть.,И что у себя и самолет есть.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+69956,"У людей есть дар Илуватара, смерть.","У себя есть дар Илуватара, смерть.",людей,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+79117,У Эвы был брат — Алек Эквалл.,У себя был брат — Алек Эквалл.,Эвы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+113459,У Элоди и Беллок было пятеро детей.,У себя и Беллок было пятеро детей.,Элоди,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+98321,У Лукашина и Гали есть сын Константин.,У себя и Гали есть сын Константин.,Лукашина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+86284,"У Джой есть сестра, Джен Сенис.","У себя есть сестра, Джен Сенис.",Джой,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+66525,У него есть друзья Клиц и Элай.,У себя есть друзья Клиц и Элай.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+78682,У князя Бартихана Турлова был сын Айдемир.,У себя Бартихана Турлова был сын Айдемир.,князя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+118565,У Тургута и Томрис был сын Хайри.,У себя и Томрис был сын Хайри.,Тургута,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+107937,Всего у Таноа Висаванги было девять жен.,Всего у себя Висаванги было девять жен.,Таноа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+89418,У нас было соглашения с этой деревней!,У себя было соглашения с этой деревней!,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+103506,У них есть сын Ррок Трим Селими.,У себя есть сын Ррок Трим Селими.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+66936,У Тарундипа есть сын Нусам Сингх Рай.,У себя есть сын Нусам Сингх Рай.,Тарундипа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+81476,У Висунаварата был один сын: Потисарат.,У себя был один сын: Потисарат.,Висунаварата,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+86555,Однако у чонмо такого элемента не было.,Однако у себя такого элемента не было.,чонмо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+80840,У Кожина были сыновья Борис и Еронтий.,У себя были сыновья Борис и Еронтий.,Кожина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+61331,У Катеирна точно был сын Ридвед Веснушчатый.,У себя точно был сын Ридвед Веснушчатый.,Катеирна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+96110,Кроме того у Босака есть брат Марек.,Кроме того у себя есть брат Марек.,Босака,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+124379,"Возможно, у нее есть братский комплекс.","Возможно, у себя есть братский комплекс.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+109895,У нее есть сестра — Эльчин Сантырджиоглу.,У себя есть сестра — Эльчин Сантырджиоглу.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+67273,У Леса есть сын — Бен Бабб.,У себя есть сын — Бен Бабб.,Леса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+121774,Согласно шежире у Мейрамсопы было 5 сыновей.,Согласно шежире у себя было 5 сыновей.,Мейрамсопы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+124149,У квинолт также есть диалект нижний чехалис.,У себя также есть диалект нижний чехалис.,квинолт,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+66537,У него есть сын по имени Викунтана.,У себя есть сын по имени Викунтана.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+97299,У Седрин Кербаол есть младший брат Матис.,У себя Кербаол есть младший брат Матис.,Седрин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+86545,У 4 жителей было по одной лавке.,У 4 себя было по одной лавке.,жителей,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+61241,Также у Пешке есть сестра — Ленка.,Также у себя есть сестра — Ленка.,Пешке,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+60286,У нее есть старший брат Тарас Сахно.,У себя есть старший брат Тарас Сахно.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+61341,Так же у них есть дочь Ичика.,Так же у себя есть дочь Ичика.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+61800,У Рендера была дочь по имени Найчур.,У себя была дочь по имени Найчур.,Рендера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+86806,У Парадорна есть старший брат — Танакорн.,У себя есть старший брат — Танакорн.,Парадорна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+121278,Таким образом у Дин было много клиентов.,Таким образом у себя было много клиентов.,Дин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+120046,У Джея была позиция в части 8.,У себя была позиция в части 8.,Джея,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+108478,У Барбары был брат — Дональд Верле.,У себя был брат — Дональд Верле.,Барбары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+70433,У Пушпарны были жены Прабха и Доша.,У себя были жены Прабха и Доша.,Пушпарны,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+113784,У Эммалин была сестра — Роузмэри Генри.,У себя была сестра — Роузмэри Генри.,Эммалин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+99355,У Натали есть сестра — Ким Мэнс.,У себя есть сестра — Ким Мэнс.,Натали,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+116646,У Александра Говора есть еще и дочь.,У себя Говора есть еще и дочь.,Александра,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+101160,У Ришони есть сестры Ротем и Майя.,У себя есть сестры Ротем и Майя.,Ришони,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+90716,У Кетбуги был единственный сын — Батыл.,У себя был единственный сын — Батыл.,Кетбуги,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+104837,У языка есть диалекты асбалмин и тифал.,У себя есть диалекты асбалмин и тифал.,языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+64786,У Джулии Стивен тоже были хорошие связи.,У себя Стивен тоже были хорошие связи.,Джулии,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+84136,У университета Синлапакон есть еще два кампуса.,У себя Синлапакон есть еще два кампуса.,университета,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+87159,У нее есть старший брат Джеймс Гадон.,У себя есть старший брат Джеймс Гадон.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+79865,У нее и Рота есть сын Хималая.,У себя и Рота есть сын Хималая.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+107256,Также у Аюша есть младший брат Сохан.,Также у себя есть младший брат Сохан.,Аюша,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+86017,У Ромо есть жена и пять детей.,У себя есть жена и пять детей.,Ромо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+126238,"У Вардапета есть термин ""хайлан"".","У себя есть термин ""хайлан"".",Вардапета,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+60325,У них был сын по имени Мемил.,У себя был сын по имени Мемил.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+119120,У Ангрода была жена по имени Эльдалотэ.,У себя была жена по имени Эльдалотэ.,Ангрода,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+95828,У супругов есть сын Клайд Кинер Малруни.,У себя есть сын Клайд Кинер Малруни.,супругов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+99403,Перед ванактом у них были определенные повинности.,Перед ванактом у себя были определенные повинности.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+110438,У нее есть сестра — Бусе Барлас.,У себя есть сестра — Бусе Барлас.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+125791,У Фой есть старший брат — Бэйли.,У себя есть старший брат — Бэйли.,Фой,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+112067,"У Аргова был один сын, Гили.","У себя был один сын, Гили.",Аргова,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+126448,От Вульф у Сигала есть дочь Саванна.,От Вульф у себя есть дочь Саванна.,Сигала,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+72033,У Рин и Финиса есть сила песен.,У себя и Финиса есть сила песен.,Рин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+111765,"У них есть дочь, Сабрина Делата.","У себя есть дочь, Сабрина Делата.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+59289,"У Байнама есть старший брат, Кори.","У себя есть старший брат, Кори.",Байнама,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+161892,"У Темрана была очень теплая, удобная спина.","У себя была очень теплая, удобная спина.",Темрана,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+169921,У вас были причины ожидать столь удивительного отступления нордагов?,У себя были причины ожидать столь удивительного отступления нордагов?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+148638,"У меня хлеб есть, принесла оная молодуха.","У себя хлеб есть, принесла оная молодуха.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+133974,"Она лилась, значит, у меня есть время.","Она лилась, значит, у себя есть время.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+152693,Мне они нушны — у вас они есть.,Мне они нушны — у себя они есть.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+180103,Как было сказано: у меня были версии!,Как было сказано: у себя были версии!,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+158403,В двадцать о женщинах у меня были следующие представления!,В двадцать о женщинах у себя были следующие представления!,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+140189,У него же не было дневников герцогини де Кадаран!,У себя же не было дневников герцогини де Кадаран!,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+154599,У Сью и Ратуки были и другие хвосты.,У себя и Ратуки были и другие хвосты.,Сью,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+189540,"У него есть семья, служба и море.","У себя есть семья, служба и море.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+175139,У меня есть только одна надежда — Кора Орват.,У себя есть только одна надежда — Кора Орват.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+129054,"У Сапарчи был двоюродный племянник, Адам Телаев.","У себя был двоюродный племянник, Адам Телаев.",Сапарчи,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+182355,У меня были жена Дануте и трое детей.,У себя были жена Дануте и трое детей.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+146267,У транспортника будут специально выделенные для охраны самолеты.,У себя будут специально выделенные для охраны самолеты.,транспортника,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+137465,А ведь у мага был рост выше среднего.,А ведь у себя был рост выше среднего.,мага,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+144989,Только у меня есть контакт с его памом.,Только у себя есть контакт с его памом.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+189154,"Я лечил офицера-янки, у которого был такой револьвер.","Я лечил офицера-янки, у себя был такой револьвер.",которого,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+174742,У меня есть сообщение для Ника с Кей-би-зед.,У себя есть сообщение для Ника с Кей-би-зед.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+170274,"Наверное, у нее с Дебрскими были отличные отношения.","Наверное, у себя с Дебрскими были отличные отношения.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+161426,У меня и разрешение есть — дома забыл.,У себя и разрешение есть — дома забыл.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+191172,"У нас имущество, техника пока есть, скот.","У себя имущество, техника пока есть, скот.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+192141,"А вы знаете, что у Берина есть престиж?","А вы знаете, что у себя есть престиж?",Берина,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+165810,"У нее есть подруга, — предложил Марти.","У себя есть подруга, — предложил Марти.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+151961,Если у тебя есть дар — составлять слова.,Если у себя есть дар — составлять слова.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+180097,"У меня, было мало причин любить мужчин.","У себя, было мало причин любить мужчин.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+181366,У нас ведь будет наверное не один набор документов.,У себя ведь будет наверное не один набор документов.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+145222,"Кроме того, у нас есть разрешение геншей.","Кроме того, у себя есть разрешение геншей.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+167414,У нас начать поиск эмира не было возможности...,У себя начать поиск эмира не было возможности...,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+131555,Потому как у Неметоны есть для Нион работа.,Потому как у себя есть для Нион работа.,Неметоны,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+158722,"У Туси был детеныш, маленький говорящий дракозленок Гриша.","У себя был детеныш, маленький говорящий дракозленок Гриша.",Туси,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+155618,В фотографиях у него необходимости еще не было.,В фотографиях у себя необходимости еще не было.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+157260,У Джо Боба Хики не было астрологического знака.,У себя Боба Хики не было астрологического знака.,Джо,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+133791,У Ива Соича была собственная теория земного ядра.,У себя Соича была собственная теория земного ядра.,Ива,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+165266,Вряд ли у Бээна и Пророкова было две истины.,Вряд ли у себя и Пророкова было две истины.,Бээна,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+160500,Только у меня будет к одна вам просьба.,Только у себя будет к одна вам просьба.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+162819,В Ордене почувствовали бы и у меня были проблемы.,В Ордене почувствовали бы и у себя были проблемы.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+191104,Но у тебя есть и новые обязанности – мужа.,Но у себя есть и новые обязанности – мужа.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+184998,У нас есть еще почти восемьсот только на авианосцах!,У себя есть еще почти восемьсот только на авианосцах!,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+188472,"У Самнера были большие руки, и у мертвеца.","У себя были большие руки, и у мертвеца.",Самнера,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+185551,"Хоть у Кремлева был, да праздно перержавел.","Хоть у себя был, да праздно перержавел.",Кремлева,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+168876,Так у нас есть йолльский мясник в Холмах.,Так у себя есть йолльский мясник в Холмах.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+179468,У вас ведь есть такой Жан Франсуа Роббер?,У себя ведь есть такой Жан Франсуа Роббер?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+157901,"У меня, брат, не такие школы будут!","У себя, брат, не такие школы будут!",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+146737,"Так значит, у Дортуйлы есть еще одно хобби!","Так значит, у себя есть еще одно хобби!",Дортуйлы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+161270,В Стинхойе под Хумлебеком у нас была общая спальня.,В Стинхойе под Хумлебеком у себя была общая спальня.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+185592,И там у меня будут секретугочки типа Вики.,И там у себя будут секретугочки типа Вики.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+129535,"Ну да, верно, у Выдр был помост!","Ну да, верно, у себя был помост!",Выдр,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+179370,Только у нее были многие подлинники стихов Яна.,Только у себя были многие подлинники стихов Яна.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+185672,"А у тебя, возможно, есть лоции врага.","А у себя, возможно, есть лоции врага.",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+182035,"У вас была Восьмая Ступень, преч Рамаррен!","У себя была Восьмая Ступень, преч Рамаррен!",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+191310,У меня в памяти есть встроенный переводчик с малдукского.,У себя в памяти есть встроенный переводчик с малдукского.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+130426,"У нас тоже есть поэт, дорогая Трильби.","У себя тоже есть поэт, дорогая Трильби.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+149897,У меня есть заечья лапка щасливое пенни и подкова.,У себя есть заечья лапка щасливое пенни и подкова.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+149623,"У меня даже подружка там есть, Вирве!","У себя даже подружка там есть, Вирве!",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+127172,"У вас есть вопросы, друг Том Тим?","У себя есть вопросы, друг Том Тим?",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+162164,"У него было два сына, Лойгайре и Кобтах.","У себя было два сына, Лойгайре и Кобтах.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+135497,У робота были три семерки и две дамы.,У себя были три семерки и две дамы.,робота,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+143208,К тому же у нас есть фото куб.,К тому же у себя есть фото куб.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+175322,"Да, у нее будет не веселое стратегическое положение.","Да, у себя будет не веселое стратегическое положение.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+166459,"У меня есть к нему парочка, другая вопросов.","У себя есть к нему парочка, другая вопросов.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+192545,У меня есть только одна надежда – Кора Орват.,У себя есть только одна надежда – Кора Орват.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+145232,У Шерагана даже была мысль жениться на ней.,У себя даже была мысль жениться на ней.,Шерагана,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+185290,Сегодня у зависти был сильный противник – страх.,Сегодня у себя был сильный противник – страх.,зависти,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+192506,Не важно – у меня ставок не было.,Не важно – у себя ставок не было.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+180421,У нее такого и в крови не было.,У себя такого и в крови не было.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+169838,"У девушки было главное, что необходимо врачу.","У себя было главное, что необходимо врачу.",девушки,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+33672,У Марата до армии были очень здоровые органы.,У себя до армии были очень здоровые органы.,Марата,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+36597,"У пространства есть круг ненавистников, добавила Ермолина.","У себя есть круг ненавистников, добавила Ермолина.",пространства,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+9043,Теперь у меня есть возможность нормально прием провести завтра.,Теперь у себя есть возможность нормально прием провести завтра.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+24567,У Берича в этом детском доме есть крестники.,У себя в этом детском доме есть крестники.,Берича,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+25243,Сейчас у нас есть возможность загадать делания здесь.,Сейчас у себя есть возможность загадать делания здесь.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+54783,Или может с Марифом у тебя хороший бой был?,Или может с Марифом у себя хороший бой был?,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+34656,От первого брака у Йоакима уже есть дав сына.,От первого брака у себя уже есть дав сына.,Йоакима,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+865,"Так у меня был случай, пришел вопрос...","Так у себя был случай, пришел вопрос...",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+7821,Отныне у Халк Маслахаты будут лишь рекомендательные функции.,Отныне у себя Маслахаты будут лишь рекомендательные функции.,Халк,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+33248,Но ведь у Норицына есть предложение от других сборных.,Но ведь у себя есть предложение от других сборных.,Норицына,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+36894,"У нас есть Гэтжи, его называют Хайлайтом?","У себя есть Гэтжи, его называют Хайлайтом?",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+13883,У разинцев были легкие десятивесельные чайки с парусом.,У себя были легкие десятивесельные чайки с парусом.,разинцев,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+36092,У Конора был большой простой — это очень плохо.,У себя был большой простой — это очень плохо.,Конора,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+48224,У пары Ла Брек были четыре дочери и сын.,У себя Ла Брек были четыре дочери и сын.,пары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+49094,"Кроме этого, у Султанали есть одно поражение.","Кроме этого, у себя есть одно поражение.",Султанали,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+18540,"У вас уже был примерный объем, план произведения?","У себя уже был примерный объем, план произведения?",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+35381,Но у меня есть право принять мое решения.,Но у себя есть право принять мое решения.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+59126,Поэтому у нас есть снимки реакции детдомовцев на робота.,Поэтому у себя есть снимки реакции детдомовцев на робота.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+17771,"Впорчем, у Новрузоглу есть и другие аргументы.","Впорчем, у себя есть и другие аргументы.",Новрузоглу,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+22772,У меня же не было возможностей проходить в ноги.,У себя же не было возможностей проходить в ноги.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+30275,Теперь у комплекса есть такой — Алексей Вениаминович Попов.,Теперь у себя есть такой — Алексей Вениаминович Попов.,комплекса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+33270,"Ману много работает, у него есть несколько предложений.","Ману много работает, у себя есть несколько предложений.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+38674,"Так, у премьера есть еще английский сеттер.","Так, у себя есть еще английский сеттер.",премьера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+43198,И безусловно у Петра Яна в стойке будут преимущества.,И безусловно у себя Яна в стойке будут преимущества.,Петра,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+33463,У меня не было возможностей проходить в ноги.,У себя не было возможностей проходить в ноги.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+32602,Тогда на ногах у Рэнсира были женские чулки.,Тогда на ногах у себя были женские чулки.,Рэнсира,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+46021,У нас был Евгений Селезнев - это мастер.,У себя был Евгений Селезнев - это мастер.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+1851,"Гэтжи хорошо борется, у него есть мощь.","Гэтжи хорошо борется, у себя есть мощь.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+2447,У меня было задание играть по бровке с Алвесом.,У себя было задание играть по бровке с Алвесом.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+12994,У руководства даже встречи с его агентом были.,У себя даже встречи с его агентом были.,руководства,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+78449,У Уоллис и Футуна тоже есть географические проблемы.,У себя и Футуна тоже есть географические проблемы.,Уоллис,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+65949,У Йукты есть младший брат — инженер Канвал Муки.,У себя есть младший брат — инженер Канвал Муки.,Йукты,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+78236,Феррис соглашается — у него тоже есть план.,Феррис соглашается — у себя тоже есть план.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+95054,У Бена есть сын Джона — пациент Итана.,У себя есть сын Джона — пациент Итана.,Бена,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+64625,Одним их экономов у него был отец Яна Чечота.,Одним их экономов у себя был отец Яна Чечота.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+79320,У игрока есть возможность взять Веланну в орден Стражей.,У себя есть возможность взять Веланну в орден Стражей.,игрока,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+64078,У Лейфа есть жена София Артин и четверо детей.,У себя есть жена София Артин и четверо детей.,Лейфа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+93792,У Майкы было два сына — Ойсыл и Уйсуль.,У себя было два сына — Ойсыл и Уйсуль.,Майкы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+95312,У них есть один ребенок — Тейлор Латам Шталь.,У себя есть один ребенок — Тейлор Латам Шталь.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+102652,"У Леблана есть пасынок, сын Джолен Ричард.","У себя есть пасынок, сын Джолен Ричард.",Леблана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+74043,"У брибри есть диалекты амубре-катси, корома, салитре-кабагра.","У себя есть диалекты амубре-катси, корома, салитре-кабагра.",брибри,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+125243,У нее также был старший брат — Пак Донъен.,У себя также был старший брат — Пак Донъен.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+119953,У банкая Хериммару есть 6 известных специальных техник.,У себя Хериммару есть 6 известных специальных техник.,банкая,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+102077,"Среди прочего, под табу у антесака были близнецы.","Среди прочего, под табу у себя были близнецы.",антесака,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+93465,У нее есть также традиционное имя: Гомейса.,У себя есть также традиционное имя: Гомейса.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+120363,У Сенар было двое братьев Исмет и Хильми.,У себя было двое братьев Исмет и Хильми.,Сенар,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+95624,Так что впредь у Гвегниер была золотая грудь.,Так что впредь у себя была золотая грудь.,Гвегниер,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+61429,"У Викунтаны были сыновья Аджамида, Двимида и Пурумида.","У себя были сыновья Аджамида, Двимида и Пурумида.",Викунтаны,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+97230,"У Ями есть сестра Сурилли, также актриса.","У себя есть сестра Сурилли, также актриса.",Ями,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+114413,"Известно, что у Муиргиуса было пять сыновей.","Известно, что у себя было пять сыновей.",Муиргиуса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+92926,У Итати есть брат — музыкант Хосе Кантораль.,У себя есть брат — музыкант Хосе Кантораль.,Итати,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+111080,У Романовской также есть сын Олег и дочь София.,У себя также есть сын Олег и дочь София.,Романовской,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+85304,У нее есть проходной билет в банк зубов.,У себя есть проходной билет в банк зубов.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+126266,"У Тама-те-капуа было два сына, Тухоро и Каху-мата-момоэ.","У себя было два сына, Тухоро и Каху-мата-момоэ.",Тама-те-капуа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+61020,У Ботьи будут сыновья по имени Уру и Гамбира.,У себя будут сыновья по имени Уру и Гамбира.,Ботьи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+65930,У Митсу есть сестра — актриса Абей Желина.,У себя есть сестра — актриса Абей Желина.,Митсу,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+98977,У Кашибаи был брат по имени Кришна-рао Часкар.,У себя был брат по имени Кришна-рао Часкар.,Кашибаи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+113744,У Наваба Назима Бабар Али-хана было две жены.,У себя Назима Бабар Али-хана было две жены.,Наваба,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+119860,У Пан Сюэцина есть двое сыновей и дочь.,У себя Сюэцина есть двое сыновей и дочь.,Пан,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+76612,У нас был замечательный пастор в Эстра Юнгбю.,У себя был замечательный пастор в Эстра Юнгбю.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+92329,У супругов есть дочь — Саша Роуз Дасбабек.,У себя есть дочь — Саша Роуз Дасбабек.,супругов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+125511,"У Марлы есть брат — Джаред Соколофф, повар.","У себя есть брат — Джаред Соколофф, повар.",Марлы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+100625,Также у императора был главный министр — мапатих.,Также у себя был главный министр — мапатих.,императора,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+99398,У Хенсына есть младшая сестра Чан Ге Рим.,У себя есть младшая сестра Чан Ге Рим.,Хенсына,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+115710,У него было Фарины было десять братьев и сестер.,У себя было Фарины было десять братьев и сестер.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+64836,У царя Ашота и Саакануйш детей не было.,У себя Ашота и Саакануйш детей не было.,царя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+101951,У Ады есть дочь Хагит Йонат и внучка Ноа.,У себя есть дочь Хагит Йонат и внучка Ноа.,Ады,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+106725,У Зары также есть родной младший брат Роман Мгоян.,У себя также есть родной младший брат Роман Мгоян.,Зары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+63399,У Кэла есть младший брат Райан О ’ Райли.,У себя есть младший брат Райан О ’ Райли.,Кэла,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+101798,"У меня есть дети, но нет Луи.","У себя есть дети, но нет Луи.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+71035,У нее была сестра Юлиде и старший брат Энвер.,У себя была сестра Юлиде и старший брат Энвер.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+76295,При Ридании у мамлюков были даже франкские пушкари.,При Ридании у себя были даже франкские пушкари.,мамлюков,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+109645,"У Пикл была сестра, которую звали Онион.","У себя была сестра, которую звали Онион.",Пикл,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+93613,При этом у Секта не было и командных полномочий.,При этом у себя не было и командных полномочий.,Секта,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+92376,У нее был единственный сын Павел Лан Фу.,У себя был единственный сын Павел Лан Фу.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+103070,От законной супруги Родтруды у Карла было два сына.,От законной супруги Родтруды у себя было два сына.,Карла,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+71808,У нее была младшая сестра Хелен Кимбал Байинтон.,У себя была младшая сестра Хелен Кимбал Байинтон.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+67385,У Литу Видигала есть восемь братьев и четыре сестры.,У себя Видигала есть восемь братьев и четыре сестры.,Литу,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+101588,У отца Матвея Степовича было половина волоки земли.,У себя Матвея Степовича было половина волоки земли.,отца,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+70478,У меня есть две его прелегкие штучки из Парни.,У себя есть две его прелегкие штучки из Парни.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+85245,"У Эрика Белла была также сестра, Энид Лайал.","У себя Белла была также сестра, Энид Лайал.",Эрика,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+65834,У Девимона есть двое подручных — Огрмон и Леомон.,У себя есть двое подручных — Огрмон и Леомон.,Девимона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+93561,У нее есть приятель по имени Крачи Баг.,У себя есть приятель по имени Крачи Баг.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+72315,У Мариты была старшая сестра Спулга и брат Алнис.,У себя была старшая сестра Спулга и брат Алнис.,Мариты,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+124438,У Баюша было два сына — Богдан и Чепкун.,У себя было два сына — Богдан и Чепкун.,Баюша,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+102380,У нее есть старшая сестра — Бюшра Озберк.,У себя есть старшая сестра — Бюшра Озберк.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+118782,У диванбеги также были посланники двора по его приказу.,У себя также были посланники двора по его приказу.,диванбеги,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+64198,У них есть дочь по имени Блюзи Ларю Берк.,У себя есть дочь по имени Блюзи Ларю Берк.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+69727,"У Фарва есть жена, которую зовут Деанна.","У себя есть жена, которую зовут Деанна.",Фарва,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+111541,У Туэни была сестра Найла и младший брат Макрам.,У себя была сестра Найла и младший брат Макрам.,Туэни,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+114388,У обоих индейцев были дочери среди осажденных не-персе.,У обоих себя были дочери среди осажденных не-персе.,индейцев,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+90672,У Эдвина Ма Ли было пять братьев и сестер.,У себя Ма Ли было пять братьев и сестер.,Эдвина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+78342,У Тхин Ауна было шесть братьев и сестер.,У себя Ауна было шесть братьев и сестер.,Тхин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+108406,"У них есть сын, Оливер Лукутанду Септембер Сакс.","У себя есть сын, Оливер Лукутанду Септембер Сакс.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+91885,Всего у Орала Селкриджа было четыре брата и сестры.,Всего у себя Селкриджа было четыре брата и сестры.,Орала,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+96673,У Райана есть старший брат Кэл О ’ Райли.,У себя есть старший брат Кэл О ’ Райли.,Райана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+190805,На сегодня у Балама Ахау была для нее особая программа.,На сегодня у себя Ахау была для нее особая программа.,Балама,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+168546,"У Вигмара Лисицы, кроме мечей, еще есть дочь.","У себя Лисицы, кроме мечей, еще есть дочь.",Вигмара,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+151157,Теперь у Йенси не было в мире Джундагай осмысленной цели.,Теперь у себя не было в мире Джундагай осмысленной цели.,Йенси,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+187161,"У Татрины есть два сына, у Айстры одна дочь.","У себя есть два сына, у Айстры одна дочь.",Татрины,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+149756,"Денбей говорит, у него на бусе было два ящика золотых пластинок.","Денбей говорит, у себя на бусе было два ящика золотых пластинок.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+160087,У нас ведь серьезные переговоры были – какие тут девушки?,У себя ведь серьезные переговоры были – какие тут девушки?,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+158134,"Что у него есть серьезные дела, чемпионат скоро, а она...","Что у себя есть серьезные дела, чемпионат скоро, а она...",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+156095,"Сына ее звали Стейнтор, и у него было прозвище Грослаппи.","Сына ее звали Стейнтор, и у себя было прозвище Грослаппи.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+160872,"У них был роман, и мама – их ребенок.","У себя был роман, и мама – их ребенок.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+159497,Халматов знал ее — у женщины было трое взрослых парней.,Халматов знал ее — у себя было трое взрослых парней.,женщины,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+195039,У Заура был небольшой завод даже по меркам здешнего бюджета.,У себя был небольшой завод даже по меркам здешнего бюджета.,Заура,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+147530,Ведь у вас наверняка тоже есть хорошие новости об Ио?,Ведь у себя наверняка тоже есть хорошие новости об Ио?,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+127599,Уже перед ночью я послал за Лаймой - у нее был барометр.,Уже перед ночью я послал за Лаймой - у себя был барометр.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+181830,И сейчас у него – или у нее – есть виллип.,И сейчас у себя – или у нее – есть виллип.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+148252,"Явно не мфифи, хотя у них города тоже есть.","Явно не мфифи, хотя у себя города тоже есть.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+194433,Но теперь у Тиратект был взгляд Свежевателя – и она его использовала.,Но теперь у себя был взгляд Свежевателя – и она его использовала.,Тиратект,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+153609,"Котт, однако у тебя тоже есть земли и два замка.","Котт, однако у себя тоже есть земли и два замка.",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+189970,"А в Ибари у нее будет достаточно времени, чтобы посмотреть игру.","А в Ибари у себя будет достаточно времени, чтобы посмотреть игру.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+175968,"Я уже знал, что дома у Герчика был самый тщательный обыск.","Я уже знал, что дома у себя был самый тщательный обыск.",Герчика,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+164755,"У меня есть сведения, что Стив Коладе и Гоке Габойе арестованы.","У себя есть сведения, что Стив Коладе и Гоке Габойе арестованы.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+177057,"У Дамаса было имя отца, этого уже за глаза хватит.","У себя было имя отца, этого уже за глаза хватит.",Дамаса,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+196316,"Кикуко не знает, что у Сюити есть женщина, думал Синго.","Кикуко не знает, что у себя есть женщина, думал Синго.",Сюити,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+173830,"У нас был еще новый, приехавший из Едо же переводчик Эйноске.","У себя был еще новый, приехавший из Едо же переводчик Эйноске.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+164340,"И еще, у вас будет Марика и четвертая реликвия Заламана.","И еще, у себя будет Марика и четвертая реликвия Заламана.",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+149137,Вот у НБП есть дух и идеология — средств не хватает.,Вот у себя есть дух и идеология — средств не хватает.,НБП,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+182483,"У него, — ведь, охрана есть, наверное?","У себя, — ведь, охрана есть, наверное?",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+182968,У милорда было пять замков – у маркиза были одни долги.,У себя было пять замков – у маркиза были одни долги.,милорда,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+159189,"У меня как раз есть новенькая пара, капитан Лерс подарил.","У себя как раз есть новенькая пара, капитан Лерс подарил.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+143902,"У всех было что добавить — у всех, кроме Уиттикома.","У себя было что добавить — у всех, кроме Уиттикома.",всех,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+190626,"Ничего страшного – у него есть курс ""айлендера"".","Ничего страшного – у себя есть курс ""айлендера"".",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+173163,У тебя есть эта способность женщин омкью — разговаривать с животными.,У себя есть эта способность женщин омкью — разговаривать с животными.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+146779,У Перрина не было времени гадать о причинах сумрачного вида мурандийца.,У себя не было времени гадать о причинах сумрачного вида мурандийца.,Перрина,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+190923,"У императора есть шанс, и заключается он в конструкции рабошлемов.","У себя есть шанс, и заключается он в конструкции рабошлемов.",императора,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+156100,"На Роторе у Инсигиы были дела, которые нельзя было бросить.","На Роторе у себя были дела, которые нельзя было бросить.",Инсигиы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+144899,"У них есть старшие, в новом воздухе какой-то есть и совет.","У себя есть старшие, в новом воздухе какой-то есть и совет.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+175359,У Ньюна была мысль во имя любви запретить говорить это.,У себя была мысль во имя любви запретить говорить это.,Ньюна,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+140079,"Если у вас есть ишта девата, можно воспользоваться этим для тратаки.","Если у себя есть ишта девата, можно воспользоваться этим для тратаки.",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+164757,"Правда у него было лицо полное, лощеное, а Тэнно выхудал.","Правда у себя было лицо полное, лощеное, а Тэнно выхудал.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+193655,"У нас есть почти бандиты, и те деликатней ваших учащихся оказались.","У себя есть почти бандиты, и те деликатней ваших учащихся оказались.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+147099,"Он вспомнил, что у Эстар была точно такая же кожа.","Он вспомнил, что у себя была точно такая же кожа.",Эстар,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+186288,"Оказывается, у него были должности куда больше этой, Геван.","Оказывается, у себя были должности куда больше этой, Геван.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+158541,Но у Панаки были и менее вещественные причины для опасения.,Но у себя были и менее вещественные причины для опасения.,Панаки,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+145374,Значит у него будет время послать за Ахайясу и Дайчаан.,Значит у себя будет время послать за Ахайясу и Дайчаан.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+149132,"У меня сегодня был штатный философ из Института метагалактики, некий Рабка.","У себя сегодня был штатный философ из Института метагалактики, некий Рабка.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+173473,У нее тоже был для Орб подарок — волшебный плащ.,У себя тоже был для Орб подарок — волшебный плащ.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+191161,"Нет, Анна Гавриловна, у нас будет общество хорошее.","Нет, Анна Гавриловна, у себя будет общество хорошее.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+133934,"Я дежурный оператор связи Вейд Кул, у вас будут какие-нибудь пожелания?","Я дежурный оператор связи Вейд Кул, у себя будут какие-нибудь пожелания?",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+128599,У него не было четкой линии относительно статуса инструментов Фринка.,У себя не было четкой линии относительно статуса инструментов Фринка.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+136760,"Обходи за мной камень, тут у меня скрытное жилье есть.","Обходи за мной камень, тут у себя скрытное жилье есть.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+149163,"У Дру была скверная привычка говорить не то, что надо.","У себя была скверная привычка говорить не то, что надо.",Дру,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+134492,У вас есть лишних двадцать лет жизни? – холодно сыронизировал Сарэк.,У себя есть лишних двадцать лет жизни? – холодно сыронизировал Сарэк.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+179819,Ведовство Анны происходило от сидов: у прабабки был любовник из холма.,Ведовство Анны происходило от сидов: у себя был любовник из холма.,прабабки,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+196256,"Разве у ремонтников есть такие усы, как у Кабалавы?","Разве у себя есть такие усы, как у Кабалавы?",ремонтников,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+176543,"У вас есть оружие, у Мич есть план, – вперед!","У себя есть оружие, у Мич есть план, – вперед!",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+129822,"У меня есть сейчас одна правда — наш спектакль, его единство.","У себя есть сейчас одна правда — наш спектакль, его единство.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+163549,Да ты и не совсем один: у тебя есть Эфат.,Да ты и не совсем один: у себя есть Эфат.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+177818,Хотя – для таких у него наверняка есть другой телефон.,Хотя – для таких у себя наверняка есть другой телефон.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+142746,"У Свиридова был снова стрит, а у компьютера – ничего.","У себя был снова стрит, а у компьютера – ничего.",Свиридова,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+167772,Но у Маркуса есть обязательства перед памятью капитана Мэтью Режихау.,Но у себя есть обязательства перед памятью капитана Мэтью Режихау.,Маркуса,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+137416,У Панаки были годы элитного обучения в дали от мира.,У себя были годы элитного обучения в дали от мира.,Панаки,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+133803,"Чтобы поговорить, у вас будет перемена! – строго сказала Медузия.","Чтобы поговорить, у себя будет перемена! – строго сказала Медузия.",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+136746,"Иллад погиб, у них был какой-то турнир с Тайденом.","Иллад погиб, у себя был какой-то турнир с Тайденом.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+145393,"И у него, Крупени, тоже есть роль точки.","И у себя, Крупени, тоже есть роль точки.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+1679,"Они после убийства были, у сына были, проведали нас.","Они после убийства были, у себя были, проведали нас.",сына,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+47363,"Сначала у Гали была высокая температура, но уже сбили.","Сначала у себя была высокая температура, но уже сбили.",Гали,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+36350,Теперь у женщин есть мечта - найти в Австралии опалы.,Теперь у себя есть мечта - найти в Австралии опалы.,женщин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+447,В матче с Мойей у Кории была и другая подоплека.,В матче с Мойей у себя была и другая подоплека.,Кории,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+4684,"Еслиуж принят такой закон, у него есть право требовать вид нажительство.","Еслиуж принят такой закон, у себя есть право требовать вид нажительство.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+1805,"У нас есть инцитатива с точки зрения качества платежей, скорости.","У себя есть инцитатива с точки зрения качества платежей, скорости.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+34706,От этой связи у Кхумало есть дочь по имени Эфелеле.,От этой связи у себя есть дочь по имени Эфелеле.,Кхумало,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+29308,Еще у нас проект есть просто от них разрешение на строительство получить.,Еще у себя проект есть просто от них разрешение на строительство получить.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+30568,"Тогда у них была команда здравая: Хусти, Кирай.","Тогда у себя была команда здравая: Хусти, Кирай.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+11566,"Рейес же природный полутяж, и здесь у него будет превосходство.","Рейес же природный полутяж, и здесь у себя будет превосходство.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+18428,"Да те, у кого дети с Бодровым здесь были.","Да те, у себя дети с Бодровым здесь были.",кого,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+52709,"Например, в этом сезоне АХЛ у нас был Ялен Смерек.","Например, в этом сезоне АХЛ у себя был Ялен Смерек.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+14526,"У меня есть пояса, потому такой бой имеет смысл.","У себя есть пояса, потому такой бой имеет смысл.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+8920,"У нас сейчас есть время посмотреть игрока, за которым год наблюдаем.","У себя сейчас есть время посмотреть игрока, за которым год наблюдаем.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+48767,"Или вот сейчас у Феди есть моменты, но нет реализации.","Или вот сейчас у себя есть моменты, но нет реализации.",Феди,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+10317,"У него есть растущий, прущий сквозь асфальт схем Гасперини Миранчук.","У себя есть растущий, прущий сквозь асфальт схем Гасперини Миранчук.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+54920,"Однако у открытия есть другие области применения, говорит Энгета.","Однако у себя есть другие области применения, говорит Энгета.",открытия,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+54472,"У нас есть Мурило, Магкеев, Лисакович, Куликов.","У себя есть Мурило, Магкеев, Лисакович, Куликов.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+2036,"""У нас был Папа — сегодня у нас есть святой"".","""У себя был Папа — сегодня у нас есть святой"".",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+33922,"У студентов будет по 5 пар, кроят расписание сейчас.","У себя будет по 5 пар, кроят расписание сейчас.",студентов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+29431,"У них постоянно были забросы, скидки за голову назад.","У себя постоянно были забросы, скидки за голову назад.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+29173,Так что у зрителей еще будет возможность увидеть лично галопад Чичиковых.,Так что у себя еще будет возможность увидеть лично галопад Чичиковых.,зрителей,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+32042,"У Франции есть пример с Гигонна, у норвежцев – с Дале.","У себя есть пример с Гигонна, у норвежцев – с Дале.",Франции,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+26270,"У нас есть актив, депутат Юра Волнов гораздо больше этим занимается.","У себя есть актив, депутат Юра Волнов гораздо больше этим занимается.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+58387,"У ребят Тите было миллион моментов, но Куртуа не сплоховал.","У себя Тите было миллион моментов, но Куртуа не сплоховал.",ребят,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+29377,"Поэтому у нас есть источник ведомственных данных про ковид, внутри Минздрава.","Поэтому у себя есть источник ведомственных данных про ковид, внутри Минздрава.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+30554,"У них есть лидер Тибюс, а остальные как получится.","У себя есть лидер Тибюс, а остальные как получится.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+16081,У артистки уже есть ребенок — 28-летний сын Жак Ленюк.,У себя уже есть ребенок — 28-летний сын Жак Ленюк.,артистки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+27575,"У меня есть фонд, поэтому, в этой истории...","У себя есть фонд, поэтому, в этой истории...",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,3
+18322,У старины Харри есть четкий совет на гол одного из футболистов.,У себя Харри есть четкий совет на гол одного из футболистов.,старины,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+316,"Но однозначно молодой, перспективный, у него есть уровень.","Но однозначно молодой, перспективный, у себя есть уровень.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+9593,"У Эдена были трудные времена без игры, нужно двигаться постепенно.","У себя были трудные времена без игры, нужно двигаться постепенно.",Эдена,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+4525,"У них дома есть одни практики, а выездная модель - другая.","У себя дома есть одни практики, а выездная модель - другая.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+58715,"У нас есть позиция Президента, соответственно, и монобольшинства.","У себя есть позиция Президента, соответственно, и монобольшинства.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+93053,"У биса есть диалекты: барка, лебир, лере.","У себя есть диалекты: барка, лебир, лере.",биса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+77990,"У Сельды было три брата, Саваш, Сезер и Сертер.","У себя было три брата, Саваш, Сезер и Сертер.",Сельды,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+71457,У Хаммирадевы было два старших брата по имени Суратрана и Вирама.,У себя было два старших брата по имени Суратрана и Вирама.,Хаммирадевы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+102676,"У Науага было три сына: Доба, Габыла, Рамон.","У себя было три сына: Доба, Габыла, Рамон.",Науага,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+98233,"У Обероя также есть сын, упомянутый Павитаром, Хари.","У себя также есть сын, упомянутый Павитаром, Хари.",Обероя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+122116,Также у него есть и друг — Ридзуму. — характер-хранитель Икуто.,Также у себя есть и друг — Ридзуму. — характер-хранитель Икуто.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+70794,"У них есть трое детей — Миджак, Ньенавут и Куол.","У себя есть трое детей — Миджак, Ньенавут и Куол.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+67380,У нее есть два брата — Дагхан и Тюмер Сойсерт.,У себя есть два брата — Дагхан и Тюмер Сойсерт.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+121294,"Также у языка есть диалекты билба, диу и леленук.","Также у себя есть диалекты билба, диу и леленук.",языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+118672,У Харрис также есть сестра по одному из родителей — актриса Лизарэй.,У себя также есть сестра по одному из родителей — актриса Лизарэй.,Харрис,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+123810,Есть четыре основные техники Нэн: Всего у Хацу есть шесть видов.,Есть четыре основные техники Нэн: Всего у себя есть шесть видов.,Хацу,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+80092,В то время у семьи было много конфликтов с феткоперами.,В то время у себя было много конфликтов с феткоперами.,семьи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+67574,У нее есть старший брат Рихито. — брат Кайто.,У себя есть старший брат Рихито. — брат Кайто.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+62781,"У нее есть букварь, есть и абат — это азы.","У себя есть букварь, есть и абат — это азы.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+101811,"У опуо есть диалекты булдит (барун, баруун) и кусгило.","У себя есть диалекты булдит (барун, баруун) и кусгило.",опуо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+93708,У карипуна есть диалекты жакария и пама (памана).,У себя есть диалекты жакария и пама (памана).,карипуна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+123242,"Для их записи у Венгамамбы было восемь писцов, которых звали ашта-гантаки.","Для их записи у себя было восемь писцов, которых звали ашта-гантаки.",Венгамамбы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+90222,От него у Вайгель есть дочь — Шери Маглио Вонг.,От него у себя есть дочь — Шери Маглио Вонг.,Вайгель,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+114988,"Согласно мифу индейцев варао, у героя Нахакобони не было детей.","Согласно мифу индейцев варао, у себя Нахакобони не было детей.",героя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+99769,"У языка есть диалекты ваха, нарпаймене, новай, сипоро.","У себя есть диалекты ваха, нарпаймене, новай, сипоро.",языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+114614,"Часто у хитона были одновременно и колпос, и диплойдий.","Часто у себя были одновременно и колпос, и диплойдий.",хитона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+103805,"У ворот был подъемный мост через Стур, порткулли и деревянные двери.","У себя был подъемный мост через Стур, порткулли и деревянные двери.",ворот,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+61963,"У хана Омуртага было три сына: Енравота, Звиница и Маламир.","У себя Омуртага было три сына: Енравота, Звиница и Маламир.",хана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+96315,"У него были дети: Сара, Мадрубал и Оппа.","У себя были дети: Сара, Мадрубал и Оппа.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+66548,"У Викукши есть сын по имени Какутштха, или Пуранджая.","У себя есть сын по имени Какутштха, или Пуранджая.",Викукши,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+69576,"У нее есть старшая сестра — Гекче Кая Хаджерьян, театральная актриса.","У себя есть старшая сестра — Гекче Кая Хаджерьян, театральная актриса.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+83760,"В общей сложности у Сюше было солдат, включая в гарнизонах.","В общей сложности у себя было солдат, включая в гарнизонах.",Сюше,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+119967,"У Тонмена было три сына: Юри, Пирю и Онджо.","У себя было три сына: Юри, Пирю и Онджо.",Тонмена,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+93788,"Женат на Каролине Чепкорир, у них есть сын Альф Кибет.","Женат на Каролине Чепкорир, у себя есть сын Альф Кибет.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+100969,"У Ленье есть младший брат, тоже боксер Дайньер Перо.","У себя есть младший брат, тоже боксер Дайньер Перо.",Ленье,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+112744,"У кимба также есть диалекты агаунше, ашен и нгвунки.","У себя также есть диалекты агаунше, ашен и нгвунки.",кимба,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+67472,"У Мерле Яягер есть дочь от брака, который закончился разводом.","У себя Яягер есть дочь от брака, который закончился разводом.",Мерле,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+60770,"У языка есть диалекты богор (краванг), чиребон, принган.","У себя есть диалекты богор (краванг), чиребон, принган.",языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+74545,"У него есть младший брат Даг Брошу, также актер.","У себя есть младший брат Даг Брошу, также актер.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+62164,"Также у Руаири было несколько внебрачных сыновей, Тормод Уигах и Мердок.","Также у себя было несколько внебрачных сыновей, Тормод Уигах и Мердок.",Руаири,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+90310,"У конкурса есть рейтинг, доход, и Король доволен.","У себя есть рейтинг, доход, и Король доволен.",конкурса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+88956,"Рю заявляет, что у Геншина было ради чего жить.","Рю заявляет, что у себя было ради чего жить.",Геншина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+65715,"У нтчам есть диалекты битаапуль, дипиитиль, нтаапум и чеемба.","У себя есть диалекты битаапуль, дипиитиль, нтаапум и чеемба.",нтчам,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+78310,У Эбенезера Ако Аджея и его жены было четверо дочерей.,У себя Ако Аджея и его жены было четверо дочерей.,Эбенезера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+122332,Согласно видениям Мин у Авиенды и Ранда будет четверо детей.,Согласно видениям Мин у себя и Ранда будет четверо детей.,Авиенды,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+124477,У них было трое детей: сын и дочери и Кунцишалли.,У себя было трое детей: сын и дочери и Кунцишалли.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+102904,У Морхажа Акъовича было 2 сына – Тайбар и Место.,У себя Акъовича было 2 сына – Тайбар и Место.,Морхажа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+61488,"У Шайеннов было несколько военных обществ, из них четыре — древние.","У себя было несколько военных обществ, из них четыре — древние.",Шайеннов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+120404,"У нее была сестра Акэми, которую убила Черная организация.","У себя была сестра Акэми, которую убила Черная организация.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+77099,У защитников было две пушки из Марина и три из Редонделы.,У себя было две пушки из Марина и три из Редонделы.,защитников,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+99050,У мочо есть мотосинтлекский и тусантекский (мучу) диалекты.,У себя есть мотосинтлекский и тусантекский (мучу) диалекты.,мочо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+64033,У Мевибе Иненю всего было пятеро внуков и десять правнуков.,У себя Иненю всего было пятеро внуков и десять правнуков.,Мевибе,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+114471,"У них было двое детей, Трейнтье Остерхейс и, музыканты.","У себя было двое детей, Трейнтье Остерхейс и, музыканты.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+74341,От брака с Тии Пасмы у него была дочь Хенриэтта Алида.,От брака с Тии Пасмы у себя была дочь Хенриэтта Алида.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+71233,"У Цветана есть вопросы, почему их новый друг помог.","У себя есть вопросы, почему их новый друг помог.",Цветана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+108954,У писателя было двое сыновей: Марк Александр Трокки и Николас.,У себя было двое сыновей: Марк Александр Трокки и Николас.,писателя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+113940,Средние показатели команды: У Бэнце Балижа также есть 2 минуты штрафа.,Средние показатели команды: У себя Балижа также есть 2 минуты штрафа.,Бэнце,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+77584,"У Рудра Саварни Ману будет несколько сыновей, старшего назовут Деваван.","У себя Саварни Ману будет несколько сыновей, старшего назовут Деваван.",Рудра,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+74087,"Сол отвечает, что только у Дара Адала могла быть такая информация.","Сол отвечает, что только у себя Адала могла быть такая информация.",Дара,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+126430,"У Кику есть много притоков, включая реки Усибути и Симоогаса.","У себя есть много притоков, включая реки Усибути и Симоогаса.",Кику,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+83042,Лу младший ребенок в семьей у нее есть старшая сестра Манон.,Лу младший ребенок в семьей у себя есть старшая сестра Манон.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+75346,"А они говорят — ""У нас есть другой Устав!"".","А они говорят — ""У себя есть другой Устав!"".",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+74299,Первоначально у него было две нахии: Знеполье и Висок.,Первоначально у себя было две нахии: Знеполье и Висок.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+68855,У Пасанена была младшая сестра Вирпи и младший брат Ристо.,У себя была младшая сестра Вирпи и младший брат Ристо.,Пасанена,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+89282,У Баллидехоба есть город-побратим — французский город Кледан Кап Сизен.,У себя есть город-побратим — французский город Кледан Кап Сизен.,Баллидехоба,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+108791,У них была главная цитадель Дору Ариба на острове Вренгард.,У себя была главная цитадель Дору Ариба на острове Вренгард.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+108148,"У него были брат Ерухем, сестры Этя и Ривка.","У себя были брат Ерухем, сестры Этя и Ривка.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+96709,"У Чулика было три брата: Исмайла, Меза и Нойрби.","У себя было три брата: Исмайла, Меза и Нойрби.",Чулика,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+67494,"У Кифар было две сестры, старшая Найя и младшая Лемиль.","У себя было две сестры, старшая Найя и младшая Лемиль.",Кифар,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+110360,"Это что же получается, что у глаз есть лица.","Это что же получается, что у себя есть лица.",глаз,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+99890,"У Ильи были дети: Дмитрий Нарбеков, Иакиф и Юрья Тегль.","У себя были дети: Дмитрий Нарбеков, Иакиф и Юрья Тегль.",Ильи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+181413,"Кто еще во всем Алионе может похвастаться, что у него есть магические устройства нагхов?","Кто еще во всем Алионе может похвастаться, что у себя есть магические устройства нагхов?",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+164090,"Кроме того, у нас есть Самандар и приятель вашего Матвея – Горшин.","Кроме того, у себя есть Самандар и приятель вашего Матвея – Горшин.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+178400,А без помощи Типпу Типа и его людей у генерала на это не было никаких шансов.,А без помощи Типпу Типа и его людей у себя на это не было никаких шансов.,генерала,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+167088,"Но молодой ирб был уверен, что у них есть возможности, есть надежды.","Но молодой ирб был уверен, что у себя есть возможности, есть надежды.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+190296,"У Бенефилия Вердала было две жены, Эва и Амелина, обе сейчас живут в Эпотоке.","У себя Вердала было две жены, Эва и Амелина, обе сейчас живут в Эпотоке.",Бенефилия,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+162446,"У меня ведь тоже есть здесь сколько надо и здесь, чуть больше нужного.","У себя ведь тоже есть здесь сколько надо и здесь, чуть больше нужного.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+173958,"Надеюсь, вы последуете примеру Кипон в плане отделения корпораций, и у Иденс будет в совете пять голосов.","Надеюсь, вы последуете примеру Кипон в плане отделения корпораций, и у себя будет в совете пять голосов.",Иденс,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,9
+129313,"Джекрам связался с Блузом, потому что у тебя должен быть офицер, подумала Полли.","Джекрам связался с Блузом, потому что у себя должен быть офицер, подумала Полли.",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+154602,"По сути, у Кахгуяхта на конце второй пары рук вообще ничего не было.","По сути, у себя на конце второй пары рук вообще ничего не было.",Кахгуяхта,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+129297,"У него было три руки, и мы догадались, что он сын сказандца.","У себя было три руки, и мы догадались, что он сын сказандца.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+153791,"Правда, с Имкой у Пипуша были особые счеты — из-за права охоты.","Правда, с Имкой у себя были особые счеты — из-за права охоты.",Пипуша,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+196263,"У него практически был комплекс из-за этого, — вспоминал потом Жан Варро.","У себя практически был комплекс из-за этого, — вспоминал потом Жан Варро.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+182348,"У нас было: капитан торговцев наступил на флофф, да у самого их корабля.","У себя было: капитан торговцев наступил на флофф, да у самого их корабля.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+158637,"Втгрочем, это был уже яе ее ребенок - у Ганички была новая мама.","Втгрочем, это был уже яе ее ребенок - у себя была новая мама.",Ганички,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+141027,"И жду вас в гости, у меня есть редкие вина с Мерхарбры!","И жду вас в гости, у себя есть редкие вина с Мерхарбры!",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+146136,"Она говорила, что у меня есть такая родинка, любил а ее целовать.","Она говорила, что у себя есть такая родинка, любил а ее целовать.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+166199,У Хелен Джей была тысяча лиц и семью семь сутей для любой ситуации.,У себя Джей была тысяча лиц и семью семь сутей для любой ситуации.,Хелен,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+172977,"Именно они нашли Урзу и Ксанчу и принесли фирексийку и Созинну на этот остров, потому что у них не было крыльев.","Именно они нашли Урзу и Ксанчу и принесли фирексийку и Созинну на этот остров, потому что у себя не было крыльев.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,11
+167824,"Если у Валери был просто недоумевающий вид, то Кэрби смотрел на магнитофон так, словно тот был Зотцем Чимальманом его пращуров.","Если у себя был просто недоумевающий вид, то Кэрби смотрел на магнитофон так, словно тот был Зотцем Чимальманом его пращуров.",Валери,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,9
+174580,"Хотя у Иллиль было получужое тело Эшлы, зато у нее была нужная энергия.","Хотя у себя было получужое тело Эшлы, зато у нее была нужная энергия.",Иллиль,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+127939,"Коли Царь позволит мне Записки, то у нас будет тысяч тридцать чистых денег.","Коли Царь позволит мне Записки, то у себя будет тысяч тридцать чистых денег.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+154350,"У Марии Хансдоттер был Трудальский Мадс, а у Силье — Ян Эгиль.","У себя Хансдоттер был Трудальский Мадс, а у Силье — Ян Эгиль.",Марии,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+190686,"А, вспомнила, Далиаре — но у нее уже был ребенок — Эдер.","А, вспомнила, Далиаре — но у себя уже был ребенок — Эдер.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+161938,"И родственники Минура, и вот здесь Иран, у которого был брат Хул, а у Трина были Ситана и Алви...","И родственники Минура, и вот здесь Иран, у себя был брат Хул, а у Трина были Ситана и Алви...",которого,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,10
+178300,В книге у него на сегодня был один клиент — Джонни с Тенью.,В книге у себя на сегодня был один клиент — Джонни с Тенью.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+136505,"Большинство наших работников – ибо, хотя у нас есть шестеро эдау и один сирота-уруба по имени Нтикима, проявивший себя особенно способным учеником.","Большинство наших работников – ибо, хотя у себя есть шестеро эдау и один сирота-уруба по имени Нтикима, проявивший себя особенно способным учеником.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,11
+139941,"У него почти не было сомнений в том, что Борислав участник заговора гана Митуса и почтенного Моше.","У себя почти не было сомнений в том, что Борислав участник заговора гана Митуса и почтенного Моше.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,9
+139809,"По словам герцога Олджеббина, недавно слышали, как Конфалюм заметил, что пока что у него было очень мало контактов с лордом Престимионом.","По словам герцога Олджеббина, недавно слышали, как Конфалюм заметил, что пока что у себя было очень мало контактов с лордом Престимионом.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,10
+192687,"Его зовут Иосиф, а у анхем, кстати, есть имя Есева.","Его зовут Иосиф, а у себя, кстати, есть имя Есева.",анхем,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+144396,"Для политики у женщины есть день, Для себя — у нее ночи.","Для политики у себя есть день, Для себя — у нее ночи.",женщины,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+158655,"Мало ль у тебя есть и может набраться денщиков, а этого уж мне одного предоставь.","Мало ль у себя есть и может набраться денщиков, а этого уж мне одного предоставь.",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+153477,"У нее была только ее работа — и Руис Алдорет, — а по вечерам Брюс.","У себя была только ее работа — и Руис Алдорет, — а по вечерам Брюс.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+129514,"У Фай-гелей была библиотека, здесь, у нас, она работала вот как сейчас моя дочь.","У себя была библиотека, здесь, у нас, она работала вот как сейчас моя дочь.",Фай-гелей,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+150534,"Формально Бленда приходилась Орб скорее сестрой, потому что у них был общий отец, Пасиан, но проще было считать ее тетей.","Формально Бленда приходилась Орб скорее сестрой, потому что у себя был общий отец, Пасиан, но проще было считать ее тетей.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,9
+146498,"А в Совполье они завсе поперечны, у них веком ладу не было.","А в Совполье они завсе поперечны, у себя веком ладу не было.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+178129,"Когда у вас будут значение и название этого пути, пройдите его с 6 нова.","Когда у себя будут значение и название этого пути, пройдите его с 6 нова.",вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+160873,"Резун сказал, что половину дать им. Я ответил, что он судит скоро, чтоб подумал: цена оброка будет зависеть от того, сколько у них будет земли.","Резун сказал, что половину дать им. Я ответил, что он судит скоро, чтоб подумал: цена оброка будет зависеть от того, сколько у себя будет земли.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,11
+156628,Без Май у Джан не было советчика и не было уверенности в собственном выборе.,Без Май у себя не было советчика и не было уверенности в собственном выборе.,Джан,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+187856,"И у телушек на Вихляевском комплексе хоть и не великое было, по разговенье.","И у себя на Вихляевском комплексе хоть и не великое было, по разговенье.",телушек,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+195337,"Разве мог понять Кристер, у которого был Еффа, что значит не иметь собаки – совсем никакой собаки!","Разве мог понять Кристер, у себя был Еффа, что значит не иметь собаки – совсем никакой собаки!",которого,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,9
+159585,"В Динас Фараоне был маленький сын, и у него была мать, Гуэн Аларх.","В Динас Фараоне был маленький сын, и у себя была мать, Гуэн Аларх.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+192127,"Таньги шел пешком рядом с Буаленвилем, у которого был весьма торжественный вид.","Таньги шел пешком рядом с Буаленвилем, у себя был весьма торжественный вид.",которого,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+153091,"Вам известно, что у меня есть правильный адрес вашего друга Сасы Ла Ферлиты.","Вам известно, что у себя есть правильный адрес вашего друга Сасы Ла Ферлиты.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+153915,"Ветер и огонь, Павек, ее кожа — у нее есть чешуйки!","Ветер и огонь, Павек, ее кожа — у себя есть чешуйки!",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+190666,"Но у меня есть еще вопрос, фамилия Хосогая совсем ведь не нишидская.","Но у себя есть еще вопрос, фамилия Хосогая совсем ведь не нишидская.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+138878,"Знаешь, как у ордынцев-то было – ходы узкие, без крепей, трубами, стоят вечно.","Знаешь, как у себя было – ходы узкие, без крепей, трубами, стоят вечно.",ордынцев-то,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+182547,"В Тванне их встретил Кленин, у которого было упрямое выражение лица, так как он ожидал нагоняя.","В Тванне их встретил Кленин, у себя было упрямое выражение лица, так как он ожидал нагоняя.",которого,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,8
+188502,"У меня ведь есть бизнес, а ""купертинцы"" это, просто, – забава.","У себя ведь есть бизнес, а ""купертинцы"" это, просто, – забава.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+160526,"Пристроят внешнюю лестницу, и у Мартина будет отдельный вход, как он ихотел.","Пристроят внешнюю лестницу, и у себя будет отдельный вход, как он ихотел.",Мартина,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+195217,"Ты же копейки за Аграфеной не взял, у нее приданого была одна Маланья.","Ты же копейки за Аграфеной не взял, у себя приданого была одна Маланья.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+179578,"Варвара Петровна правду отнеслась, что у него был несколько бараний взгляд, иногда особенно.","Варвара Петровна правду отнеслась, что у себя был несколько бараний взгляд, иногда особенно.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+185780,"У меня шаль новая, хорошая, пуховая была Мы с ней обе по шали купили.","У себя шаль новая, хорошая, пуховая была Мы с ней обе по шали купили.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,8
+146023,"Из них всех стоящий парень один Лионец, потому что у него есть опыт.","Из них всех стоящий парень один Лионец, потому что у себя есть опыт.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+138586,Но прежде у тебя наверняка будет возможность познакомиться с Дайчаан и Ахайясу и другими из их клана получше.,Но прежде у себя наверняка будет возможность познакомиться с Дайчаан и Ахайясу и другими из их клана получше.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,8
+166572,"У нее, оказывается, есть его телефон, — сказала жена деловито.","У себя, оказывается, есть его телефон, — сказала жена деловито.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+191737,"Они тут первыми людьми считались, потому — у них земля была, заложенная, правда.","Они тут первыми людьми считались, потому — у себя земля была, заложенная, правда.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,8
+141606,"Вот тебе Закон Марион: ""У тебя всегда будет не тот возраст"".","Вот тебе Закон Марион: ""У себя всегда будет не тот возраст"".",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+165292,"Да, у мэйнисток не было никаких доказательств, но если Стралг действительно получал помощь Ксаран, договор Старейшей с ним не имеет силы.","Да, у себя не было никаких доказательств, но если Стралг действительно получал помощь Ксаран, договор Старейшей с ним не имеет силы.",мэйнисток,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,9
+134960,У сеньоры там есть представитель – а в Барралоче большой аэродром с парком воздушных такси.,У себя там есть представитель – а в Барралоче большой аэродром с парком воздушных такси.,сеньоры,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+151886,"Конечно, у Слоана уже был опыт венчания, думала несчастная чуть позже, когда вокруг загалдели.","Конечно, у себя уже был опыт венчания, думала несчастная чуть позже, когда вокруг загалдели.",Слоана,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,7
+163457,"У патриотов не было такого оружия, а Синворет никогда не слышал этой новинки в деле.","У себя не было такого оружия, а Синворет никогда не слышал этой новинки в деле.",патриотов,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,6
+38074,"У активиста было сразу три общественных защитника — Сергей Тиунов, Елена Парий и Галина Королева.","У себя было сразу три общественных защитника — Сергей Тиунов, Елена Парий и Галина Королева.",активиста,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+47673,"Сегодня был не сон, типо мысли в дреме, у меня была только одна сначала — это надо заснуть.","Сегодня был не сон, типо мысли в дреме, у себя была только одна сначала — это надо заснуть.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,8
+1320,"У Кармуш есть досрочные поражения, но все они были от приемов, а сабмитить Валентина не очень любит.","У себя есть досрочные поражения, но все они были от приемов, а сабмитить Валентина не очень любит.",Кармуш,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,9
+1927,У мужчин в этом виде программы не было равных словенцам Луке Спику и Иштоку Копу.,У себя в этом виде программы не было равных словенцам Луке Спику и Иштоку Копу.,мужчин,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+19005,У Джонса было несколько раздельных решение – против Доминика Рейеса и Тиаго Сантоса.,У себя было несколько раздельных решение – против Доминика Рейеса и Тиаго Сантоса.,Джонса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+37687,"Косторная хочет кататься одна, чтобы у нее было персональное время, внимание.","Косторная хочет кататься одна, чтобы у себя было персональное время, внимание.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+58765,"""Я получил наркотик накануне убийства от Ясина Хайяла и не знал, что у Гранта Динка была семья, я сожалею"", - отметил Самаст.","""Я получил наркотик накануне убийства от Ясина Хайяла и не знал, что у себя Динка была семья, я сожалею"", - отметил Самаст.",Гранта,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,8
+20276,"У Гэтжи была более выгодная ситуация, а Тони три раза сгонял вес.","У себя была более выгодная ситуация, а Тони три раза сгонял вес.",Гэтжи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+51335,"А Семин на все отрегировал: ""А у нас Эдер есть"".","А Семин на все отрегировал: ""А у себя Эдер есть"".",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,4
+9304,"Принятие решений за поставщиками: у них есть интерес и право, говорит Пибалгс.","Принятие решений за поставщиками: у себя есть интерес и право, говорит Пибалгс.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+52264,"На самом деле можно дать и меньше – пусть спрос даже на нужное несколько ужмется, тем более что у многих есть резервы.","На самом деле можно дать и меньше – пусть спрос даже на нужное несколько ужмется, тем более что у себя есть резервы.",многих,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,10
+40167,"Деонтей может ударить, соответственно, у панчера всегда есть шанс на победу.","Деонтей может ударить, соответственно, у себя всегда есть шанс на победу.",панчера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+35082,"Самое интересное, что у меня есть нескольких официальных предложений по Яя Туре.","Самое интересное, что у себя есть нескольких официальных предложений по Яя Туре.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+30828,"И сейчас на позиции первого номера у них есть Джа Морэнт, Рэджон Рондо и Тайус Джонс.","И сейчас на позиции первого номера у себя есть Джа Морэнт, Рэджон Рондо и Тайус Джонс.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+5278,"Казахстан наоборот – были свежие, у них есть, кто решает такие игры.","Казахстан наоборот – были свежие, у себя есть, кто решает такие игры.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+20024,"Не в забор же улетать, выбирать коридор у него возможности не было.","Не в забор же улетать, выбирать коридор у себя возможности не было.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+45843,"У них есть академия, там, естественно мало, но я говорю про мейн состав.","У себя есть академия, там, естественно мало, но я говорю про мейн состав.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+43764,"Яна ей писала в этот раз, потому что у нас есть шоу.","Яна ей писала в этот раз, потому что у себя есть шоу.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+20207,"В армии у меня уже приступы раз десять были минимум, и вот был один серьезный.","В армии у себя уже приступы раз десять были минимум, и вот был один серьезный.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+54872,"У меня был один долг - немцу Марко Хук, а теперь стало два.","У себя был один долг - немцу Марко Хук, а теперь стало два.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+44753,"Ну вот, у Мусаева не было выбора и Ионов стоял против Промеса, Агкацев стоял на воротах.","Ну вот, у себя не было выбора и Ионов стоял против Промеса, Агкацев стоял на воротах.",Мусаева,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+21293,"В октябре НАПК начала проверку декларации Кивы, у которой была и прибыль, полученные из аренды этой ямы.","В октябре НАПК начала проверку декларации Кивы, у себя была и прибыль, полученные из аренды этой ямы.",которой,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,10
+28915,"Потому и показывает всем желающим полибинский дворец, поскольку у людей есть очевидный интерес.","Потому и показывает всем желающим полибинский дворец, поскольку у себя есть очевидный интерес.",людей,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,6
+27583,"У меня, вообще, со сборной еще выезд был, подряд три недели.","У себя, вообще, со сборной еще выезд был, подряд три недели.",меня,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,7
+50872,"Поскольку там, на Западе, ни у кого такого ню никогда не было.","Поскольку там, на Западе, ни у себя такого ню никогда не было.",кого,себя,Syntax,Reflexives,external_possessor,external_possessor,wikinews,5
+59921,"От Тудлуисты у него было пять сыновей и дочь Санант, которая вышла замуж за Майлгуна Гвинедского.","От Тудлуисты у себя было пять сыновей и дочь Санант, которая вышла замуж за Майлгуна Гвинедского.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+91274,"У Ютгуала не было детей, поэтому ему наследовал в Инис Манау Сандде, а Галвидел был присоединен к Альт Клуиту.","У себя не было детей, поэтому ему наследовал в Инис Манау Сандде, а Галвидел был присоединен к Альт Клуиту.",Ютгуала,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+118003,"В неофициальных отношениях состоял с актрисами Линдой Карин Руус (у которой от него была дочь), Итой Эвер и Май Меринг.","В неофициальных отношениях состоял с актрисами Линдой Карин Руус (у себя от него была дочь), Итой Эвер и Май Меринг.",которой,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+74674,"У них было дочери: Нова, Шила и Бипаша и один сын Нахеш.","У себя было дочери: Нова, Шила и Бипаша и один сын Нахеш.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+75201,"У толаки есть несколько диалектов: асера (асера, вануа, ноие), вивирано (нохина), конаве (кендари, киоки, тамбуоки), лайвуй, меконгга (бингкокак, колака, конио, норио, тамбоки).","У себя есть несколько диалектов: асера (асера, вануа, ноие), вивирано (нохина), конаве (кендари, киоки, тамбуоки), лайвуй, меконгга (бингкокак, колака, конио, норио, тамбоки).",толаки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,20
+125261,"Аджаю удается выяснить, что у Банти, брата Наяка, есть девушка в Турции.","Аджаю удается выяснить, что у себя, брата Наяка, есть девушка в Турции.",Банти,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+112210,"У Семпакваджи был сын по имени Пурбасора, а у короля Мандиминьяка быль сын по имени Сена или Братасена.","У себя был сын по имени Пурбасора, а у короля Мандиминьяка быль сын по имени Сена или Братасена.",Семпакваджи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,10
+104182,"У Хепы и Ташуба было трое детей: сын, дочери и Кунцишалли.","У себя и Ташуба было трое детей: сын, дочери и Кунцишалли.",Хепы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+91437,У него есть пара друзей — любитель лам Карл Уизер и поклонник супергероев Шин Эстевес.,У себя есть пара друзей — любитель лам Карл Уизер и поклонник супергероев Шин Эстевес.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+92196,"У супругов было два сына и одна дочь: Он живет в Гилмилнскрофт-хаусе, недалеко от Мохлина, Эршир, где проживает семья его жены, Фаркуары.","У себя было два сына и одна дочь: Он живет в Гилмилнскрофт-хаусе, недалеко от Мохлина, Эршир, где проживает семья его жены, Фаркуары.",супругов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,11
+120939,"Иона узнает, что Мэй Лин умерла и что у него есть внук — Вудсон Хекс.","Иона узнает, что Мэй Лин умерла и что у себя есть внук — Вудсон Хекс.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+110734,"У него также была неопознанная сестра, которая вышла замуж за Ладислава Банфи де Алсолендва.","У себя также была неопознанная сестра, которая вышла замуж за Ладислава Банфи де Алсолендва.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+77510,"Был женат на докторе Зухал Чичек Кырымлы, у супругов было двое детей.","Был женат на докторе Зухал Чичек Кырымлы, у себя было двое детей.",супругов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+73854,"Изначально считалось, что ими являются Сеити Ириэ, Гамма, Гэнкиси, Гло Ксиния и Расиэль, но на деле у них были фальшивые кольца.","Изначально считалось, что ими являются Сеити Ириэ, Гамма, Гэнкиси, Гло Ксиния и Расиэль, но на деле у себя были фальшивые кольца.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,11
+126189,"В Румынии оказывается, что у Драгуты есть большой горб и вообще она дочь декана-карлика Флока.","В Румынии оказывается, что у себя есть большой горб и вообще она дочь декана-карлика Флока.",Драгуты,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+70258,"Также здесь у героя была целая команда поддержки, носившая название Камэн Райдер Клуба.","Также здесь у себя была целая команда поддержки, носившая название Камэн Райдер Клуба.",героя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+78392,У нее есть домашнее животное — мышка Тотюмару. — боец типа Сэй.,У себя есть домашнее животное — мышка Тотюмару. — боец типа Сэй.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+90127,"У майя был также танец читик, который исколняли, стоя на ходулях.","У себя был также танец читик, который исколняли, стоя на ходулях.",майя,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+76561,"Стрыйковский же указывает, что у Монтивила было три сына — Эрдивил, Неман, и Выкынт.","Стрыйковский же указывает, что у себя было три сына — Эрдивил, Неман, и Выкынт.",Монтивила,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+81709,"У Конна было три сына: Конла Красный, Арт Одинокий и Крионн.","У себя было три сына: Конла Красный, Арт Одинокий и Крионн.",Конна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+66426,"У Беорны было три чеканщика, имена которых известны: Верферт, Эфе и Уилред.","У себя было три чеканщика, имена которых известны: Верферт, Эфе и Уилред.",Беорны,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+86637,"Кроме того, у Гюннлейфюра Вигнира есть дочь от первого брака Сикни Мария — родилась.","Кроме того, у себя Вигнира есть дочь от первого брака Сикни Мария — родилась.",Гюннлейфюра,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+108583,У Короки Махута от Тепайи было две старших дочери: Туура младшая из них.,У себя Махута от Тепайи было две старших дочери: Туура младшая из них.,Короки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+124655,"У него были сыновья Семке, Кучелин, Калуга, Эльке, Симула.","У себя были сыновья Семке, Кучелин, Калуга, Эльке, Симула.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+71346,"У Хансена есть сын, Мэдс, он пошел по стам отца и стал футболистом.","У себя есть сын, Мэдс, он пошел по стам отца и стал футболистом.",Хансена,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+118736,Хотя у Лоуренса был приказ от Алленби только разрушить связь вокруг Даръа на неделю.,Хотя у себя был приказ от Алленби только разрушить связь вокруг Даръа на неделю.,Лоуренса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+97868,"У Бесима была сестра Маджиде и трое братьев, Азми, Агах и Кемаль Омер.","У себя была сестра Маджиде и трое братьев, Азми, Агах и Кемаль Омер.",Бесима,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+115385,"Когда муж умер бездетным, у выжившего брата есть мицва для исполнения йибума или халицы.","Когда муж умер бездетным, у выжившего себя есть мицва для исполнения йибума или халицы.",брата,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+119185,"У партии есть четыре слота в объединенном списке, известном как альянс Кахоль-лаван.","У себя есть четыре слота в объединенном списке, известном как альянс Кахоль-лаван.",партии,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+71332,"У языка есть несколько диалектов: аймаса, барка, битама, илит, марда, сокодаса, таказза-сетиит, тиграй, тика.","У себя есть несколько диалектов: аймаса, барка, битама, илит, марда, сокодаса, таказза-сетиит, тиграй, тика.",языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,12
+104336,"У Роки есть бо, Кольт использует катану, а Тум-тум владеет сайями.","У себя есть бо, Кольт использует катану, а Тум-тум владеет сайями.",Роки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+110777,"У языка есть диалекты: барас, бинусванганен, бинатуанен, инаванваанен, киналамиананен (кинарамиананен), лининипакнен и тиналаанен.","У себя есть диалекты: барас, бинусванганен, бинатуанен, инаванваанен, киналамиананен (кинарамиананен), лининипакнен и тиналаанен.",языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,11
+124335,"Его жену зовут Левина Фебиола Висалита, у Риау есть дочь Скайлин Аруна Сейраната.","Его жену зовут Левина Фебиола Висалита, у себя есть дочь Скайлин Аруна Сейраната.",Риау,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+92664,"У нее был дворецкий Рой Фугер Ллоигор, который подговорил ее исполнить желание Махиро — немного покоя.","У себя был дворецкий Рой Фугер Ллоигор, который подговорил ее исполнить желание Махиро — немного покоя.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+117146,"У Мереруки было несколько детей от главной жены (сын Меритети, дочери Небетпернесут и Ибнейтнуб) и еще 5 сыновей от второй жены.","У себя было несколько детей от главной жены (сын Меритети, дочери Небетпернесут и Ибнейтнуб) и еще 5 сыновей от второй жены.",Мереруки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,12
+99341,"Царай Кочкионов был женат на девушке Кабалоевой, у них был единственный сын Науаг.","Царай Кочкионов был женат на девушке Кабалоевой, у себя был единственный сын Науаг.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+91487,"У него было пятеро братьев: Кулюк, Тулпар, Акбуура, Майлытон и Щегр.","У себя было пятеро братьев: Кулюк, Тулпар, Акбуура, Майлытон и Щегр.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+117839,"Согласно Далимиловой хронике у Гостивита был брат Деполт, который унаследовал земли вокруг Коуржима.","Согласно Далимиловой хронике у себя был брат Деполт, который унаследовал земли вокруг Коуржима.",Гостивита,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+120271,От нее у Мухаммадмирзы было двое детей — дочь Китлиляй и сын Булач Младший.,От нее у себя было двое детей — дочь Китлиляй и сын Булач Младший.,Мухаммадмирзы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+77016,"У Холт есть двое внуков, Чез Боно и певец Элайджа Блу Оллман.","У себя есть двое внуков, Чез Боно и певец Элайджа Блу Оллман.",Холт,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+90256,"Павел Марсеру был жена на Александре Петровне Карманской, у супругов было трое детей: Сюзанна, Елена и Петр.","Павел Марсеру был жена на Александре Петровне Карманской, у себя было трое детей: Сюзанна, Елена и Петр.",супругов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,10
+66745,"У Кормака были дочери Айльбе, Грайне (жена Финна Мак Кумала), сыновья Карпре Лифехайр, Келлах.","У себя были дочери Айльбе, Грайне (жена Финна Мак Кумала), сыновья Карпре Лифехайр, Келлах.",Кормака,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,10
+123049,"У него было три брата, Большой Халап Бабаев и Малькума или Ильюмка Бабаев.","У себя было три брата, Большой Халап Бабаев и Малькума или Ильюмка Бабаев.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+111096,"В первом кабинете Али Састроамиджойо у партии было три портфеля, член Нахдатул Улама Заинул Афирин был вторым заместителем премьер-министра.","В первом кабинете Али Састроамиджойо у себя было три портфеля, член Нахдатул Улама Заинул Афирин был вторым заместителем премьер-министра.",партии,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+116776,"У Эремона было две жены — Одба, мать Муимне, Луигне и Лаигне, которую Эримон покинул в Испании, и Теа, (дочь Лугайда, сына Ита) мать Ириела Провидца.","У себя было две жены — Одба, мать Муимне, Луигне и Лаигне, которую Эримон покинул в Испании, и Теа, (дочь Лугайда, сына Ита) мать Ириела Провидца.",Эремона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,16
+80188,"Хью Томас называет этого Теудура правителем Брекнока из Крукаса, и что у него был сын Дивнуал.","Хью Томас называет этого Теудура правителем Брекнока из Крукаса, и что у себя был сын Дивнуал.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+81679,На источниках в частности генеалогических рукописях шежере насаб упоминается что у него было много детей.,На источниках в частности генеалогических рукописях шежере насаб упоминается что у себя было много детей.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+117626,"У квасио есть диалекты бисио, маби, мвумбо (мекук, нгоумба, нгумба).","У себя есть диалекты бисио, маби, мвумбо (мекук, нгоумба, нгумба).",квасио,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+60056,"У пары было как минимум трое сыновей: Энно, Лютет и Эгер.","У себя было как минимум трое сыновей: Энно, Лютет и Эгер.",пары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+119918,"Шергил женат на Прянке Пури из Дели, и у них есть сын Вир.","Шергил женат на Прянке Пури из Дели, и у себя есть сын Вир.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+67550,"У лугбара есть диалекты абеджу-азаки, алуру, заки лу, нио, отшо (в ДРК), аруа (стандартный лугбара), марача, терего (амуго) (в Уганде).","У себя есть диалекты абеджу-азаки, алуру, заки лу, нио, отшо (в ДРК), аруа (стандартный лугбара), марача, терего (амуго) (в Уганде).",лугбара,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,15
+87410,"Хотя всю дорогу от Тагаяна первым шел катер РТ-34, Келли позволил Балкели пойти во главе, поскольку у него были списки каналов.","Хотя всю дорогу от Тагаяна первым шел катер РТ-34, Келли позволил Балкели пойти во главе, поскольку у себя были списки каналов.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+85862,"Там у Реда есть Пикачу, а также Венузавр, Чаризард и Бластойз, развитые формы Бульбазавра, Чармандера и Сквиртла соответственно.","Там у себя есть Пикачу, а также Венузавр, Чаризард и Бластойз, развитые формы Бульбазавра, Чармандера и Сквиртла соответственно.",Реда,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,11
+83224,"У Андрея у Серкиза было два сына: Федор бездетен, да Федор Старко.","У себя у Серкиза было два сына: Федор бездетен, да Федор Старко.",Андрея,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+126313,У хана были также две наложницы — Баявчин из рода баявут и Куйтани из племени ильчикин.,У себя были также две наложницы — Баявчин из рода баявут и Куйтани из племени ильчикин.,хана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+89890,"В храме Сокка узнает, что у Киоши были большие ноги, а след у обрыва на месте преступления был маленький.","В храме Сокка узнает, что у себя были большие ноги, а след у обрыва на месте преступления был маленький.",Киоши,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+64996,"У Глуниайрана была сестра Рагнхильд, которая стала женой сына прежнего верховного короля Ирландии Конгалаха Кногбы.","У себя была сестра Рагнхильд, которая стала женой сына прежнего верховного короля Ирландии Конгалаха Кногбы.",Глуниайрана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+105186,"Обычно они непослушные, однако у Анубиаса и Селлон были кольца, контролирующие Мектогана.","Обычно они непослушные, однако у себя и Селлон были кольца, контролирующие Мектогана.",Анубиаса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+118482,"У Эшая и Асьят были и другие дети: сыновья Эшай-младший, Полус, Давид и Хормизд, дочери Зая и Сурма.","У себя и Асьят были и другие дети: сыновья Эшай-младший, Полус, Давид и Хормизд, дочери Зая и Сурма.",Эшая,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,12
+63879,"У Кутере было много детей, среди которых были будущие Обы Осинлокун, Адель Ажосун и Акитое, а так же Акиолу, Олукойя и Олуси.","У себя было много детей, среди которых были будущие Обы Осинлокун, Адель Ажосун и Акитое, а так же Акиолу, Олукойя и Олуси.",Кутере,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,12
+120237,"От нее сын: Возможно, что у них была еще дочь Санча.","От нее сын: Возможно, что у себя была еще дочь Санча.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+76363,"После он вместе с Дзараки одолевает другого члена Эспады Ямми Льярго, у которого был самый высокий уровень рэйацу.","После он вместе с Дзараки одолевает другого члена Эспады Ямми Льярго, у себя был самый высокий уровень рэйацу.",которого,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+93279,"У Додхудо было три сестры, Дилшод, Чилла и Халво, и брат Джур.","У себя было три сестры, Дилшод, Чилла и Халво, и брат Джур.",Додхудо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+84289,"У Айдита было множество сторонников, в их числе — лидеры партии Судисман, Лукман, Ньото и Сакирман.","У себя было множество сторонников, в их числе — лидеры партии Судисман, Лукман, Ньото и Сакирман.",Айдита,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+84308,"У оканаган есть несколько диалектов: колвиллский, озерный, санпоилский и южный.","У себя есть несколько диалектов: колвиллский, озерный, санпоилский и южный.",оканаган,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+97108,"У Кунгират-ата был еще пятый сын Тортувли, которого подарили его младшей жене.","У себя был еще пятый сын Тортувли, которого подарили его младшей жене.",Кунгират-ата,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+154498,У тебя же была куратор женщина.,У себя же была куратор женщина.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+170161,У нее был первый собственный магазин!,У себя был первый собственный магазин!,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+168884,У нее было всего пятьдесят евро.,У себя было всего пятьдесят евро.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+166626,У меня был друг Алошка.,У себя был друг Алошка.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+149031,У Данвы был безумный вид.,У себя был безумный вид.,Данвы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+185608,У Гурхов было трое мальчиков.,У себя было трое мальчиков.,Гурхов,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+135557,У Кхауи больше требований не было.,У себя больше требований не было.,Кхауи,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+127648,У Тилода не было слуг.,У себя не было слуг.,Тилода,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+148380,У меня есть дом в Зимране.,У себя есть дом в Зимране.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+151636,Прежде Пушкина у нас есть преданья.,Прежде Пушкина у себя есть преданья.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+179259,У нас были дела неподалеку.,У себя были дела неподалеку.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+170802,У деда были ого какие!,У себя были ого какие!,деда,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+134859,У нас же Череп есть!,У себя же Череп есть!,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+154277,У Косуолда были такие же намерения.,У себя были такие же намерения.,Косуолда,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+147315,У горы Ханарэяма было несколько вершин.,У себя Ханарэяма было несколько вершин.,горы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+157723,У меня дома его книжка есть.,У себя дома его книжка есть.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+130581,Теперь у нее было двое таких.,Теперь у себя было двое таких.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+171692,У Иван была другая идея.,У себя была другая идея.,Иван,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+191185,У маураев был хороший пилот.,У себя был хороший пилот.,маураев,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+185904,У тебя же есть пила.,У себя же есть пила.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+136002,Но у Аула был нож.,Но у себя был нож.,Аула,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+157084,У ланнов тоже были стрелки.,У себя тоже были стрелки.,ланнов,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+104192,У Джона Наимбаны было две жены.,У себя Наимбаны было две жены.,Джона,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+117890,У него есть сестра Михару.,У себя есть сестра Михару.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+72683,У Марианне Тиме есть две дочери.,У себя Тиме есть две дочери.,Марианне,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+75358,У него была сестра Айча.,У себя была сестра Айча.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+119151,У Тамты был брат Аваг.,У себя был брат Аваг.,Тамты,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+108275,У Текилы есть круг энергии.,У себя есть круг энергии.,Текилы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+70761,У Мулату Тешоме есть сын.,У себя Тешоме есть сын.,Мулату,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,2
+107503,У суслика Франклина есть несколько.,У себя Франклина есть несколько.,суслика,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,2
+75712,У Дуфвениус есть старшая сестра.,У себя есть старшая сестра.,Дуфвениус,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+100800,У Теодора был брат Эрнье.,У себя был брат Эрнье.,Теодора,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+115136,Также у нее есть собака Песу.,Также у себя есть собака Песу.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+71409,У нас есть ее один экземпляр.,У себя есть ее один экземпляр.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+116838,У Нетер было три младших брата.,У себя было три младших брата.,Нетер,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+119117,У Бумба еще было три сына.,У себя еще было три сына.,Бумба,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+96071,У Яакова Тхона было четверо детей.,У себя Тхона было четверо детей.,Яакова,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+66486,У Гюзей был сын Мюфит.,У себя был сын Мюфит.,Гюзей,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+78140,У них была дочь Секайва.,У себя была дочь Секайва.,них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+106647,У него есть тату Дилана.,У себя есть тату Дилана.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+72852,У Алистера есть сестра Голданна.,У себя есть сестра Голданна.,Алистера,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+79663,У Джемиле Юсуф есть брат.,У себя Юсуф есть брат.,Джемиле,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,2
+60334,У феаков были замечательные корабли.,У себя были замечательные корабли.,феаков,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+108468,У Ремиджо Кантагаллины было много учеников.,У себя Кантагаллины было много учеников.,Ремиджо,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+173190,У нас в кабинете химии портрет есть.,У себя в кабинете химии портрет есть.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+67115,У нее есть старшая сестра Малаика Арора.,У себя есть старшая сестра Малаика Арора.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+124278,У революции же пока было только двое.,У себя же пока было только двое.,революции,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+104115,У Кардилл есть дочь актриса Кейт Рогал.,У себя есть дочь актриса Кейт Рогал.,Кардилл,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+117152,У игроков есть три способа использования жилет.,У себя есть три способа использования жилет.,игроков,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+73192,Но у него есть мания — женщины.,Но у себя есть мания — женщины.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+85139,У десяти крестьян изб вообще не было.,У десяти себя изб вообще не было.,крестьян,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,2
+94928,У пар были жаркие сцены в Амьене.,У себя были жаркие сцены в Амьене.,пар,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+109237,Также у него была сестра Аниция Проба.,Также у себя была сестра Аниция Проба.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+183501,"Ей сказали даже, что у него есть дти.","Ей сказали даже, что у себя есть дти.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+171553,У слуг чтобы не было заплат на одежде.,У себя чтобы не было заплат на одежде.,слуг,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+167643,Да и у Маргарет тоже есть здесь самолет.,Да и у себя тоже есть здесь самолет.,Маргарет,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+196271,Благодаря Грегори у меня наконец были и зрители.,Благодаря Грегори у себя наконец были и зрители.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+183408,"У охраны были подменные кони, одного предложили Николаю.","У себя были подменные кони, одного предложили Николаю.",охраны,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+134346,"Деньги-то, полно, у него есть ли?","Деньги-то, полно, у себя есть ли?",него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+130872,"Просто знает, что у нее деньги есть.","Просто знает, что у себя деньги есть.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+148795,Однако у вотандина на это просто не было времени.,Однако у себя на это просто не было времени.,вотандина,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+161011,"У Тоби одна жена уже есть, хватит!","У себя одна жена уже есть, хватит!",Тоби,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+146644,У Риммы есть муж и она всех старше.,У себя есть муж и она всех старше.,Риммы,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+186695,Разве у Али была красота не от Бога?,Разве у себя была красота не от Бога?,Али,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+136380,Именно от него у нас всегда прибыль есть!,Именно от него у себя всегда прибыль есть!,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+136698,Но помимо странного выражения радости у тебя вопросы есть?,Но помимо странного выражения радости у себя вопросы есть?,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+182771,У вас есть человек из Академии – Хомир Мунн.,У себя есть человек из Академии – Хомир Мунн.,вас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+168481,Сегодня у тебя есть права только на филей.,Сегодня у себя есть права только на филей.,тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+168463,"Чважи говорил, что у них есть разум.","Чважи говорил, что у себя есть разум.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+190187,Ведь у меня схемы многих его операций есть.,Ведь у себя схемы многих его операций есть.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+157965,У Бомонта есть один бог – его честь.,У себя есть один бог – его честь.,Бомонта,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+176149,Для отца Гии у меня была другая версия.,Для отца Гии у себя была другая версия.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+169844,А в единоцелом у меня будет иное предназначение.,А в единоцелом у себя будет иное предназначение.,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+126991,"Слава Богу, у Кристин скоро опять будет сад...","Слава Богу, у себя скоро опять будет сад...",Кристин,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+134489,"Меткаф не знал, что у нас есть автомат.","Меткаф не знал, что у себя есть автомат.",нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+91711,В браке у Иво Лапенна не было детей.,В браке у себя Лапенна не было детей.,Иво,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+123630,У Кулио есть еще шесть детей от других отношений.,У себя есть еще шесть детей от других отношений.,Кулио,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+99112,У Литча есть сестра — актриса Айони Скай.,У себя есть сестра — актриса Айони Скай.,Литча,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+78717,"У нее есть младший брат, Сумьядип Гхошал.","У себя есть младший брат, Сумьядип Гхошал.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+61425,У Эгира было двое слуг — Эльдир и Фимафенг.,У себя было двое слуг — Эльдир и Фимафенг.,Эгира,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+120896,У Арасели есть брат — врач и ее менеджер.,У себя есть брат — врач и ее менеджер.,Арасели,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+97131,Вместо покойного Пака у Мунте теперь был пес Тиберио.,Вместо покойного Пака у себя теперь был пес Тиберио.,Мунте,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+74744,"У Софии есть брат, которого зовут Дель Саматар.","У себя есть брат, которого зовут Дель Саматар.",Софии,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+121632,У него есть также младший брат Джимитри Райс.,У себя есть также младший брат Джимитри Райс.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+73315,У нее есть 2 старшие сестры Франциль и Элен.,У себя есть 2 старшие сестры Франциль и Элен.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+101978,"Лиз приходится признаться, что у нее был ключ.","Лиз приходится признаться, что у себя был ключ.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+114460,У Касвала была младшая сестра Артесия Сом Дайкун.,У себя была младшая сестра Артесия Сом Дайкун.,Касвала,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+90279,"Дрляча вдовец, у него есть двое детей.","Дрляча вдовец, у себя есть двое детей.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+63722,У нее были романтические отношения со и Александру Аршинелем.,У себя были романтические отношения со и Александру Аршинелем.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+81113,У него было два сына: Икирас и Олкунут.,У себя было два сына: Икирас и Олкунут.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+83366,"Во Франции у Тоберкарри есть побратим, Виарм.","Во Франции у себя есть побратим, Виарм.",Тоберкарри,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+101938,У храма есть два гопурама — восточный и западный.,У себя есть два гопурама — восточный и западный.,храма,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+83731,"У Коли не было семьи, только племянник.","У себя не было семьи, только племянник.",Коли,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+87354,У города не было собственной экономической базы и епископии.,У себя не было собственной экономической базы и епископии.,города,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+61194,У Баром Дхарма Вангчука был ученик Тиши Репа.,У себя Дхарма Вангчука был ученик Тиши Репа.,Баром,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+85893,У Андагая был младший брат по имени Илда.,У себя был младший брат по имени Илда.,Андагая,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+103329,У него были братья ханы: Бегубарс и Сакз.,У себя были братья ханы: Бегубарс и Сакз.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+94703,У Кева есть два младших брата: Ноам и Лироне Смаджа.,У себя есть два младших брата: Ноам и Лироне Смаджа.,Кева,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+66297,"У Седелевбы была младшая сестра Клотильда, а также два брата.","У себя была младшая сестра Клотильда, а также два брата.",Седелевбы,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+67271,"У них было трое детей — Робсон, Розалво и Розилейде.","У себя было трое детей — Робсон, Розалво и Розилейде.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+67252,"У Эймюра есть жена Джансет, сын Альп и дочь Айше.","У себя есть жена Джансет, сын Альп и дочь Айше.",Эймюра,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+93958,"Как и у рокурокуби, у хитобана есть линия вокруг шеи.","Как и у себя, у хитобана есть линия вокруг шеи.",рокурокуби,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+87592,"У Лулу Белл была слуга — Мими, демон второго уровня.","У себя Белл была слуга — Мими, демон второго уровня.",Лулу,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+77538,"У Кюрике было трое сыновей — Агсартан, Тадиадин и Паглаван.","У себя было трое сыновей — Агсартан, Тадиадин и Паглаван.",Кюрике,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+82348,"У тяру также есть три диалета: вавал, нтининь, тяру.","У себя также есть три диалета: вавал, нтининь, тяру.",тяру,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+96280,"У них было двое детей, поэт Беата Дункан и Том Рефиш.","У себя было двое детей, поэт Беата Дункан и Том Рефиш.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+81410,На следующий год у Хансики также были только тамильские проекты.,На следующий год у себя также были только тамильские проекты.,Хансики,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+121601,"У Тилоки было два сына, Гурудутта и Сукх Чейн.","У себя было два сына, Гурудутта и Сукх Чейн.",Тилоки,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+68747,"У игрока есть еще время, собрания не много перенесли.","У себя есть еще время, собрания не много перенесли.",игрока,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+121901,"У Шемара есть три брата — Кошено, Шебурра и Шенон Мур.","У себя есть три брата — Кошено, Шебурра и Шенон Мур.",Шемара,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+120942,От Мод де Нерфорд у Варенна было несколько внебрачных детей.,От Мод де Нерфорд у себя было несколько внебрачных детей.,Варенна,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+124318,"У Капаакеа и Кеохокалоле было много детей, но многие умерли молодыми.","У себя и Кеохокалоле было много детей, но многие умерли молодыми.",Капаакеа,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+106902,Но у Теодоридиса и мысли не было защищаться и задержать Драмали.,Но у себя и мысли не было защищаться и задержать Драмали.,Теодоридиса,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+104236,"У него был Элективайр, когда он выступил против Маровака Киаве.","У себя был Элективайр, когда он выступил против Маровака Киаве.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+106444,"Также у языка есть диалекты дой, санюнг-муак и тайлой.","Также у себя есть диалекты дой, санюнг-муак и тайлой.",языка,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+116933,У Экатотсарота было два сына: принц Сутхат и принц Сонгтам.,У себя было два сына: принц Сутхат и принц Сонгтам.,Экатотсарота,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+72389,"Прежде чем стать Кюа Лимонад, у Урары не было друзей.","Прежде чем стать Кюа Лимонад, у себя не было друзей.",Урары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+106339,"Также у Сарво Эдди есть и другие дети — Виджиасих Чахьясаси, Врахасти Чендравасих и Матсури Рахаю.","Также у себя Эдди есть и другие дети — Виджиасих Чахьясаси, Врахасти Чендравасих и Матсури Рахаю.",Сарво,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+107983,"Он женился на Браустуде верх Глоуд, двоюродной сестре не оставившего наследников правителя Биэллта Фернвайла ап Теудура, с которой у него было два сына: Рис и Мейриг.","Он женился на Браустуде верх Глоуд, двоюродной сестре не оставившего наследников правителя Биэллта Фернвайла ап Теудура, с которой у себя было два сына: Рис и Мейриг.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,13
+125622,"У Витензон Александра Зискиндович был не один племянник, а еще 2 родных.","У себя Александра Зискиндович был не один племянник, а еще 2 родных.",Витензон,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+119124,"У парджи есть диалекты дхарба, куканар, нетанар (центральный), тирия.","У себя есть диалекты дхарба, куканар, нетанар (центральный), тирия.",парджи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+85777,"Но последний монах снимает капюшон сам, у него есть голова, так как это Доктор.","Но последний монах снимает капюшон сам, у себя есть голова, так как это Доктор.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+88729,"В нартаксе сохранилсь остатки лестницы, возможно у церкви была колокольня или вестверк.","В нартаксе сохранилсь остатки лестницы, возможно у себя была колокольня или вестверк.",церкви,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+111423,"У нее есть два брата, Митти и Чаран, и сестра Симран.","У себя есть два брата, Митти и Чаран, и сестра Симран.",нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+83283,"У Чуана есть сын, Суработ Ликпай от Пакдипорн Суджариткул, его гражданской жены.","У себя есть сын, Суработ Ликпай от Пакдипорн Суджариткул, его гражданской жены.",Чуана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+97833,"У тама есть диалекты гирга, милеере (милеринка), мурасе, орра, тама, хаура и эренга.","У себя есть диалекты гирга, милеере (милеринка), мурасе, орра, тама, хаура и эренга.",тама,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,11
+112108,"Согласно Далимиловой хронике, у Неклана были два сына, Гостивит и Деполт.","Согласно Далимиловой хронике, у себя были два сына, Гостивит и Деполт.",Неклана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+109637,"А у чеченцев — Пхьармат, Германч Также есть различие между образами нартов.","А у себя — Пхьармат, Германч Также есть различие между образами нартов.",чеченцев,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+118430,"Женат на Ратне Патхак, у пары есть двое сыновей Имаад и Виван.","Женат на Ратне Патхак, у себя есть двое сыновей Имаад и Виван.",пары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+105814,"У маива есть диалекты гаирен, гварета, маива, манигара и ора.","У себя есть диалекты гаирен, гварета, маива, манигара и ора.",маива,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+70094,"Вместо нее у Ристара есть отец, легендарный герой, метеор, защищающий систему Валди.","Вместо нее у себя есть отец, легендарный герой, метеор, защищающий систему Валди.",Ристара,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+78147,"У Лоле был сын по имени Корч Эрташ Калфа, который также работал архитектором в Мардине.","У себя был сын по имени Корч Эрташ Калфа, который также работал архитектором в Мардине.",Лоле,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+112409,"У него было пятеро детей: Дункан, Джейехерис, Дейерон и дочери Рейела и Шейера.","У себя было пятеро детей: Дункан, Джейехерис, Дейерон и дочери Рейела и Шейера.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+113545,"Последний узнал, что у Демасдуит были и другие имена — Шендорет и Ваунатоаке.","Последний узнал, что у себя были и другие имена — Шендорет и Ваунатоаке.",Демасдуит,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+106935,"У него было восемь жен, из которых первая — дочь Джам Сахиба Наванагара, Пуариджи — была главной супругой.","У себя было восемь жен, из которых первая — дочь Джам Сахиба Наванагара, Пуариджи — была главной супругой.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+91266,"Лиза Энн Шэфер,): у него есть старшая сестра Алекса (род.","Лиза Энн Шэфер,): у себя есть старшая сестра Алекса (род.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+84556,"От Баху у Мухаммад-нуцала, кроме Умма-хана, было еще три дочери: Хистаман, Аймесей и Бахтика.","От Баху у себя, кроме Умма-хана, было еще три дочери: Хистаман, Аймесей и Бахтика.",Мухаммад-нуцала,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+94498,"У Роланда было три брата, Иштван, предок дворянских родов Пастои, Тари и Какаш де Каза.","У себя было три брата, Иштван, предок дворянских родов Пастои, Тари и Какаш де Каза.",Роланда,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,10
+79443,"Поллок не признавал существования случая, у него обычно были конкретные идеи создания картины.","Поллок не признавал существования случая, у себя обычно были конкретные идеи создания картины.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+180580,У Моррана не было подобных проблем.,У себя не было подобных проблем.,Моррана,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+188773,И у нее такая будет.,И у себя такая будет.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+187480,У меня есть ру... получилось?,У себя есть ру... получилось?,меня,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+187798,У Болли и Тордис была дочь.,У себя и Тордис была дочь.,Болли,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+152050,У нее наверняка не было времени.,У себя наверняка не было времени.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+156857,Пинский: А у него есть!,Пинский: А у себя есть!,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+169640,У Леонидаса хоть это было.,У себя хоть это было.,Леонидаса,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+79036,У газеты есть 2 англоязычных проекта.,У себя есть 2 англоязычных проекта.,газеты,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+72719,У Форньота было три сына.,У себя было три сына.,Форньота,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+102496,У него был сын Икунтей.,У себя был сын Икунтей.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+92623,У узонов был собственный административный род.,У себя был собственный административный род.,узонов,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+86435,У Сары есть дочь Нелл.,У себя есть дочь Нелл.,Сары,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+76912,А у Регина был меч Ревиль.,А у себя был меч Ревиль.,Регина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+67003,Также у Аеши есть брат Милан.,Также у себя есть брат Милан.,Аеши,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,3
+167145,А больше у Карра против Джеймса ничего не было.,А больше у себя против Джеймса ничего не было.,Карра,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+130542,У кого десять свиней есть – там уже барон.,У себя десять свиней есть – там уже барон.,кого,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,5
+139669,"Кстати, у тебя не будет трех рублей?","Кстати, у себя не будет трех рублей?",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+133508,У югагиров и название ему есть — Колодар.,У себя и название ему есть — Колодар.,югагиров,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+185668,У нас фактически не было практики относительно этой расы.,У себя фактически не было практики относительно этой расы.,нас,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+182073,У него есть он сам – тысячи Лабастьеров.,У себя есть он сам – тысячи Лабастьеров.,него,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4
+141589,"У тебя ведь есть, мамочка, Джо?","У себя ведь есть, мамочка, Джо?",тебя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+114365,У Си Индрадитьи и королевы Суанг было три сына.,У себя Индрадитьи и королевы Суанг было три сына.,Си,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+106211,У нее есть брат — музыкант Арда Шенол.,У себя есть брат — музыкант Арда Шенол.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+98842,Также у Серажутдина были брат Юрий и сестра Татьяна.,Также у себя были брат Юрий и сестра Татьяна.,Серажутдина,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+113034,У нее есть кот Зефир. — идол школы.,У себя есть кот Зефир. — идол школы.,нее,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,4
+75514,"Первая, истории в которых у ксаны есть ребенок.","Первая, истории в которых у себя есть ребенок.",ксаны,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+96468,У полиции были причины для подозрения Тамблти в убийствах.,У себя были причины для подозрения Тамблти в убийствах.,полиции,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+62180,У бану Наджжар было как минимум три подклана.,У себя Наджжар было как минимум три подклана.,бану,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+82548,"Был женат на Нейле Зуитен, у них было трое детей — Моез, Махди, Мерием.","Был женат на Нейле Зуитен, у себя было трое детей — Моез, Махди, Мерием.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+86453,"У Моргана ап Атруиса ап Мейрига был престолонаследник по имени Гурхитир, а также сыновья, Ител, Иднерт и Эйнудд Щедрый.","У себя ап Атруиса ап Мейрига был престолонаследник по имени Гурхитир, а также сыновья, Ител, Иднерт и Эйнудд Щедрый.",Моргана,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,11
+125287,"Глава совета арестовывает Хомяксвилля, и Джамба шепчет Пликли, что у него есть планы сделать менее устойчивых экспериментов.","Глава совета арестовывает Хомяксвилля, и Джамба шепчет Пликли, что у себя есть планы сделать менее устойчивых экспериментов.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+86923,"Его женой была Хулиета Мейянс Аргерих, от которой у него было восемь детей.","Его женой была Хулиета Мейянс Аргерих, от которой у себя было восемь детей.",него,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+72929,"У Тваштара есть сын Вишварупа (""всеобразный""), страж коров.","У себя есть сын Вишварупа (""всеобразный""), страж коров.",Тваштара,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,6
+108981,"Его первую жену звали Сити Хадиджа, у них было двое детей — Анон Бадариах и Бамбанг Пермади Амирмахмуд.","Его первую жену звали Сити Хадиджа, у себя было двое детей — Анон Бадариах и Бамбанг Пермади Амирмахмуд.",них,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,8
+123697,"У Золи Семанате было похожее впечатление о Стэйли: У него был действительно высокий голос, вроде Винса Нила.","У себя Семанате было похожее впечатление о Стэйли: У него был действительно высокий голос, вроде Винса Нила.",Золи,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,9
+128466,У Эбби Престон уже есть такие.,У себя Престон уже есть такие.,Эбби,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+66891,У ламену также есть диалекты галокумали и галопаруа.,У себя также есть диалекты галокумали и галопаруа.,ламену,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,5
+135149,А поэтому у саров было особое почитание женщины.,А поэтому у себя было особое почитание женщины.,саров,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+181493,У татя был общий вид.,У себя был общий вид.,татя,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+93842,"У Куши и Кумудвати есть сын по имени Атитхи, который становится наследником царства.","У себя и Кумудвати есть сын по имени Атитхи, который становится наследником царства.",Куши,себя,Syntax,Reflexives,external_possessor,external_possessor,wikipedia,7
+194437,У Лиз были другие намерения.,У себя были другие намерения.,Лиз,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,3
+141415,Но у Бихри опыта не было.,Но у себя опыта не было.,Бихри,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,2
+172233,У Гонангнана не было времени на эти приготовления.,У себя не было времени на эти приготовления.,Гонангнана,себя,Syntax,Reflexives,external_possessor,external_possessor,librusec,4

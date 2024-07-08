@@ -1,0 +1,1001 @@
+id,source_sentence,target_sentence,source_word,target_word,level,phenomenon,PID,subtype,domain,tree_depth
+4002,Уюк не станет мужем Росы никогда!,Уюк станет мужем не Росы никогда!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+19459,Никто прежде никогда не говорил ему такого.,Никто прежде никогда говорил ему не такого.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+1348,Роман никогда не видел сестру такой.,Роман никогда видел сестру не такой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+68151,Никогда не говорила мне об Опальском.,Никогда говорила мне не об Опальском.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+15026,Артур еще никогда не видел ее такой.,Артур еще никогда видел ее не такой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+49616,Майна никогда не ела фриты вилкой.,Майна никогда ела фриты не вилкой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+59467,Я никогда не забуду выражение лица Парскета.,Я никогда забуду выражение не лица Парскета.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+28806,Кара никогда не могла уложить волосы руками.,Кара никогда могла уложить волосы не руками.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+62021,Джон никогда не целовал ее так.,Джон никогда целовал ее не так.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+26143,Я ничего не говорила ороли невесты.,Я ничего говорила ороли не невесты.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+32185,Никто не совершил ничего после ее получения.,Никто совершил ничего не после ее получения.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+50402,Бав-ли никогда не изменял круга ваших мыслей.,Бав-ли никогда изменял круга не ваших мыслей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+15863,Неужели никогда не видела эльфа ночью?,Неужели никогда видела эльфа не ночью?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+27388,Никто еще никогда не говорил ей этого.,Никто еще никогда говорил ей не этого.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+3255,Но Пето никогда не разрывал круга Стражей.,Но Пето никогда разрывал круга не Стражей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+37566,Ву никогда не спрашивал имени скульптора.,Ву никогда спрашивал имени не скульптора.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+62947,Никогда не видела созданий наглее!,Никогда видела созданий не наглее!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+1430,Никогда не принимаешь смерть друга.,Никогда принимаешь смерть не друга.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+57587,Никто не осмеливался поднять оружие на Сура.,Никто осмеливался поднять оружие не на Сура.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+72731,Я никогда не хотела их от тебя!,Я никогда хотела их не от тебя!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+53054,Никто не писал ему ничего!,Никто писал ему не ничего!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+73400,Никогда Ханнар не обнимала его так.,Никогда Ханнар обнимала его не так.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+7662,"Раздарит, не оставив мне ровно ничего.","Раздарит, оставив мне не ровно ничего.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+67203,Я никогда не висела его прежде.,Я никогда висела его не прежде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+31202,Ничто не дается нам так.,Ничто дается нам не так.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+65968,Никогда не ешьте травы времени!,Никогда ешьте травы не времени!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+67796,Ничего не поделаешь результат воспитания.,Ничего поделаешь результат не воспитания.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+39590,Мисани никогда не выставляла чувства напоказ.,Мисани никогда выставляла чувства не напоказ.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+41415,Никто никогда не ждал его прежде.,Никто никогда ждал его не прежде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+78162,Никто более не заметил трудноуловимую вонь зла.,Никто более заметил трудноуловимую вонь не зла.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+15316,Она никогда не тронет врага Фирексии.,Она никогда тронет врага не Фирексии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+6968,Словно и не существовало никогда полковника Басовсона.,Словно и существовало никогда полковника не Басовсона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+20993,И ничего никогда не заменит мне дома.,И ничего никогда заменит мне не дома.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+23410,Никто не потрудился прочитать ей меню.,Никто потрудился прочитать ей не меню.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+1221,Ничто не перевесит слово лорда.,Ничто перевесит слово не лорда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+79802,Ничего не ответил арнорцу Дэлагунд.,Ничего ответил арнорцу не Дэлагунд.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+40762,Ничего не ответил мне циклоп.,Ничего ответил мне не циклоп.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+63553,Вальган никогда не видел парторга таким.,Вальган никогда видел парторга не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+35071,Никогда не сделал мне ничего дурного.,Никогда сделал мне не ничего дурного.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+17239,Никогда не просил себе роль.,Никогда просил себе не роль.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+7263,Они никогда не отпустят ее к Мо.,Они никогда отпустят ее не к Мо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+29769,Никто из зрителей не избежал воздействия Уэнсомер.,Никто из зрителей избежал воздействия не Уэнсомер.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+35671,Никто не может сделать ее за другого.,Никто может сделать ее не за другого.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+76561,А никогда не было рчи о наук.,А никогда было рчи не о наук.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+57070,Тебе ничего не говорит имя Тун Лу?,Тебе ничего говорит имя не Тун Лу?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+41857,Никто уже не мог остановить движения яда.,Никто уже мог остановить движения не яда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+16748,Кэйт никогда не видела никого при смерти.,Кэйт никогда видела никого не при смерти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+45113,Никто не погонит меня на пост.,Никто погонит меня не на пост.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+40072,Делла никогда не имела дела с радио.,Делла никогда имела дела не с радио.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+63126,Я никогда больше не видел Его таким!,Я никогда больше видел Его не таким!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+20760,Никто не обращал внимания на Пленти Мэд.,Никто обращал внимания не на Пленти Мэд.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+44308,Никто не верил словам чужака.,Никто верил словам не чужака.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+10745,Никто не поддержал остров Кенгир.,Никто поддержал остров не Кенгир.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+11757,Мир еще никому не прощал отсутствия слабостей.,Мир еще никому прощал отсутствия не слабостей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+41673,Пол никогда не клянчил работу у Марти.,Пол никогда клянчил работу не у Марти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+16640,Даллбен никогда не говорил мне о них.,Даллбен никогда говорил мне не о них.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+40918,И ей никогда не получить статус отеля.,И ей никогда получить статус не отеля.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+78593,Баалин никогда не чувствовал себя сыном бога.,Баалин никогда чувствовал себя не сыном бога.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+46060,Никогда прежде Леони не видела его таким.,Никогда прежде Леони видела его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+2652,Только бы ничего не сделали Мистеру Маунусу!,Только бы ничего сделали Мистеру не Маунусу!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+73133,Никто не может купить братьев Неромейн!,Никто может купить братьев не Неромейн!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+29281,Никто не причинит зла Мери.,Никто причинит зла не Мери.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+69094,Поскольку никто не слушал мир напрямик.,Поскольку никто слушал мир не напрямик.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+12415,Трайе никогда не нравилось ощущение этого места.,Трайе никогда нравилось ощущение не этого места.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+78419,Никто не заметил бегства Алека и Айана.,Никто заметил бегства не Алека и Айана.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+3855,Никто не понял величия моего Поступка.,Никто понял величия не моего Поступка.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+1342,Валя никогда не бросался печатать книгу безоглядно.,Валя никогда бросался печатать книгу не безоглядно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+73443,Никогда не смейте ударить собаку зря.,Никогда смейте ударить собаку не зря.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+51783,Даже Эд никогда не позволял мне этого...,Даже Эд никогда позволял мне не этого...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+45545,Ничего не может быть до войны?,Ничего может быть не до войны?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+13182,Никто не вспомнил имени Клингзор.,Никто вспомнил имени не Клингзор.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+5077,Ведь не интересовало его это ничего?,Ведь интересовало его не это ничего?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+28244,Но никогда не захватывали меня всего.,Но никогда захватывали меня не всего.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+28469,Никогда не существовало такой богини Теояоминкуи.,Никогда существовало такой богини не Теояоминкуи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+13510,Никто не мог назвать асури Утан неженкой.,Никто мог назвать асури не Утан неженкой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63135,Кигаль никогда не соблюдала правило ста лет.,Кигаль никогда соблюдала правило не ста лет.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+59486,Я ничего не говорила месье Нено!,Я ничего говорила месье не Нено!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+56297,Просто я никогда не ела этого раньше.,Просто я никогда ела этого не раньше.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+41200,Никогда ей не повторить этих слов Нику.,Никогда ей повторить этих слов не Нику.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+19174,Неужели никто не принес тебе сюда обед?,Неужели никто принес тебе не сюда обед?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+63711,Никогда не забудет этот рев боли.,Никогда забудет этот рев не боли.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+1640,Лебуол никогда не спускал глаз с Тэвернера.,Лебуол никогда спускал глаз не с Тэвернера.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+5600,Но пусть никто не мешает мне сейчас!,Но пусть никто мешает мне не сейчас!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+46866,"Никогда не думайте, капитан Ростова.","Никогда думайте, капитан не Ростова.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+40889,Никогда не вознестись веселым звоном над городом...,Никогда вознестись веселым звоном не над городом...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+52190,Так не страдал он этим никогда.,Так страдал он не этим никогда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+9343,Только не хочется мне больше ничего этого.,Только хочется мне не больше ничего этого.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+51565,Здесь никогда не распахивают дверей широко.,Здесь никогда распахивают дверей не широко.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+43416,Никому не завести Главные часы королевства.,Никому завести Главные часы не королевства.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+23939,"Мы ничего не сочиняли, капитан Фрекенхем...","Мы ничего сочиняли, капитан не Фрекенхем...",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+23573,Никогда больше не поднимай оружия на норманна.,Никогда больше поднимай оружия не на норманна.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+79351,Он никогда не сможет забыть обман Кристин.,Он никогда сможет забыть обман не Кристин.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+21802,Геро никогда не видела его таким.,Геро никогда видела его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+43304,Лэйкил никогда не показывал ему таких плетений.,Лэйкил никогда показывал ему не таких плетений.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+17351,Никто не любил старуху Кражу.,Никто любил старуху не Кражу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+1551,Никогда не видел его таким Элронд.,Никогда видел его не таким Элронд.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+1654,Никогда раньше Беландра не видела его таким.,Никогда раньше Беландра видела его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+45160,Ресет никогда не бросает слов на ветер.,Ресет никогда бросает слов не на ветер.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+43758,Ститри никогда не будет принадлежать тебе одному.,Ститри никогда будет принадлежать тебе не одному.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+49253,Райли никогда не слушал ее раньше.,Райли никогда слушал ее не раньше.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+43672,Никто никогда не говорил ему этих слив.,Никто никогда говорил ему не этих слив.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+14354,Но никогда не принадлежит себе до конца.,Но никогда принадлежит себе не до конца.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+23617,И никогда не сделает ей предложения.,И никогда сделает ей не предложения.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+52640,Джо никогда не считал себя собственником.,Джо никогда считал себя не собственником.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+60027,А деталь никогда не противоречит законам конструкции.,А деталь никогда противоречит законам не конструкции.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+20813,Никто не получит ни частицы тебя!,Никто получит ни частицы не тебя!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+14142,Иверь никогда не оправдает его за это.,Иверь никогда оправдает его не за это.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+28328,Гудрид никогда не видела отца таким оживленным.,Гудрид никогда видела отца не таким оживленным.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+65547,И точно никогда не видела его раньше.,И точно никогда видела его не раньше.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+66155,И не рисовал я сажей ничего такого!,И рисовал я не сажей ничего такого!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+48353,Суль никогда не обременяла себя никакими условностями.,Суль никогда обременяла себя не никакими условностями.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+69930,Рос еще никогда не видел его таким.,Рос еще никогда видел его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+41337,Я никогда не хотела никому смерти.,Я никогда хотела никому не смерти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+24313,Осташа никогда не видал скал без реки.,Осташа никогда видал скал не без реки.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+53306,"Вы ничего не скрываете, гере Жоспен?","Вы ничего скрываете, гере не Жоспен?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+22870,Никто из башни не увидел армию леса.,Никто из башни увидел армию не леса.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+43830,Но уже никогда не существовал артист Нугер.,Но уже никогда существовал артист не Нугер.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+38192,Моа почти никогда не видела лица Турпана.,Моа почти никогда видела лица не Турпана.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+55531,Я никогда не понимал этого до Киры.,Я никогда понимал этого не до Киры.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+63871,Мне никогда не нравился капитан Дарзид.,Мне никогда нравился капитан не Дарзид.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+4561,Никто не видел ее здесь...,Никто видел ее не здесь...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+78991,Никогда не знает меры счастье!,Никогда знает меры не счастье!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+5636,Никто на Лагиди не даст ей работы.,Никто на Лагиди даст ей не работы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+59123,Никто не придал значения речи Чернова.,Никто придал значения не речи Чернова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+58955,Почему ничего не говорила мне раньше?,Почему ничего говорила мне не раньше?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+25680,Пекос никогда не называл ее прежде леди.,Пекос никогда называл ее не прежде леди.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+43752,Ститри никогда не видела его таким.,Ститри никогда видела его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+74064,Аропетрана никогда не видел ее раньше.,Аропетрана никогда видел ее не раньше.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+79885,"Вероятно, никогда не видели Сына Клана.","Вероятно, никогда видели Сына не Клана.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+65242,Никто не узнал Эм по фотографии.,Никто узнал Эм не по фотографии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+49296,Обещаю ничего не делать лорду Синоби.,Обещаю ничего делать лорду не Синоби.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+10878,Тамалон еще никогда не называл его Кейлом.,Тамалон еще никогда называл его не Кейлом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+42028,Никто не вернулся связать ему руки.,Никто вернулся связать ему не руки.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+14809,Ален никогда прежде не видел ее такой.,Ален никогда прежде видел ее не такой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+48008,Чтоб никогда не правил ими Зевс.,Чтоб никогда правил ими не Зевс.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+50639,Разве никто не слышал предупреждения Капайма?,Разве никто слышал предупреждения не Капайма?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+61468,Басов никогда не видел ее такой.,Басов никогда видел ее не такой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+46074,Свиядов никогда не видел его таким.,Свиядов никогда видел его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+57664,Никогда не видела близко людей твоей породы.,Никогда видела близко людей не твоей породы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+39592,Кайку никогда не видела подобного разгула стихии.,Кайку никогда видела подобного разгула не стихии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+32719,Но никто не разделял горя Гусарикова.,Но никто разделял горя не Гусарикова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+26741,Не знавших никогда и отблесков идеи...,знавших никогда и отблесков Не идеи...,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+34454,И не будем под этим разуметь ничего высшего?,И будем не под этим разуметь ничего высшего?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+26368,Разве никто не замолвил слово за мой народ?,Разве никто замолвил слово не за мой народ?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+68792,Среди общего шума никто не услышал крика Ликона.,Среди общего шума никто услышал крика не Ликона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+9074,Пес никогда раньше не видел Севилла на полу.,Пес никогда раньше видел Севилла не на полу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+66901,А Малиман никогда не допускал одну ошибку дважды.,А Малиман никогда допускал одну ошибку не дважды.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+31589,"Однако, я никогда не носил имени Артур.","Однако, я никогда носил имени не Артур.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+51814,Но не купишь ведь ничего здесь за марки!,Но купишь ведь ничего здесь не за марки!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+12174,Миноби никогда раньше не видел такой системы связи.,Миноби никогда раньше видел такой системы не связи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+72556,"Но никто не помнил, кто такие пандейры.","Но никто помнил, кто не такие пандейры.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+62273,Алексей ничего никогда не сообщал ей об этом.,Алексей ничего никогда сообщал ей не об этом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+40101,Пруит еще никогда не бросал друга в беде.,Пруит еще никогда бросал друга не в беде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+34843,Лабони старался ничем не выказать презрения к Эдону.,Лабони старался ничем выказать презрения не к Эдону.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+53627,Никогда в жизни не видела отца хуже вас!,Никогда в жизни видела отца не хуже вас!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63529,Маттимео никогда не видел так много крыс разом.,Маттимео никогда видел так много крыс не разом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+45256,Но Энунд ничем не помог ей в этом.,Но Энунд ничем помог ей не в этом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+65845,В Адебгии никогда не было недостатка в сапожниках.,В Адебгии никогда было недостатка не в сапожниках.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+47336,Ведь никто не режет шкуры на барабан клеймором!,Ведь никто режет шкуры не на барабан клеймором!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+36585,Никогда еще не желал Паксон женщину так сильно!,Никогда еще желал Паксон женщину не так сильно!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+44421,Никто ничего не мог ему здесь сообщить нового.,Никто ничего мог ему не здесь сообщить нового.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+47059,"Ах, никогда не послано было мне удачи!","Ах, никогда послано было мне не удачи!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+41376,"Тебя сейчас никто не видит, пацан Архипка.","Тебя сейчас никто видит, пацан не Архипка.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+4307,Хотой никогда не выходил к ученикам по утрам.,Хотой никогда выходил к ученикам не по утрам.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+31446,Каде ведь ничего не обещала капитану гвардии королевы.,Каде ведь ничего обещала капитану не гвардии королевы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+59877,А Ворш ничего не сказал ему про подшлемник.,А Ворш ничего сказал ему не про подшлемник.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+52042,И еще Фай никогда не считал себя дипломатом.,И еще Фай никогда считал себя не дипломатом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+43221,Никто уже давно не замечал Ревуна в полете.,Никто уже давно замечал Ревуна не в полете.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+60863,Тимманец никогда не наденет такие сапоги в бой.,Тимманец никогда наденет такие сапоги не в бой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53977,Зачем никогда не выпускаешь меня за эти стены?,Зачем никогда выпускаешь меня не за эти стены?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+14335,Только никогда не пробовала отсидеть всю себя сразу.,Только никогда пробовала отсидеть всю себя не сразу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+68743,И ничего не понимаю – Примавэра на экране.,И ничего понимаю – Примавэра не на экране.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+26414,Но никто еще не испытал мастерства этого йендуса.,Но никто еще испытал мастерства не этого йендуса.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+19236,"Он никогда не забывает, кого раз видел.","Он никогда забывает, кого не раз видел.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+11277,Зато другим никогда не давала племянника в обиду.,Зато другим никогда давала племянника не в обиду.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+61811,Лорд Хок никогда не поднимает руки на слуг!,Лорд Хок никогда поднимает руки не на слуг!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+47210,Рожденному ползать никогда не заполучить прекрасной судьбы Икара.,Рожденному ползать никогда заполучить прекрасной судьбы не Икара.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+48346,Никогда они не представляли себе таким Тенгеля Доброго!,Никогда они представляли себе не таким Тенгеля Доброго!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+48209,Никто из семьи не мог ее сейчас видеть.,Никто из семьи мог ее не сейчас видеть.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+31385,Он никогда не сможет провести корабль в Дауку.,Он никогда сможет провести корабль не в Дауку.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+64341,Он еще никогда не видел мужчин с хайерами.,Он еще никогда видел мужчин не с хайерами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+11422,Они никогда не заговорят при вас о бан-али.,Они никогда заговорят при вас не о бан-али.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+47113,Но теперь-то уж не узнать этого Кире никогда!,Но теперь-то уж узнать этого не Кире никогда!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+73827,Никто и никогда не дает ему его лет.,Никто и никогда дает ему не его лет.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33493,Никто не может вносить разложения в дом новый.,Никто может вносить разложения не в дом новый.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+21395,Никогда не забыть ей его последнего великого самопожертвования.,Никогда забыть ей не его последнего великого самопожертвования.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+1852,Мама никогда не даст нам средств на жизнь.,Мама никогда даст нам не средств на жизнь.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+71428,"Мы ничего не добились захватом Моллинеса, так?","Мы ничего добились захватом не Моллинеса, так?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+65492,Арингароса никогда не одобрял заигрываний Ватикана с наукой.,Арингароса никогда одобрял заигрываний не Ватикана с наукой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+69882,Никогда не изменял лик природы по собственной прихоти?,Никогда изменял лик не природы по собственной прихоти?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+52203,Ярослав никогда не опустился бы до этого сам.,Ярослав никогда опустился бы не до этого сам.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+11230,Никогда не была моя дочь Мирча вашей Сторицей!,Никогда была моя дочь не Мирча вашей Сторицей!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+21366,Никогда не станет больше искать встречи с Александросом!,Никогда станет больше искать встречи не с Александросом!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+58272,Никогда не всплывал отец Валерки и в разговорах.,Никогда всплывал отец не Валерки и в разговорах.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+67272,Матсехар никогда не сделает ничего во вред Людям.,Матсехар никогда сделает ничего не во вред Людям.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+76588,Ваха никогда больше не будет карать нас болезнями.,Ваха никогда больше будет карать нас не болезнями.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+46295,Ей больше никогда не придется ЕИДСЛЬ Александра Барона.,Ей больше никогда придется ЕИДСЛЬ не Александра Барона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+8142,Никто не завел часть денег на западные счета.,Никто завел часть не денег на западные счета.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27928,Никогда не глядел он прямо на козулинский дом.,Никогда глядел он не прямо на козулинский дом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+65011,Генерал ничего не пожалел бы во имя долга.,Генерал ничего пожалел бы не во имя долга.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+21742,Я никогда не найду Грир в этой давке.,Я никогда найду Грир не в этой давке.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+2889,"То, чего никогда не постигнут пандиты фирмы.","То, чего никогда постигнут пандиты не фирмы.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+15266,Но Августе никогда более не увидеть фонтана Треви!,Но Августе никогда более увидеть фонтана не Треви!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+52520,"О, никто не ждет меня в Валлене!","О, никто ждет меня не в Валлене!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+76369,Никто не может пройти даже первой спирали защиты.,Никто может пройти даже первой спирали не защиты.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39133,Морин Мелон никогда не видела такого моря людей.,Морин Мелон никогда видела такого моря не людей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+54912,Лэд никогда еще не чувствовал себя так скверно.,Лэд никогда еще чувствовал себя не так скверно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+35165,Никто не обращал никакого внимания на Ваугана Ориеля.,Никто обращал никакого внимания не на Ваугана Ориеля.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+72311,Так никто еще не определял отношений с ней.,Так никто еще определял отношений не с ней.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+50861,Ничто не мешает больше счастью Чамена и Илимандры.,Ничто мешает больше счастью не Чамена и Илимандры.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+56667,Она флэтонка и никогда не станет собственностью цигруна!,Она флэтонка и никогда станет собственностью не цигруна!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+75384,Но никто не нападал ни них с тыла.,Но никто нападал ни них не с тыла.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63033,"Он вообще никого не любит, Окунек ваш...","Он вообще никого любит, Окунек не ваш...",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+56006,Иначе никогда не отдала бы тебе этой поездки.,Иначе никогда отдала бы тебе не этой поездки.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+16976,В Грубине никогда не утихала склонность к блохизму.,В Грубине никогда утихала склонность не к блохизму.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+21370,Александрос еще никогда не чувствовал себя так странно.,Александрос еще никогда чувствовал себя не так странно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+6748,Никто не смог бы выйти отсюда на летницу.,Никто смог бы выйти отсюда не на летницу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+16032,Вам просто никогда не хотелось увидеть его снова.,Вам просто никогда хотелось увидеть его не снова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+50313,Неужели губернатор ничего не потребует лично для себя?,Неужели губернатор ничего потребует лично не для себя?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+8924,Ридле никогда сам не встречал гостей из Германии.,Ридле никогда сам встречал гостей не из Германии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+30893,Неужели Мерриуэдер ничего не сказал вам об этом?,Неужели Мерриуэдер ничего сказал вам не об этом?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+60974,Никто не пытался просто отсиживать часы на работе.,Никто пытался просто отсиживать часы не на работе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+72810,Свитченок почти никогда не повторял одного приема дважды.,Свитченок почти никогда повторял одного приема не дважды.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+26866,Сикерт никогда не использовал эту бумагу вне Лондона.,Сикерт никогда использовал эту бумагу не вне Лондона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+42474,Никогда не встречала такого огромного я среди художников!,Никогда встречала такого огромного я не среди художников!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+9316,Но вам никогда не потерять чувство удивления полностью.,Но вам никогда потерять чувство не удивления полностью.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+12547,Хикки никогда не видел Этерлена в таком изумлении.,Хикки никогда видел Этерлена не в таком изумлении.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+15659,Без Рас Таваса никто не вернет мне тело.,Без Рас Таваса никто вернет мне не тело.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+72349,Но никогда не пытайтесь обрести урдхваретас ради сиддх.,Но никогда пытайтесь обрести урдхваретас не ради сиддх.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+36284,Я никогда не бывала временной женой для гостей.,Я никогда бывала временной женой не для гостей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+38834,Саня еще никогда не видел их улицы ночью.,Саня еще никогда видел их улицы не ночью.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+26887,"Никогда не платите мне вперед, мистер Уэйлин.","Никогда платите мне не вперед, мистер Уэйлин.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+60366,Никто теперь не говорил много в линии англичан.,Никто теперь говорил много не в линии англичан.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+25863,Никогда еще Валери не казалась ему такой прекрасной.,Никогда еще Валери казалась ему не такой прекрасной.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+35111,Прежде Арас никогда не видел Джоша с оружием.,Прежде Арас никогда видел Джоша не с оружием.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+15340,Но похоже ничто не могло остановить вопросы Матры.,Но похоже ничто могло остановить вопросы не Матры.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+74511,Теперь мне никто не помешал набрать номер капитана...,Теперь мне никто помешал набрать номер не капитана...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+32490,"Нет, никто не собирался выдавать вороне человека.","Нет, никто собирался выдавать вороне не человека.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53633,Ея товарищи никогда не могли простить ей этото.,Ея товарищи никогда могли простить ей не этото.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53669,"Может, никогда не дрался барчук с беспортошным.","Может, никогда дрался барчук не с беспортошным.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27271,Никого из коллег не беспокоили запои Пола Марквелла.,Никого из коллег беспокоили запои не Пола Марквелла.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+43248,Вы никогда не спустили бы скилдирша на город.,Вы никогда спустили бы скилдирша не на город.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+20354,Везир Бахты-ходжа ничего не говорил ему про это.,Везир Бахты-ходжа ничего говорил ему не про это.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+66424,"Наверное, никогда не брал наличные за фрактин?","Наверное, никогда брал наличные не за фрактин?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+40378,"Ничего я не буду подтверждать, пан Калас!","Ничего я буду подтверждать, пан не Калас!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+78194,Тебе никогда не забыть чаепития с человеком дзэн.,Тебе никогда забыть чаепития не с человеком дзэн.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+23859,Никто не ждет порядка в первые дни ремонта.,Никто ждет порядка не в первые дни ремонта.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+52041,Фай ничего не сказал Нэлю о его поведении.,Фай ничего сказал Нэлю не о его поведении.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+21335,"Никогда женщины не целовали ног ему, Иакову!","Никогда женщины целовали ног не ему, Иакову!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+70233,"Никто не знает этого лучше вас, Крюв!","Никто знает этого не лучше вас, Крюв!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+48000,"Никто не знал, что будет за собрание.","Никто знал, что будет не за собрание.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+30523,Неужели прежде Годрик никогда не делал подарки женщинам?,Неужели прежде Годрик никогда делал подарки не женщинам?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+51776,Почему ничего не говорили друг другу при ней?,Почему ничего говорили друг не другу при ней?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+30710,Джемайма никогда после не вспоминала полет с Пентакоста.,Джемайма никогда после вспоминала полет не с Пентакоста.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+65709,Теперь никто не охранял доступ к Дантирии Самбайлу.,Теперь никто охранял доступ не к Дантирии Самбайлу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+21310,Мой кузен Рейнер никогда не увидит леди Алуетт.,Мой кузен Рейнер никогда увидит леди не Алуетт.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+3198,Бенедитто никогда прежде не беспокоил его среди ночи.,Бенедитто никогда прежде беспокоил его не среди ночи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+7707,И никому не закрыт доступ к сим источникам.,И никому закрыт доступ не к сим источникам.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+72571,Не было никогда красавца Некраса и пепельноволосого Хаука.,было никогда красавца Не некраса и пепельноволосого Хаука.,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+48937,Костерыч никогда не пользовался более приличными сигаретами Моржова.,Костерыч никогда пользовался более приличными сигаретами не Моржова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+16837,"Никто не понимает меня лучше, чем Кронский!","Никто понимает меня не лучше, чем Кронский!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+14708,Плохо другое: ничего не скажет ему Мазай.,Плохо другое: ничего скажет ему не Мазай.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+16274,Никогда еще Полит не чувствовал себя так хорошо.,Никогда еще Полит чувствовал себя не так хорошо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+64603,Ведь бог никогда не может иметь лик животных!,Ведь бог никогда может иметь лик не животных!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+8079,Еще никогда Таал не встречала его столь прохладно.,Еще никогда Таал встречала его не столь прохладно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53027,Теперь Мелиз никогда не возьмет меня в команду.,Теперь Мелиз никогда возьмет меня не в команду.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+47786,Хотя никогда еще не видела тебя на сцене.,Хотя никогда еще видела тебя не на сцене.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+8052,У нее никогда не будет ребенка от Боя.,У нее никогда будет ребенка не от Боя.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+44153,Я никогда не радовался возможности переговоров с версгорцами.,Я никогда радовался возможности не переговоров с версгорцами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+23146,Он больше никогда не узнает силы ее страсти.,Он больше никогда узнает силы не ее страсти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13253,Ничего этого не знал мирно посапывающий журналист Дормеев.,Ничего этого знал мирно посапывающий журналист не Дормеев.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+11592,Никогда в жизни не видал я такой штурмы.,Никогда в жизни видал я не такой штурмы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+77272,Он никогда не получал прямого ответа от Улкеша.,Он никогда получал прямого ответа не от Улкеша.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+33518,Не будем ничем умалять значение сердца и Огня.,будем ничем умалять значение Не сердца и Огня.,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+7572,Маркелов никогда не заводил разговор о деле сразу.,Маркелов никогда заводил разговор не о деле сразу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+39443,Оттниры никогда не заведут все ладьи в залив.,Оттниры никогда заведут все ладьи не в залив.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+10077,Похоже что никто не хотел верить словам Дайвера.,Похоже что никто хотел верить словам не Дайвера.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+59016,"Никто не знает этого лучше, чем Хоремхеб.","Никто знает этого не лучше, чем Хоремхеб.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27747,Игнат практически никогда не звонил домой с клуба.,Игнат практически никогда звонил домой не с клуба.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63602,Однако Сембур никогда не возил меня на юг.,Однако Сембур никогда возил меня не на юг.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+71774,Никто не проходит эти ворота против собственной воли.,Никто проходит эти ворота не против собственной воли.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+49923,"Никто не заслуживает их больше тебя, Эмерелд.","Никто заслуживает их не больше тебя, Эмерелд.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+56521,Теперь ничто уже не мешало дальнейшему разнемечиванию государства.,Теперь ничто уже мешало дальнейшему разнемечиванию не государства.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+16076,"Такой Руси не было никогда, г-н М-ков.","Такой Руси было никогда, г-н не М-ков.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+46414,Сперва ничего особенного не увидел – только что край разлога.,Сперва ничего особенного увидел – только что край не разлога.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+8739,Марго никогда бы не сделала из ревности этого сейчас!,Марго никогда бы сделала из ревности этого не сейчас!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+64463,Никто не связывает мое имя с твоим и Эпини.,Никто связывает мое имя не с твоим и Эпини.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+45171,Он никогда не отнял от них надежды Отчего прощения.,Он никогда отнял от них надежды не Отчего прощения.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+14274,"Но никто больше не зовет меня Бетги, дорогуша.","Но никто больше зовет меня не Бетги, дорогуша.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+75370,Йама никогда не обращал особенного внимания на родителей Дирив.,Йама никогда обращал особенного внимания не на родителей Дирив.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+33269,Никто не смел вслух назвать само имя Давирника Джидая.,Никто смел вслух назвать само имя не Давирника Джидая.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+46343,Брис вообще никогда раньше не видел Эллис в платье.,Брис вообще никогда раньше видел Эллис не в платье.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+65328,И она теперь больше никогда не искала общества мужа.,И она теперь больше никогда искала общества не мужа.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53568,Стиор никогда не давал себе труда подумать над этим.,Стиор никогда давал себе не труда подумать над этим.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+4374,Имя Телари Ийс ничего не говорило даже всеведущему сэру Кофе.,Имя Телари Ийс ничего говорило даже всеведущему сэру не Кофе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+57127,Никогда больше Переход не оставит позади себя расы Края.,Никогда больше Переход оставит позади себя расы не Края.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+33939,"Даройо никогда не теряют себя в снах, словно люди.","Даройо никогда теряют себя не в снах, словно люди.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+45769,Среди них никогда не умирала способность постижения Петрова города.,Среди них никогда умирала способность не постижения Петрова города.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+8056,Никто из ребят не подумал взять ее на лето!,Никто из ребят подумал взять ее не на лето!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+13797,Никто не смеет забавы за ради звать Ермака Тимофеевича!,Никто смеет забавы не за ради звать Ермака Тимофеевича!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+40365,Ном Анор больше никогда не сможет почувствовать себя в безопасности.,Ном Анор больше никогда сможет почувствовать себя не в безопасности.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+66172,"Немудрено, что никто не знает прады о жизни Христа.","Немудрено, что никто знает прады не о жизни Христа.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+50562,Лехлер никогда... никогда не разрешил бы себе такого...,Лехлер никогда... никогда разрешил бы себе не такого...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+61853,Ренно больше никогда не захочет иметь дела с белой!,Ренно больше никогда захочет иметь дела не с белой!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+63640,Я вообще намерена никому не отдавать нити управления мирами.,Я вообще намерена никому отдавать нити не управления мирами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+1810,"Впрочем, ничего вам не мешает делать кулич чаще.","Впрочем, ничего вам мешает делать кулич не чаще.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+65394,"Джек знал, что ему никогда не забыть лица Квилиэна.","Джек знал, что ему никогда забыть лица не Квилиэна.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7731,Я ничего не привез тебе назад — кроме здорового тела.,Я ничего привез тебе не назад — кроме здорового тела.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+8940,И по делу ничто не могло волновать меня до срока.,И по делу ничто могло волновать меня не до срока.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+46775,"Впрочем, сейчас почти никто не занимался изучением нархов.","Впрочем, сейчас почти никто занимался изучением не нархов.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+41938,Марков ничего не говорил ей об этой стороне деятельности Фарвелла.,Марков ничего говорил ей не об этой стороне деятельности Фарвелла.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+79183,Заур никогда не встречал таких высоких людей этой расы.,Заур никогда встречал таких высоких людей не этой расы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+23438,Тетхинов никогда не получалось больше четырех в одной группе.,Тетхинов никогда получалось больше четырех не в одной группе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+36635,"Но никого, казалось, не занимал отъезд Чапа.","Но никого, казалось, занимал отъезд не Чапа.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+60792,Ведь Владыка мертвых никогда лично не является никому из смертных!,Ведь Владыка мертвых никогда лично является никому не из смертных!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+33769,Никто не хочет задать вопросы вождю оптиматов Понсию Маркварду?,Никто хочет задать вопросы не вождю оптиматов Понсию Маркварду?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+80276,Никто другой не выдержал бы зова Зала Ржавой подписи.,Никто другой выдержал бы зова не Зала Ржавой подписи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+7000,Айрис Окделл никогда не согласится стать женой Альдо Ракана.,Айрис Окделл никогда согласится стать женой не Альдо Ракана.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+8387,Или ты никогда не возжигал благовоний во славу Фэнтара?,Или ты никогда возжигал благовоний не во славу Фэнтара?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+51787,Рабы и файрбонинги никогда не шастали здесь без разрешения.,Рабы и файрбонинги никогда шастали здесь не без разрешения.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+44540,"Он лучше-то ничего и не знает, фру Сербю.","Он лучше-то ничего и знает, фру не Сербю.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+73473,"Никому не пожелаю иметь врагом Романа Литичевского, даже тебе.","Никому пожелаю иметь врагом не Романа Литичевского, даже тебе.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+48975,"Фабия никогда не видела вериста таких размеров, как Снерфрик.","Фабия никогда видела вериста не таких размеров, как Снерфрик.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+77681,И никто никогда не слышал имена Зилдора и Эрин.,И никто никогда слышал имена не Зилдора и Эрин.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13589,В этом мире никогда не сгорают дома мистеров Валота.,В этом мире никогда сгорают дома не мистеров Валота.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+12418,Ничто в Досадийском опыте не могло подготовить Джедрик к этому.,Ничто в Досадийском опыте могло подготовить Джедрик не к этому.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+67182,Никто кроме моих врагов не называет меня Сьюки Снобз.,Никто кроме моих врагов называет меня не Сьюки Снобз.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+77575,Эрунтике нельзя научиться: никто не знает принципов ее действия.,Эрунтике нельзя научиться: никто знает принципов не ее действия.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+29186,Никогда позже признанное богатство не занимало умы столь основательно.,Никогда позже признанное богатство занимало умы не столь основательно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+43070,Никто в Инверари не узнал в Хейдоне маркиза Редмонда.,Никто в Инверари узнал в Хейдоне маркиза не Редмонда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+9716,Здесь растения и земля никогда не нарушают единства мира.,Здесь растения и земля никогда нарушают единства не мира.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+12513,"Например, я бы никогда не выбрала топаз для Дэра.","Например, я бы никогда выбрала топаз не для Дэра.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+43962,Да я никогда и не пытался смотреть линии жизни!,Да я никогда и пытался смотреть линии не жизни!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+66096,Никогда еще Ариакас не писал ей так официально и сухо.,Никогда еще Ариакас писал ей не так официально и сухо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+66589,В результате никто не смог точно поразить тразона копьем.,В результате никто смог точно поразить тразона не копьем.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+67429,"Я уже сказал, что никто не видал прилета коростелей.","Я уже сказал, что никто видал прилета не коростелей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+51994,"Бергитте кивнула, словно никогда не слышала слов разумнее.","Бергитте кивнула, словно никогда слышала слов не разумнее.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+14287,Никто на земле не смел повысить голос при Халач-винике.,Никто на земле смел повысить голос не при Халач-винике.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+59700,"Никто не смог ответить ей вразумительно, где Земцов.","Никто смог ответить ей не вразумительно, где Земцов.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+47034,И никогда офицеры не замечали столько к себе зла.,И никогда офицеры замечали столько не к себе зла.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53843,"Но Чума никогда не знал, что такое семья.","Но Чума никогда знал, что не такое семья.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+16774,Окта никогда не любила отъездов Ксавьера в битвы Джихада.,Окта никогда любила отъездов не Ксавьера в битвы Джихада.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+29619,Никто с Хеда никогда не просил помощи на стороне.,Никто с Хеда никогда просил помощи не на стороне.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+48411,Силье никогда еще не видела мужа в такой ярости.,Силье никогда еще видела мужа не в такой ярости.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+2510,"Я никогда не найду такого, мистер Мидуинтер, никогда!","Я никогда найду такого, мистер не Мидуинтер, никогда!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+47163,Он никогда не гарантировал Кену ни одного срока поставки.,Он никогда гарантировал Кену ни одного срока не поставки.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+50533,"Но мама никогда не учила его приемам, только обещала!","Но мама никогда учила его не приемам, только обещала!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+4175,"Ничего не ответил ему Дубыня, только следующего мужика подозвал.","Ничего ответил ему не Дубыня, только следующего мужика подозвал.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27840,Или Беня вообще ничего не сказал ей о сегодняшней покупке?,Или Беня вообще ничего сказал ей не о сегодняшней покупке?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+48216,Никогда прежде еда не казалась им та кой вкусной.,Никогда прежде еда казалась им не та кой вкусной.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+44863,"Никогда, ни единого разу Энлиль не прикрывал этого одеждой.","Никогда, ни единого разу Энлиль прикрывал этого не одеждой.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+54563,"Не сидеть Наде на почетном ""очке"" никогда.","сидеть Наде Не на почетном ""очке"" никогда.",Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+64166,Но я не введен был никогда вполне в твою душу.,Но я введен был никогда вполне не в твою душу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+71825,Джедай ничего не делает себя — все от Силы.,Джедай ничего делает себя — все не от Силы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+16570,Ничего не говори этой женщине о Люси с Себом.,Ничего говори этой женщине не о Люси с Себом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33865,Знай: никогда не существовало таланта для настоящей литературы.,Знай: никогда существовало таланта не для настоящей литературы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+58962,И никой Тип никогда не отнимет ее у меня.,И никой Тип никогда отнимет ее не у меня.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+4278,Я и люди моего Дома никогда не делали зла Конгетларам.,Я и люди моего Дома никогда делали зла не Конгетларам.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+46117,"Видно, никогда настолько не одобрял муж ее действия.","Видно, никогда настолько одобрял муж не ее действия.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+77776,Никто из нас не знает ведь языка обитателей Эффы.,Никто из нас знает ведь языка не обитателей Эффы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+73700,Нори никогда не действовала против меня без принуждения Шефира.,Нори никогда действовала против меня не без принуждения Шефира.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+70643,Вдруг люди антимиров никогда и не знали иных способов общения?,Вдруг люди антимиров никогда и знали иных способов не общения?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+8733,"И не говори мне сейчас ничего про Виталика, понял!","И говори мне не сейчас ничего про Виталика, понял!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7550,Обычно Резван никогда не брал меня на такие мероприятия.,Обычно Резван никогда брал меня не на такие мероприятия.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+48662,"Такая, она никогда не покажется ему на глаза.","Такая, она никогда покажется ему не на глаза.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+4281,Но ведь Герфегест никогда не говорил со Стагевдом до этого.,Но ведь Герфегест никогда говорил со Стагевдом не до этого.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+47057,Но ничего этого не мог сегодняшний председатель прапорщик Утгоф.,Но ничего этого мог сегодняшний председатель не прапорщик Утгоф.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+16713,"Никто, даже Каларно, не обратил внимания на лифт.","Никто, даже Каларно, обратил внимания не на лифт.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+51533,Никогда не поощряйте охрану собакой миски или кости от вас!,Никогда поощряйте охрану не собакой миски или кости от вас!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+15325,"Никогда больше не волнуйся из-за денег, Брат Керк.","Никогда больше волнуйся из-за денег, Брат не Керк.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+79219,Но состоятельный Бен никогда не пошел бы на службу.,Но состоятельный Бен никогда пошел бы не на службу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+45089,Лука никогда раньше не обращал внимания на изменения вокруг.,Лука никогда раньше обращал внимания не на изменения вокруг.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+73244,"Нат ушел, и никто не мог сказать ей куда.","Нат ушел, и никто мог сказать ей не куда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+21227,"Илона решила, что никогда не простит этого Толяну.","Илона решила, что никогда простит этого не Толяну.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+29807,Как клялся в этом доме никогда не причинять мне боли?,Как клялся в этом доме никогда причинять мне не боли?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+23601,Род понимал: никто не действует исключительно в собственных интересах.,Род понимал: никто действует исключительно не в собственных интересах.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+6465,Станда никогда еще не видел шахту такой мертвой и странной.,Станда никогда еще видел шахту не такой мертвой и странной.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+23727,Также ничего не знал он о жизни Джона и Леттис...,Также ничего знал он не о жизни Джона и Леттис...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+7709,Даруй вам Господи никогда не потерять молитвеннаго строя внутри.,Даруй вам Господи никогда потерять молитвеннаго строя не внутри.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+23795,По Лэндри никогда теперь не говорил с другом о ней.,По Лэндри никогда теперь говорил с другом не о ней.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+7130,Больше ничего не понять – набор цифр и слов.,Больше ничего понять – набор не цифр и слов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+2654,Никто из нас не сомневался: то была месть Дракана.,Никто из нас сомневался: то была месть не Дракана.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+25288,"И никогда, слышишь, никогда не называй меня Тайдисянем!","И никогда, слышишь, никогда называй меня не Тайдисянем!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+68734,Никогда Тамарин не жалел времени на любой цветоводный опыт.,Никогда Тамарин жалел времени не на любой цветоводный опыт.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+69091,Джедай ничего не делает себя – все от Силы.,Джедай ничего делает себя – все не от Силы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+41569,Но до Джин Пелерин никто не пытался требовать изменения рациона.,Но до Джин Пелерин никто пытался требовать изменения не рациона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+52961,Хотя никто вроде бы не собирается чинить тебе исков.,Хотя никто вроде бы собирается чинить тебе не исков.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+41893,"Здесь никто давно не смеялся, наверное с год.","Здесь никто давно смеялся, наверное не с год.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+77985,А никто работать больше не будет на этой кампании.,А никто работать больше будет не на этой кампании.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+37056,"Она уверяла, что никому так не идет имя Сергей.","Она уверяла, что никому так идет имя не Сергей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+25043,"И никто не будет знать нас там, Пичи.","И никто будет знать нас не там, Пичи.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+66557,Ведь он никогда не смог бы воспроизвести урок мвалана наяву.,Ведь он никогда смог бы воспроизвести урок не мвалана наяву.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+75505,Никогда до тех пор Лек не видел улыбки мастера Тарвона.,Никогда до тех пор Лек видел улыбки не мастера Тарвона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+14909,Потом помните: никогда не ставьте типи под деревьями.,Потом помните: никогда ставьте типи не под деревьями.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+29843,"Никто не знал, как лишить обломок Офлигеи этой силы.","Никто знал, как лишить обломок не Офлигеи этой силы.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+11022,Там нет и никогда не было колонии с названием Землийа.,Там нет и никогда было колонии не с названием Землийа.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+41264,Никто в Инверэри не узнал в Хейдоне маркиза Рэдмонда.,Никто в Инверэри узнал в Хейдоне маркиза не Рэдмонда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+25580,Однако никто не поддерживал начальника в столь нежарком деле.,Однако никто поддерживал начальника не в столь нежарком деле.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+28798,Раньше Кара никогда не видела кукол с тряпичными лицами.,Раньше Кара никогда видела кукол не с тряпичными лицами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+73773,Никогда среди славян не было обычая в рост давать.,Никогда среди славян было обычая не в рост давать.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+4311,Вот уж чего никогда не мог представить себе Эгин!,Вот уж чего никогда мог представить себе не Эгин!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+48417,Тенгель еще не называл ее так никогда в жизни.,Тенгель еще называл ее не так никогда в жизни.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+36705,"Нет, наверное, никогда не понять ей Коулмэнов.","Нет, наверное, никогда понять ей не Коулмэнов.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+60679,Бароны Алционский и Эльзанский никогда не признают главенство Натана Делвила.,Бароны Алционский и Эльзанский никогда признают главенство не Натана Делвила.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+15887,"Никто не дал Дункану информации больше, чем мог.","Никто дал Дункану информации не больше, чем мог.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+13638,Никогда не слыхал старшина Тарто подобного имени в Эгерине.,Никогда слыхал старшина не Тарто подобного имени в Эгерине.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+4276,На такой никогда бы не сподобился настоящий человек Алустрала.,На такой никогда бы сподобился настоящий человек не Алустрала.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+4200,"Что никто, даже барон не может им ничего приказать...","Что никто, даже барон может им не ничего приказать...",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+40611,Никогда не забыть мне моей первой невесты — завязки!,Никогда забыть мне не моей первой невесты — завязки!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+42791,"Ни Корд, ни Мэрили никогда не видели их раньше.","Ни Корд, ни Мэрили никогда видели их не раньше.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+76058,И никого не поразит в самое сердце это переменение света?,И никого поразит в самое сердце это переменение не света?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+40109,"Она никогда не пробовала свиную кожу с ""пои"".","Она никогда пробовала свиную кожу не с ""пои"".",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+64284,Вы никого не найдете Здесь для ума и души.,Вы никого найдете Здесь не для ума и души.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+20287,Однако Реми никогда не удавалось забыть возраст этой женщины.,Однако Реми никогда удавалось забыть возраст не этой женщины.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+38799,Никогда Лешкиной жизнью Роман не заплатил бы за собственную прихоть.,Никогда Лешкиной жизнью Роман заплатил бы не за собственную прихоть.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63661,"Том, он никогда не хотел меня ради меня самой!","Том, он никогда хотел меня не ради меня самой!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+44997,Я бы никогда не почувствовал всех до последних оплошностей.,Я бы никогда почувствовал всех не до последних оплошностей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+14683,сила никогда не даст вам даже йоту спокойствия ума.,сила никогда даст вам даже йоту не спокойствия ума.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27723,Никогда Айвангу не видел такой бурной и обильной водой весны.,Никогда Айвангу видел такой бурной и обильной водой не весны.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+65335,При посадке никто не боится подтянуть машину на газке.,При посадке никто боится подтянуть машину не на газке.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+70779,"Никогда не устану рубицца по нашей медицине, забавный денек.","Никогда устану рубицца не по нашей медицине, забавный денек.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+29617,"Никто не имеет власти над аниатиммами, кроме Шелтий.","Никто имеет власти не над аниатиммами, кроме Шелтий.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+53068,Латур еще никогда не видел жену в таком гневе.,Латур еще никогда видел жену не в таком гневе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+39475,"Година никогда не уводил лодку дальше этого ""почти"".","Година никогда уводил лодку не дальше этого ""почти"".",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+15434,Инес просто не даст никому повода для подобного выстрела.,Инес просто даст никому повода не для подобного выстрела.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+41714,Никто больше не пришел бы взять ее на вечер.,Никто больше пришел бы взять ее не на вечер.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+463,"Наталья Ах, не потерять бы в пути никого!..","Наталья Ах, потерять бы не в пути никого!..",не,не,Syntax,Negation,negative_concord,negative_concord,wikinews,3
+66715,Я ничем не помогла душе Болесо – только наблюдала разинув рот.,Я ничем помогла душе не Болесо – только наблюдала разинув рот.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+68736,Никто из мастеров не унижал себя участием в групповых играх вроде очка.,Никто из мастеров унижал себя не участием в групповых играх вроде очка.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+34995,"Но ничем, зуб даю, не связал это с нами!","Но ничем, зуб даю, связал это не с нами!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+45073,Главное ясно – никогда прежде он не имел дело с Ксюхой.,Главное ясно – никогда прежде он имел дело не с Ксюхой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+50031,"Мандарин Бу Лей Сан, мой повелитель, никогда не целовал меня так.","Мандарин Бу Лей Сан, мой повелитель, никогда целовал меня не так.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+68917,"Но только, разумеется, никто не величал рыжих близнецов Нувелиной и Увибодом.","Но только, разумеется, никто величал рыжих близнецов не Нувелиной и Увибодом.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+39045,"Итак, борись и никогда не тяготись трудом от брани сей.","Итак, борись и никогда тяготись трудом не от брани сей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+12064,"Хотя, кроме Сердара, никто не мог быть с махратом и заклинателем.","Хотя, кроме Сердара, никто мог быть не с махратом и заклинателем.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+44286,Она никогда не приняла бы участие в налете на долину Фалъконсвард.,Она никогда приняла бы участие не в налете на долину Фалъконсвард.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+71819,Поэтому преданные уровня Шукадевы Госвами никогда не ищут встреч с царями.,Поэтому преданные уровня Шукадевы Госвами никогда ищут встреч не с царями.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+37873,"Вот Чени - он никогда не будет ее так пугать, он любит мамочку...","Вот Чени - он никогда будет ее не так пугать, он любит мамочку...",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+24666,"Это было мое место, и никто не имел права тут раз леживать...","Это было мое место, и никто имел права не тут раз леживать...",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+79418,"Много понял, что никогда бы не понял здесь на земле.","Много понял, что никогда бы понял здесь не на земле.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+1108,"Игрец оглядывался, он никогда не видел так много коз сразу.","Игрец оглядывался, он никогда видел так много коз не сразу.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39543,"Что никто не откроет ворота Яртуру, когда мы будем биться на стенах?","Что никто откроет ворота не Яртуру, когда мы будем биться на стенах?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+76220,"Кром того, доброй сеньор въ Мадрид ничего не стоило даровать ему жизнь.","Кром того, доброй сеньор въ Мадрид ничего стоило даровать ему не жизнь.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+67528,"Однако никто из нас не смог выполнить задач так, как следует.","Однако никто из нас смог выполнить задач не так, как следует.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+71309,Такой возможности не появится у нас никогда более во все века!,Такой возможности появится у нас никогда более не во все века!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+62706,"Маркези никогда не мог тронуть меня так, как Лаис и Шенар трогают.","Маркези никогда мог тронуть меня не так, как Лаис и Шенар трогают.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+2894,"Тогда почему ты мне никогда не показывал список этих многих, Бай?","Тогда почему ты мне никогда показывал список не этих многих, Бай?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39279,"Я не вкладываюсь в его отсчет, никому не упредить реакцию эйльфлер.","Я не вкладываюсь в его отсчет, никому упредить реакцию не эйльфлер.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+41082,Ибо согласно законам нашим никогда не имел я возможности школу такую пройти.,Ибо согласно законам нашим никогда имел я не возможности школу такую пройти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+67289,В этой горячке никто не заметил двух одиноких беженцев из Арвар Одола.,В этой горячке никто заметил двух одиноких беженцев не из Арвар Одола.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+53269,"Нет, Ареатанута никому не уступит жизнь рыцаря даже за все блага мира.","Нет, Ареатанута никому уступит жизнь не рыцаря даже за все блага мира.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+67800,И совсем уж никто не знал: что такое ее решение?,И совсем уж никто знал: что не такое ее решение?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+37101,Никогда не бегайте ночью по горным кручам – лучше уже сразу головой вниз.,Никогда бегайте ночью не по горным кручам – лучше уже сразу головой вниз.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+45459,Но никто не задаст себе такого вопроса: любит ли Карл Гельван театр?,Но никто задаст себе не такого вопроса: любит ли Карл Гельван театр?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+6698,"Никогда Монбарей не поручит командования такому отважному человеку, как он, Водрейль.","Никогда Монбарей поручит командования не такому отважному человеку, как он, Водрейль.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+35678,"Есть люди, которые никогда не следовали данному нам свету относительно питания.","Есть люди, которые никогда следовали данному нам свету не относительно питания.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+74121,"Джей заметил, что Мирей никогда не называет Маризу по имени.","Джей заметил, что Мирей никогда называет Маризу не по имени.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27464,Никто не сдавал жилье человеку и близко походившему на ее незнакомца.,Никто сдавал жилье не человеку и близко походившему на ее незнакомца.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+73771,"Рас никогда не верил байкам вонсу, что крокодилы чувствуют под водой запахи.","Рас никогда верил байкам не вонсу, что крокодилы чувствуют под водой запахи.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+4266,Герфегест знал только одно: они никогда не станут подымать шум зря.,Герфегест знал только одно: они никогда станут подымать шум не зря.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+75291,Империя никогда не потерпит неазеанку в роли действующего офицера в Великой Войне.,Империя никогда потерпит неазеанку не в роли действующего офицера в Великой Войне.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+70638,Милэун — всего лишь ребенок — никогда не бывала на мостике у капитана Пикара.,Милэун — всего лишь ребенок — никогда бывала на мостике не у капитана Пикара.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+13641,Законники Великондара никогда не посылали стражников в это забытое Ашшуром место.,Законники Великондара никогда посылали стражников не в это забытое Ашшуром место.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+50776,"Никто из вас не понимает, кто такие Телла и Дашик!","Никто из вас понимает, кто не такие Телла и Дашик!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+28660,"Что он никогда не любил меня так, как теперь Эдер?","Что он никогда любил меня не так, как теперь Эдер?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+40689,Сэр Перран никогда не обращал особого внимания на чрезмерно картинные жесты.,Сэр Перран никогда обращал особого внимания не на чрезмерно картинные жесты.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+55752,А предложи время откатить — ведь никто не отдаст преимуществ возраста.,А предложи время откатить — ведь никто отдаст преимуществ не возраста.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+28637,И решение мое неизменно... но ничто не мешает мне искать общества леди Ханны.,И решение мое неизменно... но ничто мешает мне искать общества не леди Ханны.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+50669,"Киндан давно уже заметил, что Кайлек никогда не называет Даска по имени.","Киндан давно уже заметил, что Кайлек никогда называет Даска не по имени.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+23048,А не вижу я ничего – потому как крыша над ними.,А вижу я ничего – потому как крыша не над ними.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+57015,"Но во всей округе никто не согласится дать место прислуге, оставившей асиенду Алезпарито.","Но во всей округе никто согласится дать место не прислуге, оставившей асиенду Алезпарито.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+10963,"Никогда прежде Киркевейен не казалась ее ногам такой крутой, как в тот день.","Никогда прежде Киркевейен казалась ее ногам не такой крутой, как в тот день.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+29978,"Ноэл ничего не сказал Квинтусу о том, что собирается сделать Лангуаес.","Ноэл ничего сказал Квинтусу не о том, что собирается сделать Лангуаес.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+60749,Я также никогда не уважал главный труд Виткацы об Отдельных Существованиях.,Я также никогда уважал главный труд не Виткацы об Отдельных Существованиях.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7471,И никто из свантов не отреагировал идентично на неоднократно повторяемые нами слова.,И никто из свантов отреагировал идентично не на неоднократно повторяемые нами слова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+73561,"Никто не указывал ему дочь Хеймира, он сам ее узнал.","Никто указывал ему не дочь Хеймира, он сам ее узнал.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+70968,"Ведь правда, выпишешь, уже ничего не останется для нее в этом мире.","Ведь правда, выпишешь, уже ничего останется для нее не в этом мире.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+55534,"Я согласился, решив пока ничего не говорить ему о краже купчей.","Я согласился, решив пока ничего говорить ему не о краже купчей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+73615,Еще никогда в истории Оилтона половина шефов Доставки не посещала планету одновременно.,Еще никогда в истории Оилтона половина шефов Доставки посещала планету не одновременно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+63323,"Да, Юлия понимала: Марция никогда не простит Юлилле истории с Суллой.","Да, Юлия понимала: Марция никогда простит Юлилле истории не с Суллой.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+68503,"Беккер знал, что Вера почти никогда не появлялась на люди в форме.","Беккер знал, что Вера почти никогда появлялась на люди не в форме.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+37343,"Ремонде никогда не приветствовала контакт с вашим миром, как с Мелкати.","Ремонде никогда приветствовала контакт не с вашим миром, как с Мелкати.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+51809,Просто директор никогда не слышал в мягком голосе этого существо такой ярости.,Просто директор никогда слышал в мягком голосе этого существо не такой ярости.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+49665,"Но еще слово, мастер: не называйте вы меня никогда верным служителем.","Но еще слово, мастер: называйте вы не меня никогда верным служителем.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+30348,Не давайте вы ему ничего до времени из денег или из именья.,давайте вы Не ему ничего до времени из денег или из именья.,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+8101,Рути заставила его поклясться – никогда не использовать над ними контроль мозга.,Рути заставила его поклясться – никогда использовать над ними контроль не мозга.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+2917,Далее: мы должны просить Вас никогда не диктовать нам законов.,Далее: мы должны просить Вас никогда диктовать нам не законов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+43853,"По системе ""д"" никто не смел ему что-либо предписывать.","По системе ""д"" никто смел ему не что-либо предписывать.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+51002,Тэм был прав: ничто не могло подготовить Стивена к виду Лейренстона.,Тэм был прав: ничто могло подготовить Стивена не к виду Лейренстона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+18573,Да в Старой Тяге никто не рождался раз пять по десять.,Да в Старой Тяге никто рождался раз пять не по десять.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+40051,Поэтому каоли никогда не станут затевать войну против людей в одиночку.,Поэтому каоли никогда станут затевать войну против людей не в одиночку.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+50153,"Никто не имел права ничего говорить, потому что на транспорте существует устав.","Никто имел права не ничего говорить, потому что на транспорте существует устав.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+61035,Тот обычно никогда не приглашает мужчин в нашу постель: слишком ревнует.,Тот обычно никогда приглашает мужчин не в нашу постель: слишком ревнует.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+65815,И никто из них не собирался подводить главного старшину Тинна Гренита.,И никто из них собирался подводить главного старшину не Тинна Гренита.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+75237,"Есть еще одна причина, по которой я никогда не дожидаюсь конца фонны Навигатора.","Есть еще одна причина, по которой я никогда дожидаюсь конца не фонны Навигатора.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+48403,И оба знали: ничто уже не может спасти жизнь Марит из Свельтена.,И оба знали: ничто уже может спасти жизнь не Марит из Свельтена.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+38190,Однако ему никто не верит: центавриане - проблема одних нарнов.,Однако ему никто верит: центавриане - проблема не одних нарнов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+34375,Вы еще никогда не проводили внушение мерканцам! – запротестовал Кирк.,Вы еще никогда проводили внушение не мерканцам! – запротестовал Кирк.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+65024,"Никто не придал этому жесту значения, но Пеменхат все понял и тоже содрогнулся.","Никто придал этому жесту не значения, но Пеменхат все понял и тоже содрогнулся.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+18508,Никто из вашей шайки не сможет схватить Де Райза в море.,Никто из вашей шайки сможет схватить Де Райза не в море.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+40620,"Никто не знал, кто такая была умершая женщина или откуда.","Никто знал, кто не такая была умершая женщина или откуда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+60815,"Только отголосу не слышу никакого, — верно, думаю, они на добыче.","Только отголосу слышу никакого, — верно, думаю, они не на добыче.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+9476,"Никто не обратил внимания на машину с тремя супийцами, хотя полиции здесь хватало.","Никто обратил внимания не на машину с тремя супийцами, хотя полиции здесь хватало.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+24099,Доминго еще никогда не видел Монка в столь при поднятом настроении.,Доминго еще никогда видел Монка в столь не при поднятом настроении.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+54561,Молдаван среди моего призыва не любит никто — спасибо Бороде и Соломону.,Молдаван среди моего призыва любит никто — спасибо не Бороде и Соломону.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+44437,Без голотевтики мы никогда не сумели бы выудить несущую информацию доли сигнала.,Без голотевтики мы никогда сумели бы выудить несущую информацию не доли сигнала.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+34926,По той же причине Эми никогда не упоминала поцелуй Боба Кастиса на факультетском пикнике.,По той же причине Эми никогда упоминала поцелуй не Боба Кастиса на факультетском пикнике.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+63261,"Он и ничего бы, только не любила я его никогда.","Он и ничего бы, только любила я не его никогда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+3452,Ведь никто и никогда не страховал конструкции от. подобных неожиданностей.,Ведь никто и никогда страховал конструкции не от. подобных неожиданностей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+33114,"Никогда не бросит друга в беде, - сказал мистер Ромили.","Никогда бросит друга не в беде, - сказал мистер Ромили.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+68114,"Если материны слова чего значат, никогда не будет тебе в жизни счастья!","Если материны слова чего значат, никогда будет тебе не в жизни счастья!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+37560,В тот момент никому не была дана информация о слое три.,В тот момент никому была дана информация не о слое три.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+76581,"Слушая повседневные разговоры дер Хиира, никто не признал бы в нем академика.","Слушая повседневные разговоры дер Хиира, никто признал бы не в нем академика.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+51560,"Никто никогда не догадывался обратиться прямо в Пункт, приходится пеленговать звонки.","Никто никогда догадывался обратиться прямо не в Пункт, приходится пеленговать звонки.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+1861,"Выгони Элла Нюру с Маней, она бы никогда не получила сундук с книгами.","Выгони Элла Нюру с Маней, она бы никогда получила сундук не с книгами.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+41928,"Тамбрал мне клялся, что никогда не впустит Священных Воинов в Гонсару!","Тамбрал мне клялся, что никогда впустит Священных Воинов не в Гонсару!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+40320,"Ничего не знал товарищ художник по истории, наверное, двоечник был!","Ничего знал товарищ не художник по истории, наверное, двоечник был!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+37511,"Однако никто не смог запомнить номер грузовика, вроде бы уралзисовского.","Однако никто смог запомнить номер не грузовика, вроде бы уралзисовского.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+39428,Она никогда не видела столько людей сразу – даже на ярмарках в Ристейке.,Она никогда видела столько людей не сразу – даже на ярмарках в Ристейке.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+38215,"Но они никогда не пожелают ее за то, что раньше уготовали их руки.","Но они никогда пожелают ее не за то, что раньше уготовали их руки.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33099,И сам уже никогда не прекратит буравить его мозг этими трелями с переливами.,И сам уже никогда прекратит буравить его мозг не этими трелями с переливами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+32799,Никогда в жизни Сан Борисыч не ввел бы этого типа в бригаду.,Никогда в жизни Сан Борисыч ввел бы этого типа не в бригаду.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+34219,"И они не могли обмануть, как никогда не обманывает поза животного.","И они не могли обмануть, как никогда обманывает поза не животного.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+12388,У всех нолк-ланов никогда не было кровных обязательств перед всеми фэйюрами.,У всех нолк-ланов никогда было кровных обязательств не перед всеми фэйюрами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+41518,"Никогда не знать другой мены, как только золота на ласки.","Никогда знать другой мены, как только золота не на ласки.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+46838,Ничто в его подержанном облике не напоминало образ того цветущего самонадеянного припарадненного юнца!,Ничто в его подержанном облике напоминало образ не того цветущего самонадеянного припарадненного юнца!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+51381,"Ни Прайам, ни Хилл никогда не узнали бы вас в представительном великолепном мужчине.","Ни Прайам, ни Хилл никогда узнали бы вас не в представительном великолепном мужчине.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+67313,Но чего они никогда ей не простят — это ее работы до загородного клуба.,Но чего они никогда ей простят — это ее работы не до загородного клуба.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+14774,"Энедика слышала об этой разработке мандречен, но никогда не видела ее в действии.","Энедика слышала об этой разработке мандречен, но никогда видела ее не в действии.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+17121,"Наан никогда не интересовалась жизнью маака, однако кое-что все же помнила из занятий.","Наан никогда интересовалась жизнью не маака, однако кое-что все же помнила из занятий.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+78447,"Никто не скажет теперь: ""Я из дома Ункулункулу"".","Никто скажет теперь: ""Я не из дома Ункулункулу"".",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+76872,Ты просто никогда не имел даже сотый доля таких денег и поэтому говоришь ерунду!,Ты просто никогда имел даже сотый доля не таких денег и поэтому говоришь ерунду!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+51555,А мы были вместе везде - никто ведь не заподозрит отца с ребенком.,А мы были вместе везде - никто ведь заподозрит отца не с ребенком.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+58471,Никто из эмпатов не причинял вред Владыке! — твердо сказал Мар.,Никто из эмпатов причинял вред не Владыке! — твердо сказал Мар.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+8144,"А бывает ""бисквит"", и ничем не политой, как мрамор он.","А бывает ""бисквит"", и ничем политой, как мрамор не он.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+62709,"Намерение ваше похвально, но теперь ночь: никто не увидит героического конца поэтов.","Намерение ваше похвально, но теперь ночь: никто увидит героического конца не поэтов.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+65025,И уж тогда ничто не остановит Карсидара на пути в Ральярг!,И уж тогда ничто остановит Карсидара не на пути в Ральярг!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+3658,Но вспомни мои слова – Кенесары никогда не станет ханом шести округов.,Но вспомни мои слова – Кенесары никогда станет ханом не шести округов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+73934,"Вот почему она — высшее, тогда никто не может забрать ее у вас.","Вот почему она — высшее, тогда никто может забрать ее не у вас.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+46118,"Софичка, конечно, не собиралась никогда простить брату убийство мужа.","Софичка, конечно, собиралась никогда простить брату не убийство мужа.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+36985,"Я рад, что вы ничего не помните, преч Рамаррен.","Я рад, что вы ничего помните, преч не Рамаррен.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+15299,"Но никогда не будет драки между ним и тобой, Павек.","Но никогда будет драки не между ним и тобой, Павек.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+56386,"Никто больше не станет вращать другие Станции для проверки, в этом ли дело.","Никто больше станет вращать другие Станции не для проверки, в этом ли дело.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+66326,Это сущее никогда не имеет способа бытия вещей лишь наличных внутри мира.,Это сущее никогда имеет способа не бытия вещей лишь наличных внутри мира.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+40009,"Значит, никто, подумал я, не закалил меча на криворотых.","Значит, никто, подумал я, закалил меча не на криворотых.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+989,"Никто больше не лез через заборало, никто не совал когтистые руки в бойницы.","Никто больше не лез через заборало, никто совал когтистые руки не в бойницы.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+36433,И никогда у него не выходило проку от споров с Олиной.,И никогда у него выходило проку не от споров с Олиной.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+71706,"Ее никто не заметил – ни капитан Бек, ни Атилла.","Ее никто заметил – ни капитан не Бек, ни Атилла.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63082,Ты – названная дочка госпожи Айи и Она не позволит никому отравлять тебе сны.,Ты – названная дочка госпожи Айи и Она позволит никому отравлять тебе не сны.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+51420,Без нее социальный улей Сириуса больше никогда тебе не выдаст васо на посещение погребия.,Без нее социальный улей Сириуса больше никогда тебе выдаст васо не на посещение погребия.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+42432,"И никто тебя за это не привлечет, поскольку это письма граждан.","И никто тебя за это привлечет, поскольку это письма не граждан.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+68934,Неужели никто никогда не сможет заменить меня на посту общей матери?,Неужели никто никогда сможет заменить меня не на посту общей матери?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+27254,Неужели ей никогда не понять. что на уме у Колина Розмура?,Неужели ей никогда понять. что не на уме у Колина Розмура?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7395,Без Бродяги мне домой ходу нет - дядя Ге никогда не простит потери любимца.,Без Бродяги мне домой ходу нет - дядя Ге никогда простит потери не любимца.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+46308,Еще никогда прежде не доводил Свэнн ее до такого состояния возбуждения.,Еще никогда прежде доводил Свэнн ее не до такого состояния возбуждения.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+33651,Никогда в жизни он не даст Шонтэль Райт повода вновь посмеяться над ним.,Никогда в жизни он даст Шонтэль Райт повода не вновь посмеяться над ним.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+70366,Переход! — наверное еще никогда так не ждал эти слова генерал Рахад Виргул.,Переход! — наверное еще никогда так ждал эти слова не генерал Рахад Виргул.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+4261,"Поэтому Мелет шел молча, и ничто не выдавало его торжества над Герфегестом.","Поэтому Мелет шел молча, и ничто выдавало его торжества не над Герфегестом.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+11472,Никогда прежде не виделся Тонио столь явственным настоящий смысл этой ночи.,Никогда прежде виделся Тонио столь явственным настоящий смысл не этой ночи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+939,А теперь никто не хотел оставаться с этим безумцем с гор.,А теперь никто хотел оставаться с этим безумцем не с гор.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+60570,Никогда не думал услышать такое от эдди! – сказал Дел Келлум.,Никогда думал услышать такое не от эдди! – сказал Дел Келлум.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+10715,Да не приобрел бы никто и никогда материальной власти над другими!,Да приобрел бы никто и никогда материальной власти не над другими!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13180,"Он вообще никому не доверял, разве только друзьям детства и — Морозко.","Он вообще никому доверял, разве только друзьям не детства и — Морозко.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+48383,"Никто уже не думал больше о времени, секунды прошли или минуты.","Никто уже думал больше не о времени, секунды прошли или минуты.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+21092,"Никому, даже Гвенасет, не сказала она об угрозах золовки.","Никому, даже Гвенасет, сказала она не об угрозах золовки.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39581,"Ах, понимаю, ученица магистра никогда не видела городов более скромной Вергины.","Ах, понимаю, ученица магистра никогда видела городов не более скромной Вергины.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+46867,"Дариш ничего не сказал той частью мозга, что была открыта Лэрду.","Дариш ничего сказал той частью не мозга, что была открыта Лэрду.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+74546,Поэтому случаи не объединены производством и никто не повел целенаправленного поиска производителя оружия.,Поэтому случаи не объединены производством и никто повел целенаправленного поиска не производителя оружия.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+15738,Ведь не говорила же она ничего подобного Вернеру в бутике на Стефанплатц!,Ведь говорила же она ничего подобного Вернеру не в бутике на Стефанплатц!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+248,"Пенальти реализовал Каллон, вышедший на замену ничем не прояившему себя Рональдо.","Пенальти реализовал Каллон, вышедший на замену ничем прояившему себя не Рональдо.",не,не,Syntax,Negation,negative_concord,negative_concord,wikinews,6
+132,А из Шхануковых никто не пришел к нам со словами извинения.,А из Шхануковых никто пришел к нам не со словами извинения.,не,не,Syntax,Negation,negative_concord,negative_concord,wikinews,5
+51546,"После того инцидента я сказал Дио, что буду ждать на Ваймо, но сам больше никогда не пойду на службу к Союзу.","После того инцидента я сказал Дио, что буду ждать на Ваймо, но сам больше никогда пойду на службу не к Союзу.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+75531,"Впрочем, дварх-майор Варинх никогда не боялась тяжелых решений, взять хотя бы стадион на Белтиаре.","Впрочем, дварх-майор Варинх никогда боялась тяжелых решений, взять хотя бы стадион не на Белтиаре.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+62812,"Марквир, хозяин кафе, даже оснастил ради удобства столик безопасного министра системой подавления звука и потому никто вокруг не слышал нытья Эдда Бартона.","Марквир, хозяин кафе, даже оснастил ради удобства столик безопасного министра системой подавления звука и потому никто вокруг слышал нытья не Эдда Бартона.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,12
+52154,Никто не подсядет вечером в кабаке обсудить за чаркой новые известия из Крепи и Кайва.,Никто подсядет вечером в кабаке обсудить за чаркой новые известия не из Крепи и Кайва.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+3662,"Она послала Зейнет, дочь Дамели, за Шынар, а у них никого, кроме Науши, не оказалось – все на сенокосе.","Она послала Зейнет, дочь Дамели, за Шынар, а у них никого, кроме Науши, оказалось – все не на сенокосе.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+5433,"К нему в гости напрашивался лично претор ОКО Цамцой, человек дела и закона, никогда не нарушавший моральных заповедей цивилизации.","К нему в гости напрашивался лично претор ОКО Цамцой, человек дела и закона, никогда нарушавший моральных заповедей не цивилизации.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+13328,"Без помощи молодцев Баронио нам пришлось бы очень туго, и никогда бы не перенесли мы бездвижное тело Дульчибени.","Без помощи молодцев Баронио нам пришлось бы очень туго, и никогда бы перенесли мы бездвижное тело не Дульчибени.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+51390,"Нет только нашего поэта — он никогда и не думал серьезно быть с нами, да разразит его луна!","Нет только нашего поэта — он никогда и думал серьезно быть не с нами, да разразит его луна!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+71616,"Духи, что появляются из никер-унна, никогда не показывали других земель в океане, кроме Майры.","Духи, что появляются из никер-унна, никогда показывали других земель не в океане, кроме Майры.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+44265,"На Бете Девы будет мне приятно, и уж совсем ничего хорошего не ждет их на пути туда.","На Бете Девы будет мне приятно, и уж совсем ничего хорошего ждет их не на пути туда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+44605,"Это же хорошо — Эсме и Элис и Карлайл, никто не хочет причинить им вреда!","Это же хорошо — Эсме и Элис и Карлайл, никто хочет причинить им не вреда!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+7347,"Мы же кленемся царю вашему имянем князя нашего пресветлаго, иже от Бога сусчий, яко Божие здание по закону нашему и по закону языка нашего не преступити нам никому от страны нашея от уставленных глав мира и любве.","Мы же кленемся царю вашему имянем князя нашего пресветлаго, иже от Бога сусчий, яко Божие здание по закону нашему и по закону языка нашего преступити нам никому от страны нашея не от уставленных глав мира и любве.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,14
+7344,"Когда мы покидали Землю, никто не испытывал уверенности в том, что на Сороре есть рас * тительность.","Когда мы покидали Землю, никто испытывал уверенности не в том, что на Сороре есть рас * тительность.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+2111,"Лютава и Молинка были одеты просто, и никто не знал, кто они такие.","Лютава и Молинка были одеты просто, и никто знал, кто не они такие.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+30033,"Пожалуй, мало ли мест и даром дают, да никто не берет, что в них?","Пожалуй, мало ли мест и даром дают, да никто берет, что не в них?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+48281,"Никто не хотел напоминать Натаниелю о том, что Тронд и Йахас, Халькатла и Орин тоже опустились на дно.","Никто хотел напоминать Натаниелю не о том, что Тронд и Йахас, Халькатла и Орин тоже опустились на дно.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+15294,"Но, несомненно, ветеран-дварф никогда не составит ему компанию на лишенных следов путях другой жизни.","Но, несомненно, ветеран-дварф никогда составит ему не компанию на лишенных следов путях другой жизни.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+73846,"А вот идет Шанна с Биллом — никто не называл мне его фамилии, — фотографом.","А вот идет Шанна с Биллом — никто называл мне не его фамилии, — фотографом.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+75511,"Конечно, все понимали, в чем дело, но никто не решился обвинить высокого лорда ар Инвата в лицо.","Конечно, все понимали, в чем дело, но никто решился обвинить высокого лорда ар Инвата не в лицо.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+61649,"Конечно, теперь их интересовала не личность самого Онолая, ибо он никогда не сделал ничего для их партии.","Конечно, теперь их интересовала не личность самого Онолая, ибо он никогда сделал ничего не для их партии.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+38587,"Почему герои никогда не ест, например перед отправкой из дома, а только у яги?","Почему герои никогда ест, например не перед отправкой из дома, а только у яги?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+25578,"Никто ведь не считал нужным разобраться — что за личность этот пресловутый Засада, будь он неладен!","Никто ведь считал нужным разобраться — что не за личность этот пресловутый Засада, будь он неладен!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+3445,"Тут уж не только мои родители, а вообще никто в городе не отыщет улицы Корсара Палемона!","Тут уж не только мои родители, а вообще никто в городе отыщет улицы не Корсара Палемона!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+4279,"Ни я, ни Стагевд никогда не посылали людей в Мир Суши, бывший тебе приютом.","Ни я, ни Стагевд никогда посылали людей не в Мир Суши, бывший тебе приютом.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+6246,"Никто здесь и не спрашивал – кто такой Рысь, достаточно было рекомендательного письма Валерия Прокла.","Никто здесь и спрашивал – кто не такой Рысь, достаточно было рекомендательного письма Валерия Прокла.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+12726,"Я уже сказала, он никогда не разрешал ничего ему говорить, слоьа ему не скажи.","Я уже сказала, он никогда разрешал ничего не ему говорить, слоьа ему не скажи.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33450,"Но, бывало, проходили месяцы — в действительности, подобное произошло только что — и никто не спрашивал перевода с или на енизед, так что Жарвина служила скорее символом.","Но, бывало, проходили месяцы — в действительности, подобное произошло только что — и никто спрашивал перевода не с или на енизед, так что Жарвина служила скорее символом.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+34614,"И по правде сказать, никогда не думал, генерал Коррд, что буду выпивать с клингоном.","И по правде сказать, никогда думал, генерал не Коррд, что буду выпивать с клингоном.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+47999,"И если никто не обнаружит тоннель к цефалону гомеогазеты, на который ушло пять лет труда.","И если никто обнаружит тоннель не к цефалону гомеогазеты, на который ушло пять лет труда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+29386,"Вот одна, например: трубка мира раскурена, и никто не может меня здесь удерживать!","Вот одна, например: трубка мира раскурена, и никто может меня не здесь удерживать!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+1227,"Должен же был Серод дать какие-то объяснения Марку, а то кендар никогда не выпустил бы его из дворца с Разящим Родню.","Должен же был Серод дать какие-то объяснения Марку, а то кендар никогда выпустил бы его не из дворца с Разящим Родню.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+43826,"Все проклинали трусость Фэйра, но никто не знал, как быть: что за коронация без потомка Макфдуфа!","Все проклинали трусость Фэйра, но никто знал, как быть: что не за коронация без потомка Макфдуфа!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+56680,"Керан никогда не назвал землянина по имени, де еще на такой манер, а тут на тебе — выучился.","Керан никогда назвал землянина не по имени, де еще на такой манер, а тут на тебе — выучился.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+65956,"У патриотов не было такого оружия, а Синворет никогда не слышал этой новинки в деле.","У патриотов не было такого оружия, а Синворет никогда слышал этой новинки не в деле.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+54215,"Никто не стал бы подвергать опасности здоровье других — эррионы требуют ухода, но это все же не люди.","Никто стал бы подвергать опасности не здоровье других — эррионы требуют ухода, но это все же не люди.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+20167,"Однако перуанское правительство никогда не имело прочных позиций в этой стране по причине вооруженной оппозиции промочианов, тогда расположившихся станом между реками Ранелем и Маулэ.","Однако перуанское правительство никогда имело прочных позиций не в этой стране по причине вооруженной оппозиции промочианов, тогда расположившихся станом между реками Ранелем и Маулэ.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,12
+64480,"Однако за исключением Нератарна и, конечно, Карадука и Эстории, насколько она могла видеть, никто из земель не прислал делегацию в полном составе.","Однако за исключением Нератарна и, конечно, Карадука и Эстории, насколько она могла видеть, никто из земель прислал делегацию не в полном составе.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,11
+47763,"Может быть, никогда и не было: пар вместо души, как у первой жены Адама, Лилит.","Может быть, никогда и было: пар не вместо души, как у первой жены Адама, Лилит.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+70948,"Элема должны, наверное, пустить, поскольку никто в Эбире не оказал быку столько услуг, сколько простой барабанщик.","Элема должны, наверное, пустить, поскольку никто в Эбире оказал быку не столько услуг, сколько простой барабанщик.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+7706,"И никто не думай сам собою родить такую силу жизни, об ней должно молиться и быть готовым приять ее.","И никто думай сам собою родить такую силу не жизни, об ней должно молиться и быть готовым приять ее.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+22761,"Они действительно не знали друг о друге совершенно ничего, кроме тем работ и возраста.","Они действительно знали друг не о друге совершенно ничего, кроме тем работ и возраста.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+11014,"Это был странный клинок, он ничем не напоминал саблю Хербурка или даже альда Каллиеры.","Это был странный клинок, он ничем напоминал саблю не Хербурка или даже альда Каллиеры.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+16033,"Я никогда префде не видел ящика с надпифью ""лофки"" с лофками в нем.","Я никогда префде видел ящика не с надпифью ""лофки"" с лофками в нем.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+62520,"Послушайте, магистр Хургин, вам ничего не говорят имена Айн, или Ринель, или Мирдин Велис?","Послушайте, магистр Хургин, вам ничего говорят имена не Айн, или Ринель, или Мирдин Велис?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+56549,"Тот часто повторяет, что малый не вырастет в отца, никогда не станет людям настроение портить.","Тот часто повторяет, что малый не вырастет в отца, никогда станет людям не настроение портить.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+30746,"Она знала, что Леона и Дюк близки, но Сол ничего не говорил ей о смерти Сарна.","Она знала, что Леона и Дюк близки, но Сол ничего говорил ей не о смерти Сарна.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+47189,"А поскольку никто не знал природу Источника навов, то в данном случае это был вообще единственный показатель.","А поскольку никто знал природу не Источника навов, то в данном случае это был вообще единственный показатель.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+53378,"Колу было двадцать четыре, и последние двадцать один никто не считал его человеком надежным.","Колу было двадцать четыре, и последние двадцать один никто считал его не человеком надежным.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+56440,"Даже Жак никогда бы не осмелился назвать его по имени, но капитан Эльва Штрелстхорм ничего не боялась.","Даже Жак никогда бы осмелился назвать его не по имени, но капитан Эльва Штрелстхорм ничего не боялась.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+29973,"Ноэл никогда не видел аббата таким, он привык думать о Квинтусе как настоящем главе.","Ноэл никогда видел аббата не таким, он привык думать о Квинтусе как настоящем главе.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+33317,"Представить меня можно как состоятельного господина из провинции — думаю, никто в Вороновом Насесте не знает в лицо капу Разо.","Представить меня можно как состоятельного господина из провинции — думаю, никто в Вороновом Насесте знает в лицо капу не Разо.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+29597,"Здесь они не провели бы меня даже за первые дворцовые ворота, так как никто, кроме знати, не понимал цены таких вещей.","Здесь они не провели бы меня даже за первые дворцовые ворота, так как никто, кроме знати, понимал цены не таких вещей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+2810,"Фрель сам никогда не приезжал за мной на берег, неизменно высылая кого-нибудь из команды.","Фрель сам никогда приезжал за мной не на берег, неизменно высылая кого-нибудь из команды.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+63493,Никто более не обращал внимания на Луня – тот все еще неловко пытался остановить кровь.,Никто более обращал внимания не на Луня – тот все еще неловко пытался остановить кровь.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+3161,"Собственно, никто кроме меня, Апсу и, может, отчасти Бореева, не усек сути зрелища.","Собственно, никто кроме меня, Апсу и, может, отчасти Бореева, усек сути не зрелища.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+44272,"Их задача уничтожить дозор свеев, чтобы никто не мог предупредить стан о надвигающейся силе.","Их задача уничтожить дозор свеев, чтобы никто мог предупредить стан не о надвигающейся силе.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+29017,"Возможно, повелитель Бахль обращается с четсами лучше других, но он никогда не простит мне того, что я ему сказал.","Возможно, повелитель Бахль обращается с четсами лучше других, но он никогда простит мне не того, что я ему сказал.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+46656,"И оказалось, что из Иависа Галаадского никто не приходил пред Господа в стан на собрание.","И оказалось, что из Иависа Галаадского никто приходил пред Господа не в стан на собрание.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+12377,"Может, это потому, что Дикая никогда еще не поднимала его на владельцев кристаллов ""верд"".","Может, это потому, что Дикая никогда еще поднимала его не на владельцев кристаллов ""верд"".",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+76527,"Они ведь пришли в Омакс вслед за четверкой, но никто, кроме вишту, не преследовал его на пути через плато.","Они ведь пришли в Омакс вслед за четверкой, но никто, кроме вишту, преследовал его не на пути через плато.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+51391,"Я никогда не успею просмотреть и трети твоих отчетов. однако съесть разве что-нибудь, прежде чем мы примемся за зто!","Я никогда успею просмотреть и трети не твоих отчетов. однако съесть разве что-нибудь, прежде чем мы примемся за зто!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+51434,"Сейчас он любит Марию да Пас так, как не любил никогда раньше, как никогда не будет любить ее в будущем.","Сейчас он любит Марию да Пас так, как не любил никогда раньше, как никогда будет любить ее не в будущем.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+79073,"Никогда не забуду живых и мертвых героев полка, героев Убиенной и Богдати, Цугольского дацана и Тавын-талагоя.","Никогда забуду живых и мертвых героев не полка, героев Убиенной и Богдати, Цугольского дацана и Тавын-талагоя.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+80200,"Дасава облекся легким сиянием, иначе они с Белгестом ничего не разглядели бы в темноте.","Дасава облекся легким сиянием, иначе они с Белгестом ничего разглядели бы не в темноте.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+56054,"Ты снова на этом мертвом светиле в этом свете цвета морской волны, где никто не знает моря без горизонта.","Ты снова на этом мертвом светиле в этом свете цвета морской волны, где никто знает моря не без горизонта.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+66236,"Пример: полчаса назад Роман с Гаем утверждали, что никто в самолете не мог всадить шип под лопатку Айше Ступник.","Пример: полчаса назад Роман с Гаем утверждали, что никто в самолете мог всадить шип не под лопатку Айше Ступник.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,11
+3352,"Никогда не упускающий ни единой мелочи директор ИСБ вспомнил бы о снимке из эскодиарского бара, о пиратском ""скайгере"".","Никогда упускающий ни единой мелочи не директор ИСБ вспомнил бы о снимке из эскодиарского бара, о пиратском ""скайгере"".",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+50297,"Сумми Ским и Бен Раддль сухо поклонились, ничем не выражая удивления такой любезной встрече.","Сумми Ским и Бен Раддль сухо поклонились, ничем выражая удивления не такой любезной встрече.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+36351,"Никогда не видел человек ваш великого, ибо, страшащийся, никогда не был он человеком!","Никогда видел человек не ваш великого, ибо, страшащийся, никогда не был он человеком!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+71339,"Мне еще многое предстояло, и никто не мог видеть конца дороги, даже Сейрос.","Мне еще многое предстояло, и никто мог видеть конца не дороги, даже Сейрос.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+8714,"Ты можешь и не найти никогда кредиторов этого Миронкина, которому просто нравится то и дело умирать.","Ты можешь и найти никогда кредиторов не этого Миронкина, которому просто нравится то и дело умирать.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+67275,"Хей Атала Вейхар абсолютно надежен, а Эйх Матсехар — хороший друг Ники, и никто еще не ставил под сомнение порядочность женщины Цей Ама.","Хей Атала Вейхар абсолютно надежен, а Эйх Матсехар — хороший друг Ники, и никто еще ставил под сомнение порядочность не женщины Цей Ама.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+12137,"Гораздо больше хейни занимал сейчас тот факт, что кненны никогда не соблюдали общепринятых законов навигации.","Гораздо больше хейни занимал сейчас тот факт, что кненны никогда соблюдали общепринятых законов не навигации.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+44662,"За нее стоит весь Калатар, просто никто ничего не делает непосредственно от ее имени.","За нее стоит весь Калатар, просто никто ничего делает непосредственно не от ее имени.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+42005,"Однако среди всего этого шума и гама никто не обратил должного внимания на оживленную деятельность господ Джилгена, Эдстрома, Кэригена и Тирнена.","Однако среди всего этого шума и гама никто обратил должного внимания не на оживленную деятельность господ Джилгена, Эдстрома, Кэригена и Тирнена.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+6760,"Наверн Чудакулли всегда любил проверять новую информацию с нескольких точек зрения — Вы сказали тогда, что среди болот никто не обратит внимания на его запах.","Наверн Чудакулли всегда любил проверять новую информацию с нескольких точек зрения — Вы сказали тогда, что среди болот никто обратит внимания не на его запах.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+34212,"Но Хиршбург отлично знал, что в тиши и безопасности штаба никогда не почувствовать нерв операции.","Но Хиршбург отлично знал, что в тиши и безопасности штаба никогда почувствовать нерв не операции.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+56522,Ибо одно надо помнить и не забывать: большинство и здесь никогда не может заменить собою одного.,Ибо одно надо помнить и не забывать: большинство и здесь никогда может заменить собою не одного.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+35467,"Очень просто: Хродульф сказал, будто галиурунн никогда раньше не являлся в Хеорот две ночи подряд.","Очень просто: Хродульф сказал, будто галиурунн никогда раньше являлся в Хеорот две ночи не подряд.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+63414,Тако ли не обретеся никто же на Москове добра похотети души князя вели-каго и всей отчине его?,Тако ли обретеся никто же на Москове добра похотети души не князя вели-каго и всей отчине его?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+31408,"Сам Боуги мог слушать ат-фарелов, но они никогда не стали бы слушать его без посредничества Святого Калина.","Сам Боуги мог слушать ат-фарелов, но они никогда стали бы слушать его не без посредничества Святого Калина.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+34497,В неярком свете лампы в палатке Кирк увидел белую бороду и строгое зааходится на глуьине и больше никогда не вдохнет воздуха. остренное лицо прилара Тэма.,В неярком свете лампы в палатке Кирк увидел белую бороду и строгое зааходится на глуьине и больше никогда вдохнет воздуха. остренное лицо не прилара Тэма.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+73405,"Что Аттану нужен наследник их солнечной крови, что Ханис должен это сделать, потому что у меня никогда не будет детей от него, а у нее самой — от тебя.","Что Аттану нужен наследник их солнечной крови, что Ханис должен это сделать, потому что у меня никогда будет детей не от него, а у нее самой — от тебя.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,12
+21964,"Я никогда не прошу себе волнений, которые внесла в твою жизнь, и вреда, нанесенного мною имени Белморов.","Я никогда прошу себе не волнений, которые внесла в твою жизнь, и вреда, нанесенного мною имени Белморов.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+12382,"Меот-кортэг настаивал, пришлось сказать ему, что сарбах лично приказал никого не выпускать из крепости до его прибытия.","Меот-кортэг настаивал, пришлось сказать ему, что сарбах лично приказал никого выпускать из крепости не до его прибытия.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+1646,"И Ника не волновало, что тот же выбор сделала Сорас, – ничто не могло удержать его от желания мстить Но ему ужасно не хотелось наниматься к амнионам.","И Ника не волновало, что тот же выбор сделала Сорас, – ничто могло удержать его не от желания мстить Но ему ужасно не хотелось наниматься к амнионам.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+78540,"Уехать от Корд Мак Байна, чтобы никогда не позволять ему снова причинять ей боль.","Уехать от Корд Мак Байна, чтобы никогда позволять ему снова причинять ей не боль.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+62830,"Никто на всем Галане и уж тем более в Кируфе не считает тебя преступником, принц Гарендир.","Никто на всем Галане и уж тем более в Кируфе считает тебя не преступником, принц Гарендир.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+72582,"Государыня кнесинка гостила у ичендаров, и свирепые горцы никому не позволят поступить с нею против ее воли.","Государыня кнесинка гостила у ичендаров, и свирепые горцы никому позволят поступить с нею не против ее воли.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+17886,Однако Вик ничего не сказал Гору и фермерам о сыне Главного Пхана и складе с оружием прошлых.,Однако Вик ничего сказал Гору и фермерам не о сыне Главного Пхана и складе с оружием прошлых.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+50073,"Никогда не понять жене Анания и той молчаливой драмы, отзвук которой слышится в его признании.","Никогда понять жене не Анания и той молчаливой драмы, отзвук которой слышится в его признании.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+34758,"Шаман видел, что Канни прикончит всех прорвавшихся латников, если Шогга и степняки никого не пустят к ним на помощь.","Шаман видел, что Канни прикончит всех прорвавшихся латников, если Шогга и степняки никого пустят к ним не на помощь.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+11798,"Мириам никто не помешает вызвать моего коллегу из Порника, объяснить ему ситуацию так, как она ее понимает.","Мириам никто помешает вызвать моего коллегу не из Порника, объяснить ему ситуацию так, как она ее понимает.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+15350,"Никогда не было особой любви между любыми из Доблестных Воинов Раджаата, включая Дрегоша из Джиустеналя и Галларда.","Никогда было особой любви не между любыми из Доблестных Воинов Раджаата, включая Дрегоша из Джиустеналя и Галларда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+40642,"Наша главная цель сделать так, чтобы у шервари больше никогда не было врагов на Веде.","Наша главная цель сделать так, чтобы у шервари больше никогда было врагов не на Веде.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+17498,"Никто не дал себе труда удовлетворить собственную любознательность просто потому, что книга – микогенская.","Никто дал себе не труда удовлетворить собственную любознательность просто потому, что книга – микогенская.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+71142,"Собирался и Клонмел — догонять короля, который ночью, с десятком стражей, срочно уехал охотиться: приспичило в самую темь, будто зверь лишь на полчаса в лес Лонтиров придет, и — все, и — ша, не увидит его больше никто.","Собирался и Клонмел — догонять короля, который ночью, с десятком стражей, срочно уехал охотиться: приспичило в самую темь, будто зверь лишь на полчаса в лес Лонтиров придет, и — все, и — ша, увидит его не больше никто.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,14
+41143,"Если хотя бы четверть того, что он говорил, правда, никто не узнает страну после одного поколения нового правления.","Если хотя бы четверть того, что он говорил, правда, никто узнает страну не после одного поколения нового правления.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+63679,"С этой точки никто не посмотрел тогда на предмет, а между тем эта точка-то и есть настоящая гуманная, право-с так!","С этой точки никто посмотрел тогда не на предмет, а между тем эта точка-то и есть настоящая гуманная, право-с так!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+37760,Но теперь никто не останавливал моего коня на проезде: хмуро отжимались к стороне встречные жители.,Но теперь никто останавливал моего коня не на проезде: хмуро отжимались к стороне встречные жители.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+60416,"Никто, даже Дан, не мог понять в полной мере муку ее знания — откуда!","Никто, даже Дан, мог понять в полной мере муку не ее знания — откуда!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+19721,"Маллт должна была умереть, чтобы никто не узнал о его, Мадога, связи с исчезновением Рианнон.","Маллт должна была умереть, чтобы никто узнал о его, Мадога, связи не с исчезновением Рианнон.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+42940,Книги и люди ничего не открыли мне кроме моей безмерной возможности любить: Готовности служить.,Книги и люди ничего открыли мне не кроме моей безмерной возможности любить: Готовности служить.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+47140,"А картинка на самом деле ничего не говорила — ну, как резиновая мышка Топо Джиджо в шоу Эда Салливана.","А картинка на самом деле ничего говорила — ну, как резиновая мышка не Топо Джиджо в шоу Эда Салливана.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+36002,"Если бы ты промолчал, я бы никогда не сказала ма о тебе и графине!","Если бы ты промолчал, я бы никогда сказала ма не о тебе и графине!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+52334,"Никогда еще ханумак не казался ему таким забористым, тринопля такой ядреной, а икра карпа Ре такой сочной, радующей небо.","Никогда еще ханумак казался ему не таким забористым, тринопля такой ядреной, а икра карпа Ре такой сочной, радующей небо.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+15544,"Тарвиц только пожалел, что никто не напомнит об этой ключевой заповеди их Легиона лорду Эйдолону.","Тарвиц только пожалел, что никто напомнит об этой ключевой заповеди их Легиона лорду не Эйдолону.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+41040,"Туда, где ничто не напоминало бы ему этот вечер в доме Эстер, в кабинете полковника, когда Виржилио согласился вызвать жагунсо.","Туда, где ничто напоминало бы ему не этот вечер в доме Эстер, в кабинете полковника, когда Виржилио согласился вызвать жагунсо.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+44654,"Даже мученица за дело познания, хотя они никогда не выскажут это в стольких словах.","Даже мученица за дело познания, хотя они никогда выскажут это не в стольких словах.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+1623,"Если бы не зонные имплантаты, Энгус никогда бы не выиграл у Морн дуэль глаз и только расплакался бы, как ребенок.","Если бы не зонные имплантаты, Энгус никогда бы выиграл у Морн дуэль не глаз и только расплакался бы, как ребенок.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+18585,"Никогда еще не удавалось ей так хорошо полетать, верно, опасность заставляет лучше слышать силы.","Никогда еще удавалось ей не так хорошо полетать, верно, опасность заставляет лучше слышать силы.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+34593,"Его голос падал на вас словно стена, – похоже, он никогда не умерял его с уровня полной сценической силы.","Его голос падал на вас словно стена, – похоже, он никогда умерял его не с уровня полной сценической силы.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+74739,"Туек сам говорил это множество раз, никогда не слышав в собственных словах курьезного эха слов Дроминда.","Туек сам говорил это множество раз, никогда слышав в собственных словах курьезного эха не слов Дроминда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+1500,"Довегте дело дгугому - ото шалом, никто не повегит семейной идиллии на это фото.","Довегте дело дгугому - ото шалом, никто повегит семейной идиллии не на это фото.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+2383,Никто из дивиан не видел космического корабля шадиллов – кроме троих на сторожевой заставе на далекой луне.,Никто из дивиан видел космического корабля не шадиллов – кроме троих на сторожевой заставе на далекой луне.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+77825,"Тесею не хочется спрашивать, кто из этих чад его кровные – а вдруг, чем черт не шутит, и вовсе никого.","Тесею хочется спрашивать, кто не из этих чад его кровные – а вдруг, чем черт не шутит, и вовсе никого.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+4395,"Просто исчез, словно и не было никогда никакого Голеха Облоны, а так, наваждение пустяковое.","Просто исчез, словно и было никогда никакого Голеха не Облоны, а так, наваждение пустяковое.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+69054,"Завидев в белой дымке родной город, Рубчик, верно опять забылся – да и прискучило ему катить медленно: подобной езды он не позволял себе ранее никогда.","Завидев в белой дымке родной город, Рубчик, верно опять забылся – да и прискучило ему катить медленно: подобной езды он позволял себе не ранее никогда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+10918,"Сам Чемпаркароке утверждает, что еще никогда не видел столь искреннего восторга поповоду супа собственного приготовления.","Сам Чемпаркароке утверждает, что еще никогда видел столь искреннего восторга не поповоду супа собственного приготовления.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+27710,"Пикел, Даника и Ньюандер услышали шум драки, и никто из них уже не обращал внимания на белку.","Пикел, Даника и Ньюандер услышали шум драки, и никто из них уже обращал внимания не на белку.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+65543,"Не остается ничего другого, господин Милисав, как тебе быстро написать распоряжение и потом отправляться в уезд!","остается ничего другого, господин Не милисав, как тебе быстро написать распоряжение и потом отправляться в уезд!",Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+4645,"Что касается Денизы Долгети, то она тоже от души наслаждалась отдыхом и тоже не выяснила ничего нового - равно как и остальные агенты Биллинхарста.","Что касается Денизы Долгети, то она тоже от души наслаждалась отдыхом и тоже выяснила ничего нового - равно как и остальные агенты не Биллинхарста.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+76061,"И поддалась Олисава призыву, и ничто не екнуло с болезненным стоном в груди: слава те.","И поддалась Олисава призыву, и ничто екнуло с болезненным стоном в груди: слава не те.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+4290,"Уверен, если бы не война с кровернами, никто и не вспомнил бы про этот Грин еще лет пятьсот.","Уверен, если бы не война с кровернами, никто и вспомнил бы про этот Грин еще лет не пятьсот.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+45131,"Тевено никогда не видел кутху воочию, но слышать – слышал, и сразу узнал.","Тевено никогда видел кутху не воочию, но слышать – слышал, и сразу узнал.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+68040,"Никто не пожелает теперь общества Нади — сестра портнихи-метельщицы, да еще выключенная из института.","Никто пожелает теперь общества не Нади — сестра портнихи-метельщицы, да еще выключенная из института.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+16267,"Никто, кроме ее родных ну и, конечно, Аспану Пишотты да еще нескольких верных членов отряда, не будет об этом знать.","Никто, кроме ее родных ну и, конечно, Аспану Пишотты да еще нескольких верных членов отряда, будет не об этом знать.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+71141,И не поручишь никому — первая присяга сюзерену: не выслушаешь лично — обид будет не на одно поколение.,И поручишь никому — первая присяга не сюзерену: не выслушаешь лично — обид будет не на одно поколение.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+2037,"По крайней мере, Даг знал, что никогда не поднимет оружия против Хродмара сына Кари.","По крайней мере, Даг знал, что никогда поднимет оружия не против Хродмара сына Кари.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+12976,"Если смерть означает отсутствие жизни, то Хешке никогда еще не встречал такого триумфа смерти.","Если смерть означает отсутствие жизни, то Хешке никогда еще встречал такого триумфа не смерти.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+80000,"Если верить смотрителю, это естественно для пищи силы -никто никогда не получает ее достаточно.","Если верить смотрителю, это естественно для пищи силы -никто никогда получает ее не достаточно.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+47454,"Бубудумзел об этом тоже знал, поэтому никогда прямо не требовал отставки командующего флотом Открытого моря.","Бубудумзел об этом тоже знал, поэтому никогда прямо требовал отставки не командующего флотом Открытого моря.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+66275,Далзил никогда не выставил бы на публичное обозрение агентов такого масштаба — даже если бы Принни потребовал этого.,Далзил никогда выставил бы не на публичное обозрение агентов такого масштаба — даже если бы Принни потребовал этого.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+9706,"Никто, даже Дан, не мог понять в полной мере муку ее знания – откуда!","Никто, даже Дан, мог понять в полной мере муку не ее знания – откуда!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+23363,Потому что я просто ничего не скажу ему об этом! – быстро нашлась Пен.,Потому что я просто ничего скажу ему не об этом! – быстро нашлась Пен.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+12242,"Я даже не спросила, сказал ли это лично Таранис — больше никто при его дворе не рискнул бы гневом Андаис.","Я даже не спросила, сказал ли это лично Таранис — больше никто при его дворе рискнул бы гневом не Андаис.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+67285,Дрив никогда не использовал эти дары в личных целях — только на благо Дорзена и Укса.,Дрив никогда использовал эти дары не в личных целях — только на благо Дорзена и Укса.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+2719,"Ничего не вижу, кроме себя в черноте глаз – там я четко вписан в упор и систему рычагов.","Ничего вижу, кроме себя не в черноте глаз – там я четко вписан в упор и систему рычагов.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+58241,"Никогда больше не смотрел он так на девочек, может бытъ, только на Тюпу.","Никогда больше смотрел он не так на девочек, может бытъ, только на Тюпу.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+71708,"Потому что никто нигде не знает историй людей зене, и сам Нгози не вабу, а охотник.","Потому что никто нигде знает историй не людей зене, и сам Нгози не вабу, а охотник.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+35070,"Нет никаких наркотиков, оружия, мистер Онслоу Роупер никогда не имел дела с картелями.","Нет никаких наркотиков, оружия, мистер Онслоу Роупер никогда имел дела не с картелями.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+19683,"Он ведь предупреждал де Серей, когда тот напал на Телси, никогда больше не тревожить покой его земель.","Он ведь предупреждал де Серей, когда тот напал на Телси, никогда больше тревожить покой не его земель.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+13298,Никто не говорил вам об Альтглинике?,Никто говорил вам не об Альтглинике?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+49394,Великий Дух не простит нам такого никогда.,Великий Дух простит нам не такого никогда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+65036,Никто не воспротивится гибели Хорсадара.,Никто воспротивится гибели не Хорсадара.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+28008,Пси никогда не утруждали себя чтением лиц.,Пси никогда утруждали себя не чтением лиц.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+74523,Президент никогда не звонил ему домой.,Президент никогда звонил ему не домой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+57338,Разве никто не говорил этого тебе?,Разве никто говорил этого не тебе?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+68312,Сэмми никогда не видела потока машин.,Сэмми никогда видела потока не машин.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+44392,Никто еще не проходил его весь.,Никто еще проходил его не весь.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+74463,Никогда не вытягивайте руку для встречи удара.,Никогда вытягивайте руку не для встречи удара.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+57588,Никто не понимал войну лучше его.,Никто понимал войну не лучше его.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+62524,Тебе ничего не говорит имя Ринель?..,Тебе ничего говорит имя не Ринель?..,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+36350,Никогда не меняй знание на человека.,Никогда меняй знание не на человека.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+14775,Но ничего не жалела страна для Вучетича.,Но ничего жалела страна не для Вучетича.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+42913,Но никто не показывает им этого намеренно.,Но никто показывает им не этого намеренно.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+32796,Никогда не забуду лица Бетти.,Никогда забуду лица не Бетти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+32897,Рори никогда не простит ей богатства.,Рори никогда простит ей не богатства.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+66246,Ничего не говоря им он вышел.,Ничего говоря им не он вышел.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+39100,"О, не тревожь их мечтой никогда!","О, тревожь их не мечтой никогда!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+78732,Империя ведь никогда не отдаст им Кхольск!,Империя ведь никогда отдаст им не Кхольск!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+34793,Ничего не тяните у щенка изо рта.,Ничего тяните у щенка не изо рта.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7078,Он никогда не причинит рреда моим друзьям.,Он никогда причинит рреда не моим друзьям.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+67187,"Ничему не бывать, господин Скотинин!","Ничему бывать, господин не Скотинин!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+52962,Никто и никогда не убивал воина Варанеля!,Никто и никогда убивал воина не Варанеля!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+48543,И никогда не находил тел жертв преступления.,И никогда находил тел не жертв преступления.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+44573,Хотя он никогда не прекращал попытки полностью.,Хотя он никогда прекращал попытки не полностью.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+6634,Алекс никогда еще не видел ее такой.,Алекс никогда еще видел ее не такой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+2170,Мериен никогда не говорила матери о Юджине.,Мериен никогда говорила матери не о Юджине.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+12141,никогда не заменит собой бизнес.,никогда заменит собой не бизнес.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+76869,"Ну, никто не принимал друзей всерьез!","Ну, никто принимал друзей не всерьез!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+45376,Никто не ставил ей цветов.,Никто ставил ей не цветов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+79092,Никогда не могут говорить все прямо.,Никогда могут говорить все не прямо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+17422,Никто не понимал логики Жезу.,Никто понимал логики не Жезу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+32761,Никто не попался Гранкину по пути.,Никто попался Гранкину не по пути.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+46300,Надин никогда не приглашал гостей домой.,Надин никогда приглашал гостей не домой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+68846,Вы никогда не увидите использование карт тайцами.,Вы никогда увидите использование не карт тайцами.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+26918,Закон никогда не отдал бы девочку ему.,Закон никогда отдал бы девочку не ему.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+46476,Дитц никогда не открывал секретер при подчиненных.,Дитц никогда открывал секретер не при подчиненных.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+1650,Морн никогда не слышала настоящего имени Салаги.,Морн никогда слышала настоящего имени не Салаги.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+79498,Никому не позволял сменить себя подле него.,Никому позволял сменить себя не подле него.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+51746,И никто не увидит этот нарушений этикет...,И никто увидит этот нарушений не этикет...,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+22737,Этот асмодей Не видел никогда друзей моих.,Этот асмодей видел никогда друзей Не моих.,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+888,Шанди никогда не обсуждал дела дома.,Шанди никогда обсуждал дела не дома.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+72907,Эйвилин никогда не видела его таким.,Эйвилин никогда видела его не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+4275,Конгетлары никогда не убивали женщин мечом.,Конгетлары никогда убивали женщин не мечом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+16382,Сам я никогда не использую волосы вейл.,Сам я никогда использую волосы не вейл.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+20944,Коннор никогда не играл ее прежде.,Коннор никогда играл ее не прежде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+79175,Ничего не даст даже прилет Олега.,Ничего даст даже прилет не Олега.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+57118,Не умилостивили тебя здесь мы ничем.,умилостивили тебя Не здесь мы ничем.,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+51607,Уже никогда не будет картин Халсиона?,Уже никогда будет картин не Халсиона?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+38876,Барру никогда не оставляло беспокойство за Эйлис.,Барру никогда оставляло беспокойство не за Эйлис.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+13671,Не идет никто спасать семью Николая!,идет никто спасать семью Не николая!,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+61564,И никто бы не называл ее Косулей!,И никто бы называл ее не Косулей!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+65672,Никогда не считал себя Генри трусом.,Никогда считал себя не Генри трусом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+53696,"Никогда не греб, что ты?","Никогда греб, что не ты?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+31200,Тотктонада никогда не препятствовал планам врагов Британии.,Тотктонада никогда препятствовал планам не врагов Британии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+45686,Жюль никогда не видел шефа таким.,Жюль никогда видел шефа не таким.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+40648,Не решить тебе ее никогда!,решить тебе Не ее никогда!,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+75876,Нарев никогда прежде не наносил визитов Королеве молодых.,Нарев никогда прежде наносил визитов не Королеве молодых.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+7252,Но Мо никогда не читал ей книги вслух.,Но Мо никогда читал ей не книги вслух.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+48333,Никто не представлял себе мать Тенгеля Доброго такой!,Никто представлял себе не мать Тенгеля Доброго такой!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+18790,Сам я никогда не добавляю соль в пишу.,Сам я никогда добавляю соль не в пишу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+68207,Никто не мог купить положение в Норвич Нотче.,Никто мог купить положение не в Норвич Нотче.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+44727,Сам он никогда не звонил Лиху с базы.,Сам он никогда звонил Лиху не с базы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+36567,Никогда еще не знали эти стены такого Слова.,Никогда еще знали эти стены не такого Слова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+54501,Мэг никогда не забыть первого взгляда на острова.,Мэг никогда забыть первого взгляда не на острова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+38654,Никто не осмелится в округе мести пол ночью.,Никто осмелится в округе мести пол не ночью.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+62972,Но никогда не рушь дружбу в пылу ярости.,Но никогда рушь дружбу не в пылу ярости.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+58210,Но никогда не спросит его об этом прямо.,Но никогда спросит его не об этом прямо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+34292,В те дни никто не бросил вызова мудрости решения прайма.,В те дни никто бросил вызова не мудрости решения прайма.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+36502,Никогда прежде Дайна Мэй не занималась вопросами поддержки потребителей.,Никогда прежде Дайна Мэй занималась вопросами не поддержки потребителей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39991,Никогда не прожить тебе таких минут на этой поляне.,Никогда прожить тебе не таких минут на этой поляне.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+869,Никогда еще не видел Нон сестру в таком горе.,Никогда еще видел Нон сестру не в таком горе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+51260,Никогда Зарид еще не видела брата в таком состоянии.,Никогда Зарид еще видела брата не в таком состоянии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+16559,Ноэль никогда раньше не видел Пич в таком состоянии.,Ноэль никогда раньше видел Пич не в таком состоянии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+9778,"Главное, никогда Фая не считала семью Зои ворами.","Главное, никогда Фая считала семью не Зои ворами.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+21716,Так что я никого не призываю следовать примеру Здарга.,Так что я никого призываю следовать примеру не Здарга.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+18502,Лучше бы Де Райз никогда не дарил ей этого платья.,Лучше бы Де Райз никогда дарил ей не этого платья.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+12421,В нынешних обстоятельствах Брой никогда не примет помощи людей.,В нынешних обстоятельствах Брой никогда примет помощи не людей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+49771,Ты никогда больше не могла довериться мужчине после Дейва.,Ты никогда больше могла довериться мужчине не после Дейва.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27116,"Никто лучше Джо не знал, что такое давление семьи.","Никто лучше Джо знал, что не такое давление семьи.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+49527,Джон никогда не видел еще мастера над оружием столь счастливым.,Джон никогда видел еще мастера не над оружием столь счастливым.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+42187,Никто не ожидал появления губернатора Салли прямо на границе Купола.,Никто ожидал появления не губернатора Салли прямо на границе Купола.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+44507,Никто из верных нукеров не успел заслонить собой Гурцата.,Никто из верных нукеров успел заслонить собой не Гурцата.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+78198,Здесь никто не делает себе труда увидеть полезные качества явления.,Здесь никто делает себе не труда увидеть полезные качества явления.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+79967,"У вас никогда не было опыта пралайи, конца творения.","У вас никогда было опыта не пралайи, конца творения.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+63890,Они никогда не помажут как Наследника столь явное орудие лордов.,Они никогда помажут как Наследника столь явное орудие не лордов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+76978,Тот же никогда прямо не говорил с ним о жене.,Тот же никогда прямо говорил с ним не о жене.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+49710,Канда никогда еще не видела мать в таком состоянии.,Канда никогда еще видела мать не в таком состоянии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+9998,Никто не заподозрит присутствие кумадина в крови после смерти.,Никто заподозрит присутствие не кумадина в крови после смерти.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+55738,Я никогда не мог добиться от Лени причин его поступка.,Я никогда мог добиться от Лени причин не его поступка.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+14938,Мой лев еще никогда не пробовал мяса людей этого племени.,Мой лев еще никогда пробовал мяса не людей этого племени.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+60547,Но ведь никто и не знал истинных целей Тамблейн.,Но ведь никто и знал истинных целей не Тамблейн.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+32537,Не постыдился бы сокол мой меня никогда пред светской барышней!,постыдился бы сокол Не мой меня никогда пред светской барышней!,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+29339,Но никто не ждал письма от сына сэра Джорджа Шенстона.,Но никто ждал письма не от сына сэра Джорджа Шенстона.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+49975,Но ведь Артур никогда не снимал их с руки.,Но ведь Артур никогда снимал их не с руки.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+72196,Но король Рене не простит этого Хэнку и Яле никогда.,Но король Рене простит этого не Хэнку и Яле никогда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+63299,Издали никто не узнает в нем щеголя игрока Шанса Наварро.,Издали никто узнает в нем щеголя не игрока Шанса Наварро.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+52363,"Я лично никогда не верила снам, месье Жан.","Я лично никогда верила снам, месье не Жан.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+57340,"Я никогда не стану человеком короля Фергана, мастер Гленко.","Я никогда стану человеком не короля Фергана, мастер Гленко.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+49395,"Впрочем, Туроутир Агенарга никогда не считал себя обиженным.","Впрочем, Туроутир Агенарга никогда считал себя не обиженным.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+27892,Никто не знал точно даже происхождения их названия — казаки.,Никто знал точно даже происхождения не их названия — казаки.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+56889,И продавщица Катя никогда не увидит его в облике бера.,И продавщица Катя никогда увидит его не в облике бера.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+11054,Больше никто не сможет оспорить ваше право быть великим Свамбе.,Больше никто сможет оспорить ваше право не быть великим Свамбе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+34131,"Теперь ее никто не прочтет, особенно на копии.","Теперь ее никто прочтет, особенно не на копии.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+15333,Павек никогда не слышал столько яда в голосе Акашии.,Павек никогда слышал столько яда не в голосе Акашии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+51112,"Наверное, ему никогда не забыть выражения лица Эксии.","Наверное, ему никогда забыть выражения не лица Эксии.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13672,Ничего не говорят нам историки о причинах страннойволокиты ЧК.,Ничего говорят нам не историки о причинах страннойволокиты ЧК.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+36085,Он же ничего не сделал мне Что я смогу доказать?,Он же ничего сделал мне не Что я смогу доказать?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+73203,Личэм Роше ничего не говорил мне о вашем приезде.,Личэм Роше ничего говорил мне не о вашем приезде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+57500,Ей еще никогда не приходилось видеть пришествие Кирб ’ ла.,Ей еще никогда приходилось видеть пришествие не Кирб ’ ла.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+62616,Никто уже не обращал внимания на старого солдата из Кедер-бега.,Никто уже обращал внимания не на старого солдата из Кедер-бега.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+7667,"Хотя не сделал вам, король, я ровно ничего.","Хотя сделал вам, король, я не ровно ничего.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+1020,Я не фотографирую давно ничего – ты в курсе?,Я фотографирую давно ничего – ты не в курсе?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+21382,Никогда не убежать ее пони от такой громадной скотины.,Никогда убежать ее пони не от такой громадной скотины.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+50406,"Нет, вовсе ничем не походила она на Гилля.","Нет, вовсе ничем походила она не на Гилля.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33543,Но никогда еще Мир не нуждался так в мече духа!,Но никогда еще Мир нуждался так не в мече духа!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+2132,Мы с Диего никогда больше не вспоминали дона Сура.,Мы с Диего никогда больше вспоминали дона не Сура.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+32158,Он действительно никогда не видел вблизи женщину ее круга.,Он действительно никогда видел вблизи женщину не ее круга.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+59758,Но не сообщил ничего нового солдатам этого специального подразделения.,Но сообщил ничего нового солдатам не этого специального подразделения.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+11682,"Парни, лично я не никогда не забуду глаз Антоника.","Парни, лично я не никогда забуду глаз не Антоника.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+75514,"Лек никогда не понимал, почему доводку мечей доверяют профанам.","Лек никогда понимал, почему доводку не мечей доверяют профанам.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+61599,Такая мысль никому не придет и голову в Корби.,Такая мысль никому придет и голову не в Корби.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+18761,Никогда еще она не видела Кайрена без его речистого обаяния.,Никогда еще она видела Кайрена не без его речистого обаяния.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+47829,Никогда еще прежде Эльфаба не обращалась к Галинде на людях.,Никогда еще прежде Эльфаба обращалась к Галинде не на людях.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+36594,Неужели никогда в жизни не увидеть ей больше любимого?,Неужели никогда в жизни увидеть ей не больше любимого?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+18785,"Я понимаю, святой отец, что никогда не имела никаких прав на Тиарнана.","Я понимаю, святой отец, что никогда имела никаких прав не на Тиарнана.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+78004,"Даже Морл не знает, потому что слеп и никогда не видел лица мира.","Даже Морл не знает, потому что слеп и никогда видел лица не мира.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+35134,"Никто и не хватится, где это наш заслуженный майор Республики Саха.","Никто и хватится, где это наш заслуженный майор не Республики Саха.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+32672,Только он и его брат – больше никто не сопровождал Джинкима на охоте.,Только он и его брат – больше никто сопровождал Джинкима не на охоте.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+1317,Тогда никто не обращал внимания – с кого и что на тебе.,Тогда никто обращал внимания – с кого и что не на тебе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+4283,И именно поэтому Шет оке Лагин никогда не сунулся бы сюда без армии.,И именно поэтому Шет оке Лагин никогда сунулся бы сюда не без армии.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39627,"Ситка Чарли опекал младших, никому не давал нас в обиду.","Ситка Чарли опекал младших, никому давал нас не в обиду.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33557,"Но люди гонят эти предчувствия, ибо никто не сказал им о всеначальной энергии.","Но люди гонят эти предчувствия, ибо никто сказал им не о всеначальной энергии.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+74598,Но никогда еще Валентин не сталкивался с пряпом лицом к лицу.,Но никогда еще Валентин сталкивался с пряпом лицом не к лицу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+16412,"Никто не сечет время на такую мелкую лапшу, как она привыкла.","Никто сечет время не на такую мелкую лапшу, как она привыкла.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+11015,"Брат Караал ничего не сказал Стерегущему Скверну о ""диадеме"".","Брат Караал ничего сказал Стерегущему Скверну не о ""диадеме"".",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+20419,"И ваше имя, Стоуэн — никогда не слышал его раньше.","И ваше имя, Стоуэн — никогда слышал его не раньше.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+54742,Ни один из Торнов еще у никогда не поднимал руку на членов нашей семьи.,Ни один из Торнов еще у никогда поднимал руку не на членов нашей семьи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+27761,"Никогда не берусь за работу в душевном смятенииз чтобы очиститься сердцем, непременно пощусь.","Никогда берусь за работу не в душевном смятенииз чтобы очиститься сердцем, непременно пощусь.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+3350,"Вы дали Слово никогда не применять военной силы против дестинийцев, так?","Вы дали Слово никогда применять военной силы не против дестинийцев, так?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+38388,Майорша из Экебю никогда больше не заслонит собой ее прекрасного лика.,Майорша из Экебю никогда больше заслонит собой не ее прекрасного лика.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+71757,"Правда, измерения ничего не сообщили ему о правильности предписанного Вайнпггейном курса.","Правда, измерения ничего сообщили ему не о правильности предписанного Вайнпггейном курса.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+3788,"Санти спрыгнул наземь, и никто не вышел принять его парда.","Санти спрыгнул наземь, и никто вышел принять его не парда.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+3776,"Алчущие не предавали его, поскольку никогда не принимали в расчет интересы Гурама.","Алчущие не предавали его, поскольку никогда принимали в расчет интересы не Гурама.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+73767,"Ничто, кроме бдительности стражей, не мешало Гилаку развязать ее самостоятельно.","Ничто, кроме бдительности стражей, мешало Гилаку развязать ее не самостоятельно.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+33154,"Никто не мог говорить без одышки за работой, только Алексей.","Никто мог говорить без одышки не за работой, только Алексей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+42938,"Думаю, что из упорства никогда не скажу Вам того слова.","Думаю, что из упорства никогда скажу Вам не того слова.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+34641,Дилор никогда раньше не видел корабля чораи с такой сложной структурой.,Дилор никогда раньше видел корабля не чораи с такой сложной структурой.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13563,Я ничего не отдал бы за месть — а за возможность удержать Вакамацу?,Я ничего отдал бы не за месть — а за возможность удержать Вакамацу?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+57778,Но новый Премьер никогда и не думала жить где-нибудь в другом месте.,Но новый Премьер никогда и думала жить где-нибудь не в другом месте.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+22091,"Никто не испытывал такого счастья на корабле от ран Ле Вотура, как Девон.","Никто испытывал такого счастья не на корабле от ран Ле Вотура, как Девон.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+33358,Милэун - всего лишь ребенок - никогда не бывала на мостике у капитана Пикара.,Милэун - всего лишь ребенок - никогда бывала на мостике не у капитана Пикара.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+50835,"Зарант ’ а ведь просто перемещала жуков, никогда не причиняя им вреда!","Зарант ’ а ведь просто перемещала жуков, никогда причиняя им не вреда!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+48165,Почему тебе никогда не придет в голову вызвать меня по видео?,Почему тебе никогда придет в голову вызвать меня не по видео?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+56762,"Совет господ никогда не имел такой власти при Смеяне Тушиче, какую получил теперь.","Совет господ никогда имел такой власти не при Смеяне Тушиче, какую получил теперь.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+2068,Здесь ведь никому не являлся на помощь заморский ярл с сотенной дружиной.,Здесь ведь никому являлся на помощь заморский ярл не с сотенной дружиной.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+24591,"Нет, такой не только никогда не нацепит на себя отличительный знак Агнца.","Нет, такой не только никогда нацепит на себя отличительный знак не Агнца.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+70076,"Иденуэрт ничего не говорил ей о том, что заходил к Джейку.","Иденуэрт ничего говорил ей не о том, что заходил к Джейку.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13330,Ни словечка никогда не услышал я от Девизе по поводу этого рондо.,Ни словечка никогда услышал я не от Девизе по поводу этого рондо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+28626,"Знаешь, Табасх, постарайся, никогда не становиться врагом женщины.","Знаешь, Табасх, постарайся, никогда становиться врагом не женщины.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+18210,"Ей бы надо радоваться, что никто не замышлял причинить вред Джениве.","Ей бы надо радоваться, что никто замышлял причинить вред не Джениве.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+13085,Но удивительное дело: никто больше не спрашивает ее о банде или Венгровере.,Но удивительное дело: никто больше спрашивает ее не о банде или Венгровере.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+32236,"И вы никогда не выведали бы, как направить послания через схемы замещения.","И вы никогда выведали бы, как направить послания не через схемы замещения.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+61002,До вашего появления мы никогда не имели дел с магтами на Дисе.,До вашего появления мы никогда имели дел не с магтами на Дисе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+55048,"Пока этот наводчик орудовал, им никогда не увести людей из-под удара великанских чар.","Пока этот наводчик орудовал, им никогда увести людей не из-под удара великанских чар.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+33374,"Крес ничем не выразил сожаления о погибших, лишь коротко кивнул.","Крес ничем выразил сожаления не о погибших, лишь коротко кивнул.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+22381,"Док Кенвик никогда не станет делать работы больше, чем необходимо.","Док Кенвик никогда станет делать работы не больше, чем необходимо.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+45463,"Потому, вероятно, не знала Никогда я измены в любви.","Потому, вероятно, знала Никогда я не измены в любви.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+1335,Лишь бы ничего кардинального не произошло у Чиридая за этот день!,Лишь бы ничего кардинального произошло у Чиридая не за этот день!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+45125,Она никогда не видела столько до такой степени забавного войска сразу.,Она никогда видела столько до такой степени забавного войска не сразу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+48181,"Но все вы занете, что я никогда еще не держал пики в руках.","Но все вы занете, что я никогда еще держал пики не в руках.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+28990,Семен ничего не понимал – он же первый красавец на курсе!,Семен ничего понимал – он же первый красавец не на курсе!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+19652,Энн станет нашей карлицей – никто не сможет принять ее по ошибке за Дери.,Энн станет нашей карлицей – никто сможет принять ее не по ошибке за Дери.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+78987,"Никто из них даже не знал, кто такой Райво Камбернаус.","Никто из них даже знал, кто не такой Райво Камбернаус.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+70847,Ведь он тоже в Нарне и никогда не простит вам ваших преступлений.,Ведь он тоже в Нарне и никогда простит вам не ваших преступлений.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+66294,"Но он никогда не проявлял их раньше, по крайней мерее ней.","Но он никогда проявлял их не раньше, по крайней мерее ней.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+79402,Он никогда не зальет жербу кипятком - такое матэ можно только вылить.,Он никогда зальет жербу не кипятком - такое матэ можно только вылить.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+8282,"Ведь усиление Брикрена, уже связанного обетами мира, ничем не грозило роду Миада!","Ведь усиление Брикрена, уже связанного обетами мира, ничем грозило роду не Миада!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+62005,"Если Деникази и был благодарен, он ничего не сказал им прямо.","Если Деникази и был благодарен, он ничего сказал им не прямо.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+42714,"Свасуд никогда не лаял, потому что его отцом был волк.","Свасуд никогда лаял, потому что его отцом не был волк.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+14391,Никто не сгонит меня с моей собственной земли: Триндаде пока еще мой город.,Никто сгонит меня не с моей собственной земли: Триндаде пока еще мой город.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+39442,"Сивый лишь мрачно подумал, что никогда не заживут укусы мечей и копья.","Сивый лишь мрачно подумал, что никогда заживут укусы не мечей и копья.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+48978,"Хет Хетсон никогда не обращал особого внимания на бредни Терека о том, что Салтайя — Избранная.","Хет Хетсон никогда обращал особого внимания не на бредни Терека о том, что Салтайя — Избранная.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+45049,"КАБ 1 (п), КАБ 1 — но ожидает он день — ничего не приносят к нему на дом.","КАБ 1 (п), КАБ 1 — но ожидает он день — ничего приносят к нему не на дом.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+47518,"Ведь уже никто не играл линиями реальности, некому было отводить беду и уламывать удачу.","Ведь уже никто играл линиями не реальности, некому было отводить беду и уламывать удачу.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+44024,Ведь правительство никогда не отказалось бы без причины от идеи распространения вирусной культуры на Черткое.,Ведь правительство никогда отказалось бы не без причины от идеи распространения вирусной культуры на Черткое.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+61849,"Никто не смеет противостоять воле маниту, чтобы не прогневать духов, и Ренно склонил голову.","Никто смеет противостоять воле не маниту, чтобы не прогневать духов, и Ренно склонил голову.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+50235,"Правда, не сказав ничего товарищам о Жиро и Альфанизе, Жак Хелло и Вальдес решили быть все время настороже.","Правда, сказав ничего товарищам не о Жиро и Альфанизе, Жак Хелло и Вальдес решили быть все время настороже.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+47391,"Несмотря на то, что их тоже могли заметить с тех коарблей, никто не преследовал триеру посланцев скифского царя.","Несмотря на то, что их тоже могли заметить с тех коарблей, никто преследовал триеру не посланцев скифского царя.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+54159,"или встать и спросить, люди никто случайно не знает функции поиска файлов в консоли линукса?","или встать и спросить, люди никто случайно знает функции не поиска файлов в консоли линукса?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+48984,"Хет не раз повторял, что пока никто не добрался от Нардалборга до Границы за двадцать дней.","Хет не раз повторял, что пока никто добрался от Нардалборга до Границы не за двадцать дней.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+70126,"Они еще никогда не видали этого дома в ночной час, Ведь любопытяо испытать страх.","Они еще никогда видали этого дома не в ночной час, Ведь любопытяо испытать страх.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+46236,"Я, сын Белого Пера, почитаемого вождя южный чейенов, никогда не давал повода для сомнений.","Я, сын Белого Пера, почитаемого вождя южный чейенов, никогда давал повода не для сомнений.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+71623,"Лапач умирал только от старости, и этих тварей никогда не видели больше одной за раз.","Лапач умирал только от старости, и этих тварей никогда видели больше одной не за раз.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+14001,"Он никогда еще не видел отца таким жалким — Более мой, что осталось от него!","Он никогда еще видел отца не таким жалким — Более мой, что осталось от него!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+53260,"Травобоя было жалко, и никому не хотелось потом тащиться в деревню за новым бродилом, мертвяки были битые, осторожные – должно было обойтись и так.","Травобоя было жалко, и никому хотелось потом тащиться в деревню не за новым бродилом, мертвяки были битые, осторожные – должно было обойтись и так.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+29564,"Дермот больше никогда не осмелится поднять людей Макнили против Англии, и народ Калли будет цел и невредим.","Дермот больше никогда осмелится поднять людей не Макнили против Англии, и народ Калли будет цел и невредим.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,8
+8542,"Что может он сам сделать там, где ничего не сделал признанный любимец удачи Хродмар?","Что может он сам сделать там, где ничего сделал признанный любимец не удачи Хродмар?",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+48936,"Вероятно, мы никогда не сможет раз га дать до конца смысл того, что в этом письме недосказано.","Вероятно, мы никогда сможет раз не га дать до конца смысл того, что в этом письме недосказано.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+45307,"Никого из полицейских не показывалось и еще с минуту, а около тюльбюри набралась уже целая куча увриеров.","Никого из полицейских показывалось и еще не с минуту, а около тюльбюри набралась уже целая куча увриеров.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+34541,"Раз халкане никогда не разрешат вывозить дилитий с их мира, было бы более благоприятно протестировать технологии именно здесь.","Раз халкане никогда разрешат вывозить дилитий не с их мира, было бы более благоприятно протестировать технологии именно здесь.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+10722,"Но тому аналисту все на свете удивительно, ибо никогда не вливаются мир и человек в его заранее подставленные желобочки.","Но тому аналисту все на свете удивительно, ибо никогда вливаются мир и человек не в его заранее подставленные желобочки.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+8016,Это было чистейшим издевательством – никто не дал бы кюне Хердис ее сорока семи лет.,Это было чистейшим издевательством – никто дал бы кюне не Хердис ее сорока семи лет.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+45180,"Но слушать никто не хотел речи отменно разумной, ибо в углу черт, самой общей породы, фокусы делал с колечком.","Но слушать никто хотел речи не отменно разумной, ибо в углу черт, самой общей породы, фокусы делал с колечком.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,10
+64059,"Здесь никто не слыхал игры артиста, которого бы учили с детства, в ком находили дар.","Здесь никто слыхал игры не артиста, которого бы учили с детства, в ком находили дар.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+22270,"Что до меня, Наи, я сделаю все, чтобы Лопака никогда не получил плащ вождя!","Что до меня, Наи, я сделаю все, чтобы Лопака никогда получил плащ не вождя!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+76042,"Ка женщин реки никогда не попадали в Идем — ни одно Ка из тех, что забрало к себе черное течение.","Ка женщин реки никогда попадали в Идем — ни одно Ка не из тех, что забрало к себе черное течение.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,9
+67396,"Никто, кроме меня, лучше не понимает, что такое Проект – после Гэри, разумеется.","Никто, кроме меня, лучше понимает, что не такое Проект – после Гэри, разумеется.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+10118,"Однако Каду никогда не помогала бы злу с такой охотой, а в комнате царил знакомый свет и запах солнца.","Однако Каду никогда помогала бы злу не с такой охотой, а в комнате царил знакомый свет и запах солнца.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+1815,"Богодасыср никогда не терял сумку с деньгами, Алла выдумала ситуацию от начала и до конца.","Богодасыср никогда терял сумку не с деньгами, Алла выдумала ситуацию от начала и до конца.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+51998,"Кадсуане готова была признать, что никто не мог бы противиться влиянию та ’ верена.","Кадсуане готова была признать, что никто мог бы противиться влиянию не та ’ верена.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+56670,"Монти прекрасно знает, что ничего кроме мэ-гоцо сейти не носит, другое дело его сестра.","Монти прекрасно знает, что ничего кроме мэ-гоцо сейти носит, другое дело не его сестра.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+25073,Кирон никогда не называл Александра по имени.,Кирон никогда называл Александра не по имени.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+46488,Куше никогда не читал сыну моралей.,Куше никогда читал сыну не моралей.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+14706,Никто не требует у нее соблюдения контракта.,Никто требует у нее соблюдения не контракта.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+6096,Сема Холод никогда не окружал себя охраной.,Сема Холод никогда окружал себя не охраной.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+44503,Степняк-мергейт никогда не поднимет меч на сородича.,Степняк-мергейт никогда поднимет меч не на сородича.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+13730,Однако никто не стал оспаривать авторитет форэмэна.,Однако никто стал оспаривать авторитет не форэмэна.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+39464,Сейчас никто уже не перепроверял показания оборудования.,Сейчас никто уже перепроверял показания не оборудования.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+11963,Вы никогда не получите поддержку таким работам.,Вы никогда получите поддержку не таким работам.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+8710,Не прощу матери этого никогда!,прощу матери Не этого никогда!,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+13668,Что никогда не нарушал я слова.,Что никогда нарушал я не слова.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+44439,Ты никогда не занимал уверенности у нас.,Ты никогда занимал уверенности не у нас.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+78592,Но не предам Его я никогда.,Но предам Его не я никогда.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+60676,И ничего не поделаешь – приказ правительства!,И ничего поделаешь – приказ не правительства!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+60617,Никто не думал сейчас о ней.,Никто думал сейчас не о ней.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+28481,Она никогда не касалась их раньше!,Она никогда касалась их не раньше!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+12093,Никто не исполнял приказаний Барраса и Мулэна.,Никто исполнял приказаний не Барраса и Мулэна.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+3245,Никто не знает Миначал до конца.,Никто знает Миначал не до конца.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+65734,Никогда не рискует — ни боже мой!,Никогда рискует — ни боже не мой!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+74531,Вам ничего не говорит имя Умара Ажигова?,Вам ничего говорит имя не Умара Ажигова?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+60208,Хотя никогда не учил язык раньше.,Хотя никогда учил язык не раньше.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+53802,"Не бойся ничего, друг мой Седырь!","бойся ничего, друг Не мой Седырь!",Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+42360,Никто не любил ее больше Фейна.,Никто любил ее не больше Фейна.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+71781,Никогда не коснуться мне их.,Никогда коснуться мне не их.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+45690,Никогда не обращался: мадам Ратледж.,Никогда обращался: мадам не Ратледж.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+22980,"Впрочем, ничто не могло изменить лицо Магоме Сикибу.","Впрочем, ничто могло изменить лицо не Магоме Сикибу.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+27897,Никогда не доверял он подобных дел одним чужим языкам.,Никогда доверял он подобных дел не одним чужим языкам.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63862,"Никто не изменит путь Ворот, пока я жив.","Никто изменит путь не Ворот, пока я жив.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+72336,Но никто не сделал это лучше Сосана — он несравненен.,Но никто сделал это не лучше Сосана — он несравненен.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+53208,Больше ничего не вынес Владимир Сергеевич из теории Бурята.,Больше ничего вынес Владимир Сергеевич не из теории Бурята.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63103,Ведь ты никогда прежде не говорил мне имени того мира.,Ведь ты никогда прежде говорил мне не имени того мира.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+38638,Никто из них не околачивался раньше около дома Фатиззо?,Никто из них околачивался раньше не около дома Фатиззо?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+68856,Только ушел и никогда не говорил бы с нею.,Только ушел и никогда говорил бы не с нею.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+65909,И тебя прошу – не говори ничего отцу Касперу.,И тебя прошу – говори ничего отцу не Касперу.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+37393,Вы сами никогда не обманите себя самого возрастом чуть старше.,Вы сами никогда обманите себя самого возрастом не чуть старше.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+27062,Крайон никогда не давал вам советов относительно политической сферы.,Крайон никогда давал вам не советов относительно политической сферы.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+63487,Отец никогда не пустит армию уэстеров на землю Империи.,Отец никогда пустит армию не уэстеров на землю Империи.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+8082,Им бы никогда не позволили вновь вести разработки на Телосе.,Им бы никогда позволили вновь вести разработки не на Телосе.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+73231,"И Видана, никогда не видевшая друга таким, отступила.","И Видана, никогда видевшая друга не таким, отступила.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+62379,Феба никогда не смотрела на дело с такой стороны.,Феба никогда смотрела на дело не с такой стороны.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7178,Но поклянись отпустить Лортана и никогда не нарушать условий мира.,Но поклянись отпустить Лортана и никогда нарушать условий не мира.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+79401,Настоящий криожье никогда не возьмет паву в левую руку.,Настоящий криожье никогда возьмет паву не в левую руку.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+8720,И я ничего не повторяю тебе дважды — это два.,И я ничего повторяю тебе не дважды — это два.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+56917,Никогда не увидит в окно проблеск реки и старую иву.,Никогда увидит в окно проблеск не реки и старую иву.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+61215,Никто никогда всерьез не рисовал себе возможности продолжать Пруста.,Никто никогда всерьез рисовал себе не возможности продолжать Пруста.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+62545,"Я еще не написал ничего хорошего, — все в будущем.","Я еще написал ничего хорошего, — все не в будущем.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+7179,"И ничего не изменилось бы, даже будь с ними Вальнур.","И ничего изменилось бы, даже будь не с ними Вальнур.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+40082,Неужели никто там ни разу не сказал ему как называется это оружие по-крегенски?,Неужели никто там ни разу сказал ему не как называется это оружие по-крегенски?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+15639,Мы никогда не найдем дорогу в Лаэте и снова станем добычей Калькаров или Ва-гасов.,Мы никогда найдем дорогу не в Лаэте и снова станем добычей Калькаров или Ва-гасов.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,7
+25945,"Вот что, Морган де Лейси, никогда больше не води меня на трагедии.","Вот что, Морган де Лейси, никогда больше води меня не на трагедии.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+73694,"Очень предусмотрительно, очень в духе лешука, ничего не оставлявшего игре случайностей.","Очень предусмотрительно, очень в духе лешука, ничего оставлявшего игре не случайностей.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+22092,"Но она знала, что отец никогда не поверит Ле Вотуру без предоставления доказательств.","Но она знала, что отец никогда поверит Ле Вотуру не без предоставления доказательств.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+69730,"Астрарх никогда не поддавался постоянному давлению ревности, направленному против Брека Веронара.","Астрарх никогда поддавался постоянному давлению не ревности, направленному против Брека Веронара.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+54139,"Я тебе сказал, что ты никогда не лягнул бы бак без Чимижимичамижами.","Я тебе сказал, что ты никогда лягнул бы бак не без Чимижимичамижами.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+45039,Только ожидает проситель день — не приносят ничего к нему на дом.,Только ожидает проситель день — приносят ничего к нему не на дом.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+38150,"Не видя ничего перед собой от слез, смотрел на отца и Наркес.","видя ничего перед собой Не от слез, смотрел на отца и Наркес.",Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,6
+29486,"А вот Рейс, возможно, никогда не простит ей обман.","А вот Рейс, возможно, никогда простит ей не обман.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+3773,"Но не беспокойся: ничто здесь не причинит тебе вреда, Данил Рус!","Но не беспокойся: ничто здесь причинит тебе не вреда, Данил Рус!",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+11345,"Солли заметила, что мужчины Уэрела никогда не смотрели этих драм по телесети.","Солли заметила, что мужчины Уэрела никогда смотрели этих драм не по телесети.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5
+45507,Никто из эмпатов не причинял вред Владыке! – твердо сказал Мар.,Никто из эмпатов причинял вред не Владыке! – твердо сказал Мар.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+78865,"Однако никто не вернет меня к жизни, никто, кроме Прис.","Однако никто вернет меня не к жизни, никто, кроме Прис.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+19414,"Только, боюсь, Овернуа никогда не отвечали вам тем же.","Только, боюсь, Овернуа никогда отвечали вам не тем же.",не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+16775,Механический сенсей Хирокс учил его никогда не чувствовать себя в полной безопасности.,Механический сенсей Хирокс учил его никогда чувствовать себя не в полной безопасности.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,4
+73478,Она никогда не видела мужа таким прежде.,Она никогда видела мужа не таким прежде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+10088,Я так никогда не взламывал кубики легко.,Я так никогда взламывал кубики не легко.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+11812,Никогда не дрался он так прежде.,Никогда дрался он не так прежде.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,1
+9232,Но никто не знал — что это.,Но никто знал — что не это.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+5678,Никогда не слыхала о креслах из скрипуна?,Никогда слыхала о креслах не из скрипуна?,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+62255,Но Фома не раскрывал никому тайны Ужвалдо.,Но Фома раскрывал никому тайны не Ужвалдо.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+8560,Еще никто безнаказанно не грабил принцев Шкарры.,Еще никто безнаказанно грабил принцев не Шкарры.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+13933,Никто не шлепал меня во блаженстве!,Никто шлепал меня не во блаженстве!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+38568,Не бывает ничего больше после такого счастья.,бывает ничего больше Не после такого счастья.,Не,Не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+62857,Ему никогда не являлись лица его жертв.,Ему никогда являлись лица не его жертв.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+59649,Лавер никогда не называл ее по имени!,Лавер никогда называл ее не по имени!,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,2
+1474,Ничего нового не уловил и глаз Кирстен.,Ничего нового уловил и глаз не Кирстен.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,3
+37361,Во всем этом ничего не меняли даже остатки технологии в Касабаарде и Кель Харантише.,Во всем этом ничего меняли даже остатки не технологии в Касабаарде и Кель Харантише.,не,не,Syntax,Negation,negative_concord,negative_concord,librusec,5

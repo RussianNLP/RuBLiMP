@@ -1,0 +1,168 @@
+{
+   "быть": [
+      {
+         "pos": "V",
+         "gr": "intr,ipf",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 4092678
+      },
+      {
+         "pos": "V",
+         "gr": "intr",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 674954
+      },
+      {
+         "pos": "V",
+         "gr": "intr,pf",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 2212
+      },
+      {
+         "pos": "PART",
+         "gr": "",
+         "sem": "",
+         "count": 814
+      },
+      {
+         "pos": "V",
+         "gr": "ipf,tran",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 1855
+      },
+      {
+         "pos": "V",
+         "gr": "",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 59971
+      },
+      {
+         "pos": "V",
+         "gr": "pf,tran",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 368
+      },
+      {
+         "pos": "APRO",
+         "gr": "",
+         "sem": "",
+         "count": 21
+      },
+      {
+         "pos": "V",
+         "gr": "intr,ipf,tran",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 30
+      },
+      {
+         "pos": "ADVPRO",
+         "gr": "",
+         "sem": "",
+         "count": 28
+      },
+      {
+         "pos": "PR",
+         "gr": "",
+         "sem": "",
+         "count": 40
+      },
+      {
+         "pos": "CONJ",
+         "gr": "",
+         "sem": "",
+         "count": 591
+      },
+      {
+         "pos": "SPRO",
+         "gr": "",
+         "sem": "",
+         "count": 11
+      },
+      {
+         "pos": "V",
+         "gr": "intr,pf,tran",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 26
+      },
+      {
+         "pos": "V",
+         "gr": "ipf",
+         "sem": "ca:noncaus d:root t:be:exist",
+         "count": 141
+      }
+   ],
+   "государство": [
+      {
+         "pos": "S",
+         "gr": "inan,n",
+         "sem": "r:concr t:space",
+         "count": 88348
+      },
+      {
+         "pos": "S",
+         "gr": "",
+         "sem": "r:concr t:space",
+         "count": 24
+      }
+   ],
+   "итог": [
+      {
+         "pos": "S",
+         "gr": "inan,m",
+         "sem": "pt:phase r:abstr",
+         "count": 24084
+      }
+   ],
+   "родина": [
+      {
+         "pos": "S",
+         "gr": "f,inan",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 36083
+      },
+      {
+         "pos": "S",
+         "gr": "f,inan,topon",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 185
+      },
+      {
+         "pos": "S",
+         "gr": "anim,f",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 31
+      },
+      {
+         "pos": "S",
+         "gr": "anim,f,famn",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 50
+      },
+      {
+         "pos": "S",
+         "gr": "anim,m",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 8
+      },
+      {
+         "pos": "S",
+         "gr": "anim,famn,m",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 13
+      },
+      {
+         "pos": "S",
+         "gr": "",
+         "sem": "der:a r:concr t:space|t:fam",
+         "count": 26
+      }
+   ],
+   "демократия": [
+      {
+         "pos": "S",
+         "gr": "f,inan",
+         "sem": "r:abstr",
+         "count": 12409
+      }
+   ]
+}

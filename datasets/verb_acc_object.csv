@@ -1,0 +1,1001 @@
+id,source_sentence,target_sentence,source_word,target_word,level,phenomenon,PID,subtype,domain,tree_depth
+127370,Ее нервировал сидящий напротив субъект.,Ей нервировал сидящий напротив субъект.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+103961,"И кур запирали впотьмах, ощупкой.","И курам запирали впотьмах, ощупкой.",кур,курам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+72859,И это ему прямо говорили.,И этого ему прямо говорили.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+79712,"Симилор понял, что его обнаружили.","Симилор понял, что ему обнаружили.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+147492,А тебя бы Фавушкой звала.,А тебе бы Фавушкой звала.,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+112531,Но вы же знаете женщин!,Но вы же знаете женщинам!,женщин,женщинам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+109302,Часто искал ее у Шелепина.,Часто искал ей у Шелепина.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+124232,Болтенко поджег его первым же снарядом.,Болтенко поджег ему первым же снарядом.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+29937,Вы меня работой не перетрудите?,Вы мне работой не перетрудите?,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+418,Это просто имеющая форму смесь вероятностей.,Это просто имеющая форме смесь вероятностей.,форму,форме,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+48315,Мир больше не пугал ее.,Мир больше не пугал ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+113357,Хартер взял у нее бокал.,Хартер взял у нее бокала.,бокал,бокала,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+120858,И снова его выручила Юна.,И снова ему выручила Юна.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+96717,Пусть понимает ответ как хочет.,Пусть понимает ответа как хочет.,ответ,ответа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+7006,Но тот крепко побил ученика.,Но тот крепко побил ученику.,ученика,ученику,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+17276,"Значит, его сравнение ее обидело?","Значит, его сравнение ей обидело?",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+141709,Пишет на их кафедре диплом.,Пишет на их кафедре диплома.,диплом,диплома,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+4825,Сын Хэнока одарил ее холодной усмешкой.,Сын Хэнока одарил ей холодной усмешкой.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+98646,На этот раз ее звал Джеймс.,На этот раз ей звал Джеймс.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+38440,Но кто принес их тебе?,Но кто принес им тебе?,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+15251,"Конечно, решили дело твои деньги.","Конечно, решили делу твои деньги.",дело,делу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+58195,Ведь она сама недавно проверила его!,Ведь она сама недавно проверила ему!,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+3411,"Или Катька соврала, зло подшутила?..","Или Катька соврала, злу подшутила?..",зло,злу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+45197,Слышала бы это Дороти Хилмэн.,Слышала бы этого Дороти Хилмэн.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+50726,Мунн бросил меч и захохотал.,Мунн бросил меча и захохотал.,меч,меча,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+30607,Джада повернула к ней голову.,Джада повернула к ней голове.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+113308,Неужели наемники Хедена застрелили братьев?,Неужели наемники Хедена застрелили братьям?,братьев,братьям,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+96253,Дарси притянула сына к себе.,Дарси притянула сыну к себе.,сына,сыну,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+8048,Отец меня немного учил драться...,Отец мне немного учил драться...,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+88497,С ближайшего телефона дадите им направление.,С ближайшего телефона дадите им направлению.,направление,направлению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+57575,Она сняла малыша с колен Пэт.,Она сняла малышу с колен Пэт.,малыша,малышу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+45492,Эш вперил взгляд в Жота.,Эш вперил взгляда в Жота.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+83365,У ворот Зувейлы их встретил Шавар.,У ворот Зувейлы им встретил Шавар.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+130622,Сыпучка медленно сдвигала меня вниз.,Сыпучка медленно сдвигала мне вниз.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+114356,Потом Бинк мягко отстранил ее.,Потом Бинк мягко отстранил ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+3245,"Саймон простонал, явно узнав их.","Саймон простонал, явно узнав им.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+103072,Ионел протянул руку мошу Дионису.,Ионел протянул руке мошу Дионису.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+42824,Там уже перехватывал его Раф.,Там уже перехватывал ему Раф.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+113186,Карл Назарян вот-вот скинет тебе информацию.,Карл Назарян вот-вот скинет тебе информацией.,информацию,информацией,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+35063,Ник пробил ему фанеру вторично.,Ник пробил ему фанере вторично.,фанеру,фанере,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+37232,Он нехотя потащил из ножен Меч.,Он нехотя потащил из ножен Меча.,Меч,Меча,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+13326,Но я сам чиню его.,Но я сам чиню ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+3315,"Даже дети появились, подбирали оружие.","Даже дети появились, подбирали оружию.",оружие,оружию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+5295,"Только тем, что подарки дарю?","Только тем, что подарков дарю?",подарки,подарков,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+44724,Слова Элли разрывали Амбер душу!,Слова Элли разрывали Амбер душе!,душу,душе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+92725,Эдива выпила бульон и поднялась.,Эдива выпила бульона и поднялась.,бульон,бульона,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+85896,Мрак молча закрыл старику глаза.,Мрак молча закрыл старику глазам.,глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+90900,Каллиопа тут же закрыла коробочки.,Каллиопа тут же закрыла коробочек.,коробочки,коробочек,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+92474,Киган испытывает к ней страсть?,Киган испытывает к ней страстью?,страсть,страстью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+88534,Неужели Королев и это помнит?,Неужели Королев и этого помнит?,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+86062,Только отец так ее защищал.,Только отец так ей защищал.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+12453,Тео осторожно смотал ее со спирали.,Тео осторожно смотал ей со спирали.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+6079,И снова Дахут произнесла имя.,И снова Дахут произнесла имени.,имя,имени,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+99369,Но вы также видели его.,Но вы также видели ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+56634,Что если он тоже тебя проверял?,Что если он тоже тебе проверял?,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+38915,"Он вообще слушал, разинув рот.","Он вообще слушал, разинув рта.",рот,рта,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+34344,Почему Пуршил не прекращает схватку?,Почему Пуршил не прекращает схватке?,схватку,схватке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+34229,"Наверное, Александр привел ее сюда.","Наверное, Александр привел ей сюда.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+136881,Только одежду там носят наизнанку.,Только одежде там носят наизнанку.,одежду,одежде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+47512,"Хит нахмурился, пробежал глазами письмо.","Хит нахмурился, пробежал глазами письму.",письмо,письму,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+77056,На этом месте Филип потерял интерес.,На этом месте Филип потерял интереса.,интерес,интереса,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+51182,Бетти Хикс преградила Танзи дорогу.,Бетти Хикс преградила Танзи дороге.,дорогу,дороге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+2040,"Но я люблю его, Сара!","Но я люблю ему, Сара!",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+124988,"А может, Байяр это знал.","А может, Байяр этого знал.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+111891,Айен и остальные уже меня ждали.,Айен и остальные уже мне ждали.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+37235,Но Джильберта это уже сделала.,Но Джильберта этого уже сделала.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+117072,Бетрей взял лопату и принялся копать.,Бетрей взял лопате и принялся копать.,лопату,лопате,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+7060,Бэрк услыхал их секунду спустя.,Бэрк услыхал им секунду спустя.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+121890,Однако Линнет быстро ее успокоила.,Однако Линнет быстро ей успокоила.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+115845,Тем тетка меня и держала.,Тем тетка мне и держала.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+17050,Она перевела взгляд на Бонга.,Она перевела взгляда на Бонга.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+94933,Лэньер поднял руки и покачал головой.,Лэньер поднял рук и покачал головой.,руки,рук,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+124080,Лок ударом ноги распахнул дверь.,Лок ударом ноги распахнул дверью.,дверь,дверью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+19934,На чем теперь дрова возит?,На чем теперь дров возит?,дрова,дров,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+132942,"Интересно, понимал ли это Хидетада?","Интересно, понимал ли этого Хидетада?",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+34969,Джо поднял к ней лицо.,Джо поднял к ней лицу.,лицо,лицу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+81319,Но прежде ее занимал Рамон.,Но прежде ей занимал Рамон.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+125113,Поэтому Ди и наняла тебя.,Поэтому Ди и наняла тебе.,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+10955,Да это и любой бы заметил.,Да этого и любой бы заметил.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+30941,Поэтому охранник вас и знает.,Поэтому охранник вам и знает.,вас,вам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+38356,Он даже мысленно показал язык Лике.,Он даже мысленно показал языка Лике.,язык,языка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+88598,Она его тебе не оставила.,Она ему тебе не оставила.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+60375,Инен едва заметно поджал губы.,Инен едва заметно поджал губ.,губы,губ,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+43895,Мы взяли финнов их оружием?,Мы взяли финнам их оружием?,финнов,финнам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+66818,Там его называли Васильковое небо.,Там ему называли Васильковое небо.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+62715,Менеджемент бойца это тоже понимает.,Менеджемент бойца этого тоже понимает.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+47604,В нашем случае музыку создает команда.,В нашем случае музыке создает команда.,музыку,музыке,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+30075,Пока немец меня не впечатляет.,Пока немец мне не впечатляет.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+122016,Нас били по всем статьям.,Нам били по всем статьям.,Нас,Нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+99455,Я тоже дала ему отпор.,Я тоже дала ему отпора.,отпор,отпора,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+924,Кто это сейчас неправильно ответил?,Кто этого сейчас неправильно ответил?,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+4282,Дым заметили дежурная медсестра исанитарка.,Дыма заметили дежурная медсестра исанитарка.,Дым,Дыма,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+136124,Посмотрели ВАР – типа ударил его.,Посмотрели ВАР – типа ударил ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+53019,Да я его сам отдам!,Да я ему сам отдам!,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+7609,Зато нас регулярно посещают Воскресные школы.,Зато нам регулярно посещают Воскресные школы.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+130236,"Заказчиков знаем, исполнителей некоторых тоже.","Заказчикам знаем, исполнителей некоторых тоже.",Заказчиков,Заказчикам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+111738,Полтавченко тоже фольклор уже рождает.,Полтавченко тоже фольклора уже рождает.,фольклор,фольклора,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+145837,Благо средства многим это позволяют.,Благо средства многим этого позволяют.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+22023,Серебро завоевал американец Виктор Вундерле.,Серебра завоевал американец Виктор Вундерле.,Серебро,Серебра,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+80108,Теперь про Леткова сняли фильм.,Теперь про Леткова сняли фильма.,фильм,фильма,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+75128,Поэтому я и назвал соки.,Поэтому я и назвал соков.,соки,соков,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+34119,Это я половину еще не назвал.,Это я половине еще не назвал.,половину,половине,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+127331,Мама А мне ее жаль.,Мама А мне ей жаль.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+90436,Каннонье и Уиттакер начали бой!,Каннонье и Уиттакер начали боя!,бой,боя,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+113678,Начну сбор уже в общей группе.,Начну сбора уже в общей группе.,сбор,сбора,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+82153,Ее также выполнил Альберт Чаркин.,Ей также выполнил Альберт Чаркин.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+11354,Причем их получили шесть человек.,Причем им получили шесть человек.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+83894,"Нужно было дожимать, шанс имели.","Нужно было дожимать, шанса имели.",шанс,шанса,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+41671,Самбу Рой пережил сильный удар током.,Самбы Рой пережил сильный удар током.,Самбу,Самбы,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+995,Его ждет битва с Гэтжи.,Ему ждет битва с Гэтжи.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+65260,Однако наказание Хоржиров все-таки понесет.,Однако наказанию Хоржиров все-таки понесет.,наказание,наказанию,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+146350,Мальчишек больше интересует салон временных тату.,Мальчишкам больше интересует салон временных тату.,Мальчишек,Мальчишкам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+127414,Персонал больницы тоже бил нас.,Персонал больницы тоже бил нам.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+90307,Это же подтвердил ее бывший сотрудник.,Этого же подтвердил ее бывший сотрудник.,Это,Этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+129192,Только игрока это не остановило.,Только игроку это не остановило.,игрока,игроку,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+24343,"Зобнин хороший, мы его заменили.","Зобнин хороший, мы ему заменили.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+8857,Многое решили игры против неаполитанцев.,Многого решили игры против неаполитанцев.,Многое,Многого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+106082,Точно не примет участие Доус.,Точно не примет участию Доус.,участие,участию,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+88942,"Теперь все просто, меня подписали.","Теперь все просто, мне подписали.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+89933,Ведь ее болельщики погонят команду вперед.,Ведь ее болельщики погонят команде вперед.,команду,команде,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+29787,"Получил его генерал, товарищ Попов.","Получил ему генерал, товарищ Попов.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+15440,После его спешно увези военные.,После ему спешно увези военные.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,1
+32742,Волкановски сохраняет за собой пояс.,Волкановски сохраняет за собой поясу.,пояс,поясу,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+60469,Местные жители называют его га-ньоу.,Местные жители называют ему га-ньоу.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+12189,Те же отдают долю офицеру.,Те же отдают доле офицеру.,долю,доле,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+101559,Ждет москвичей и большая программа торговли.,Ждет москвичам и большая программа торговли.,москвичей,москвичам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+129442,Мыраан в знак протеста объявила голодовку.,Мыраан в знак протеста объявила голодовке.,голодовку,голодовке,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+68535,"А замыкают список Дели, Манила.","А замыкают списка Дели, Манила.",список,списка,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+50108,Однако мышь так и не нашли.,Однако мышью так и не нашли.,мышь,мышью,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+48882,Но нас увидели на открытии Игр.,Но нам увидели на открытии Игр.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+103600,Утро Сархат начинает с молитвы.,Утру Сархат начинает с молитвы.,Утро,Утру,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+32534,Это подтвердил адвокат Аскеровой Николай Клен.,Этого подтвердил адвокат Аскеровой Николай Клен.,Это,Этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+43204,Его помнят за круг интересов.,Ему помнят за круг интересов.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+58950,Дирт это делает с легкостью.,Дирт этого делает с легкостью.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+42743,Его считают патриархом рода Асано.,Ему считают патриархом рода Асано.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+78265,На обе просьбы Кравс дал согласие.,На обе просьбы Кравс дал согласию.,согласие,согласию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+52947,Пукина культуры Мольо почитали ягуара.,Пукина культуры Мольо почитали ягуару.,ягуара,ягуару,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+142389,Приговор подписал коммунистический деятель Владимир Раногаец.,Приговора подписал коммунистический деятель Владимир Раногаец.,Приговор,Приговора,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+21903,Ее независимо построили Берарди и Терлоу.,Ей независимо построили Берарди и Терлоу.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+82058,Ее принимает к себе Тит.,Ей принимает к себе Тит.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+27346,Историки называют их всех бейликами Джаник.,Историки называют им всех бейликами Джаник.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+10931,Бедфорд сажает корабль в Англии.,Бедфорд сажает корабля в Англии.,корабль,корабля,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+53886,Отставки запросил и Гай Карлтон.,Отставок запросил и Гай Карлтон.,Отставки,Отставок,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+97716,Йона Лендеринг также называет февраль.,Йона Лендеринг также называет февраля.,февраль,февраля,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+79190,В конце конов купол расписал Ланфранко.,В конце конов куполу расписал Ланфранко.,купол,куполу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+7974,Роблес и Урвина навсегда покинули страну.,Роблес и Урвина навсегда покинули стране.,страну,стране,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+24754,Евмей и Филетий ловят его там.,Евмей и Филетий ловят ему там.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+40037,Земли получил монастырь в Тамворте.,Земель получил монастырь в Тамворте.,Земли,Земель,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+88690,Далее герой получает весть от Мери.,Далее герой получает вестью от Мери.,весть,вестью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+41520,Обычно носит маску задом наперед.,Обычно носит маске задом наперед.,маску,маске,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+23152,Отца Алиев считает первым тренером.,Отцу Алиев считает первым тренером.,Отца,Отцу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+9125,Но его все таки победили.,Но ему все таки победили.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+75791,Но поэтому это сделаем мы.,Но поэтому этого сделаем мы.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,1
+47510,"Получив оное, Гате занялся каперством.","Получив оного, Гате занялся каперством.",оное,оного,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+45051,За банку тушенки часовой пропускает его.,За банку тушенки часовой пропускает ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+138752,В качестве третьего вывода используют корпус.,В качестве третьего вывода используют корпусу.,корпус,корпусу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+74005,Берет начало в Центральной Кордилльере.,Берет началу в Центральной Кордилльере.,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+142739,Работы курировали Никола и Ариго Дженири.,Работ курировали Никола и Ариго Дженири.,Работы,Работ,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+29061,Первоначально Киппинг даже использовал термин.,Первоначально Киппинг даже использовал термина.,термин,термина,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,1
+148712,Эта подпись и дала название сигналу.,Эта подпись и дала названию сигналу.,название,названию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+64702,Берет исток из озера Истошино.,Берет истока из озера Истошино.,исток,истока,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+72370,"Через ЦИК, Гоминьдан контролировал правительство.","Через ЦИК, Гоминьдан контролировал правительству.",правительство,правительству,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+7362,В стародавние времена обоз назавали возником.,В стародавние времена обоза назавали возником.,обоз,обоза,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+134843,Название придумал участник команды Петр Винс.,Названию придумал участник команды Петр Винс.,Название,Названию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+19055,Я ее просто слушала: Бух-бин-дер.,Я ей просто слушала: Бух-бин-дер.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+118214,Если не положит — получает крест.,Если не положит — получает креста.,крест,креста,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+96549,Буртичия берет начало западнее села Берестовое.,Буртичия берет началу западнее села Берестовое.,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+13375,Титул защищает Ухань Фри Таунс.,Титула защищает Ухань Фри Таунс.,Титул,Титула,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+10976,Вики начала орать посылала их прочь.,Вики начала орать посылала им прочь.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+26953,Дети рано потеряли и мать.,Дети рано потеряли и матерью.,мать,матерью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+70695,Слово также иногда используют политики.,Слову также иногда используют политики.,Слово,Слову,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,1
+86969,Котта во второй раз получил консулат.,Котта во второй раз получил консулата.,консулат,консулата,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+67483,Вскоре вор Чудик крадет голубку.,Вскоре вор Чудик крадет голубке.,голубку,голубке,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+127597,Шабаев покинул сезон на 6 концерте.,Шабаев покинул сезона на 6 концерте.,сезон,сезона,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+121385,Карвер и Хайес преследуют его.,Карвер и Хайес преследуют ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+132464,Там его застал конец войны.,Там ему застал конец войны.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+44556,Город обслуживает летная полоса Саракрек.,Городу обслуживает летная полоса Саракрек.,Город,Городу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+47134,Страбон отнес к Тимфее город.,Страбон отнес к Тимфее городу.,город,городу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+114383,Она нарушает личность и шрамирует душу.,Она нарушает личностью и шрамирует душу.,личность,личностью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+58922,Но мы закончили их все.,Но мы закончили им все.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,1
+101301,Мерцарио использовал его до конца сезона.,Мерцарио использовал ему до конца сезона.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+62442,Его также вдохновлял Гекхан Саки.,Ему также вдохновлял Гекхан Саки.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+54363,Ее возглавил генерал Алоис Личка.,Ей возглавил генерал Алоис Личка.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+62429,Но бака предупредил и его.,Но бака предупредил и ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+120313,Ровок берет начало западнее села Мазники.,Ровок берет началу западнее села Мазники.,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+105145,Изнутри храм расписал художник Сарахтин.,Изнутри храма расписал художник Сарахтин.,храм,храма,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+36769,Премьер Моди объявил проект национальной мечтой.,Премьер Моди объявил проекта национальной мечтой.,проект,проекта,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+83611,Финни зовет их идти вместе.,Финни зовет им идти вместе.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+110374,Только Хайат назвал вещество словом целлулоид.,Только Хайат назвал веществу словом целлулоид.,вещество,веществу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+143633,Боуман замечает пожар с орбиты.,Боуман замечает пожара с орбиты.,пожар,пожара,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+142585,Монголы назначили в Венгрии баскака.,Монголы назначили в Венгрии баскаку.,баскака,баскаку,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+81286,В центр силка он помещает сыр.,В центр силка он помещает сыра.,сыр,сыра,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+113412,Почти месяц пробыл действующим чемпионом.,Почти месяца пробыл действующим чемпионом.,месяц,месяца,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+82280,Начали строительство с Нива ГЭС-2.,Начали строительству с Нива ГЭС-2.,строительство,строительству,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+61197,Аанг хочет большего и разжигает пламя.,Аанг хочет большего и разжигает пламени.,пламя,пламени,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+8988,Три сына Нуха разделили землю.,Три сына Нуха разделили земле.,землю,земле,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+88963,Общество возглавлял Лемвел Акопович Валесян.,Обществу возглавлял Лемвел Акопович Валесян.,Общество,Обществу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+143172,Эта должность поглощали его полностью.,Эта должность поглощали ему полностью.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+69268,Берет начало в черте города Вальдбрель.,Берет началу в черте города Вальдбрель.,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+15565,Ее заменил Майкл Фрэнсис Реджилио.,Ей заменил Майкл Фрэнсис Реджилио.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+144983,Многие поколения ее защищает дом Ганстаров.,Многие поколения ей защищает дом Ганстаров.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+44560,Как люди попрекали меня ей!,Как люди попрекали мне ей!,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,1
+76447,Тон картине задает гибель сотрудников Муравейника.,Тону картине задает гибель сотрудников Муравейника.,Тон,Тону,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+72946,Он берет обводит буквы квадратом.,Он берет обводит букв квадратом.,буквы,букв,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+131898,Берет начало в муниципалитете Собрадо.,Берет началу в муниципалитете Собрадо.,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+3712,Ее спасает Берк и доктор Каларджан.,Ей спасает Берк и доктор Каларджан.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+14621,В этом матче Араюури оформил дубль.,В этом матче Араюури оформил дубля.,дубль,дубля,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+38279,"Вы оба угнетали, разбивали врагов.","Вы оба угнетали, разбивали врагам.",врагов,врагам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+84333,Особенно оценили френч французские модели.,Особенно оценили френча французские модели.,френч,френча,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+117567,Ее заменила параканоистка Шахноза Мирзаева.,Ей заменила параканоистка Шахноза Мирзаева.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+119587,Но дразнит нас близкий дым передовой.,Но дразнит нам близкий дым передовой.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+20554,Селение называли Табия по имени девушки.,Селению называли Табия по имени девушки.,Селение,Селению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+26225,На 1001-й истории Люпер совершает побег.,На 1001-й истории Люпер совершает побега.,побег,побега,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+34501,Иногда его называют аэропортом Маханаим.,Иногда ему называют аэропортом Маханаим.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+10528,Однако его останавливают Мордо и Вонг.,Однако ему останавливают Мордо и Вонг.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+30130,Вы же знаете ее – она астроном.,Вы же знаете ей – она астроном.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+132553,Корабль сделали люди – но не роториане.,Корабля сделали люди – но не роториане.,Корабль,Корабля,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+47932,Борщенко повернулся к внимательно слушавшему спор Рынину.,Борщенко повернулся к внимательно слушавшему спора Рынину.,спор,спора,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+11616,"Боже, вы бы видели тогда директора!","Боже, вы бы видели тогда директору!",директора,директору,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+10471,"Алуетт затихла, словно ее хватил удар.","Алуетт затихла, словно ей хватил удар.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+144269,"Даже Макс тебя воспринимает, как брата.","Даже Макс тебе воспринимает, как брата.",тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+14957,И намек она понимает — внимание обратили.,И намек она понимает — вниманию обратили.,внимание,вниманию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+127445,Тогда впервые закрыли ворота и ввели пропуска.,Тогда впервые закрыли ворот и ввели пропуска.,ворота,ворот,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+8110,И знаешь это! – прогремел Александрос.,И знаешь этого! – прогремел Александрос.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+29796,"Значит, Артем спас ее не случайно?","Значит, Артем спас ей не случайно?",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+102343,"Элюня перепутала карты, приходилось менять планы.","Элюня перепутала карт, приходилось менять планы.",карты,карт,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+78049,"Тейтиур замедлял ход, карлик догонял их.","Тейтиур замедлял ходу, карлик догонял их.",ход,ходу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+18878,"Вэрина не сомневалась, что видела привидение.","Вэрина не сомневалась, что видела привидению.",привидение,привидению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+42953,Дорс поднялась следом и кротко потупила глаза.,Дорс поднялась следом и кротко потупила глазам.,глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+1716,Шавонна! – вновь позвала Джада дочь.,Шавонна! – вновь позвала Джада дочерью.,дочь,дочерью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+7532,"Весь дрожа, Джек покрепче обхватил ветку.","Весь дрожа, Джек покрепче обхватил ветке.",ветку,ветке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+31723,Недаром вас взяли служить в группу ПОЗ.,Недаром вам взяли служить в группу ПОЗ.,вас,вам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+24019,Ричард быстро эвакуировал население и разрушил Дэрам.,Ричард быстро эвакуировал населению и разрушил Дэрам.,население,населению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+2037,"Здесь еще толпились работницы, обсуждая жука.","Здесь еще толпились работницы, обсуждая жуку.",жука,жуку,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+57733,Лиа переводила взгляд с Риган на Николь.,Лиа переводила взгляда с Риган на Николь.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+68306,"Задать экзамен им, он дело знает.","Задать экзамен им, он делу знает.",дело,делу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+48520,"И телефон достанем, — сказала Тамара.","И телефона достанем, — сказала Тамара.",телефон,телефона,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+138773,"Ах, да – ведь ее позвали.","Ах, да – ведь ей позвали.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+62832,Ну почему Клер вечно портила ей настроение?,Ну почему Клер вечно портила ей настроению?,настроение,настроению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+61720,"Сэйерс знал это, знали и другие.","Сэйерс знал этого, знали и другие.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+42173,"Шерон упрямо, через силу допила чай.","Шерон упрямо, через силу допила чая.",чай,чая,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+136917,"Он сделает это, удовлетворенно подумал Албанус.","Он сделает этого, удовлетворенно подумал Албанус.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+81381,"Думаю, мадам де Тресм простит меня.","Думаю, мадам де Тресм простит мне.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+83575,"Лудо потянул ее назад, прикрыл собой.","Лудо потянул ей назад, прикрыл собой.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+17599,"Мистер Вайорст сказал, он нас подождет.","Мистер Вайорст сказал, он нам подождет.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+99246,"Не валяй дурака, Сэди Айрен Брэтчер!","Не валяй дураку, Сэди Айрен Брэтчер!",дурака,дураку,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+59662,"Говорил же тебе, обещала она телевизор!","Говорил же тебе, обещала она телевизора!",телевизор,телевизора,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+58899,Лет тридцать первые поселенцы их стаскивали кольцом.,Лет тридцать первые поселенцы им стаскивали кольцом.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+127092,Де Валенс мгновенно обернулся и узнал меня.,Де Валенс мгновенно обернулся и узнал мне.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+79066,"Что следы, следы я намерено запутал.","Что следы, следов я намерено запутал.",следы,следов,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+55174,Мне у доктора Шнейдера часто кружку ставили.,Мне у доктора Шнейдера часто кружке ставили.,кружку,кружке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+14900,"Упредив пожар, снова вернулся к Эду.","Упредив пожара, снова вернулся к Эду.",пожар,пожара,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+133203,Коренис обратила лицо к Гвальхмаю и улыбнулась.,Коренис обратила лицу к Гвальхмаю и улыбнулась.,лицо,лицу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+57706,"Сняв шапку, Андрей постоял возле Бориски.","Сняв шапке, Андрей постоял возле Бориски.",шапку,шапке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+95327,Элен сама достала банки и передала мужу.,Элен сама достала банок и передала мужу.,банки,банок,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+99467,Но и Бильбауфман тогда меня не нашел.,Но и Бильбауфман тогда мне не нашел.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+144628,"Возможно, хоть теперь меня ожидает награда!","Возможно, хоть теперь мне ожидает награда!",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+134556,"Он ушел, космос его знает куда.","Он ушел, космос ему знает куда.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+40302,"Холт считает, что мерин потянул мышцу.","Холт считает, что мерин потянул мышце.",мышцу,мышце,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+37617,"Он понял, отец Модест ее понял!","Он понял, отец Модест ей понял!",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+21451,"Не иначе, как его бросил вор!","Не иначе, как ему бросил вор!",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+135563,В ней соседство вали породистость и простота.,В ней соседству вали породистость и простота.,соседство,соседству,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+31605,А забили мы их немало – семь.,А забили мы им немало – семь.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+35007,Там м°ртвая шевелится земля Иллюзии приоткрывая суть.,Там м°ртвая шевелится земля Иллюзии приоткрывая сутью.,суть,сутью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+133502,Но Большая Мег силой уложила ее обратно.,Но Большая Мег силой уложила ей обратно.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+125864,"Скажи — рубаху сымет, другого выручит.","Скажи — рубахе сымет, другого выручит.",рубаху,рубахе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+55029,"Фолкон поднял кубок, словно салютуя Эвизе.","Фолкон поднял кубка, словно салютуя Эвизе.",кубок,кубка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+134740,Нас представили — прямо в этой толкучке.,Нам представили — прямо в этой толкучке.,Нас,Нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+101450,А Вир не только дал ему корабль.,А Вир не только дал ему корабля.,корабль,корабля,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+147948,Они покинули двор после злосчастного дела Курландон.,Они покинули двора после злосчастного дела Курландон.,двор,двора,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+51401,Вот Джейс – он бы меня понял.,Вот Джейс – он бы мне понял.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+38527,"И пользу принесешь, дом обогреть поможешь!","И пользе принесешь, дом обогреть поможешь!",пользу,пользе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+60200,Алазон некоторое время буравил его острыми глазами.,Алазон некоторое время буравил ему острыми глазами.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+28732,Тебя разве не интересовали титул и наследство?,Тебе разве не интересовали титул и наследство?,Тебя,Тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+127954,"Она его выходила, потом и вырастила.","Она ему выходила, потом и вырастила.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+59849,Потом поднял взгляд и уставился на Би.,Потом поднял взгляда и уставился на Би.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+24679,Тут рука брата Болдрика сжала ей пальцы.,Тут рука брата Болдрика сжала ей пальцев.,пальцы,пальцев,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+84602,"А любишь ты ее, сам сказал.","А любишь ты ей, сам сказал.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+141685,"А тебя это удручает, бог войны?","А тебе это удручает, бог войны?",тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+1700,"Может быть, тоже провели его здесь?","Может быть, тоже провели ему здесь?",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+104951,"Ро глубоко вздохнул, явно ощущая неловкость.","Ро глубоко вздохнул, явно ощущая неловкостью.",неловкость,неловкостью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+56099,"Вы не говорите мне правду, Алуетт!","Вы не говорите мне правде, Алуетт!",правду,правде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+139792,"Туна, услышав имя, повернул голову.","Туна, услышав имени, повернул голову.",имя,имени,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+145696,"Не думаю, чтоб горе ее изменило.","Не думаю, чтоб горе ей изменило.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+49987,Радд счел это удачей и добрым знаком.,Радд счел этого удачей и добрым знаком.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+31430,"Когда Мунн закончил, но открыл глаза.","Когда Мунн закончил, но открыл глазам.",глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+79015,Шестого ноября отдел возглавил Торичан Михайлович Дьяков.,Шестого ноября отдела возглавил Торичан Михайлович Дьяков.,отдел,отдела,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+87161,Конунг поддержал его и послали за Рагнфрид.,Конунг поддержал ему и послали за Рагнфрид.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+97499,"Несколько мужчин поддержали кричавшего, включая Магро.","Несколько мужчин поддержали кричавшему, включая Магро.",кричавшего,кричавшему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+61881,"Марчин понимал женщин, как никто другой.","Марчин понимал женщинам, как никто другой.",женщин,женщинам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+98366,"Я голос сорвал, пока звал Столешко.","Я голосу сорвал, пока звал Столешко.",голос,голосу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+21788,Уже полтора года она ковала только мечи!,Уже полтора года она ковала только мечей!,мечи,мечей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+129725,"Всем нам, – Кейли переплела пальцы.","Всем нам, – Кейли переплела пальцев.",пальцы,пальцев,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+19335,"Доктор называла их ""слои кератогиалина"".","Доктор называла им ""слои кератогиалина"".",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+12719,"Он удивился, получив сообщение от рентианца.","Он удивился, получив сообщению от рентианца.",сообщение,сообщению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+109074,В два хода он объявил Остину шах.,В два хода он объявил Остину шаха.,шах,шаха,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+136644,"Кто успокоит волны, о мой хан?","Кто успокоит волн, о мой хан?",волны,волн,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+106735,"Глевиан, муж Юдит, выкатил глаза.","Глевиан, муж Юдит, выкатил глазам.",глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+74489,Его зачитал представитель государственного обвинения Сергей Харин.,Ему зачитал представитель государственного обвинения Сергей Харин.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+109678,Принесет ли Яннис Антетокумпо перстни в Висконсин?,Принесет ли Яннис Антетокумпо перстней в Висконсин?,перстни,перстней,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+121347,"Его отец умер, он принял режим.","Его отец умер, он принял режима.",режим,режима,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+17857,Семин меня чаще использовал в опорной зоне.,Семин мне чаще использовал в опорной зоне.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+90325,В январе города продал объект с торгов.,В январе города продал объекта с торгов.,объект,объекта,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+41013,Мне после первых дней уже вопросы задавали.,Мне после первых дней уже вопросов задавали.,вопросы,вопросов,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+95596,В результате ошибки Яна пояс получил Стерлинг.,В результате ошибки Яна поясу получил Стерлинг.,пояс,поясу,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+104970,Однако просто так мужчину никто не отдавали.,Однако просто так мужчине никто не отдавали.,мужчину,мужчине,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+47710,"Но они сделали наложения, пацаны устали.","Но они сделали наложений, пацаны устали.",наложения,наложений,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+44216,"Когда Юра здоров, мы его ставим.","Когда Юра здоров, мы ему ставим.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+83031,"Читал дичь про интерес ""МЮ"".","Читал дичью про интерес ""МЮ"".",дичь,дичью,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+70287,"Они даже прозвали его ""антигрелином"".","Они даже прозвали ему ""антигрелином"".",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+55657,"Эй Джей его съест, Тайсон тоже.","Эй Джей ему съест, Тайсон тоже.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+19266,"Итак, нас вновь ждет семейный финал.","Итак, нам вновь ждет семейный финал.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+94237,"Он сказал, что Лесин дал добро.","Он сказал, что Лесин дал добра.",добро,добра,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+24075,"Есть разные пути, чтобы отправляли людей.","Есть разные пути, чтобы отправляли людям.",людей,людям,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+56488,Но Нонаки вскоре рождает сына от Джона.,Но Нонаки вскоре рождает сыну от Джона.,сына,сыну,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+130605,Реммерт и Попов проводят работы на Кутсало.,Реммерт и Попов проводят работ на Кутсало.,работы,работ,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+82321,Появляется Майнос Доутри и заставляет бандитов уйти.,Появляется Майнос Доутри и заставляет бандитам уйти.,бандитов,бандитам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+27108,Откопав часть костей Спедале отнес их домой.,Откопав часть костей Спедале отнес им домой.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+121374,Ла Кондамин сделал к этой книге дополнения.,Ла Кондамин сделал к этой книге дополнений.,дополнения,дополнений,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+139642,Кендзи Конута и Аюму Хисао напишут сценарий.,Кендзи Конута и Аюму Хисао напишут сценария.,сценарий,сценария,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+28634,Последние две недели его возглавляли Дарья Лейзаренко.,Последние две недели ему возглавляли Дарья Лейзаренко.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+99630,Токмортон обращал внимание на и в Сиэтле.,Токмортон обращал вниманию на и в Сиэтле.,внимание,вниманию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+35623,Его всегда выбирали из самого корпуса курчи.,Ему всегда выбирали из самого корпуса курчи.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+59827,Через несколько лет супруга родила Бараусову сына.,Через несколько лет супруга родила Бараусову сыну.,сына,сыну,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+52065,Его выходила дочь командира — Жанна Моно.,Ему выходила дочь командира — Жанна Моно.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+13734,Ламейере принес присягу 6 июля в Абвиле.,Ламейере принес присяге 6 июля в Абвиле.,присягу,присяге,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+95071,Атаку произвел — канадский ученый в области.,Атаке произвел — канадский ученый в области.,Атаку,Атаке,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+138254,Протока Семдолген соединяет губу с заливом Западным.,Протока Семдолген соединяет губе с заливом Западным.,губу,губе,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+3273,"Синаххериб, построив флот, захватил Нагиту.","Синаххериб, построив флоту, захватил Нагиту.",флот,флоту,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+82833,Детство провела в махалле Окмачит Учтепинского района.,Детству провела в махалле Окмачит Учтепинского района.,Детство,Детству,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+74678,Их звали Ямна Сэротэтто и Хатева Худи.,Им звали Ямна Сэротэтто и Хатева Худи.,Их,Им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+101740,Владимир прислал ему текст и попросил спеть.,Владимир прислал ему текста и попросил спеть.,текст,текста,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+89896,С помощью осанвэ она возвращает Берену память.,С помощью осанвэ она возвращает Берену памятью.,память,памятью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+9340,В Марселе Гильом Боккюз активно строил галеры.,В Марселе Гильом Боккюз активно строил галер.,галеры,галер,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+77498,Далее берем факел (под ульем).,Далее берем факела (под ульем).,факел,факела,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+31788,"Считается, что храм основал принц Сетоку.","Считается, что храма основал принц Сетоку.",храм,храма,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+87383,Она также фокусируется на университете пишущего педагогику.,Она также фокусируется на университете пишущего педагогике.,педагогику,педагогике,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+73772,По окончании каждого когда школьники сдают экзамены.,По окончании каждого когда школьники сдают экзаменов.,экзамены,экзаменов,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+20022,Колби как капитан и тренер подбирает игроков.,Колби как капитан и тренер подбирает игрокам.,игроков,игрокам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+1408,Дудкин приходит к Липпанченко и пересказывает инцидент.,Дудкин приходит к Липпанченко и пересказывает инцидента.,инцидент,инцидента,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+132008,Его звали Алеквикторвич - и он очень любил поговорить.,Ему звали Алеквикторвич - и он очень любил поговорить.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+140198,"Кто же захочет меня, когда есть Эмма.","Кто же захочет мне, когда есть Эмма.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+133787,"Непонятно, почему она вы брала именно меня.","Непонятно, почему она вы брала именно мне.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+118383,"Бери опять управление, я блокировку уже снял.","Бери опять управлению, я блокировку уже снял.",управление,управлению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+41541,"Интересно, а Рис тоже считает ее холодной?","Интересно, а Рис тоже считает ей холодной?",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+38554,"Ее де, будто бы все слушали и почитали.","Ей де, будто бы все слушали и почитали.",Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+132747,"Она тебе поможет, – представил женщину Жан.","Она тебе поможет, – представил женщине Жан.",женщину,женщине,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+83839,"Рис шутливо поднял руки, как бы защищаясь.","Рис шутливо поднял рук, как бы защищаясь.",руки,рук,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+62105,Но тут Рэй удивил ее вторично за сегодняшний вечер.,Но тут Рэй удивил ей вторично за сегодняшний вечер.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+108626,Ведь тетушки действительно заставят меня выйти за него замуж!,Ведь тетушки действительно заставят мне выйти за него замуж!,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+90848,В два раза больше истребил их и Верзила Ферре.,В два раза больше истребил им и Верзила Ферре.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+145091,Тим продемонстрировал ей шарики и поманил – выходи.,Тим продемонстрировал ей шариков и поманил – выходи.,шарики,шариков,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+1393,"Мрак насторожился, Олег и Кора придержали коней.","Мрак насторожился, Олег и Кора придержали коням.",коней,коням,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+24456,"Да рубаху сними, вчера ведь только постирала!","Да рубахе сними, вчера ведь только постирала!",рубаху,рубахе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+57599,Если кто что обнаружит - сразу подаст голос остальным.,Если кто что обнаружит - сразу подаст голосу остальным.,голос,голосу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+137208,"Тощая Генька, так вроде бы ее кликали.","Тощая Генька, так вроде бы ей кликали.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+24210,Или получили бы просто помощь от стратегического спонсора.,Или получили бы просто помощью от стратегического спонсора.,помощь,помощью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+46360,Сильные руки Китай а властно прижали ее к себе.,Сильные руки Китай а властно прижали ей к себе.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+39230,"Только это девушка знала наверняка, ибо была невинна...","Только этого девушка знала наверняка, ибо была невинна...",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+114305,А Гуин дарил тебе радость почти каждую ночь.,А Гуин дарил тебе радостью почти каждую ночь.,радость,радостью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+2529,"Миновав коридор, компания оказалась в кабинете Соловца.","Миновав коридора, компания оказалась в кабинете Соловца.",коридор,коридора,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+148477,Я их строил еще игрушечные — с Дайланом вместе.,Я им строил еще игрушечные — с Дайланом вместе.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+114480,Индриков меж тем вновь бросил карту рубашкою кверху.,Индриков меж тем вновь бросил карте рубашкою кверху.,карту,карте,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+146418,У Кейт перехватило дыхание Она потянулась к Девлину.,У Кейт перехватило дыханию Она потянулась к Девлину.,дыхание,дыханию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+116761,"И порцию каши варнишкас, полейте ее темным соусом.","И порцию каши варнишкас, полейте ей темным соусом.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+31351,"И нет лишь Князя, спасаю его моею нелюбовью.","И нет лишь Князя, спасаю ему моею нелюбовью.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+82262,Не бо врагом Твоим тайну повем – вспомнил Тихон.,Не бо врагом Твоим тайне повем – вспомнил Тихон.,тайну,тайне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+6784,Почему ты не уговоришь ее принять предложение Брэддона Чет-вина?,Почему ты не уговоришь ей принять предложение Брэддона Чет-вина?,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+106991,"Пилар еще дальше отодвинула портрет, открыв отверстие полностью.","Пилар еще дальше отодвинула портрета, открыв отверстие полностью.",портрет,портрета,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+44229,"Локи видит золото то, что было у Агдвари.","Локи видит золота то, что было у Агдвари.",золото,золота,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+86382,Фиска послюнявила тряпочку и стала легонько оттирать Бакиру губы.,Фиска послюнявила тряпочке и стала легонько оттирать Бакиру губы.,тряпочку,тряпочке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+45933,Я хотела чисто семью и не гналась за деньгами.,Я хотела чисто семье и не гналась за деньгами.,семью,семье,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+76134,"Нарочно которые портили, чтобы Прокопьич их прогнал.","Нарочно которые портили, чтобы Прокопьич им прогнал.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+73833,"Благодаря Лауре Эверетт, — прервал его Рис.","Благодаря Лауре Эверетт, — прервал ему Рис.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+94552,В нее меня наверняка просифонило при открытом-то окне!,В нее мне наверняка просифонило при открытом-то окне!,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+78445,"Алси проснулась от ощущения, что ее несут.","Алси проснулась от ощущения, что ей несут.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+102435,"Нельзя слишком очевидно поддаваться Старку, предупреждала его Кристиан.","Нельзя слишком очевидно поддаваться Старку, предупреждала ему Кристиан.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+64349,"Это Надежда Ткачук, – проигнорировал выпад Андрей.","Это Надежда Ткачук, – проигнорировал выпада Андрей.",выпад,выпада,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+16242,"Аратап прислал его, а значит, это ловушка!","Аратап прислал ему, а значит, это ловушка!",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+46662,Теперь он запах знает! – прогрохотал польщенный Хруп.,Теперь он запаха знает! – прогрохотал польщенный Хруп.,запах,запаха,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+2396,Ее не пугает разница в возрасте и наличие Алика?,Ей не пугает разница в возрасте и наличие Алика?,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+121143,"Его больше устраивало, чтобы Сигват покинул Эгга.","Ему больше устраивало, чтобы Сигват покинул Эгга.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+13272,"Эдива засмеялась, сообразив, зачем мельник хранил тмин.","Эдива засмеялась, сообразив, зачем мельник хранил тмина.",тмин,тмина,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+120775,"Так вообще-то ловят птиц, это – силок.","Так вообще-то ловят птицам, это – силок.",птиц,птицам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+12544,"Ладно, давай тащи мне вина, собака!","Ладно, давай тащи мне вин, собака!",вина,вин,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+66593,Господин Манволь проделал его за месяц и одиннадцать дней.,Господин Манволь проделал ему за месяц и одиннадцать дней.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+145373,В последнее время друга очень тревожила безопасность детей.,В последнее время другу очень тревожила безопасность детей.,друга,другу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+74524,Там мастер его полтинами награждал — отсюда и пошло!,Там мастер ему полтинами награждал — отсюда и пошло!,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+93365,Ответь сама: от кого тебя увели эти переходы?,Ответь сама: от кого тебе увели эти переходы?,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+145452,Сделал им грозный Лобан предупреждение и ушел домой.,Сделал им грозный Лобан предупреждению и ушел домой.,предупреждение,предупреждению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+149247,"Он положит конец борьбе партий, говорили тогда.","Он положит конца борьбе партий, говорили тогда.",конец,конца,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+144354,И он самолично провел гостей к лучшему столику.,И он самолично провел гостям к лучшему столику.,гостей,гостям,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+114663,Я удивился наивности хозяев планеты и тут увидел чудо.,Я удивился наивности хозяев планеты и тут увидел чуду.,чудо,чуду,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+14229,"Просто ему, наверное, и лицо тоже латали.","Просто ему, наверное, и лицу тоже латали.",лицо,лицу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+13851,"Джек постучался к отцу Магнус подмигнув, обнял сына.","Джек постучался к отцу Магнус подмигнув, обнял сыну.",сына,сыну,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+37371,Он снова схватил се руку и прижал к себе.,Он снова схватил се руке и прижал к себе.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+22116,"Чусва тебя все равно заберет, я вижу.","Чусва тебе все равно заберет, я вижу.",тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+11330,Морти поддерживал дух воспоминаниями о детстве в Бронске.,Морти поддерживал духа воспоминаниями о детстве в Бронске.,дух,духа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+85459,"Теперь пообещает ей защиту, а затем будут условия.","Теперь пообещает ей защите, а затем будут условия.",защиту,защите,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+35647,"Ее тебе хорошо напудрят, она будет матовая.","Ей тебе хорошо напудрят, она будет матовая.",Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+100620,"И выглядеть чудесно, а уж вы это умеете.","И выглядеть чудесно, а уж вы этого умеете.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+96569,"Трис поблагодарил небо за то, что он здесь.","Трис поблагодарил неба за то, что он здесь.",небо,неба,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+140826,"Только многим позднее я удивился, почему понимаю его.","Только многим позднее я удивился, почему понимаю ему.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+15039,Ты подобрал им всем под стать и капитана!,Ты подобрал им всем под стать и капитану!,капитана,капитану,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+6606,"Риви был разочарован, хотя и скрыл это.","Риви был разочарован, хотя и скрыл этого.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+37147,Так кто тебя взял? неожиданно спросил он Вика.,Так кто тебе взял? неожиданно спросил он Вика.,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+92160,Кратер Гиппал выдавал продукцию и не требовал лишнего.,Кратер Гиппал выдавал продукцией и не требовал лишнего.,продукцию,продукцией,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+80409,"Иола улучила минутку, чтобы пообщаться с Беаткой.","Иола улучила минутке, чтобы пообщаться с Беаткой.",минутку,минутке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+37741,"А был уверен, что письма мне писал Виктор.","А был уверен, что писем мне писал Виктор.",письма,писем,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+76463,Видела бы меня Маккафа (или Динника)!,Видела бы мне Маккафа (или Динника)!,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+140863,"Снизу, сцепляя корневища кокор, легла толстая боковня.","Снизу, сцепляя корневищ кокор, легла толстая боковня.",корневища,корневищ,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+141180,"Поэтому и Форней предпочел ее, подумала Эдива.","Поэтому и Форней предпочел ей, подумала Эдива.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+41866,"Боги что, им принесли жертвы, они согласились.","Боги что, им принесли жертв, они согласились.",жертвы,жертв,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+45668,"Даже хорошо, что я пишу вступление именно теперь.","Даже хорошо, что я пишу вступлению именно теперь.",вступление,вступлению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+140413,"Даймио находят меня очень хорошим, мой господин.","Даймио находят мне очень хорошим, мой господин.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+56238,"И Грицюк открыл, что он несет пакет.","И Грицюк открыл, что он несет пакета.",пакет,пакета,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+91987,Он подобрал ее и сжал вокруг мои пальцы.,Он подобрал ей и сжал вокруг мои пальцы.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+35198,А граф как увидел ее – прямо ума лишился.,А граф как увидел ей – прямо ума лишился.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+133708,По-настоящему красивая женщина только отвлекала бы меня отдел.,По-настоящему красивая женщина только отвлекала бы мне отдел.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+82106,Пью молча оттолкнул ее и первым полез наверх.,Пью молча оттолкнул ей и первым полез наверх.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+77902,"Динни не ответила, – ее била дрожь.","Динни не ответила, – ей била дрожь.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+49471,Разве я заставил брата сунуть руку в жернова?,Разве я заставил брату сунуть руку в жернова?,брата,брату,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+143656,"Лежать было хорошо, мох словно вытягивал боль.","Лежать было хорошо, мох словно вытягивал болью.",боль,болью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+21273,Масчерано за подкат против Дефо также получил предупреждение.,Масчерано за подкат против Дефо также получил предупреждению.,предупреждение,предупреждению,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+2002,Однако пока порядок остается старый - кандидатуры представляет полпред.,Однако пока порядок остается старый - кандидатур представляет полпред.,кандидатуры,кандидатур,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+92618,Список возглавляет Кения - 1 шанс к 3.,Списка возглавляет Кения - 1 шанс к 3.,Список,Списка,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+2187,"Он посмотрел две наши игры, составил впечатление.","Он посмотрел две наши игры, составил впечатлению.",впечатление,впечатлению,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+15372,"Если подумать, усть уже команда доиграет сезон.","Если подумать, усть уже команда доиграет сезона.",сезон,сезона,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+55577,"Скорее, нас просто ожидает открытый и интересный футбол.","Скорее, нам просто ожидает открытый и интересный футбол.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,5
+121415,"Для вас готов дворовый фьюжн, Не напрягающий умы.","Для вас готов дворовый фьюжн, Не напрягающий умов.",умы,умов,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+32240,С разрешения Алвиса беру их в наш театр.,С разрешения Алвиса беру им в наш театр.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+93023,Выучив сценарий потом начали уже импровизировать с материалом.,Выучив сценария потом начали уже импровизировать с материалом.,сценарий,сценария,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+33151,Позднее Ди Рупо поблагодарил коллег за такой жест.,Позднее Ди Рупо поблагодарил коллегам за такой жест.,коллег,коллегам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+132706,"Я чувстувую, что президент клуба Лапорта меня поддерживает.","Я чувстувую, что президент клуба Лапорта мне поддерживает.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+138034,Женя мне писал оценки и я Роману отсылал.,Женя мне писал оценок и я Роману отсылал.,оценки,оценок,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+35559,"Селюк: знаю, как Шаблий ведет дела.","Селюк: знаю, как Шаблий ведет дел.",дела,дел,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+122527,"Тот – пусть остается, его не трогаем.","Тот – пусть остается, ему не трогаем.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+85693,Его ох как не хватает в безвоздушном литмирке.,Ему ох как не хватает в безвоздушном литмирке.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+80018,Ее прокомментирует пара Михаил Поленов — Александр Боровков.,Ей прокомментирует пара Михаил Поленов — Александр Боровков.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+15074,"Например, Аддарио связали руки шнурками ее же ботинок.","Например, Аддарио связали рук шнурками ее же ботинок.",руки,рук,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,5
+112446,"Однако потом эфир ""отодвинули"" на 18-е.","Однако потом эфира ""отодвинули"" на 18-е.",эфир,эфира,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+19458,"Когда Терим потребовал Умита, мы его ему приобрели.","Когда Терим потребовал Умита, мы ему ему приобрели.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+2166,Стример Карина Козырева включила ролик после обзора Варламовым Рима.,Стример Карина Козырева включила ролика после обзора Варламовым Рима.,ролик,ролика,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+106959,Но я сдавала его вместо трех раз два.,Но я сдавала ему вместо трех раз два.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+18808,Президент таких не подписывает: Президент законы подписывает.,Президент таких не подписывает: Президент законов подписывает.,законы,законов,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+131046,"Однако Йетс полагает, что его обманула перспектива.","Однако Йетс полагает, что ему обманула перспектива.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+88351,"Однако, его трижды обошли производством в чины.","Однако, ему трижды обошли производством в чины.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+13334,Вели программу — Георгий Бовт и Игорь Зимаков.,Вели программе — Георгий Бовт и Игорь Зимаков.,программу,программе,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+133616,"Его убил Сэцуна, когда в нем проснулась Алексиэль.","Ему убил Сэцуна, когда в нем проснулась Алексиэль.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+149062,Во время переписи (ревизий) деревню записали Элейсола.,Во время переписи (ревизий) деревне записали Элейсола.,деревню,деревне,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+8652,Земля моя Тобольского района Незримо силы каждому даешь.,Земля моя Тобольского района Незримо сил каждому даешь.,силы,сил,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+119287,"Занимая ее, Тэгрынкеу продолжал работать физически сам.","Занимая ей, Тэгрынкеу продолжал работать физически сам.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+98867,"Официальный веб-сайт Райнлендера называет город ""домом ходага"".","Официальный веб-сайт Райнлендера называет городу ""домом ходага"".",город,городу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+88065,Яголдай принял в Литве крещение под именем Дмитрий.,Яголдай принял в Литве крещению под именем Дмитрий.,крещение,крещению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+62497,"Тот называет сумму, и Бун дает ее.","Тот называет сумме, и Бун дает ее.",сумму,сумме,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+64689,"Грима Червеуст добивался ее, но она отвергала его.","Грима Червеуст добивался ее, но она отвергала ему.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+45460,"Правительство возглавил Башким Фино, затем Фатос Нано.","Правительству возглавил Башким Фино, затем Фатос Нано.",Правительство,Правительству,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+96110,Он должен спасти Олатое и умоляет санитаров разбудить его.,Он должен спасти Олатое и умоляет санитарам разбудить его.,санитаров,санитарам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+82932,"Шюкюхи также один из поэтов, писавших сатиры.","Шюкюхи также один из поэтов, писавших сатир.",сатиры,сатир,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+105232,"Бонен увозит его, но вскоре Везина умирает.","Бонен увозит ему, но вскоре Везина умирает.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+28473,"Строчу, пока мне служит лира, Тебе стихи.","Строчу, пока мне служит лира, Тебе стихов.",стихи,стихов,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+108872,Там нас встретило несколько чиновников с экипажами эмира.,Там нам встретило несколько чиновников с экипажами эмира.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+137137,Караваны народа боран поставляли тогда на городской рынок соль.,Караваны народа боран поставляли тогда на городской рынок солью.,соль,солью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+35541,"Ее улыбка, разговоры Во мне любви рождают жар.","Ее улыбка, разговоры Во мне любви рождают жара.",жар,жара,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+124380,Сюше ожидал подхода дополнительных войск и поэтому тянул время.,Сюше ожидал подхода дополнительных войск и поэтому тянул времени.,время,времени,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+96325,Здесь Елим Павлович и проводил с кем-то игру.,Здесь Елим Павлович и проводил с кем-то игре.,игру,игре,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+133800,Сестры Рефтарыдиль позднее вышли замуж и покинули дворец.,Сестры Рефтарыдиль позднее вышли замуж и покинули дворца.,дворец,дворца,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+138705,"Оценив это, последний предоставил еще больше льгот атребатам.","Оценив этого, последний предоставил еще больше льгот атребатам.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+43595,После гибели родителей Майкл Бернэм ее удочерила Филиппа Джорджиу.,После гибели родителей Майкл Бернэм ей удочерила Филиппа Джорджиу.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+75130,Поэтому количество книг конечно и библиотека имеет границы.,Поэтому количество книг конечно и библиотека имеет границ.,границы,границ,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+79120,"Также ночью, другие три стороны фонтана меняют цвет.","Также ночью, другие три стороны фонтана меняют цвету.",цвет,цвету,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+46003,Надписи представляют Ранеб устанавливающего экспедиции вне долины Нила.,Надписи представляют Ранеб устанавливающего экспедиций вне долины Нила.,экспедиции,экспедиций,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+95856,"Получив новый меч, Энакин убивает им и императора.","Получив новый меч, Энакин убивает им и императору.",императора,императору,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+29681,Но в этот момент появился Бен и победил выдру.,Но в этот момент появился Бен и победил выдре.,выдру,выдре,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+86139,"Гонарх воет, когда разгневан или испытывает боль.","Гонарх воет, когда разгневан или испытывает болью.",боль,болью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+62444,"Коренные жители называли переселенцев ""гаучос худиос"".","Коренные жители называли переселенцам ""гаучос худиос"".",переселенцев,переселенцам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+130885,"Их постоянно преследуют сайлоны, которым помогает предатель Балтар.","Им постоянно преследуют сайлоны, которым помогает предатель Балтар.",Их,Им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+86014,"Сперва никуда, а потом повез в Москву их.","Сперва никуда, а потом повез в Москву им.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+83473,"Фонкон, получив команду от Чхонлуна нападает на Кимкуаня.","Фонкон, получив команде от Чхонлуна нападает на Кимкуаня.",команду,команде,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+143901,"Чтобы завоевать ее любовь, муж дарил Монималике драгоценности.","Чтобы завоевать ее любовь, муж дарил Монималике драгоценностей.",драгоценности,драгоценностей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+31856,Но сколько точно — это знали только сами руководители.,Но сколько точно — этого знали только сами руководители.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+62374,"Там актер играл соседа Мэг, которой вскружил голову.","Там актер играл соседа Мэг, которой вскружил голове.",голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+2041,"Когда Чокгьюр Лингпа был мальчиком, он пас скот.","Когда Чокгьюр Лингпа был мальчиком, он пас скота.",скот,скота,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+107515,Вместо Раафата Шехаты разведку возглавил Мохаммед Ахмед Фарид.,Вместо Раафата Шехаты разведке возглавил Мохаммед Ахмед Фарид.,разведку,разведке,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+68246,Томас назвал ее величайшимяя английским мистиком и богословом.,Томас назвал ей величайшимяя английским мистиком и богословом.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+39558,"И они это берут, а хотят они все.","И они этого берут, а хотят они все.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+51426,А БМД-4 М нас сегодня более чем устраивает.,А БМД-4 М нам сегодня более чем устраивает.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+88719,Во втором этаже этого дома Левитан снимал залу.,Во втором этаже этого дома Левитан снимал зале.,залу,зале,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+38632,Ванзант проиграла бой болевым приемом в первом раунде.,Ванзант проиграла боя болевым приемом в первом раунде.,бой,боя,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+16543,"Аббат Монлезен предполагает, что ее получил Одон.","Аббат Монлезен предполагает, что ей получил Одон.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+82889,Ашина Хэлу разбил Ирбиса и сам убил его.,Ашина Хэлу разбил Ирбиса и сам убил ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+72135,Река Ачалой-ахк берет начало на южном склоне хребта Бахелам.,Река Ачалой-ахк берет началу на южном склоне хребта Бахелам.,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+20059,Дион исполнила ее с Бочелли на обеих церемониях.,Дион исполнила ей с Бочелли на обеих церемониях.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+82179,Их заменили Римета Бениамина и Вайсанг Кум Ки.,Им заменили Римета Бениамина и Вайсанг Кум Ки.,Их,Им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+85428,На посту премьер-министра его сменил Кадре Дезире Уэдраого.,На посту премьер-министра ему сменил Кадре Дезире Уэдраого.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+76740,"Куйгорож потребовал работу, а иначе он все порушит.","Куйгорож потребовал работе, а иначе он все порушит.",работу,работе,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+94966,Авангард же возглавлял представитель клана Сони — Ерихиса.,Авангарда же возглавлял представитель клана Сони — Ерихиса.,Авангард,Авангарда,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+27973,"Сара проводит кабель, и Доктор подключает комнату.","Сара проводит кабеля, и Доктор подключает комнату.",кабель,кабеля,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+146121,"Посему премьер Цудерос именовал его ""штабом оперетой"".","Посему премьер Цудерос именовал ему ""штабом оперетой"".",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+106170,Его заменил Михаил Молдовану во втором кабинете Филата.,Ему заменил Михаил Молдовану во втором кабинете Филата.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+138467,От Кайырбая ведут происхождения роды в составе алимулы.,От Кайырбая ведут происхождений роды в составе алимулы.,происхождения,происхождений,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+129069,Имре изучал математику в Университете Етвеш Лоренда в Будапешт.,Имре изучал математике в Университете Етвеш Лоренда в Будапешт.,математику,математике,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+99644,"Гидрола покидает дочь, и входят Маттео и Тереза.","Гидрола покидает дочерью, и входят Маттео и Тереза.",дочь,дочерью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+141147,"Также Томпсон подключил колени, а закончил вновь соккер-киками.","Также Томпсон подключил колен, а закончил вновь соккер-киками.",колени,колен,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+58308,Однако стартовавший после Тони Ниеминен его быстро обновил.,Однако стартовавший после Тони Ниеминен ему быстро обновил.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+38073,"Такер называла его ""альбомом матери средних лет"".","Такер называла ему ""альбомом матери средних лет"".",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+55155,"Софи сестра, Бомарше отталкивает и призывает его бежать.","Софи сестра, Бомарше отталкивает и призывает ему бежать.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+95810,Ее называют в магическом мире Чо Шуан Зен.,Ей называют в магическом мире Чо Шуан Зен.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+51688,"Если не крали скот накануне того набега, что устроил Найл?","Если не крали скота накануне того набега, что устроил Найл?",скот,скота,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+52214,"Весь оставшийся день Джемайна правила статью, учитывая замечания Сары.","Весь оставшийся день Джемайна правила статье, учитывая замечания Сары.",статью,статье,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+84381,"Кэтлен бросилась было унимать Хэтти, но Лич удержал ее.","Кэтлен бросилась было унимать Хэтти, но Лич удержал ей.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+118372,"Отстань, Бран, лежать, Финч, – Фергюс, убери-ка собак!","Отстань, Бран, лежать, Финч, – Фергюс, убери-ка собакам!",собак,собакам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+126253,"Проводили сегодня маму, она с театром а Азиану отправилась.","Проводили сегодня маме, она с театром а Азиану отправилась.",маму,маме,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+105352,"Если же ему придется полю бить другую, возможно, его ждет горе.","Если же ему придется полю бить другую, возможно, ему ждет горе.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+131875,"Он надел на нее киртл, но спину оставил открытой.","Он надел на нее киртл, но спине оставил открытой.",спину,спине,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+137970,"С Маккафой почти не встречаемся, она взяла домой книгу и тоже занимается.","С Маккафой почти не встречаемся, она взяла домой книге и тоже занимается.",книгу,книге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+117422,"Сьюзи просто выдумала его, потому что знала – ты пароль забыл.","Сьюзи просто выдумала ему, потому что знала – ты пароль забыл.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+140691,Ты сделал меня несчастной задолго до истории с Николь Сежурн!,Ты сделал мне несчастной задолго до истории с Николь Сежурн!,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+58536,"Как жаль, что она не встретила его раньше Колта!","Как жаль, что она не встретила ему раньше Колта!",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+70562,"Что это давало, этот жалкий поклон земле, немного укорачивающий фигуру?","Что это давало, этот жалкий поклон земле, немного укорачивающий фигуре?",фигуру,фигуре,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+20375,"Сразу вить после вас, дни через четыре, проезжал старый крыс, да меня и подманил.","Сразу вить после вас, дни через четыре, проезжал старый крыс, да мне и подманил.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+126254,"Потом Бомен разжал объятия, и сестра прижалась к Анно.","Потом Бомен разжал объятий, и сестра прижалась к Анно.",объятия,объятий,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+2594,Только на Рождество брат Эльфхайх в первый раз посетил нас.,Только на Рождество брат Эльфхайх в первый раз посетил нам.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+19651,"Даже просто заключение здесь ослабит их, и довольно быстро.","Даже просто заключение здесь ослабит им, и довольно быстро.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+43248,Это смертельно опасное сообщение — во время лечения на нем первом мы фокусируем внимание.,Это смертельно опасное сообщение — во время лечения на нем первом мы фокусируем вниманию.,внимание,вниманию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+149490,"Мы им уж пасти открывали шестами, насильно всовывали пищу – выплевывают.","Мы им уж пастей открывали шестами, насильно всовывали пищу – выплевывают.",пасти,пастей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+114967,"Ведь и он сам выбирает, да еще, сказывал, десять лет знакомство водит.","Ведь и он сам выбирает, да еще, сказывал, десять лет знакомству водит.",знакомство,знакомству,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+95113,"Но живые – Шульте заметил, что Дева медленно переводит взгляд с Кучкина на Рожнова.","Но живые – Шульте заметил, что Дева медленно переводит взгляда с Кучкина на Рожнова.",взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+2976,"И этот Махади, и бармен описали вас так, что сомневаться не приходится.","И этот Махади, и бармен описали вам так, что сомневаться не приходится.",вас,вам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+40217,"Она холодно осмотрела его с ног до головы, говоря голосом Оале Найу.","Она холодно осмотрела ему с ног до головы, говоря голосом Оале Найу.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+138877,"Прешиент Ойю и ее отец присоединились к ним в тот самый момент, когда Ольми убрал чашу.","Прешиент Ойю и ее отец присоединились к ним в тот самый момент, когда Ольми убрал чаше.",чашу,чаше,Syntax,Government,verb_acc_object,verb_acc_object,librusec,7
+18445,"А завершал список Джеймс Александр Малколм Макензи Фрэзер, Брох Туарах.","А завершал списка Джеймс Александр Малколм Макензи Фрэзер, Брох Туарах.",список,списка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+135263,"Как та ловко удар отбила, с присядом зашагнула вперед и вбок.","Как та ловко удара отбила, с присядом зашагнула вперед и вбок.",удар,удара,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+135697,"Впервые принц открывал ей душу, очевидно, рута развязала ему язык.","Впервые принц открывал ей душе, очевидно, рута развязала ему язык.",душу,душе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+45095,Лилит получила дворянство — и вот перед нею явное тому доказательство!,Лилит получила дворянству — и вот перед нею явное тому доказательство!,дворянство,дворянству,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+33073,Ведь не даром медсестра ей сделала укол и пыталась сделать Берни.,Ведь не даром медсестра ей сделала укола и пыталась сделать Берни.,укол,укола,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+26367,"Его выдал радист группы подполковник Рейно Хейханнен, которого после пяти лет работы отозвали в Москву.","Ему выдал радист группы подполковник Рейно Хейханнен, которого после пяти лет работы отозвали в Москву.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,7
+81431,И верно меня Господь вразумил: нельзя такого людям открывать!,И верно мне Господь вразумил: нельзя такого людям открывать!,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+38271,"""Я его вижу"", – сказала вдруг Динника.","""Я ему вижу"", – сказала вдруг Динника.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+18126,"Панна Рита видела утешение хотя бы в том, что Мелания Барская не станет майоратшей.","Панна Рита видела утешению хотя бы в том, что Мелания Барская не станет майоратшей.",утешение,утешению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+117272,"Однако ее удивило, что Транд пожелал заниматься с Олавом.","Однако ей удивило, что Транд пожелал заниматься с Олавом.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+59440,"Если их дружбе пришел конец, ее жертва теряет смысл!","Если их дружбе пришел конец, ее жертва теряет смысла!",смысл,смысла,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+119028,"И вернув письмо, приказал немедленно подать Синокими тушечницу и бумагу.","И вернув письму, приказал немедленно подать Синокими тушечницу и бумагу.",письмо,письму,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+114081,"Кирасир, ставший напротив морского офицера, также взял колоду.","Кирасир, ставший напротив морского офицера, также взял колоде.",колоду,колоде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+25669,"Ерофей Марков, что на Шарташе золото отыскал, — истяжелец.","Ерофей Марков, что на Шарташе золота отыскал, — истяжелец.",золото,золота,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+129234,Он собрал ее одежду и накрыл наготу — хотя бы это Сулерна позволила сделать.,Он собрал ее одежду и накрыл наготы — хотя бы это Сулерна позволила сделать.,наготу,наготы,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+38401,"Немецкий физиолог Фервор указывает, что и машины имеют органы.","Немецкий физиолог Фервор указывает, что и машины имеют органов.",органы,органов,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+53191,"Тим походя затер их, сам удивляясь тому, насколько возросли его силы.","Тим походя затер им, сам удивляясь тому, насколько возросли его силы.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+54561,"Приток злобно толкнул раму так, что Осташа с Чупрей качнулись.","Приток злобно толкнул раме так, что Осташа с Чупрей качнулись.",раму,раме,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+114107,"Но прежде чем отступить перед заклятием друида, вестница сида дала Кондле яблоко.","Но прежде чем отступить перед заклятием друида, вестница сида дала Кондле яблока.",яблоко,яблока,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+74061,Вот Баго и откликнулся: Рэй непроизвольно или на голос поднял голову.,Вот Баго и откликнулся: Рэй непроизвольно или на голос поднял голове.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+127260,"Мерси поняла зачем, когда мужчины пододвинули кровать так, чтобы мать могла видеть всех через дверь.","Мерси поняла зачем, когда мужчины пододвинули кроватью так, чтобы мать могла видеть всех через дверь.",кровать,кроватью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+89002,"Надо будет – Яблонски обед прямо к мотору принесет, в пробку.","Надо будет – Яблонски обеда прямо к мотору принесет, в пробку.",обед,обеда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+139123,"Люди могут верить в сказки о Гее – правительство не может, и его не убедишь, что Основание верит.","Люди могут верить в сказки о Гее – правительство не может, и ему не убедишь, что Основание верит.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,7
+64331,"Ты и то, наверное, лучше провела бы дело.","Ты и то, наверное, лучше провела бы делу.",дело,делу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+95472,"Мариванна уговаривала ребят ночевать в детской, рядом с Петечкой.","Мариванна уговаривала ребятам ночевать в детской, рядом с Петечкой.",ребят,ребятам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+60474,"Эй ты, оставь нас, – отрывисто приказал он Майри.","Эй ты, оставь нам, – отрывисто приказал он Майри.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+48035,"Вот вечно так, не помню, где бросила трубку.","Вот вечно так, не помню, где бросила трубке.",трубку,трубке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+26993,"Вот только вам придется забрать следующую главу в Хорсгардзе, где ее читает генерал Бронлин.","Вот только вам придется забрать следующую главу в Хорсгардзе, где ей читает генерал Бронлин.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,8
+2138,Китайский цирк отчего-то злит И вредным мыслям жм°т руку мгла.,Китайский цирк отчего-то злит И вредным мыслям жм°т руке мгла.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+41205,"Ее иньями прихватило, — в самый раз она теперь на пироги.","Ей иньями прихватило, — в самый раз она теперь на пироги.",Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+49520,"К костру Осташа вернулся с мешком денег, бросил его к ногам Корнилы Нелюбина.","К костру Осташа вернулся с мешком денег, бросил ему к ногам Корнилы Нелюбина.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+51115,Да хоть Макарихе отдать — она бы переправила письмо хозяевам.,Да хоть Макарихе отдать — она бы переправила письму хозяевам.,письмо,письму,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+56426,"Я научилась понимать скальда, что сказал ""о пробуждающем горе оружии"".","Я научилась понимать скальда, что сказал ""о пробуждающем горя оружии"".",горе,горя,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+56412,Причер достал бинокль и взял три деления влево от раздвоенного ствола.,Причер достал бинокля и взял три деления влево от раздвоенного ствола.,бинокль,бинокля,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+32304,"Когда мы видели Тебя странником, и приняли? или нагим и одели?","Когда мы видели Тебе странником, и приняли? или нагим и одели?",Тебя,Тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+125150,"Тот самый бал, на который ее приглашал Зено Скаури!","Тот самый бал, на который ей приглашал Зено Скаури!",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+148595,"Его бы давно помиловали, когда бы не Ваше скандальное упрямство.","Ему бы давно помиловали, когда бы не Ваше скандальное упрямство.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+71865,"Все множество воинов бросилось на остальных пьяса, повергло их наземь и одолело одним количеством.","Все множество воинов бросилось на остальных пьяса, повергло им наземь и одолело одним количеством.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+17039,Золотой Цветок Дня поцеловала сына и приняла из рук Вендиция меч и пояс.,Золотой Цветок Дня поцеловала сыну и приняла из рук Вендиция меч и пояс.,сына,сыну,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+117,"Гнусностью, которой иные потерявшие ум не их потомки еще будут гордиться.","Гнусностью, которой иные потерявшие ума не их потомки еще будут гордиться.",ум,ума,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+33396,И вообще только здоровье отнимают у детей в той школе.,И вообще только здоровью отнимают у детей в той школе.,здоровье,здоровью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+68466,Хип всегда был тут как тут и заставлял его ими заниматься.,Хип всегда был тут как тут и заставлял ему ими заниматься.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+71433,"А вот пусть пани мне лучше скажет, почему холерный пес не поднял шум вовремя?","А вот пусть пани мне лучше скажет, почему холерный пес не поднял шума вовремя?",шум,шума,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+80282,"Маллт наверняка увидит его и окликнет, предупредив тем самым Мадога.","Маллт наверняка увидит ему и окликнет, предупредив тем самым Мадога.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+15602,"Ну, может, калли как раз нас теперь и разделяет.","Ну, может, калли как раз нам теперь и разделяет.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+87979,В этот миг его увидел Пятрас Весулас и бросился следом.,В этот миг ему увидел Пятрас Весулас и бросился следом.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+98690,"Анно Хаз подошел к Бомену и протянул руки, чтобы забрать у него тело жены.","Анно Хаз подошел к Бомену и протянул рук, чтобы забрать у него тело жены.",руки,рук,Syntax,Government,verb_acc_object,verb_acc_object,librusec,7
+54904,"Я это видела, Игер, прочитала в их сознании.","Я этого видела, Игер, прочитала в их сознании.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+72094,"Прослышали, что ты офицером произведен, что крестьян купил и квартиру барскую сняли, вот и заявились родственную нежность выразить.","Прослышали, что ты офицером произведен, что крестьянам купил и квартиру барскую сняли, вот и заявились родственную нежность выразить.",крестьян,крестьянам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,8
+43579,"Мог теперь причинить им боль, если случайно его обидят.","Мог теперь причинить им боль, если случайно ему обидят.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+114188,"Ты и охотник Грэн, вы не любите тамми, поэтому вы выгнали нас на Большой Склон.","Ты и охотник Грэн, вы не любите тамми, поэтому вы выгнали нам на Большой Склон.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+36950,"Они заполнили дом, промчавшись к квартире Бет, точно солдаты морской пехоты, с боя берущие берег.","Они заполнили дому, промчавшись к квартире Бет, точно солдаты морской пехоты, с боя берущие берег.",дом,дому,Syntax,Government,verb_acc_object,verb_acc_object,librusec,7
+26329,Казалоа бы чего проще – но эта дилемма приводит тебя в со стояние панического страха.,Казалоа бы чего проще – но эта дилемма приводит тебе в со стояние панического страха.,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+76353,"Поручив лошадей заботам Перрина, Джос вошел в дом ювелира.","Поручив лошадям заботам Перрина, Джос вошел в дом ювелира.",лошадей,лошадям,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+90145,"Пока отец носит корону, этот скитается по свету, потом будет нельзя.","Пока отец носит короне, этот скитается по свету, потом будет нельзя.",корону,короне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+90183,"Полицейский с последней строки сделал сноску: ""а пели сукин сын подлец"".","Полицейский с последней строки сделал сноске: ""а пели сукин сын подлец"".",сноску,сноске,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+74638,"Бласко кивнул, и мадам Феронье проводила их в темный дом.","Бласко кивнул, и мадам Феронье проводила им в темный дом.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+138306,"А без племянницы не обойтись, Яцусь намертво связал ее с нашим делом.","А без племянницы не обойтись, Яцусь намертво связал ей с нашим делом.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+72761,"Он лично сопровождал золото, следуя с большой группой наших людей по реке Чардс.","Он лично сопровождал золота, следуя с большой группой наших людей по реке Чардс.",золото,золота,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+105014,"Констанция спустила дочь с лошади и медленно ехала рядом, а груму приказала следовать за Ходерн.","Констанция спустила дочерью с лошади и медленно ехала рядом, а груму приказала следовать за Ходерн.",дочь,дочерью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+117748,"Вес разницу не делал, пусть это и был олимпийский бокс.","Вес разнице не делал, пусть это и был олимпийский бокс.",разницу,разнице,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,2
+40998,"Ранее золото Ирану принес Киануш Ростами, обновивший мировой рекорд.","Ранее золота Ирану принес Киануш Ростами, обновивший мировой рекорд.",золото,золота,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+124734,"У победителей отличились Брайан Раст, оформивший дубль, Кристофер Летанг, Доминик Кагун, Алекс Гальченюк и Джейк Гюнцель.","У победителей отличились Брайан Раст, оформивший дубля, Кристофер Летанг, Доминик Кагун, Алекс Гальченюк и Джейк Гюнцель.",дубль,дубля,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,8
+12090,"Там есть процедура, спустили: ""С такого-то момента пробы сохраните"".","Там есть процедура, спустили: ""С такого-то момента проб сохраните"".",пробы,проб,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+106607,"И верностью, Когда разлука в нем. Не их наряды И не профиль римский - Нас покоряет женская душа.","И верностью, Когда разлука в нем. Не их наряды И не профиль римский - Нам покоряет женская душа.",Нас,Нам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,7
+35268,"Как пояснил автор канала Филипп Кулин, письмо ему передали операторы.","Как пояснил автор канала Филипп Кулин, письму ему передали операторы.",письмо,письму,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+94753,У хозяев льла голы забили Никита Коростелев и Брендан Лайпсик.,У хозяев льла голов забили Никита Коростелев и Брендан Лайпсик.,голы,голов,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+111194,"Он это проговорил, кстати 2, - сказал Динзе.","Он этого проговорил, кстати 2, - сказал Динзе.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+62672,В этот ночной клуб министра пригласили Тарик и Люси Сиддики.,В этот ночной клуб министру пригласили Тарик и Люси Сиддики.,министра,министру,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+114351,По разбитым по нашим улицам Нынче танки прошли чуть свет.,По разбитым по нашим улицам Нынче танки прошли чуть света.,свет,света,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+117824,"Ответ этот уже был получен, генерал Балк меня ждал.","Ответ этот уже был получен, генерал Балк мне ждал.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+23035,"В настоящее время сотрудникитранспортной прокуратуры ведут разбирательство, а мартышку пока передалив биоцентр города Семея ВКО на острове Полковничий, сказал Нурманов.","В настоящее время сотрудникитранспортной прокуратуры ведут разбирательству, а мартышку пока передалив биоцентр города Семея ВКО на острове Полковничий, сказал Нурманов.",разбирательство,разбирательству,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,8
+19754,"Сейчас это возможно, но мы это прекратим, карта все будет блокировать такие вещи.","Сейчас это возможно, но мы этого прекратим, карта все будет блокировать такие вещи.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+117828,"Непонятно, если на один турнир его назначили или там контракт...","Непонятно, если на один турнир ему назначили или там контракт...",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+39883,"Я даже особо не припомню, чтобы команду так душили.","Я даже особо не припомню, чтобы команде так душили.",команду,команде,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+39073,"Василий этот, да ну вы знаете его, да.","Василий этот, да ну вы знаете ему, да.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+78866,"Когда команду бросили практически все, только вы мотивируете нас.","Когда команде бросили практически все, только вы мотивируете нас.",команду,команде,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+9626,"Потом, когда он пустил специалистов, газ всем включили.","Потом, когда он пустил специалистам, газ всем включили.",специалистов,специалистам,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+147418,"Такое нечаадаевское обращение┘ - Как ты это понимаешь, к какой (это) аудитории обращается?","Такое нечаадаевское обращение┘ - Как ты этого понимаешь, к какой (это) аудитории обращается?",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,6
+47688,В их составе мячи забили Буна Сарр и Неманья Радоньич.,В их составе мячей забили Буна Сарр и Неманья Радоньич.,мячи,мячей,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+98427,"Автоматически рефери закрывал лицо, поэтому один из ударов Широкова ногой разбил ему часы.","Автоматически рефери закрывал лицу, поэтому один из ударов Широкова ногой разбил ему часы.",лицо,лицу,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,4
+63605,"Ищет тело вредная зараза, как и все болезни испокон.","Ищет телу вредная зараза, как и все болезни испокон.",тело,телу,Syntax,Government,verb_acc_object,verb_acc_object,wikinews,3
+73798,Далее 2 года князь Прош занимался осадой крепости города Тигранакерт и тоже одержал победу.,Далее 2 года князь Прош занимался осадой крепости города Тигранакерт и тоже одержал победе.,победу,победе,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+76567,"Скандербег разделил армию на три части, распределив командование между собой, Моисуом Арианити Големи и Владанои Горицей.","Скандербег разделил армией на три части, распределив командование между собой, Моисуом Арианити Големи и Владанои Горицей.",армию,армией,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+24800,"Де Кастелли открыл приюты в Кутаиси, Аргвети, Багдади, Опшквити и Сепии.","Де Кастелли открыл приютов в Кутаиси, Аргвети, Багдади, Опшквити и Сепии.",приюты,приютов,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+113006,Однажды ноги против его воли приносят его в магазин ведьмы Юко.,Однажды ноги против его воли приносят ему в магазин ведьмы Юко.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+115050,Лидер ЛЭС Ники Вендола обвинил власти в демонтаже прав человека.,Лидер ЛЭС Ники Вендола обвинил властей в демонтаже прав человека.,власти,властей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+121905,"Его тоже принял Тэфэри, уже не губернатор и еще не император, но уже регент.","Ему тоже принял Тэфэри, уже не губернатор и еще не император, но уже регент.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+82029,"Она довела его до входа в ад на берегах речки Поникли, и Выливаха спустился вниз.","Она довела ему до входа в ад на берегах речки Поникли, и Выливаха спустился вниз.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+90298,"Бакон Еше Юндуна, стал его учеником и принял посвящение.","Бакон Еше Юндуна, стал его учеником и принял посвящению.",посвящение,посвящению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+31087,Тогда Дэгуан приказал Хайсы оценить Аньдуаня и Пудэ и тот очень точно охарактеризовал их.,Тогда Дэгуан приказал Хайсы оценить Аньдуаня и Пудэ и тот очень точно охарактеризовал им.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+21183,"Квели сказал ему, что Мос Дэфа сейчас нет и попросил его показать ему инструменталы, поскольку ему нравились эти альбомы.","Квели сказал ему, что Мос Дэфа сейчас нет и попросил ему показать ему инструменталы, поскольку ему нравились эти альбомы.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+76871,Но однажды Сион обратил внимание на двух необычных студентов: Кифар Ноллес и Райнера Люта.,Но однажды Сион обратил вниманию на двух необычных студентов: Кифар Ноллес и Райнера Люта.,внимание,вниманию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+147269,"Когда все офицеры нашего подразделения были ранены, именно Ги де Монлор взял командование на себя.","Когда все офицеры нашего подразделения были ранены, именно Ги де Монлор взял командованию на себя.",командование,командованию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+78009,"Тензин развеивает туман и находит Джинору, Каю и Буми.","Тензин развеивает тумана и находит Джинору, Каю и Буми.",туман,тумана,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+22859,"В Западной Европе употребляют преимущественно кору, и, иногда также.","В Западной Европе употребляют преимущественно коры, и, иногда также.",кору,коры,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+31720,Гуру даровал масанду прощение и приказал Макхан Шаху вернуть назад все имущество Дхир Мала.,Гуру даровал масанду прощению и приказал Макхан Шаху вернуть назад все имущество Дхир Мала.,прощение,прощению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+46583,Он послал сообщение Садаке и атабеку Мосула Джекермышу и приказал им присоединиться к армии и помочь деньгами.,Он послал сообщению Садаке и атабеку Мосула Джекермышу и приказал им присоединиться к армии и помочь деньгами.,сообщение,сообщению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+33937,"Президент Райко хочет, чтобы Варик и Асами использовали оружие как у Кувиры, но они не желают этого делать.","Президент Райко хочет, чтобы Варик и Асами использовали оружию как у Кувиры, но они не желают этого делать.",оружие,оружию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+88483,В ущельях Бабун-планины Николов нанес поражения сербоманским четам Йована Бабунского и Глигора Лямева.,В ущельях Бабун-планины Николов нанес поражений сербоманским четам Йована Бабунского и Глигора Лямева.,поражения,поражений,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+91698,"Несмотря на весь опыт Хау, он не выиграл ветер.","Несмотря на весь опыт Хау, он не выиграл ветру.",ветер,ветру,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+85186,"На его работу оказывают влияние дадаисты, венская группа и Хеймито фон Додерер.","На его работу оказывают влиянию дадаисты, венская группа и Хеймито фон Додерер.",влияние,влиянию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+24661,"Однако, Пенне снова снялась с боя не раскрыв причины.","Однако, Пенне снова снялась с боя не раскрыв причин.",причины,причин,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+42119,"Судили соревнования Елена Денисова, Галина Чоговадзе и Любовь Белавенец.","Судили соревнований Елена Денисова, Галина Чоговадзе и Любовь Белавенец.",соревнования,соревнований,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+125227,Но тут команду находят Даник и его юнитологи и отбирают у Айзека ключ.,Но тут команде находят Даник и его юнитологи и отбирают у Айзека ключ.,команду,команде,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+104898,"Именно он принял Ди за странствующего лекаря, и с подачи наставника и в городе судью принимают за его знакомого.","Именно он принял Ди за странствующего лекаря, и с подачи наставника и в городе судье принимают за его знакомого.",судью,судье,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+78277,"Хунгвыонг передал трон Ланг Льеу, а баньтьынг и баньзэй стали традиционными блюдами для Тета.","Хунгвыонг передал трона Ланг Льеу, а баньтьынг и баньзэй стали традиционными блюдами для Тета.",трон,трона,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+94169,Затем однако Мердавидж ибн Зийар изменил отношение к братьям Бувайхидам и послал в Кередж войско против Али.,Затем однако Мердавидж ибн Зийар изменил отношение к братьям Бувайхидам и послал в Кередж войску против Али.,войско,войску,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+95677,Аннемик ван Влейтен и присоединились к ней и обошли ее.,Аннемик ван Влейтен и присоединились к ней и обошли ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+147430,"Жрецы Хотеп и Хой тоже ""превращают"" палки в змей.","Жрецы Хотеп и Хой тоже ""превращают"" палок в змей.",палки,палок,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+29616,"Вилин сильно разбился, бортовой стрелок сержант Светлишный также получил ушибы.","Вилин сильно разбился, бортовой стрелок сержант Светлишный также получил ушибов.",ушибы,ушибов,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+83431,На горе Шагибуа берет начало река Шага (приток Малого Раузяка).,На горе Шагибуа берет началу река Шага (приток Малого Раузяка).,начало,началу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+35780,А мтиулы отняли имущество у Гиви Амилахора и его семью выгнали из Хады.,А мтиулы отняли имуществу у Гиви Амилахора и его семью выгнали из Хады.,имущество,имуществу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+96133,"Однако чирлидерши, Маки и толпа студентов слышат только последнюю часть заявления и называют ее ""завидкой"".","Однако чирлидерши, Маки и толпа студентов слышат только последнюю часть заявления и называют ей ""завидкой"".",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+94006,"Дравиду уже сообщил, что он будет играть, если Манджрекар провалит испытание.","Дравиду уже сообщил, что он будет играть, если Манджрекар провалит испытанию.",испытание,испытанию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+42243,"Они оба просили ее руки, и Инанна отдавала предпочтение Энкимду.","Они оба просили ее руки, и Инанна отдавала предпочтению Энкимду.",предпочтение,предпочтению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+75707,"Вскоре Отто обнаружил, что Дженникс взломал его технологию с Земли-3145 и сконструировала тела для себя, Морлана и Верны.","Вскоре Отто обнаружил, что Дженникс взломал его технологию с Земли-3145 и сконструировала тел для себя, Морлана и Верны.",тела,тел,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+75309,"На Поджио Тим Велленс начал развозить Тадея Погачара, а Матье ван дер Пул, Ваут ван Арт и Филиппо Ганна составили им компанию.","На Поджио Тим Велленс начал развозить Тадея Погачара, а Матье ван дер Пул, Ваут ван Арт и Филиппо Ганна составили им компанией.",компанию,компанией,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,11
+127712,"Кристина прощает Трис убийство Уилла, понимая, что моделирование делает человека полностью подконтрольным Джанин.","Кристина прощает Трис убийство Уилла, понимая, что моделирование делает человеку полностью подконтрольным Джанин.",человека,человеку,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+41363,Изредка в дополнению к прямоу грот-парусу йекты имели также топ.,Изредка в дополнению к прямоу грот-парусу йекты имели также топа.,топ,топа,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+124061,"Маслобоев задерживает клиента девочки, Иван поселяет ее у себя.","Маслобоев задерживает клиента девочки, Иван поселяет ей у себя.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+146295,"Их возглавили ""суаристы"" Фабиан Вильялабейтиа Копена и Карлос Фернандес Гарсия.","Им возглавили ""суаристы"" Фабиан Вильялабейтиа Копена и Карлос Фернандес Гарсия.",Их,Им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+6231,"У Роки есть бо, Кольт использует катану, а Тум-тум владеет сайями.","У Роки есть бо, Кольт использует катане, а Тум-тум владеет сайями.",катану,катане,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+148483,"Онслот приказывает Свиндлу сопроводить Шоквейва, пока остальные комбатиконы прикрывают фланги.","Онслот приказывает Свиндлу сопроводить Шоквейва, пока остальные комбатиконы прикрывают флангов.",фланги,флангов,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+138465,Символы позиции и движения зависят от их пола и оружие игрок выбрал их носить и использовать.,Символы позиции и движения зависят от их пола и оружию игрок выбрал их носить и использовать.,оружие,оружию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+52772,"Поверив в потенциал композиции, Франне Голде передала ее Селене.","Поверив в потенциал композиции, Франне Голде передала ей Селене.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+739,В должное время держал книгу на варварском языке шрамана из Юйтяня Учало.,В должное время держал книге на варварском языке шрамана из Юйтяня Учало.,книгу,книге,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+139518,"Его обхватывают Стю и остальные люди, включая директора школы.","Ему обхватывают Стю и остальные люди, включая директора школы.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+138589,"Первые, кто признал ее, были Коэн Рэн и Джудар.","Первые, кто признал ей, были Коэн Рэн и Джудар.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+87589,Ник Фьюри позволяет Адскому пламени пасть к его смерти в результате двойных сделок персонажа.,Ник Фьюри позволяет Адскому пламени пастью к его смерти в результате двойных сделок персонажа.,пасть,пастью,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+142782,"После впадения в Синташту, та изменяет название на Желкуар.","После впадения в Синташту, та изменяет названию на Желкуар.",название,названию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+127478,"Маккленэхэн ответил тем же, но форму надел и продолжил игру.","Маккленэхэн ответил тем же, но форме надел и продолжил игру.",форму,форме,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+118119,Киноринха вспарывает его при помощи скалид и особых спинных зубцов и выходит наружу.,Киноринха вспарывает ему при помощи скалид и особых спинных зубцов и выходит наружу.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+110902,Гомер у всех на глазах при помощи считалки вновь спасает завод.,Гомер у всех на глазах при помощи считалки вновь спасает завода.,завод,завода,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+139007,"Она же поживе лето еди но, отец же Корнилий возложи на ню аггелский образ.","Она же поживе лета еди но, отец же Корнилий возложи на ню аггелский образ.",лето,лета,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+139100,"Человек, который исполняет мелодию на паркапзуке, надувает мешок сам или мехами.","Человек, который исполняет мелодией на паркапзуке, надувает мешок сам или мехами.",мелодию,мелодией,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+5623,"Прибывает террорист Сольса Дудаев, дает Де Лука чемодан, полный бриллиантов, и Рейна показывает устройство.","Прибывает террорист Сольса Дудаев, дает Де Лука чемодан, полный бриллиантов, и Рейна показывает устройству.",устройство,устройству,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+27417,"Тана Шах получил место в литературе Телугу благодаря Канчарле Гопанне, племяннику Маданны.","Тана Шах получил месту в литературе Телугу благодаря Канчарле Гопанне, племяннику Маданны.",место,месту,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+81988,"Ее возглавили Хосеа Кутако, Мбурумба Керина и Клеменс Капууо.","Ей возглавили Хосеа Кутако, Мбурумба Керина и Клеменс Капууо.",Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+81695,"В отличие от всех голов, банка хорошо дает регенерацию.","В отличие от всех голов, банка хорошо дает регенерацией.",регенерацию,регенерацией,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+53266,"Он пытался убить незаконного тогда Тэндо, но его Зектер резко слез с браслета и покинул его.","Он пытался убить незаконного тогда Тэндо, но его Зектер резко слез с браслета и покинул ему.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+116943,"Василий Никитин сын Вердеревский ""в ее место"" руку приложил к данной грамоте.","Василий Никитин сын Вердеревский ""в ее место"" руке приложил к данной грамоте.",руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+84801,"Елбога захватил обоз, получив все запасы дулкадирской армии, а также женщин и детей.","Елбога захватил обоза, получив все запасы дулкадирской армии, а также женщин и детей.",обоз,обоза,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+64639,"Хелен Келеси покидает корт, две попытки вернуться в конце десятилетия оказались неудачными.","Хелен Келеси покидает корта, две попытки вернуться в конце десятилетия оказались неудачными.",корт,корта,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+45336,"По смерти Селинунта Ион выстроил город Гелику, а народ назвал ионами.","По смерти Селинунта Ион выстроил город Гелику, а народа назвал ионами.",народ,народа,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+93732,"Одна пума утаскивает шерсть Аппы и проводит Момо к небольшой ямке, оставляя клочок там.","Одна пума утаскивает шерсть Аппы и проводит Момо к небольшой ямке, оставляя клочка там.",клочок,клочка,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+88273,"В записи альбома приняли участие Корней, Дэн Маринкин, Костя Куликов, Михаил Габолаев, Олег Ингиозов.","В записи альбома приняли участию Корней, Дэн Маринкин, Костя Куликов, Михаил Габолаев, Олег Ингиозов.",участие,участию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+93868,"Поэтому Хяккимару называет ее Дороро, что буквально означает ""маленькое чудовище"".","Поэтому Хяккимару называет ей Дороро, что буквально означает ""маленькое чудовище"".",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+1388,"Чтобы противостоять Токко, Мурик Шпата заключил союз с правителем Гирокастра Гин Зенебежи.","Чтобы противостоять Токко, Мурик Шпата заключил союза с правителем Гирокастра Гин Зенебежи.",союз,союза,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+65454,"Заручившись поддержкой ишгардцев, герой и Сид получают корабль и уничтожают Гаруду.","Заручившись поддержкой ишгардцев, герой и Сид получают корабля и уничтожают Гаруду.",корабль,корабля,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+127297,"Однако Квангэтхо отправил 50-тысячное войско, которое отбило нападавших к Мимане.","Однако Квангэтхо отправил 50-тысячное войско, которое отбило нападавшими к Мимане.",нападавших,нападавшими,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+116279,"Этого же году люди наши, исторговав в Руси, назад шли, и на Воронеже твои люди — Сарыазманом зовут — разбойник твой пришел и взял их"""".","Этого же году люди наши, исторговав в Руси, назад шли, и на Воронеже твои люди — Сарыазманом зовут — разбойник твой пришел и взял им"""".",их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,13
+122942,"Тэйто увидел его во дворе церкви, спутав Хакурэна с Микагэ.","Тэйто увидел ему во дворе церкви, спутав Хакурэна с Микагэ.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+21387,"Правитель Кайтага, Амирчуфан отправил послов султану Фаридуну, с чьим отцом Ферибурзом они совместно брали неверный Гумик.","Правитель Кайтага, Амирчуфан отправил послам султану Фаридуну, с чьим отцом Ферибурзом они совместно брали неверный Гумик.",послов,послам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,7
+127057,"В 3 сезоне Рокет становится тренером Сноу Кидс, когда Аарч покидает их на некоторое время.","В 3 сезоне Рокет становится тренером Сноу Кидс, когда Аарч покидает им на некоторое время.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+42409,"Ахриман загрязняет воду, насылает смерть на первого человека Гайомарта и первобыка.","Ахриман загрязняет воде, насылает смерть на первого человека Гайомарта и первобыка.",воду,воде,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+40209,"Другой член группы набидов, Поль Серюзье также пытался отыскать ""комплекс правил"", вносящих порядок в божественную природу творчества.","Другой член группы набидов, Поль Серюзье также пытался отыскать ""комплекс правил"", вносящих порядка в божественную природу творчества.",порядок,порядка,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,9
+95355,"Клуб покинули Маркус Уильямс, Алекс Марич, Валерий Лиходей и Симас Ясайтис.","Клуба покинули Маркус Уильямс, Алекс Марич, Валерий Лиходей и Симас Ясайтис.",Клуб,Клуба,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+101415,"Виктимологию преподавали в Миланском католическом университете (курс вела Бальдри, Анна Костанца).","Виктимологией преподавали в Миланском католическом университете (курс вела Бальдри, Анна Костанца).",Виктимологию,Виктимологией,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+104212,"Муха умирает, а ходики больше не тикают, Инки их разбирает.","Муха умирает, а ходики больше не тикают, Инки им разбирает.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+44607,Позднее в Захламино ставят избы отставные солдаты Марк Морозов и Семен Саворовский.,Позднее в Захламино ставят изб отставные солдаты Марк Морозов и Семен Саворовский.,избы,изб,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+74229,"Сейб перенес его на другой, вызванный Интернет-развитием, новый мир СМИ.","Сейб перенес ему на другой, вызванный Интернет-развитием, новый мир СМИ.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+81812,"Добель направил сообщение в Петербург, однако там предложение отвергли.","Добель направил сообщению в Петербург, однако там предложение отвергли.",сообщение,сообщению,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+62352,"Гартербелт характеризует ее самой обученной из двух ангелов. — священник города Датэн и куратор сестер Анархия, крупный чернокожий мужчина с огромным афро.","Гартербелт характеризует ей самой обученной из двух ангелов. — священник города Датэн и куратор сестер Анархия, крупный чернокожий мужчина с огромным афро.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,9
+61945,Ашина Шээр оставил Го Сяокэ в Илолу и продолжил преследование.,Ашина Шээр оставил Го Сяокэ в Илолу и продолжил преследованию.,преследование,преследованию,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+114905,А зовут меня Желтобровым Буддой.,А зовут мне Желтобровым Буддой.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+65784,"Поверь мне, Сафул хочет тебя.","Поверь мне, Сафул хочет тебе.",тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+85051,Камергер совсем невежливо оскорбил статус.,Камергер совсем невежливо оскорбил статуса.,статус,статуса,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+49395,Зря ты нас вечор обнадежила.,Зря ты нам вечор обнадежила.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+22781,А потом дал Мег работу.,А потом дал Мег работе.,работу,работе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+981,И все же надушила бумагу.,И все же надушила бумаге.,бумагу,бумаге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+52020,Она сложила золото на траве газона.,Она сложила золота на траве газона.,золото,золота,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+24305,А если бы сделал это?,А если бы сделал этого?,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+68891,Ее больше заинтересовал его ответ.,Ей больше заинтересовал его ответ.,Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+33015,Дракон ждал его в Алтарной Норе.,Дракон ждал ему в Алтарной Норе.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+123809,Но версия Стокера потрясла ее.,Но версия Стокера потрясла ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+148398,Человек поставил перед Аделью рюмку.,Человек поставил перед Аделью рюмке.,рюмку,рюмке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+2124,Милфорд поднес кольцо к лицу Бельмонда.,Милфорд поднес кольцу к лицу Бельмонда.,кольцо,кольцу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+62025,Выкладывайте суть наконец или уходите.,Выкладывайте сутью наконец или уходите.,суть,сутью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+87853,Игор встретил меня возле самых дверей.,Игор встретил мне возле самых дверей.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+37539,Иллюзиара резко вскинула руку вверх.,Иллюзиара резко вскинула руке вверх.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+148350,Кэри шутливо отдал честь и вышел.,Кэри шутливо отдал чести и вышел.,честь,чести,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+15438,И расходы всетаки превышали их.,И расходы всетаки превышали им.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+69445,Шианна его уже считала низким человеком.,Шианна ему уже считала низким человеком.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+83151,Миз Белинда научила меня его готовить.,Миз Белинда научила мне его готовить.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+55359,Она прежде не приглашала меня.,Она прежде не приглашала мне.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+95866,Наконец Ли медленно опустил ствол.,Наконец Ли медленно опустил ствола.,ствол,ствола,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+111477,Грю выражал их с помощью газеты.,Грю выражал им с помощью газеты.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+69270,Это говорил здоровяк – инспектор полиции.,Этого говорил здоровяк – инспектор полиции.,Это,Этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+134996,Сергей взял образец из ее рук.,Сергей взял образца из ее рук.,образец,образца,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+40349,Вас я позвал сюда за следующим.,Вам я позвал сюда за следующим.,Вас,Вам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+126311,"Риган спасла тебе жизнь, Алек.","Риган спасла тебе жизнью, Алек.",жизнь,жизнью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+18085,Однако откуда он его знает?,Однако откуда он ему знает?,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+24539,Венаблс увеличил скорость до шестидесяти миль.,Венаблс увеличил скоростью до шестидесяти миль.,скорость,скоростью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+45850,"Гм, странными создал нас Род.","Гм, странными создал нам Род.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+36913,Лишь панн Идалия беспокоила ее.,Лишь панн Идалия беспокоила ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+41282,Она специально ее здесь набросала.,Она специально ей здесь набросала.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+104826,Иногда тучи распарывало о нечто невидимое.,Иногда туч распарывало о нечто невидимое.,тучи,туч,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+2677,Только владелец издания ее уволил.,Только владелец издания ей уволил.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+126288,Он сказал Энни Вэлс правду.,Он сказал Энни Вэлс правде.,правду,правде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+118492,Ты сделала это ради Варда?,Ты сделала этого ради Варда?,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+90934,"Интересно, когда Джейми составил документ?","Интересно, когда Джейми составил документа?",документ,документа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+123548,Без единого слова Джеррани надел кольчугу.,Без единого слова Джеррани надел кольчуге.,кольчугу,кольчуге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+61554,Глупцы Петровичи разбередили ему душу.,Глупцы Петровичи разбередили ему душе.,душу,душе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+16232,И палубу застелил густой чад.,И палубе застелил густой чад.,палубу,палубе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+98500,А вечный плен заменял смерть.,А вечный плен заменял смертью.,смерть,смертью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+41366,Все в городе Пиндемонте любили его.,Все в городе Пиндемонте любили ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+19974,Земилиус заметил это и смутился.,Земилиус заметил этого и смутился.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+89413,Наконец Клер вернула ему документ.,Наконец Клер вернула ему документа.,документ,документа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+76255,"Ты, что специально заказал его?","Ты, что специально заказал ему?",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+108115,Тут снова ожесточение обуяло князя.,Тут снова ожесточение обуяло князю.,князя,князю,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+142256,Тим сейчас же треснул его снова.,Тим сейчас же треснул ему снова.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+89685,Это делали монахини в Дандарге.,Этого делали монахини в Дандарге.,Это,Этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+9202,Я взял да и достал бочку.,Я взял да и достал бочке.,бочку,бочке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+69305,Это ее похитил Фулк де Лангр?,Это ей похитил Фулк де Лангр?,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+131612,Начинал сезон как игрок замены.,Начинал сезона как игрок замены.,сезон,сезона,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+1987,Его находит Гарона и Кадгар.,Ему находит Гарона и Кадгар.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+40038,Шиловские колхозники активно поддержали почин.,Шиловские колхозники активно поддержали почина.,почин,почина,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+94542,Также персонажа обычно характеризуют его глаза.,Также персонажу обычно характеризуют его глаза.,персонажа,персонажу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+79123,Покинул засаду и БТ Найдина.,Покинул засаде и БТ Найдина.,засаду,засаде,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+119829,Отец Фридриха оказывал поддержку Фридель.,Отец Фридриха оказывал поддержке Фридель.,поддержку,поддержке,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+20849,Войско возглавил граф этого города Фирмин.,Войску возглавил граф этого города Фирмин.,Войско,Войску,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+125392,Родителей зовут Эфорн и Салия.,Родителям зовут Эфорн и Салия.,Родителей,Родителям,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+68354,Девушки предпочитали фартуки запанам и передникам.,Девушки предпочитали фартуков запанам и передникам.,фартуки,фартуков,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+30323,Акул добывают ради жира печени.,Акулам добывают ради жира печени.,Акул,Акулам,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+15064,Его распознал Девятый Кьябген Друкчен.,Ему распознал Девятый Кьябген Друкчен.,Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+40863,Однако дворец захватывает принц Штюрфрид.,Однако дворца захватывает принц Штюрфрид.,дворец,дворца,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+6117,Китсис посчитал это интересным ходом.,Китсис посчитал этого интересным ходом.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,2
+66393,Большинство населения Кавара составляют тубу.,Большинство населения Кавара составляют тубы.,тубу,тубы,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+121168,"Лесину сам-друг поднял, мужика и выволокли.","Лесиной сам-друг поднял, мужика и выволокли.",Лесину,Лесиной,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+62555,Он ждет брата в каюте первого помощника.,Он ждет брату в каюте первого помощника.,брата,брату,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+70569,"Последуя ему, последний, ум теряю.","Последуя ему, последний, ума теряю.",ум,ума,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+107767,Лес переводила взгляд с Фредди на Алекс.,Лес переводила взгляда с Фредди на Алекс.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+73989,Шаша с Тинной вывели ее за дверь.,Шаша с Тинной вывели ей за дверь.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+47904,Гидра не изменила форму – но погибла.,Гидра не изменила форме – но погибла.,форму,форме,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+82820,"Как, по-твоему, набирает людей Таэрас?","Как, по-твоему, набирает людям Таэрас?",людей,людям,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+113028,"Знали ли колдеры, кто ждет их?","Знали ли колдеры, кто ждет им?",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+13136,Алев с неожиданной силой сжала ей руку.,Алев с неожиданной силой сжала ей руке.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+139503,Пускай еще покипит: не закрывай пробку!,Пускай еще покипит: не закрывай пробке!,пробку,пробке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+138028,"И доста°шь портсигар, Нарушая священность запаса.","И доста°шь портсигара, Нарушая священность запаса.",портсигар,портсигара,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+87881,"Таски завела двигатель, и мотор взревел.","Таски завела двигателя, и мотор взревел.",двигатель,двигателя,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+18290,"Иди зови его, – согласился Трипитака.","Иди зови ему, – согласился Трипитака.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+85794,На том месте объект видели несколько раз.,На том месте объекта видели несколько раз.,объект,объекта,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+91808,"Транд сын Эльвира, назвал его епископ Торольв.","Транд сын Эльвира, назвал ему епископ Торольв.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+125486,"Нет, скорее всего Латур увез ее силой.","Нет, скорее всего Латур увез ей силой.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+71953,"Барки обегали его, лихо отбрасывая налево пенную фату.","Барки обегали ему, лихо отбрасывая налево пенную фату.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+84831,Ответ держал один из старых касиков кратко и ясно.,Ответа держал один из старых касиков кратко и ясно.,Ответ,Ответа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+62189,"Ветра нет, Соловый не найдет засаду верхним чутьем.","Ветра нет, Соловый не найдет засаде верхним чутьем.",засаду,засаде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+8002,В святыне этой черпали силы современные инженеры и адвокаты!,В святыне этой черпали сил современные инженеры и адвокаты!,силы,сил,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+112320,Неужели она считает ее другом доктора ван Кайзера?,Неужели она считает ей другом доктора ван Кайзера?,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+101737,"У Одда проверили пропуск, Трашбога пропустили беспрепятственно.","У Одда проверили пропуску, Трашбога пропустили беспрепятственно.",пропуск,пропуску,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+38068,"Вот так мы иногда читаем нотации, агент Валюшок.","Вот так мы иногда читаем нотаций, агент Валюшок.",нотации,нотаций,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+57352,Сэтта давала слово и может взять слово назад.,Сэтта давала слову и может взять слово назад.,слово,слову,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+97848,Она встретила его стеной силы и нанесла ответный.,Она встретила ему стеной силы и нанесла ответный.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+133795,Но тем не менее не говорил и правду.,Но тем не менее не говорил и правде.,правду,правде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+106500,"Власти ловили его, да народ скрывал или отбивал.","Власти ловили ему, да народ скрывал или отбивал.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+112818,Адди закрыла книгу и взглянула на лица учеников.,Адди закрыла книге и взглянула на лица учеников.,книгу,книге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+106281,"Во-первых, Коуди Сноу принудил ее оставить лохань.","Во-первых, Коуди Сноу принудил ей оставить лохань.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+77875,Быстрым емком зажал руку: силач этот старец!,Быстрым емком зажал руке: силач этот старец!,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+86675,"Да, его больше не шокировал костюм Ферн.","Да, ему больше не шокировал костюм Ферн.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+16026,"Газета приходила вечером, – ее привозил Эмет.","Газета приходила вечером, – ей привозил Эмет.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+88519,Уложила ее — но ведь больна не Марта.,Уложила ей — но ведь больна не Марта.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+71505,"Жибанде глаз подбили, да Захлюстке вышибли зуб.","Жибанде глазу подбили, да Захлюстке вышибли зуб.",глаз,глазу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+92884,Нед поднял сумку и велел Эдне взять вторую.,Нед поднял сумке и велел Эдне взять вторую.,сумку,сумке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+101299,Осташа повернул голову и увидел над собой Чупрю.,Осташа повернул голове и увидел над собой Чупрю.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+2487,Куда она переехала? — перебил женщину Хартер.,Куда она переехала? — перебил женщине Хартер.,женщину,женщине,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+20886,Арман медленно один за другим снял с нее чулки.,Арман медленно один за другим снял с нее чулкам.,чулки,чулкам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+97042,"Счастье бы нам открыла, кабы не филин.","Счастью бы нам открыла, кабы не филин.",Счастье,Счастью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+114559,"Алекс, увидев новую цель, торопил кучера.","Алекс, увидев новую цель, торопил кучеру.",кучера,кучеру,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+132708,"И когда увидела огонь, сразу лес помчалась туда.","И когда увидела огня, сразу лес помчалась туда.",огонь,огня,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+125338,"Лиска посмотрела на невров, перевела взгляд на Кору.","Лиска посмотрела на невров, перевела взгляда на Кору.",взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+37650,Вещая Сигрид просила меня это выяснить – ради Каролины.,Вещая Сигрид просила мне это выяснить – ради Каролины.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+109419,"Тронд совал во все нос, словно щенок.","Тронд совал во все носа, словно щенок.",нос,носа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+99431,Тем временем тот медленно вытянул руку в направлении Сенора.,Тем временем тот медленно вытянул руке в направлении Сенора.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+29387,Треск слышал? — неожиданно весело спросил князь.,Треска слышал? — неожиданно весело спросил князь.,Треск,Треска,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+2779,"Надо знать наверняка, что Розильда нас не увидит.","Надо знать наверняка, что Розильда нам не увидит.",нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+14181,"Чуть отстранив Дженетт, Висенте поднял, трубку.","Чуть отстранив Дженетт, Висенте поднял, трубке.",трубку,трубке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+109554,"Никто меня не погоняет, захотел – отдохнул.","Никто мне не погоняет, захотел – отдохнул.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+65972,"Зак бросил взгляд вниз, на магазин Бенси.","Зак бросил взгляда вниз, на магазин Бенси.",взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+66735,"Дю Омэ поднял клинок, чтобы добить противника.","Дю Омэ поднял клинка, чтобы добить противника.",клинок,клинка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+145614,"Рильке не подозревал, что ведет их Гоцит.","Рильке не подозревал, что ведет им Гоцит.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+132456,Чейз расправил плечи и открыто досмотрел влица братьев.,Чейз расправил плеч и открыто досмотрел влица братьев.,плечи,плеч,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+38121,"Наши их тоже жучили, только шерсть летела.","Наши им тоже жучили, только шерсть летела.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+140968,Как и увидел-то его сквозь толпище – непонятно.,Как и увидел-то ему сквозь толпище – непонятно.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+126082,И страж проводил его к дверями тронного зала.,И страж проводил ему к дверями тронного зала.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+85918,"Это только баре думают, что землю купили.","Это только баре думают, что земле купили.",землю,земле,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+54353,"Энди выполнил приказ, помогая Чаку завернуть Илейн.","Энди выполнил приказа, помогая Чаку завернуть Илейн.",приказ,приказа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+10813,"Когда свет наконец пропал, Земилиус открыл глаза.","Когда свет наконец пропал, Земилиус открыл глазам.",глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+50243,"Аще и веща душа в дерзе теле, но часто беды страдаше.","Аще и веща душа в дерзе теле, но часто бед страдаше.",беды,бед,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+140876,"Вы, или ваш шеф или вы оба смахнули его.","Вы, или ваш шеф или вы оба смахнули ему.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+103157,"Люди, сколько хотят, могут восхищаться Деймиеном, но газеты контролирует Александр.","Люди, сколько хотят, могут восхищаться Деймиеном, но газет контролирует Александр.",газеты,газет,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+2946,"Тут все ясно, Гил сам напросился, и Джош прекрасно отделал его.","Тут все ясно, Гил сам напросился, и Джош прекрасно отделал ему.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+35436,Муж как-то заметил: много ли они оба ее видели?,Муж как-то заметил: много ли они оба ей видели?,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+35104,"Тим огрызнулся: он и сам знал, не поймай они космолет, потом сам черт его не отыщет.","Тим огрызнулся: он и сам знал, не поймай они космолета, потом сам черт его не отыщет.",космолет,космолета,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+64353,"Икается нынче на хуторе Большой Набатов седоклокому Шурке – Александру Андреевичу, не раз его помянули.","Икается нынче на хуторе Большой Набатов седоклокому Шурке – Александру Андреевичу, не раз ему помянули.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,7
+91842,"Дзекоин протянула бумагу, потом, взглянув на Хидетаду, заколебалась.","Дзекоин протянула бумаге, потом, взглянув на Хидетаду, заколебалась.",бумагу,бумаге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+105832,"Кто друзей забывает – того Митра накажет, так жрецы говорят!","Кто друзьям забывает – того Митра накажет, так жрецы говорят!",друзей,друзьям,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+29169,"Вы говорите, что Хари Селдон говорил правду и Фондов действительно два.","Вы говорите, что Хари Селдон говорил правде и Фондов действительно два.",правду,правде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+102587,Я помню его по событиям на отметке один и три экс девять.,Я помню ему по событиям на отметке один и три экс девять.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+32401,"Ведь мне Александр Сергеевич все даже секретное сказывает, — разом подхватил, тоже понизив голос, Сашка.","Ведь мне Александр Сергеевич все даже секретное сказывает, — разом подхватил, тоже понизив голосу, Сашка.",голос,голосу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+75673,"Яга поймала песню и обрадовалась: ага, моя душа!","Яга поймала песне и обрадовалась: ага, моя душа!",песню,песне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+70730,"Сейчас напарю тебя, всю хворь выгоним, – лесник ушел.","Сейчас напарю тебе, всю хворь выгоним, – лесник ушел.",тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+54509,Крис впереди четко обработала перегиб и мгновенно скрылась из глаз.,Крис впереди четко обработала перегиба и мгновенно скрылась из глаз.,перегиб,перегиба,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+23133,"Прежде чем Солейм повторил приказ, Зазвенел телеграф машинного отделения.","Прежде чем Солейм повторил приказа, Зазвенел телеграф машинного отделения.",приказ,приказа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+101577,Ты находил их едва ли не самым красивым во мне!,Ты находил им едва ли не самым красивым во мне!,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+13537,Осташа ладонью смел снег с окостеневшего лица вогула — словно с резной доски.,Осташа ладонью смел снегу с окостеневшего лица вогула — словно с резной доски.,снег,снегу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+83507,Он подошел с мотком веревки и вместе с Раддом скрутил Лилиа руки.,Он подошел с мотком веревки и вместе с Раддом скрутил Лилиа рук.,руки,рук,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+125530,"Что только это его поддержало, когда один хам грубо отверг его стихи.","Что только это ему поддержало, когда один хам грубо отверг его стихи.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+35985,Панический ужас охватил ее – прямо на пути стада был Трэй!,Панический ужас охватил ей – прямо на пути стада был Трэй!,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+10910,"Постепенно прием терял сходство с изысканным балом в Мейфэре, нвенгарская природа брала верх.","Постепенно прием терял сходство с изысканным балом в Мейфэре, нвенгарская природа брала верху.",верх,верху,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+140147,"Я не сразу это смог, но держался только Кузьмы, его уровня.","Я не сразу этого смог, но держался только Кузьмы, его уровня.",это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+144901,"Ты вот сплавом душу правишь, а я беседой учительной.","Ты вот сплавом душе правишь, а я беседой учительной.",душу,душе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+82107,Веснусчатый Бартек вдруг поднял голову и внимательно посмотрел на Януша.,Веснусчатый Бартек вдруг поднял голове и внимательно посмотрел на Януша.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+112637,"Я вишу только факты, потому что я – не настоящий!","Я вишу только фактов, потому что я – не настоящий!",факты,фактов,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+129317,"Керис остался, а Яста прошел вперед, хотя Мышка его не назвала.","Керис остался, а Яста прошел вперед, хотя Мышка ему не назвала.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+48075,"И они называют дирхем ""тазиджа"", когда вес его четыре данака с половиной.","И они называют дирхема ""тазиджа"", когда вес его четыре данака с половиной.",дирхем,дирхема,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+44933,"Чуть кто неустойку окажет, такого сейчас из ватаги долой.","Чуть кто неустойке окажет, такого сейчас из ватаги долой.",неустойку,неустойке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+34310,"И он позволяет ей, даже приводит к ней мужчин?","И он позволяет ей, даже приводит к ней мужчинам?",мужчин,мужчинам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+61435,"Киерко же стушевался, вкрутую спиной повернувшись к Мандро, заметавшегося, потому что его поедали глазами.","Киерко же стушевался, вкрутую спиной повернувшись к Мандро, заметавшегося, потому что ему поедали глазами.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,8
+38640,"Ее не удивит, если старый друг отца вызовется помочь – ведь Пимм всегда любил но все вмешиваться.","Ей не удивит, если старый друг отца вызовется помочь – ведь Пимм всегда любил но все вмешиваться.",Ее,Ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+21173,Петр Дмитриевич узнал его – высокий тенорок руководителя полетов вряд ли можно с кем-то перепутать.,Петр Дмитриевич узнал ему – высокий тенорок руководителя полетов вряд ли можно с кем-то перепутать.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,8
+89442,"Балкида, душа света, сестра моя, моя супруга, я нашел вас наконец!","Балкида, душа света, сестра моя, моя супруга, я нашел вам наконец!",вас,вам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+78491,Милан наскоро пролистал издание и нашел еще несколько подобных рекламных вставок.,Милан наскоро пролистал изданию и нашел еще несколько подобных рекламных вставок.,издание,изданию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+8171,"У меня нос — для семерых рос, он меня еще никогда не подводил.","У меня нос — для семерых рос, он мне еще никогда не подводил.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+32542,"На каждый день Прокопьич Данилушке работу дает, а все забава.","На каждый день Прокопьич Данилушке работе дает, а все забава.",работу,работе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+111237,"Мало ли, что Мирон Галанин признал истяжельчество толком — Невьянский-то собор его отринул!","Мало ли, что Мирон Галанин признал истяжельчество толком — Невьянский-то собор ему отринул!",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+101746,"Еще как он лезет, а уж адреса смотрит непременно.","Еще как он лезет, а уж адресов смотрит непременно.",адреса,адресов,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+117619,"И Гай купил дом, теперь он знал, где она.","И Гай купил дому, теперь он знал, где она.",дом,дому,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+143247,"Так вы не скажете, Хеленка, чем их излечили?","Так вы не скажете, Хеленка, чем им излечили?",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+78264,"Я имею доказательства, что Бустаменте заключил договор с Антинагюэлем, великим токи ароканов, чтобы легче достигнуть власти.","Я имею доказательства, что Бустаменте заключил договору с Антинагюэлем, великим токи ароканов, чтобы легче достигнуть власти.",договор,договору,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+129288,"Нет, видела как фон, на котором произносил монолог старый Комптон Маккена.","Нет, видела как фон, на котором произносил монолога старый Комптон Маккена.",монолог,монолога,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+87178,"Его зовут – Вил Тернер, хороший парень из окрестностей Экшем Богз.","Ему зовут – Вил Тернер, хороший парень из окрестностей Экшем Богз.",Его,Ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+120151,"Еду вам принесут, Оружие можете оставить при себе – до специальных распоряжений Каранхи.","Еды вам принесут, Оружие можете оставить при себе – до специальных распоряжений Каранхи.",Еду,Еды,Syntax,Government,verb_acc_object,verb_acc_object,librusec,5
+16041,Мои люди опознали его – это Верховный жрец Поули Верисов.,Мои люди опознали ему – это Верховный жрец Поули Верисов.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+72305,Это мне Данило сам такой камень подложил и узор вывел.,Это мне Данило сам такой камень подложил и узора вывел.,узор,узора,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+88706,"А это старье выброси, моль не собирай, – Артем ухмыльнулся.","А это старье выброси, моля не собирай, – Артем ухмыльнулся.",моль,моля,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+4354,А между тем тогда уж он видел бы ее регулярно.,А между тем тогда уж он видел бы ей регулярно.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+20908,"Тут, в настоящий момент, молодой врач измерял Финашутину давление.","Тут, в настоящий момент, молодой врач измерял Финашутину давлению.",давление,давлению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+69218,Башня пережила войну и теперь является центральной частью парка мира Хейвадай-коэн.,Башня пережила войне и теперь является центральной частью парка мира Хейвадай-коэн.,войну,войне,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+2531,У месте называемом Хубудаган Агуда нагнал императорскую армию и полностью разгромил ее.,У месте называемом Хубудаган Агуда нагнал императорскую армию и полностью разгромил ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+132957,"Голы забили Урсула Лон, Хайди Мор и Анжелика Ферманн.","Голов забили Урсула Лон, Хайди Мор и Анжелика Ферманн.",Голы,Голов,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+85234,"В следующем сезоне Клара понимает, зачем Доктор ее достал.","В следующем сезоне Клара понимает, зачем Доктор ей достал.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+101346,"Либо бежал к Кеику из Трахина, но очистил его царь Акаст.","Либо бежал к Кеику из Трахина, но очистил ему царь Акаст.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+35140,"Ее аватар — Дарк Тамара, уже несколько лет защищает город.","Ее аватар — Дарк Тамара, уже несколько лет защищает городу.",город,городу,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+95842,А Нед Фландерс выдал Кента и унизил его по полной.,А Нед Фландерс выдал Кента и унизил ему по полной.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+58060,"На правах аренды клуб усиливают Кристиан Атсу, Сифу, и Икучукву Уче.","На правах аренды клуба усиливают Кристиан Атсу, Сифу, и Икучукву Уче.",клуб,клуба,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+33553,Он отнял посадничество у Иванки Дмитровица и передал его Внезду Водовику.,Он отнял посадничеству у Иванки Дмитровица и передал его Внезду Водовику.,посадничество,посадничеству,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+132550,"В следующем месяце Джон Норрейс позже остановил Вердуго, отбив его у Ниезиля.","В следующем месяце Джон Норрейс позже остановил Вердуго, отбив ему у Ниезиля.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+84326,"В дополнение к ним, два палатина предыдущего года, Роланд Ратот и Апор Печ, также получили титул в качестве противовеса, согласно теории Жолдоса.","В дополнение к ним, два палатина предыдущего года, Роланд Ратот и Апор Печ, также получили титула в качестве противовеса, согласно теории Жолдоса.",титул,титула,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,10
+144764,Через пять дней папа Мельхиад и будущий мученик Себастьян похоронили их на кладбище на виа Лабикана.,Через пять дней папа Мельхиад и будущий мученик Себастьян похоронили им на кладбище на виа Лабикана.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+79347,"Вира Симха Редди - арбитр, который прилагает усилия для устранения известной фракционной борьбы.","Вира Симха Редди - арбитр, который прилагает усилий для устранения известной фракционной борьбы.",усилия,усилий,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+41646,"Собрав меч, игроку предстоит победить Малкарна чтобы выиграть сценарий и завершить Век льда.","Собрав меча, игроку предстоит победить Малкарна чтобы выиграть сценарий и завершить Век льда.",меч,меча,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,6
+89970,"Девушка превосходила его быстротой, поэтому бог не мог догнать Апемосину.","Девушка превосходила ему быстротой, поэтому бог не мог догнать Апемосину.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+123394,"Передав рыбам слова брата, Лю-третий сказал вернуть воду сейчас, а монету рыбы найдут сами.","Передав рыбам слова брата, Лю-третий сказал вернуть воду сейчас, а монете рыбы найдут сами.",монету,монете,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,5
+103618,"Одновременно Вольф приобрел имущество команды Хескет, которая недавно покинула чемпионат.","Одновременно Вольф приобрел имущество команды Хескет, которая недавно покинула чемпионата.",чемпионат,чемпионата,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+62908,"Затем пуджи проводят ежедневно, пока шалаграм сохраняется в храме или семье.","Затем пудж проводят ежедневно, пока шалаграм сохраняется в храме или семье.",пуджи,пудж,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,4
+89039,"Одновременно капитан Мерсьер предложил вампум вождю Таначарисону в знак того, что желает дружбы и ирокезами.","Одновременно капитан Мерсьер предложил вампума вождю Таначарисону в знак того, что желает дружбы и ирокезами.",вампум,вампума,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,8
+55495,Он пролил кровь за Шот.,Он пролил кровью за Шот.,кровь,кровью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+91271,И так же долго желает его.,И так же долго желает ему.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+15203,"Спасибо, что сразу приняли меня.","Спасибо, что сразу приняли мне.",меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+98722,Джек убрал руку и сел.,Джек убрал руке и сел.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+4803,Или же вора напугало возвращение Винтера?,Или же вору напугало возвращение Винтера?,вора,вору,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+61314,Я беру его на коле ни.,Я беру ему на коле ни.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+128320,Эти его игры ужасно раздражали ее.,Эти его игры ужасно раздражали ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+138797,Почему же Килдэр прекратил занятия?,Почему же Килдэр прекратил занятий?,занятия,занятий,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+28149,Штейников прочел ее — и ахнул.,Штейников прочел ей — и ахнул.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+85887,А сам вновь развернул карту.,А сам вновь развернул карте.,карту,карте,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+61312,"Ведьма, бросившая вызов самому Сонцерогому.","Ведьма, бросившая вызова самому Сонцерогому.",вызов,вызова,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+111035,Вот размотал с себя Айлып косу.,Вот размотал с себя Айлып косе.,косу,косе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+121676,Ты же столько ее съел!,Ты же столько ей съел!,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+3954,"Кивнув, Элиан протянула ему документ.","Кивнув, Элиан протянула ему документа.",документ,документа,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+60646,И каракипчак Кобланды-батыр нарушил тишину.,И каракипчак Кобланды-батыр нарушил тишины.,тишину,тишины,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+16756,Я отнесу пленника к леди Глэдии.,Я отнесу пленнику к леди Глэдии.,пленника,пленнику,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+51703,Ловиса сменила ее как раз вовремя.,Ловиса сменила ей как раз вовремя.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+44833,И видят за Федькой-стеклом – меня.,И видят за Федькой-стеклом – мне.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+27372,"Возможно, здесь ее не заметят.","Возможно, здесь ей не заметят.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+38548,Деймиен перевел взгляд на Фелсана.,Деймиен перевел взгляда на Фелсана.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+35349,Веб метнул в нее взгляд.,Веб метнул в нее взгляда.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+99780,Пью не удостоил ее взглядом.,Пью не удостоил ей взглядом.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+20701,Луз быстро передала письмо сыну.,Луз быстро передала письму сыну.,письмо,письму,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+135166,И тут Франц настиг ее.,И тут Франц настиг ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+116461,Таргитай потянул на себя Меч.,Таргитай потянул на себя Меча.,Меч,Меча,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+126884,Фарр почти не слушал их.,Фарр почти не слушал им.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+68426,Ваш сын тоже меня увидел.,Ваш сын тоже мне увидел.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+12625,Это зрелище окончательно добило наемников.,Это зрелище окончательно добило наемникам.,наемников,наемникам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+42812,"Принесите список нам, если найдете.","Принесите списка нам, если найдете.",список,списка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+41300,Так я давно ее продал.,Так я давно ей продал.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+5584,Звезда потухшая порою солнце заслоняет.,Звезда потухшая порою солнцу заслоняет.,солнце,солнцу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+89504,Скай сразу привлекала к себе внимание.,Скай сразу привлекала к себе вниманию.,внимание,вниманию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+45396,Не вдруг еще и грех замолишь.,Не вдруг еще и греха замолишь.,грех,греха,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+51612,В этот раз сценку написала Розильда.,В этот раз сценке написала Розильда.,сценку,сценке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+41127,Это она спасла Тайкиру ногу.,Это она спасла Тайкиру ноге.,ногу,ноге,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+21756,Эйкен встал и поставил тазик.,Эйкен встал и поставил тазика.,тазик,тазика,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+41737,Этот хитрый ответ спас жизнь Бресу.,Этот хитрый ответ спас жизнью Бресу.,жизнь,жизнью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+23853,Сейчас немного потрясет – включаю ускоритель!,Сейчас немного потрясет – включаю ускорителя!,ускоритель,ускорителя,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+9084,Илейн откладывала это сколько было можно.,Илейн откладывала этого сколько было можно.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+99,Франсин молча снова наполнила чашки.,Франсин молча снова наполнила чашек.,чашки,чашек,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+131902,Ардмор сжал цепь еще сильнее.,Ардмор сжал цепью еще сильнее.,цепь,цепью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+68909,Уж она его видит насквозь!,Уж она ему видит насквозь!,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+14983,Казик бросил взгляд на руку Элюни.,Казик бросил взгляда на руку Элюни.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+54444,Другой бандит зажимал рот Психее.,Другой бандит зажимал рта Психее.,рот,рта,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+98485,Но и его Чернов не отбыл.,Но и ему Чернов не отбыл.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+23498,"Появилась Кей Эберкромби, окликнула ее.","Появилась Кей Эберкромби, окликнула ей.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+5547,Вот и Владимир Ашотович поддержит разговор...,Вот и Владимир Ашотович поддержит разговора...,разговор,разговора,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+137914,Второй на козлах едва их удержал.,Второй на козлах едва им удержал.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+124590,Потом фигура танца разъединила их.,Потом фигура танца разъединила им.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+59620,Однако она хорошо изучила людей!,Однако она хорошо изучила людям!,людей,людям,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+121994,Олег снова улучив момент вырвался.,Олег снова улучив момента вырвался.,момент,момента,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+33487,Сто ле! тебя не слышала.,Сто ле! тебе не слышала.,тебя,тебе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+89702,Лило подняла голову и пожата плечами.,Лило подняла голове и пожата плечами.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+127843,Мойра остановились и повернула голову.,Мойра остановились и повернула голове.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+28127,"Он понял, что его подозревают в измене Акоги ради Отикубо.","Он понял, что ему подозревают в измене Акоги ради Отикубо.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+27629,"Эшарт коротко постучал, затем повел их в гостиную вдовы.","Эшарт коротко постучал, затем повел им в гостиную вдовы.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+58885,"Мне теперь все одно, сам у барина в солдатчину попрошусь, так что знай правду.","Мне теперь все одно, сам у барина в солдатчину попрошусь, так что знай правде.",правду,правде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,6
+145419,"К купчей, по которой Максимилиам получал замок, было сделано дополнение.","К купчей, по которой Максимилиам получал замка, было сделано дополнение.",замок,замка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
+7504,Вскоре список Руперта захватил меня полностью.,Вскоре список Руперта захватил мне полностью.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+71286,Поэтому Наксу остановила вовсе не жалость.,Поэтому Наксу остановила вовсе не жалостью.,жалость,жалостью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+94840,Но Эфа довольно четко ощущала направление.,Но Эфа довольно четко ощущала направлению.,направление,направлению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+105297,Мейри подняла на тетю глаза.,Мейри подняла на тетю глазам.,глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+87267,Джек дразнил и испытывал ее.,Джек дразнил и испытывал ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+147890,Но сейчас его беспокоила Сара Тэва.,Но сейчас ему беспокоила Сара Тэва.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+81618,Где-то далеко изображала часы кукушка.,Где-то далеко изображала часов кукушка.,часы,часов,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+136360,Тихой сапой начинают тут разведку.,Тихой сапой начинают тут разведке.,разведку,разведке,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+98536,"Если выведаешь правду, получишь еще.","Если выведаешь правде, получишь еще.",правду,правде,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+144299,Как будто это их интересует!,Как будто это им интересует!,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+57570,Он тоже это ясно понял.,Он тоже этого ясно понял.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+141461,Тем или иным его делает доза.,Тем или иным ему делает доза.,его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+4214,Разве ее не нашли еще?,Разве ей не нашли еще?,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+65335,Селия повела кузину посмотреть дом.,Селия повела кузине посмотреть дом.,кузину,кузине,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+129728,Саманта видела их теперь вполне ясно.,Саманта видела им теперь вполне ясно.,их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+57626,"Наконец, Сипакна громко позвал их.","Наконец, Сипакна громко позвал им.",их,им,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+110647,Все равно Томас уже заметил ее.,Все равно Томас уже заметил ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+24397,Ривс пожал плечами и взял поднос.,Ривс пожал плечами и взял подноса.,поднос,подноса,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+75828,Костяк обшили толстыми досками — поворинами.,Костяка обшили толстыми досками — поворинами.,Костяк,Костяка,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+113291,Но Элма сама мне это говорила.,Но Элма сама мне этого говорила.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+62860,Все мы также полюбили малыша.,Все мы также полюбили малышу.,малыша,малышу,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+51301,"Метат открыл дверь, вошел Крейг.","Метат открыл дверью, вошел Крейг.",дверь,дверью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+63040,Доктор Джиллис отхлебнул вина и скривился.,Доктор Джиллис отхлебнул вин и скривился.,вина,вин,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+41849,Чанс невольно задел ее за живое.,Чанс невольно задел ей за живое.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+143601,Пасынков звал сплавщиков к себе.,Пасынков звал сплавщикам к себе.,сплавщиков,сплавщикам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+72129,Котора в сих местах меня остановила.,Котора в сих местах мне остановила.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+23210,Трои спас меня той ночью.,Трои спас мне той ночью.,меня,мне,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+54303,"Только давайте быстрее, делайте движение.","Только давайте быстрее, делайте движению.",движение,движению,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+40519,Тристан перевел взгляд на Ривса.,Тристан перевел взгляда на Ривса.,взгляд,взгляда,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+2455,Директора просто охраняют интересы банка.,Директору просто охраняют интересы банка.,Директора,Директору,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+113017,"Смущенный, Милан вернул оружие Магде.","Смущенный, Милан вернул оружию Магде.",оружие,оружию,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+17840,Танзи даже сразу потеряла аппетит.,Танзи даже сразу потеряла аппетита.,аппетит,аппетита,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+30132,"Мне казалось, его порадует Коннела.","Мне казалось, ему порадует Коннела.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+137900,Г-н Ван Верленгем произнес речь.,Г-н Ван Верленгем произнес речью.,речь,речью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+57986,Он просто хорошо понимал ее.,Он просто хорошо понимал ей.,ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+49600,"Бросьте его, все равно разбирать!","Бросьте ему, все равно разбирать!",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,3
+146110,Но тут Леон наклонил голову.,Но тут Леон наклонил голове.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+137710,Первым взял слово миротворец Сенха.,Первым взял слову миротворец Сенха.,слово,слову,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+43132,Одерживают же верх только протеже товарищества.,Одерживают же верху только протеже товарищества.,верх,верху,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+133007,Расе тихо закрыл за собой дверь.,Расе тихо закрыл за собой дверью.,дверь,дверью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+143491,Вряд ли это сможет Олег.,Вряд ли этого сможет Олег.,это,этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+64865,"Но его судили, знаете ли.","Но ему судили, знаете ли.",его,ему,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+80666,"А Фош ее любит, сэр.","А Фош ей любит, сэр.",ее,ей,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+108298,Акоги отнесла письмо к Отикубо.,Акоги отнесла письму к Отикубо.,письмо,письму,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+46369,Никогда не просил себе роль.,Никогда не просил себе ролью.,роль,ролью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+3173,Лука постоянно делал ей подарки.,Лука постоянно делал ей подарков.,подарки,подарков,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+90586,Виригу сразу дал им работу.,Виригу сразу дал им работе.,работу,работе,Syntax,Government,verb_acc_object,verb_acc_object,librusec,1
+28134,Я распахнул дверь перед Катрийн.,Я распахнул дверью перед Катрийн.,дверь,дверью,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+5710,А вот Гаут нас покинул.,А вот Гаут нам покинул.,нас,нам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+113431,При виде Конана Гракус выпучил глаза.,При виде Конана Гракус выпучил глазам.,глаза,глазам,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+88284,Это Сару желал каждый мужчина.,Этого Сару желал каждый мужчина.,Это,Этого,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+95084,Затем Эл снова сломал руку и пропустил около полутора месяцев.,Затем Эл снова сломал руке и пропустил около полутора месяцев.,руку,руке,Syntax,Government,verb_acc_object,verb_acc_object,wikipedia,3
+112990,Панна Шелижанская задумчиво опустила голову.,Панна Шелижанская задумчиво опустила голове.,голову,голове,Syntax,Government,verb_acc_object,verb_acc_object,librusec,2
+59730,"Темнила страшный, но зуб даю, что не полис и не фед.","Темнила страшный, но зуба даю, что не полис и не фед.",зуб,зуба,Syntax,Government,verb_acc_object,verb_acc_object,librusec,4
