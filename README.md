@@ -7,6 +7,8 @@ RuBLiMP includes **45k** minimal pairs of sentences that differ in grammaticalit
 The datasets are published in the [HuggingFace datasets library](https://huggingface.co/datasets/RussianNLP/rublimp) and are available in [this repository](./datasets).
 
 ## :fire: Updates
+**`01.10.2024`**: :busts_in_silhouette: [Human annotation guidelines](/human_annotation_guidelines/) are released \
+**`20.09.2024`**: :tada: RuBLiMP accepted to [EMNLP 2024 Main Track](https://2024.emnlp.org/program/accepted_main_conference/)! \
 **`09.07.2024`**: :space_invader: The datasets and the code for data generation and model evaluation are released on [GitHub](https://github.com/RussianNLP/RuBLiMP/tree/main) and [HuggingFace](https://huggingface.co/datasets/RussianNLP/rublimp) \
 **`01.07.2024`**: :closed_book: **RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs** paper is available on [arXiv](https://arxiv.org/abs/2406.19232)
 
