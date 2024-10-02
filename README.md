@@ -7,6 +7,7 @@ RuBLiMP includes **45k** minimal pairs of sentences that differ in grammaticalit
 The datasets are published in the [HuggingFace datasets library](https://huggingface.co/datasets/RussianNLP/rublimp) and are available in [this repository](./datasets).
 
 ## :fire: Updates
+**`02.10.2024`**: :card_file_box:  \
 **`01.10.2024`**: :busts_in_silhouette: [Human annotation guidelines](/human_annotation_guidelines/) are released \
 **`20.09.2024`**: :tada: RuBLiMP accepted to [EMNLP 2024 Main Track](https://2024.emnlp.org/program/accepted_main_conference/)! \
 **`09.07.2024`**: :space_invader: The datasets and the code for data generation and model evaluation are released on [GitHub](https://github.com/RussianNLP/RuBLiMP/tree/main) and [HuggingFace](https://huggingface.co/datasets/RussianNLP/rublimp) \
@@ -16,6 +17,7 @@ The datasets are published in the [HuggingFace datasets library](https://hugging
 ## Table of Contents
 - [Dataset Creation](#robot-dataset-creation)
 - [Phenomena](#books-phenomena)
+- [Data](#card_file_box-data)
 - [Setup and Usage](#zap-setup-and-usage)
     - [Data](#data)
     - [Minimal Pair Generation](#minimal-pair-generation)
@@ -35,6 +37,10 @@ The RuBLiMP's creation approach comprises four stages:
 - **(b)** Annotate each extracted sentence in the Universal Dependencies scheme with a multidomain morphosyntactic parser for Russian.
 - **(c)** Search the dependency trees for specific lexical units and linguistic structures and apply expert-written perturbation rules to create a pool of minimal pairs for a target paradigm.
 - **(d)** Compute [Min-K\% Prob](https://swj0419.github.io/detect-pretrain.github.io/) for each grammatical sentence in the pool using a set of LMs. Select *t* (the threshold for the maximum Min-K\% Prob value), which allows to find an intersection of 1k minimal pairs between the LMs. The minimal pairs in the intersection contain grammatical sentences that are not detected as the LMs' pretraining examples.
+
+## :card_file_box: Data
+
+We publicly release the [data collection](https://drive.google.com/file/d/1dgN-7lbnjR2-tyN8KmxDzuyErpk13vFz/view?usp=sharing) that was used to construct RuBLiMP. The data contains unfiltered minimal pairs, scored by the 25 decoder- and encoder-only models evaluated in RuBLiMP. Additionally, the sentences include Min-K\%Prob scores for each model. The total number of minimal pairs in the collection is 1.5 million.
 
 
 ## :books: Phenomena
